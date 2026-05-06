@@ -1,0 +1,111 @@
+{
+  "participants": [
+    {
+      "speaker": "_redsun",
+      "displayName": "Cyril Dieumegard",
+      "profileSummary": "Organisateur d’OpenClaw Geneva. Développe LocalClaw avec OpenClaw et anime la communauté autour des usages IA, agents et modèles.",
+      "activities": ["Organisation du meetup OpenClaw Geneva", "Développement de LocalClaw", "Création d’un support/site de présentation avec OpenClaw"],
+      "aiTools": ["OpenClaw", "Claude", "ChatGPT 5.5", "LM Studio", "OpenRouter"],
+      "lookingFor": "Créer la communauté, partager ses usages et comprendre ceux des participants."
+    },
+    {
+      "speaker": "bensmart",
+      "displayName": "Ben",
+      "profileSummary": "Utilise OpenClaw pour automatiser la création et la gestion de contenu sur les réseaux sociaux. Intéressé par les modèles efficaces en coût/performance.",
+      "activities": ["Automatisation de contenus Twitter/YouTube/réseaux sociaux", "Monétisation de contenus", "Web3/crypto"],
+      "aiTools": ["OpenClaw", "GPT-5.5", "Gemini", "Claude", "Qwen", "Minimax", "Kimi"],
+      "lookingFor": "Apprendre, partager, creuser les modèles et l’automatisation par agents."
+    },
+    {
+      "speaker": "bourrat",
+      "displayName": "",
+      "profileSummary": "Ancien petit entrepreneur dans la sécurité, alarmes et caméras. Découvre l’IA pour ne pas manquer le virage technologique.",
+      "activities": ["Entrepreneuriat", "Sécurité", "Alarmes", "Caméras"],
+      "aiTools": [],
+      "lookingFor": "Comprendre OpenClaw et le potentiel de l’IA pour mieux utiliser ces outils."
+    },
+    {
+      "speaker": "gilles_35307",
+      "displayName": "Gilles",
+      "profileSummary": "Consultant en gouvernance auprès de PME suisses. Non développeur mais très curieux, il voit les agents IA comme un levier majeur pour les entreprises.",
+      "activities": ["Conseil en gouvernance", "Accompagnement de PME", "Réorganisation", "Recherche juridique et business avec IA"],
+      "aiTools": ["OpenClaw", "Claude Opus 4.7", "Perplexity", "Gemini", "OpenRouter"],
+      "lookingFor": "Mieux comprendre les usages concrets d’OpenClaw, les automatisations, les crons, les agents et les cas business PME."
+    },
+    {
+      "speaker": "mysterious_moose_86844",
+      "displayName": "Jean-David",
+      "profileSummary": "Profil senior, junior sur la technologie. A installé OpenClaw sur VPS Hostinger et teste des agents simples, mais rencontre une forte consommation de tokens.",
+      "activities": ["Tests d’agents", "Envoi d’e-mails via agent", "Modélisation de teams d’agents"],
+      "aiTools": ["OpenClaw", "Hostinger VPS", "OpenAI", "ChatGPT-5.5", "ChatGPT-5.4 mini", "Mission Control"],
+      "lookingFor": "Comprendre la technologie, optimiser la consommation de tokens et voir des cas d’usage réels."
+    },
+    {
+      "speaker": "jinformatique1",
+      "displayName": "Jinformatique",
+      "profileSummary": "Actif dans la tech depuis 20 ans, passé du développement web/WordPress vers l’infogérance, Linux, logiciels libres et souveraineté des données.",
+      "activities": ["Bitcoin Meetup Genève", "Développement web", "WordPress", "Infogérance", "Migration Windows vers Linux", "Nextcloud", "Logiciels libres"],
+      "aiTools": ["Qwen", "Claude"],
+      "lookingFor": "Communauté, idées business, automatisation de contenus et de pages de vente."
+    },
+    {
+      "speaker": "nano1992_",
+      "displayName": "Arnaud",
+      "profileSummary": "Ancien chef de projet industriel, indépendant depuis le début de l’année. Aide les PME à optimiser leurs processus avec automatisations et développements sur mesure.",
+      "activities": ["Automatisation de process PME", "Développement sur mesure", "Prospection LinkedIn", "CRM", "Préparation d’appels découverte"],
+      "aiTools": ["Claude Code", "Obsidian", "OpenClaw", "OpenCode", "NoCoDB", "Firecrawl", "Granola", "Google Contacts", "Google Agenda", "Docker", "VPS", "GitHub"],
+      "lookingFor": "Réseauter, explorer des cas d’usage et rencontrer des personnes autour des agents IA."
+    },
+    {
+      "speaker": "pchartois",
+      "displayName": "Philippe",
+      "profileSummary": "Profil produit, basé entre Genève et la France. Organise Generative AI Genève et fait beaucoup d’idéation/prototypage en vibe coding.",
+      "activities": ["Organisation de Generative AI Genève", "Idéation produit", "Prototypage", "Vibe coding"],
+      "aiTools": ["Bolt", "Claude", "OpenAI", "OpenClaw"],
+      "lookingFor": "Se connecter à une équipe, échanger avec des cerveaux, comprendre OpenClaw et Agent/Hermès."
+    },
+    {
+      "speaker": "sanha0808",
+      "displayName": "Sana",
+      "profileSummary": "Ingénieur DevOps et Cloud, basé à Lisbonne. A participé à l’événement physique et testé OpenClaw, notamment sur des sujets de sécurité et modèles locaux.",
+      "activities": ["DevOps", "Cloud", "Tests OpenClaw", "Signalement d’un bug à Cyril"],
+      "aiTools": ["OpenClaw", "OpenCode", "DeepSeek V4"],
+      "lookingFor": "Apprendre, discuter technologies, sécurité et modèles locaux."
+    },
+    {
+      "speaker": "lelio1213",
+      "displayName": "Damien",
+      "profileSummary": "Principalement actif dans la crypto et plusieurs projets en parallèle. Utilise un Mac mini pour du vibe coding.",
+      "activities": ["Crypto", "Vibe coding", "Projets multiples"],
+      "aiTools": ["Mac mini", "GPT", "GPT-5.5 en Codex"],
+      "lookingFor": "Partager avec la communauté."
+    },
+    {
+      "speaker": "hebrius",
+      "displayName": "",
+      "profileSummary": "Développe un nouveau studio nommé Vidya, orienté vidéos et images générées par IA, avec possibilité de vidéo traditionnelle.",
+      "activities": ["Développement du studio Vidya", "Création de vidéos", "Création d’images IA", "Étude de marché sur la vidéo IA"],
+      "aiTools": ["Mac mini", "MacBook Pro", "Claude"],
+      "lookingFor": "Explorer la vidéo/image IA, le matériel local et la possibilité de faire tourner des modèles localement."
+    }
+  ],
+  "meetupSummary": {
+    "title": "OpenClaw Geneva Meetup — modèles, agents, IA locale et automatisations business",
+    "bullets": [
+      "Tour de table des participants, leurs activités, outils IA et attentes.",
+      "Discussion sur OpenClaw, Claude Code, OpenCode, Hermès, agents, skills, mémoire et crons.",
+      "Comparaison des modèles et coûts: GPT-5.5, Claude/Opus, Gemini, Qwen, Minimax, Kimi, DeepSeek, OpenRouter.",
+      "Focus sur l’IA locale: Mac mini/Mac Studio, RAM, LM Studio, confidentialité et usages PME sensibles.",
+      "Démo d’Arnaud: workflow prospect LinkedIn → PDF profil → scraping site → script d’appel → CRM NoCoDB → calendrier/e-mail → résumé post-call.",
+      "Débat sur l’adoption IA dans les PME suisses: fort potentiel, manque de process, frein humain et besoin d’éducation du marché."
+    ],
+    "keyTopics": ["OpenClaw", "agents IA", "Claude Code", "skills", "crons", "mémoire", "LLM locaux", "coût des tokens", "OpenRouter", "Minimax", "Kimi", "DeepSeek", "NoCoDB", "Obsidian", "prospection", "PME suisses", "confidentialité", "automatisation réseaux sociaux"],
+    "followUps": [
+      "Tester Minimax/DeepSeek/Kimi pour des tâches simples à meilleur coût.",
+      "Explorer l’installation locale d’outils comme Obsidian, NoCoDB et n8n avec OpenClaw.",
+      "Mettre à jour OpenClaw pour tester la nouvelle fonction d’appel évoquée.",
+      "Organiser la suite du meetup la semaine prochaine.",
+      "Documenter les profils participants pour faciliter les mises en relation."
+    ]
+  }
+}
