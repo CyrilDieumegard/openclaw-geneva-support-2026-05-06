@@ -79,6 +79,7 @@
     .tabs{display:flex;gap:8px}.tab{cursor:pointer;border:1px solid var(--border);border-radius:999px;padding:8px 11px;background:rgba(255,255,255,.06);color:#fff;font-size:13px;font-weight:900}.tab.active{background:linear-gradient(90deg,var(--red2),var(--orange));color:#180402}
     .side-content{height:38vh;overflow:auto;padding:14px 16px;scrollbar-width:thin}
     .person{padding:12px 0;border-bottom:1px solid rgba(255,255,255,.08)}.person:last-child{border-bottom:0}.person h3{margin:0 0 6px;font-size:18px;color:#fff}.person small{color:#ff9a3d;font-weight:900}.person p{font-size:14px;line-height:1.35;margin:6px 0;color:var(--text)}.person ul{margin:8px 0 0;padding-left:18px}.person li{font-size:13px;color:var(--muted);line-height:1.3}
+    .badge-return{display:inline-block;margin-left:8px;padding:3px 8px;border-radius:999px;font-size:11px;font-weight:900;background:rgba(124,255,155,.18);color:#7CFF9B;border:1px solid rgba(124,255,155,.45)}
     .summary-block h3{font-size:18px;margin:0 0 10px;color:#ffd0c8}.summary-block ul{margin:0 0 16px;padding-left:18px}.summary-block li{font-size:14px;line-height:1.35;color:var(--text);margin:6px 0}
     .transcript-summary{display:none}
     .transcript-box{height:38vh;overflow:auto;border:1px solid var(--border);border-radius:20px;background:rgba(0,0,0,.22);padding:10px 16px;scrollbar-width:thin}
@@ -199,32 +200,7 @@
           <div class="mini"><b>GitHub</b><span>Code, repos, workflows</span><div class="links"><a href="https://github.com/" target="_blank">Ouvrir</a></div></div>
         </div>
       </section>
-
-      <section class="card transcript-card">
-        <span class="time">Replay</span><h2>Transcription du meetup 🦞</h2>
-        <p>Version nettoyée par intervenant : timestamps, speaker et texte corrigé pour une lecture propre.</p>
-        <div class="transcript-layout">
-          <div class="panel">
-            <div class="panel-head"><b>Transcript</b><span>speaker + timestamp</span></div>
-            <div class="transcript-box" id="transcriptBox"><p>Chargement de la transcription...</p></div>
-            <div class="transcript-actions" style="padding:0 16px 14px">
-              <a href="speaker_transcript_clean.md" target="_blank">Ouvrir clean</a>
-              <a href="speaker_transcript_clean.md" download>Télécharger MD</a>
-              <a href="meetup-openclaw-geneva-2026-05-06.vtt" download>VTT brut</a>
-              <a href="#" onclick="show(document.querySelectorAll('.card').length-2);return false;">Liens logiciels</a>
-            </div>
-          </div>
-          <aside class="panel">
-            <div class="panel-head">
-              <b>Vue meetup</b>
-              <div class="tabs"><button class="tab active" id="tabPeople" onclick="showReplayTab('people')">Participants</button><button class="tab" id="tabSummary" onclick="showReplayTab('summary')">Résumé</button></div>
-            </div>
-            <div class="side-content" id="replaySide"><p>Chargement des profils...</p></div>
-          </aside>
-        </div>
-      </section>
-
-    </main>
+</main>
 
     <footer class="controls">
       <button onclick="prevCard()">← Précédent</button><div class="dots" id="dots"></div><button onclick="nextCard()">Suivant →</button>
@@ -332,13 +308,13 @@
       document.getElementById('tabPeople')?.classList.toggle('active',kind==='people');
       document.getElementById('tabSummary')?.classList.toggle('active',kind==='summary');
       if(kind==='people'){
-        side.innerHTML=meetupData.participants.map(p=>`<article class="person"><h3>${escapeHtml(p.displayName||p.speaker)} <small>${escapeHtml(p.speaker)}</small></h3><p>${escapeHtml(p.profileSummary||'Profil non précisé.')}</p>${p.activities?.length?`<ul>${p.activities.slice(0,4).map(a=>`<li>${escapeHtml(a)}</li>`).join('')}</ul>`:''}${p.lookingFor?`<p><b>Recherche :</b> ${escapeHtml(p.lookingFor)}</p>`:''}</article>`).join('');
+        side.innerHTML=meetupData.participants.map(p=>`<article class="person"><h3>${escapeHtml(p.displayName||p.speaker)} <small>${escapeHtml(p.speaker)}</small>${p.firstSessionAttendee?'<span class="badge-return">Présent session 1</span>':''}</h3><p>${escapeHtml(p.profileSummary||'Profil non précisé.')}</p>${p.activities?.length?`<ul>${p.activities.slice(0,4).map(a=>`<li>${escapeHtml(a)}</li>`).join('')}</ul>`:''}${p.lookingFor?`<p><b>Recherche :</b> ${escapeHtml(p.lookingFor)}</p>`:''}</article>`).join('');
       }else{
         const m=meetupData.meetupSummary;
         side.innerHTML=`<div class="summary-block"><h3>${escapeHtml(m.title)}</h3><ul>${m.bullets.map(b=>`<li>${escapeHtml(b)}</li>`).join('')}</ul><h3>Topics clés</h3><ul>${m.keyTopics.slice(0,14).map(t=>`<li>${escapeHtml(t)}</li>`).join('')}</ul><h3>Suites possibles</h3><ul>${m.followUps.map(f=>`<li>${escapeHtml(f)}</li>`).join('')}</ul></div>`;
       }
     }
-    loadTranscript();
+    
     loadMeetupData();
   </script>
 </body>
