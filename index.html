@@ -172,7 +172,7 @@
           <div>
             <div class="transcript-box" id="transcriptBox"><p>Chargement du transcript…</p></div>
             <div class="transcript-actions">
-              <a href="speaker_transcript_clean.md" target="_blank">Ouvrir transcript clean</a>
+              <a href="speaker_transcript_session2.md" target="_blank">Ouvrir transcript clean</a>
               <a href="meetup-openclaw-geneva-2026-05-06.vtt" target="_blank">Ouvrir VTT brut</a>
             </div>
           </div>
@@ -241,7 +241,7 @@
       [{label:'OpenRouter Models',url:'https://openrouter.ai/models'},{label:'Hugging Face Models',url:'https://huggingface.co/models'},{label:'Ollama Library',url:'https://ollama.com/library'},{label:'LM Studio',url:'https://lmstudio.ai/'}],
       [{label:'Meetup Group',url:'https://www.meetup.com/openclaw-geneva/'},{label:'OpenClaw',url:'https://openclaw.ai/'}],
       [{label:'OpenClaw',url:'https://openclaw.ai/'},{label:'LM Studio',url:'https://lmstudio.ai/'},{label:'Ollama',url:'https://ollama.com/'},{label:'OpenRouter',url:'https://openrouter.ai/'},{label:'Claude Code',url:'https://www.anthropic.com/claude-code'}],
-      [{label:'Transcript clean',url:'speaker_transcript_clean.md'},{label:'Profils/Résumé',url:'meetup_summary_profiles.json'},{label:'VTT brut',url:'meetup-openclaw-geneva-2026-05-06.vtt'}]
+      [{label:'Transcript clean',url:'speaker_transcript_session2.md'},{label:'Profils/Résumé',url:'meetup_summary_profiles.json'},{label:'VTT brut',url:'meetup-openclaw-geneva-2026-05-06.vtt'}]
     ];
     const schedule=[
       {start:'20:00',end:'20:05'},
@@ -290,7 +290,7 @@
       const box=document.getElementById('transcriptBox');
       if(!box) return;
       try{
-        const res=await fetch('speaker_transcript_clean.md');
+        const res=await fetch('speaker_transcript_session2.md');
         const text=await res.text();
         const lines=text.split(/\n/);
         const cues=[];
