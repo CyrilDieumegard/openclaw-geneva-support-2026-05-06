@@ -167,7 +167,7 @@
 
 
       <section class="card transcript-card">
-        <span class="time">Replay</span><h2>Participants sessions 1 et 2 🦞</h2><p>Liste consolidée des présents + transcript clean de la session du 6 mai.</p>
+        <span class="time">Replay</span><h2>Transcript session 2 (6 mai) 🦞</h2><p>Uniquement le transcript du meetup du 6 mai. Les profils restent visibles à droite.</p>
         <div class="transcript-layout">
           <div>
             <div class="transcript-box" id="transcriptBox"><p>Chargement du transcript…</p></div>
@@ -327,7 +327,7 @@
       document.getElementById('tabPeople')?.classList.toggle('active',kind==='people');
       document.getElementById('tabSummary')?.classList.toggle('active',kind==='summary');
       if(kind==='people'){
-        side.innerHTML=meetupData.participants.map(p=>`<article class="person"><h3>${escapeHtml(p.displayName||p.speaker)} <small>${escapeHtml(p.speaker)}</small>${p.firstSessionAttendee?'<span class="badge-return">Présent session 1</span>':''}</h3><p>${escapeHtml(p.profileSummary||'Profil non précisé.')}</p>${p.activities?.length?`<ul>${p.activities.slice(0,4).map(a=>`<li>${escapeHtml(a)}</li>`).join('')}</ul>`:''}${p.lookingFor?`<p><b>Recherche :</b> ${escapeHtml(p.lookingFor)}</p>`:''}</article>`).join('');
+        side.innerHTML=meetupData.participants.map(p=>`<article class="person"><h3>${escapeHtml(p.displayName||p.speaker)} <small>${escapeHtml(p.speaker)}</small></h3><p>${escapeHtml(p.profileSummary||'Profil non précisé.')}</p>${p.activities?.length?`<ul>${p.activities.slice(0,4).map(a=>`<li>${escapeHtml(a)}</li>`).join('')}</ul>`:''}${p.lookingFor?`<p><b>Recherche :</b> ${escapeHtml(p.lookingFor)}</p>`:''}</article>`).join('');
       }else{
         const m=meetupData.meetupSummary;
         side.innerHTML=`<div class="summary-block"><h3>${escapeHtml(m.title)}</h3><ul>${m.bullets.map(b=>`<li>${escapeHtml(b)}</li>`).join('')}</ul><h3>Topics clés</h3><ul>${m.keyTopics.slice(0,14).map(t=>`<li>${escapeHtml(t)}</li>`).join('')}</ul><h3>Suites possibles</h3><ul>${m.followUps.map(f=>`<li>${escapeHtml(f)}</li>`).join('')}</ul></div>`;
