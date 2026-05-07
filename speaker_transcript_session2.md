@@ -1,3043 +1,8007 @@
 # Transcript par intervenant - OpenClaw Geneva Meetup (Session 2 - 6 mai)
 
-Source: Pistes audio séparées Craig (9 intervenants).
+Source: zip AAC séparé (9 intervenants).
 
-**[00:00 - 00:10] 1-redsun**  
-Il est 19h47, Craig tu commences à record s'il te plait et voilà on commence déjà,
+**[00:00:00 - 00:00:08] _redsun**  
+Il est 19h47, c'est le cas de CREG, tu commences à récordes,
 
-**[00:10 - 00:16] 1-redsun**  
-je commence à registrer à 19h47 ok, donc ça c'est pour le timestamp comme ça tu
+**[00:00:09 - 00:00:13] _redsun**  
+et on commence déjà à dire que ça a 19h47,
 
-**[00:16 - 00:21] 1-redsun**  
-sauras qu'on n'a pas besoin de garder cette partie là jusqu'à ce qu'on soit tout cela.
+**[00:00:14 - 00:00:21] _redsun**  
+donc ça c'est pour le timestem, comme ça tu seras qu'on n'a pas besoin de garder cette partie-là jusqu'à ce qu'on soit tout cela.
 
-**[00:21 - 00:24] 1-redsun**  
-Donc voilà 19h47 timestamp.
+**[00:00:22 - 00:00:24] _redsun**  
+Donc voilà 19h47, timestem.
 
-**[00:30 - 00:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:04:30 - 00:04:42] _redsun**  
+Il est 9h502 officiellement au commence en 8 minutes.
 
-**[01:00 - 01:04] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:04:42 - 00:04:47] _redsun**  
+Ce récording des débuts, on va pas regarder, on va être plus tard que mon feu.
 
-**[01:30 - 01:34] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:04:47 - 00:04:53] _redsun**  
+On va pas regarder auquel, normalement, tu gardes pas ça.
 
-**[02:00 - 02:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:04:53 - 00:04:56] _redsun**  
+Voilà, je vais juste partager mon écran.
 
-**[02:30 - 02:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:04:58 - 00:05:00] _redsun**  
+Est-ce que c'est pas marx ?
 
-**[03:00 - 03:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:05:07 - 00:05:10] _redsun**  
+Est-ce que vous vous faites ça ?
 
-**[03:30 - 03:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:05:10 - 00:05:13] _redsun**  
+J'ai le faire mettre tout ce qu'il est utile.
 
-**[04:00 - 04:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:05:18 - 00:05:22] _redsun**  
+Alors, pas avec ça, j'ai regardé.
 
-**[04:30 - 04:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:05:23 - 00:05:30] _redsun**  
+...
 
-**[05:00 - 05:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:05:30 - 00:05:38] _redsun**  
+...
 
-**[05:30 - 05:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:05:38 - 00:05:43] _redsun**  
+...
 
-**[06:00 - 06:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:05:43 - 00:05:51] _redsun**  
+...
 
-**[06:30 - 06:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:06:21 - 00:06:25] _redsun**  
+la juste le temps que ça commence à commencer, finalement, dans 5 minutes.
 
-**[07:00 - 07:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:08:21 - 00:08:40] _redsun**  
+et toujours la crague, j'ai enregistré, et il est 19h56 pour le temps, donc officiellement,
 
-**[07:30 - 07:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:08:40 - 00:08:43] _redsun**  
+ça commence à 4 minutes, mais à beaucoup de jonques qui sont par la craue.
 
-**[08:00 - 08:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:08:43 - 00:08:47] _redsun**  
+en bien on peut je passe si on trouver
 
-**[08:30 - 08:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:08:47 - 00:08:51] _redsun**  
+tout le monde prend le même problème j'en impressionne qu'il ne trouve pas la minta-prôme
 
-**[09:00 - 09:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:08:51 - 00:08:53] _redsun**  
+quoi
 
-**[09:30 - 09:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:10:13 - 00:10:20] _redsun**  
+et l'eau à le fil
 
-**[10:00 - 10:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:10:20 - 00:10:30] _redsun**  
+alors on va attendre les autres ce qui a beaucoup de gens qui n'aura pas comme en faire
 
-**[10:30 - 10:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:10:30 - 00:10:33] _redsun**  
+j'ai un pression pour rejoindre le canal mitap
 
-**[11:00 - 11:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:10:33 - 00:10:39] _redsun**  
+donc ce n'est pas souvent un peu là il se passe
 
-**[11:30 - 11:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:10:39 - 00:10:41] _redsun**  
+ils sont pas trop vite fait, disque orange
 
-**[12:00 - 12:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:10:58 - 00:11:02] _redsun**  
+je passe sur le momentant, je ne suis pas en tout cas
 
-**[12:30 - 12:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:11:09 - 00:11:38] _redsun**  
+et
 
-**[13:00 - 13:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:11:30 - 00:11:32] nano1992_**  
+T'as tout le monde ?
 
-**[13:30 - 13:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:11:38 - 00:11:43] _redsun**  
+ça en fait que je ne retrouve pas la mitaprome, c'est pas pourquoi de faire, je ne vais pas trop
 
-**[14:00 - 14:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:11:43 - 00:11:48] _redsun**  
+je fais à dire un direct, on se doit aller quoi, je sais pas
 
-**[14:30 - 14:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:11:48 - 00:11:51] nano1992_**  
+Parce que dans le mage, je me suis pas un scréthial mitre,
 
-**[15:00 - 15:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:11:51 - 00:11:53] nano1992_**  
+aujourd'hui, je suis tout le monde direct dans le discours,
 
-**[15:30 - 15:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:11:54 - 00:11:55] _redsun**  
+oh moi je sais pas
 
-**[16:00 - 16:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:11:54 - 00:11:57] nano1992_**  
+mais dans le mitre, tu as mis le lien direct dans le du canal, non ?
 
-**[16:30 - 16:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:11:57 - 00:11:59] nano1992_**  
+bon bien
 
-**[17:00 - 17:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:11:58 - 00:12:02] _redsun**  
+alors j'ai mis de lien du Discord, donc tu troules le Discord, un petit clic sur le cas
 
-**[17:30 - 17:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:11:59 - 00:12:29] nano1992_**  
+C'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est
 
-**[18:00 - 18:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:12:02 - 00:12:03] _redsun**  
+mais là j'ai fait un...
 
-**[18:30 - 18:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:12:03 - 00:12:07] _redsun**  
+t'as vu, j'ai fait même un lien direct pour que tout le monde lui se vaut dire en moins que tu es quoi
 
-**[19:00 - 19:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:12:07 - 00:12:09] _redsun**  
+J'envoie son qui trouve.
 
-**[19:30 - 19:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:12:09 - 00:12:12] _redsun**  
+C'est vrai que nous, que les blindes discords,
 
-**[20:00 - 20:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:12:12 - 00:12:13] _redsun**  
+donc c'est facile.
 
-**[20:30 - 20:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:12:13 - 00:12:15] _redsun**  
+Est-ce que nous ne pas du tout,
 
-**[21:00 - 21:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:12:15 - 00:12:17] _redsun**  
+là-dedes pas au même tête-quand.
 
-**[21:30 - 21:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:12:17 - 00:12:35] _redsun**  
+...
 
-**[22:00 - 22:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:12:29 - 00:12:59] nano1992_**  
+tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que tu sais que tu sais que tu sais que tu sais que tu sais que tu sais que tu sais que tu
 
-**[22:30 - 22:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:12:35 - 00:12:38] _redsun**  
+Alors ben que l'ose est quand même ou je...
 
-**[23:00 - 23:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:12:40 - 00:12:41] _redsun**  
+Je vais dire...
 
-**[23:30 - 23:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:12:41 - 00:12:42] _redsun**  
+Euh...
 
-**[24:00 - 24:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:12:42 - 00:12:44] _redsun**  
+C'est un truc que c'est un truc que c'est un peu...
 
-**[24:30 - 24:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:12:44 - 00:12:48] _redsun**  
+C'est normalement vrai que c'est des meilleurs bienfus...
 
-**[25:00 - 25:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:12:49 - 00:12:52] _redsun**  
+Bon, on a mis que tout mon peu de dire, on est bon...
 
-**[25:30 - 25:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:12:52 - 00:12:54] _redsun**  
+Enfin, ce qu'ils sont allés assez sujets là...
 
-**[26:00 - 26:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:12:54 - 00:12:58] _redsun**  
+T'as quand même des mecs qui sont assez poussés, normalement...
 
-**[26:30 - 26:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:12:59 - 00:13:06] nano1992_**  
+Après tu vois la fréquence, une fois par semaine, aussi peut-être qu'à pas tout le monde qui peut se libérer,
 
-**[27:00 - 27:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:13:00 - 00:13:00] _redsun**  
+C'est pas...
 
-**[27:30 - 27:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:13:00 - 00:13:01] _redsun**  
+Voyons un plan là...
 
-**[28:00 - 28:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:13:05 - 00:13:09] _redsun**  
+Ah mais ça...
 
-**[28:30 - 28:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:13:06 - 00:13:08] nano1992_**  
+les gens vont venir.
 
-**[29:00 - 29:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:13:09 - 00:13:12] _redsun**  
+Ah, le sur est d'ailleurs, il y en a plein qui badeur, ils sont assez contents,
 
-**[29:30 - 29:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:13:12 - 00:13:15] _redsun**  
+c'est qu'un aille, il ne pouvait pas venir, je sais pas, c'est dommage,
 
-**[30:00 - 30:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:13:15 - 00:13:18] _redsun**  
+mais je me dis, bah, vous avez un semaine prochaine.
 
-**[30:30 - 30:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:13:18 - 00:13:21] _redsun**  
+Mais je ne sais pas où ça couie dans le process, parce qu'il vient de se
 
-**[31:00 - 31:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:13:21 - 00:13:24] _redsun**  
+inscrire, moi, je vais voir, en dehors, en 30 ans, même en ce
 
-**[31:30 - 31:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:13:24 - 00:13:26] _redsun**  
+au-delà, tout le monde, c'est cool.
 
-**[32:00 - 32:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:13:26 - 00:13:29] _redsun**  
+Et en fait, il vient de se inscrire.
 
-**[32:30 - 32:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:13:29 - 00:13:56] nano1992_**  
+...
 
-**[33:00 - 33:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:13:29 - 00:13:33] _redsun**  
+Je l'apprége des pômes, ce pas, je ne sais pas, ils sont quoi.
 
-**[33:30 - 33:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:13:33 - 00:13:38] _redsun**  
+et disparaît dans la nation, mais en ce qui sont inscrits quoi donc.
 
-**[34:00 - 34:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:13:38 - 00:13:40] _redsun**  
+Tu vois ?
 
-**[34:30 - 34:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:13:40 - 00:13:44] _redsun**  
+Je sais pas, c'est trop bizarre quoi.
 
-**[35:00 - 35:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:13:44 - 00:13:46] _redsun**  
+T'as éléché les...
 
-**[35:30 - 35:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:13:46 - 00:13:51] _redsun**  
+On va attend un petit peu, mais je me demande le tannin,
 
-**[36:00 - 36:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:13:51 - 00:13:54] _redsun**  
+on va aller à 20h, je ne me pose des questions pas,
 
-**[36:30 - 36:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:13:54 - 00:13:55] _redsun**  
+c'est pas un peu tour.
 
-**[37:00 - 37:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:13:55 - 00:14:01] _redsun**  
+Ah ouais, on va aller dans tout de suite.
 
-**[37:30 - 37:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:13:56 - 00:13:59] nano1992_**  
+Et je pense, c'est ça.
 
-**[38:00 - 38:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:14:00 - 00:14:15] pchartois**  
+...
 
-**[38:30 - 38:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:14:00 - 00:14:03] nano1992_**  
+Je suis en train de faire ça.
 
-**[39:00 - 39:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:14:01 - 00:14:10] _redsun**  
+Ah, il n'y a pas l'uix, c'est là, c'est pas si nous entendons.
 
-**[39:30 - 39:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:14:10 - 00:14:13] _redsun**  
+Là, on voit bien une mage, on monta en bien, c'est tout bon.
 
-**[40:00 - 40:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:14:13 - 00:14:15] _redsun**  
+C'est les cinquets là.
 
-**[40:30 - 40:33] 1-redsun**  
-Sous-titres réalisés par l'Amara.org
+**[00:14:14 - 00:14:16] nano1992_**  
+Oui.
 
-**[41:00 - 41:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:14:15 - 00:14:17] pchartois**  
+...
 
-**[41:30 - 41:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:14:15 - 00:14:17] _redsun**  
+Ok, cool.
 
-**[42:00 - 42:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:14:17 - 00:14:21] _redsun**  
+On va attendre un petit peu, parce que je sais que sous-scripto, ça a un peu chaud,
 
-**[42:30 - 42:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:14:21 - 00:14:27] _redsun**  
+parce qu'il a des enfants aussi, donc je sais que là, ça a un peu l'heure de coucher des enfants.
 
-**[43:00 - 43:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:14:26 - 00:14:46] nano1992_**  
+un
 
-**[43:30 - 43:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:14:27 - 00:14:34] _redsun**  
+on va attendre encore 5 minutes, il n'y a pas mal, il n'y a pas mal de petits sujets assez coulés à discuter soit
 
-**[44:00 - 44:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:14:30 - 00:14:58] bensmart**  
+et
 
-**[44:30 - 44:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:14:34 - 00:14:40] _redsun**  
+et puis je vais écouter ton conseil à renour, peut-être faire une petite délaupéne clou en life quoi
 
-**[45:00 - 45:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:14:40 - 00:14:52] _redsun**  
+normal, pas longtemps, alors moi j'ai un cas du sage concrère présentez mais par contre tu vois pas le faire tout en life
 
-**[45:30 - 45:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:14:46 - 00:14:48] nano1992_**  
+on fait
 
-**[46:00 - 46:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:14:52 - 00:14:56] _redsun**  
+parce que ça d'un cessec comme par mois de petit setup, ça lui donne,
 
-**[46:30 - 46:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:14:56 - 00:15:01] _redsun**  
+ça me donne un petit peu de temps, mais c'est assez petit des carums, c'est
 
-**[47:00 - 47:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:14:58 - 00:15:00] nano1992_**  
+comment
 
-**[47:30 - 47:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:15:00 - 00:15:10] pollux8888**  
+on s'arrôme un David.
 
-**[47:33 - 47:36] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:15:01 - 00:15:07] _redsun**  
+crée des modèles 3D avec son peu d'une clôt quoi, c'est assez cool, franchement
 
-**[47:36 - 47:39] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:15:04 - 00:15:07] nano1992_**  
+le
 
-**[47:39 - 47:42] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:15:07 - 00:15:12] _redsun**  
+et d'ailleurs, on me dit même, je peux faire des trucs, voilà ça lui,
 
-**[47:42 - 47:45] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:15:07 - 00:15:14] nano1992_**  
+et
 
-**[47:45 - 47:48] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:15:10 - 00:15:12] pollux8888**  
+Ah, t'as fait.
 
-**[47:48 - 47:51] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:15:12 - 00:15:16] pollux8888**  
+On s'arrôme un.
 
-**[47:51 - 47:54] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:15:12 - 00:15:19] _redsun**  
+ça lui, donc il y a ce petit sujet là et il pourrait faire des mêmes
 
-**[47:54 - 47:57] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:15:14 - 00:15:17] nano1992_**  
+et l'autre
 
-**[47:57 - 48:00] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:15:15 - 00:15:17] pchartois**  
+et non.
 
-**[48:00 - 48:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:15:17 - 00:15:25] nano1992_**  
+et
 
-**[48:03 - 48:06] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:15:19 - 00:15:24] _redsun**  
+même des modèles 3és pour faire des sites web, et des éléments 3D ça peut être très
 
-**[48:06 - 48:09] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:15:24 - 00:15:24] _redsun**  
+chouette quoi.
 
-**[48:09 - 48:12] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:15:24 - 00:15:31] _redsun**  
+Mais je vais en parler, on va voir, ça dépend, il y aura des questions, le aussi un peu
 
-**[48:12 - 48:15] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:15:25 - 00:15:30] nano1992_**  
+et
 
-**[48:15 - 48:18] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:15:30 - 00:15:47] pollux8888**  
+...
 
-**[48:18 - 48:21] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:15:30 - 00:15:51] gilles_35307**  
+...
 
-**[48:21 - 48:24] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:15:31 - 00:15:36] _redsun**  
+laisser, c'est un délant qui veut le montrer très coccy, ça a un peu prioritaire si on
 
-**[48:24 - 48:27] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:15:36 - 00:15:40] _redsun**  
+détouquait mon trait, ou au D. Comme ça veut faire un peu, pour en jusquer ça compte
 
-**[48:27 - 48:30] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:15:40 - 00:15:42] _redsun**  
+quoi, c'est pas mal.
 
-**[48:30 - 48:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:15:42 - 00:15:46] _redsun**  
+a j'ai là être plus rapide équipe
 
-**[48:33 - 48:36] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:15:47 - 00:15:50] pollux8888**  
+Merci beaucoup de... Merci beaucoup, c'est rire pour l'invitation.
 
-**[48:36 - 48:39] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:15:50 - 00:15:55] pollux8888**  
+C'est la première fois que je participe, mais j'ai reçu...
 
-**[48:39 - 48:42] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:15:55 - 00:15:59] pollux8888**  
+T'es un vitesse de nombreuses fois, puis je me suis toujours intéressé à l'un.
 
-**[48:42 - 48:45] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:15:59 - 00:16:01] pollux8888**  
+Personne, j'ai jamais encore...
 
-**[48:45 - 48:48] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:16:01 - 00:16:07] pollux8888**  
+On va dire à un éthmond-lodas de l'installer, même dans un océ
 
-**[48:48 - 48:51] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:16:07 - 00:16:13] pollux8888**  
+de ou bien sur une machine individuelle clean, sans donner personnelle,
 
-**[48:51 - 48:54] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:16:12 - 00:16:40] _redsun**  
+...
 
-**[48:54 - 48:57] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:16:13 - 00:16:17] pollux8888**  
+parce que j'ai beaucoup plus dans la enthousqu'à l'aspect,
 
-**[48:57 - 49:00] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:16:17 - 00:16:21] pollux8888**  
+c'est biérice, dès la privacy et d'autres.
 
-**[49:00 - 49:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:16:21 - 00:16:26] pollux8888**  
+Donc mais je me suis dit ça fait quand même plusieurs semaines,
 
-**[49:03 - 49:06] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:16:26 - 00:16:30] pollux8888**  
+voire plusieurs mois que j'ai revies de le tester.
 
-**[49:06 - 49:09] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:16:30 - 00:16:37] pollux8888**  
+J'ai pas encore trouvé le meilleur environnement pour le faire de telle manière à ne pas
 
-**[49:09 - 49:12] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:16:37 - 00:16:43] pollux8888**  
+se faire plombir des données, c'est juste ça.
 
-**[49:12 - 49:15] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:16:40 - 00:16:46] _redsun**  
+Bon bah attention là on a un petit peu chez les têtes brûlées quand ils continuent qu'ils
 
-**[49:15 - 49:18] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:16:46 - 00:16:53] _redsun**  
+fait de y en plein de bloites, après les gars qui compapèrent, effectivement il a des risques
 
-**[49:18 - 49:21] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:16:51 - 00:16:59] pollux8888**  
+Oui oui. Moi je me connais, c'est ça. Moi, j'ai une formation alors juste,
 
-**[49:21 - 49:24] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:16:53 - 00:16:57] _redsun**  
+je les trouve, je suis en vie, je me dis ben là, il va
 
-**[49:24 - 49:27] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:16:59 - 00:17:05] pollux8888**  
+peut-être en, voilà, je ne vais pas prendre la part, tout le temps, mais j'ai
 
-**[49:27 - 49:30] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:17:05 - 00:17:10] pollux8888**  
+à moi comme formation, donc moi, j'ai fait de la générique à de PFL en informatique,
 
-**[49:30 - 49:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:17:10 - 00:17:17] _redsun**  
+...
 
-**[49:33 - 49:36] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:17:10 - 00:17:15] pollux8888**  
+puis après, j'ai travaillé dans les sociétés de conseils avec un passage et
 
-**[49:36 - 49:39] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:17:15 - 00:17:20] pollux8888**  
+c'est les congraphics en tant que développeur, donc ça remonte dans les années non-ante.
 
-**[49:39 - 49:42] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:17:20 - 00:17:25] pollux8888**  
+Et après, j'ai fait une vingtaine d'années dans les biques fort, en de presque a pmg,
 
-**[49:42 - 49:45] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:17:25 - 00:17:30] pollux8888**  
+iwi ou iwi, je t'ai associé responsable à division froide et investigation.
 
-**[49:45 - 49:48] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:17:30 - 00:17:35] pollux8888**  
+Tout ce qui est malveurs, sachant de l'enchiment, foe, usage de foe, etc.
 
-**[49:48 - 49:51] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:17:35 - 00:17:41] pollux8888**  
+Et je suis amné assez souvent, comment maintenant, à être mandatiques, ce soit par le ministre
 
-**[49:51 - 49:54] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:17:41 - 00:17:47] pollux8888**  
+publique, par des études d'avocats, faire de l'expertison et tribunal.
 
-**[49:54 - 49:57] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:17:47 - 00:17:51] pollux8888**  
+Après, j'ai créé une société en parallèle après avoir quitté.
 
-**[49:57 - 50:00] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:17:51 - 00:17:55] pollux8888**  
+Il y a, qui est dans l'analyse des sentiments des marchés boursiers.
 
-**[50:00 - 50:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:17:55 - 00:17:59] pollux8888**  
+On utilise en tout ce qui est AIML et Jean-Passant.
 
-**[50:03 - 50:06] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:17:59 - 00:18:04] pollux8888**  
+Par rapport à des données alternatives, je vais t'il disparaire.
 
-**[50:06 - 50:09] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:18:04 - 00:18:07] pollux8888**  
+En fait, la société n'est pas la vocation pour faire du Forensic.
 
-**[50:09 - 50:12] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:18:07 - 00:18:11] pollux8888**  
+Mais j'ai à tout ce qui a investi gasé, je le fais à côté.
 
-**[50:12 - 50:15] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:18:11 - 00:18:16] pollux8888**  
+Avec d'autres outils, pas les outils de la société, c'est pas ce que c'est pas notre marché.
 
-**[50:15 - 50:18] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:18:16 - 00:18:19] pollux8888**  
+c'est pas en 20 comptes, ce qu'on vend, non client.
 
-**[50:18 - 50:21] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:18:19 - 00:18:23] pollux8888**  
+Ah mais c'est vrai que je suis très, je suis resté comme très tech,
 
-**[50:21 - 50:24] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:18:23 - 00:18:27] pollux8888**  
+très touch à tout, très geek encore, hein.
 
-**[50:24 - 50:27] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:18:27 - 00:18:32] pollux8888**  
+Mais il est clair que tout ce qui est à la sécurité,
 
-**[50:27 - 50:30] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:18:32 - 00:18:40] pollux8888**  
+d'argnette, voilà, et au autre, je connais pour les avoir experimenté.
 
-**[50:30 - 50:33] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:18:40 - 00:18:48] pollux8888**  
+Et puis je connais tout ce qui est utile à travers s'arriant.
 
-**[50:33 - 50:36] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:18:48 - 00:18:52] pollux8888**  
+Voilà, ça c'est vraiment un petit résumé de mon parcours.
 
-**[50:36 - 50:39] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:18:56 - 00:18:58] pollux8888**  
+Ah oui oui, mais il n'est pas marqué?
 
-**[50:39 - 50:42] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:18:58 - 00:18:59] pollux8888**  
+Ah non, désolé.
 
-**[50:42 - 50:45] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:18:59 - 00:19:07] pollux8888**  
+Ah oui, alors mon prénom est pas le l'un et puis le nom de famille est Wang.
 
-**[50:45 - 50:48] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:19:07 - 00:19:13] pollux8888**  
+W. Oui. Ok. Ah, je m'y ai pas l'uice parce que toujours l'été mon accroignement depuis...
 
-**[50:48 - 50:51] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:19:10 - 00:19:15] _redsun**  
+On va dans ma chute.
 
-**[50:51 - 50:54] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:19:13 - 00:19:16] pollux8888**  
+Depuis que je suis gamma. Oui. Ok.
 
-**[50:54 - 50:57] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:19:15 - 00:19:19] _redsun**  
+Il y a Craig dans l'optitude, c'est une zone à l'hôlée.
 
-**[50:57 - 51:00] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:19:19 - 00:19:22] _redsun**  
+Après je vais un transcribe, tu as juste un grand.
 
-**[51:00 - 51:03] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:19:22 - 00:19:26] _redsun**  
+En or, c'est un peu une peau qui fait de transcribe de l'aréunion.
 
-**[51:03 - 51:06] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:19:25 - 00:19:29] pollux8888**  
+Ok. Ok. T'accord.
 
-**[51:06 - 51:09] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:19:26 - 00:19:29] _redsun**  
+Après, je sais que tu es qui, et tu fais quoi.
 
-**[51:09 - 51:12] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[00:19:29 - 00:19:34] _redsun**  
+Parfait, c'est ce qu'on a l'effetre, mais j'apprends un petit peu que les gens
 
-**[51:12 - 51:15] 1-redsun**  
-詞 en description
+**[00:19:30 - 00:19:51] gilles_35307**  
+...
 
-**[51:15 - 51:21] 1-redsun**  
-donc en fait on se retrouve avec une espèce d'hybride opus sur un modèle qui tourne sur une
+**[00:19:34 - 00:19:37] _redsun**  
+on a fait que c'est vrai que c'est vrai que tu as fait en la réfer parce que tu as bien tapé les deux fois
 
-**[51:21 - 51:30] 1-redsun**  
-becan 64 gigatrames quoi. Donc moi je voulais le tester aujourd'hui, j'ai essayé un peu la galère
+**[00:19:37 - 00:19:39] _redsun**  
+euh...
 
-**[51:30 - 51:36] 1-redsun**  
-comme j'ai 32, malheureusement pas assez, j'ai un peu le re-crack. Donc là on peut les installer,
+**[00:19:37 - 00:19:39] pollux8888**  
+...
 
-**[51:36 - 51:43] 1-redsun**  
-on peut tester et tout. Et puis ensuite c'est ça, on va pouvoir le plugger à, en fait vous avez
+**[00:19:39 - 00:19:47] _redsun**  
+je pense qu'on va en fait quoi en commence à tout de suite on attend encore à
 
-**[51:43 - 51:47] 1-redsun**  
-juste à aller sur OpenClo, je peux aller sur OpenClo, on sait où l'est. Puis moi j'ai fait une
+**[00:19:47 - 00:19:53] _redsun**  
+deux minutes que les gens y viennent quoi on peut commencer tranquillement à
 
-**[51:47 - 51:54] 1-redsun**  
-interface parce qu'il y a GIL, il l'a pris, le logiciel, je me suis dit maintenant je vais faire
+**[00:19:51 - 00:20:01] gilles_35307**  
+Je pense que je vois qu'il y a un anot, je profite message comme quoi ça permet aussi du business
 
-**[51:54 - 52:00] 1-redsun**  
-un truc qui est plus sympa parce que franchement c'est une telle galère. Et puis là du coup j'ai codé,
+**[00:19:53 - 00:19:56] _redsun**  
+tranquillement à
 
-**[52:00 - 52:10] 1-redsun**  
-ce logiciel là il est codé 100% avec OpenClo. Donc je le mets à jour, donc là ça permet de mettre
+**[00:20:00 - 00:20:18] nano1992_**  
+Coulc, coulc, p'a maje, je vais t'avoir eu mon site, avant la fin de l'assume, je suis au plan de nom.
 
-**[52:10 - 52:15] 1-redsun**  
-à jour Humbrew, Node, LM Studio, tout ça. Ça tu t'embêtes pas quoi, le but c'est de pas s'embêter.
+**[00:20:01 - 00:20:03] gilles_35307**  
+de groupe là.
 
-**[52:15 - 52:22] 1-redsun**  
-Et puis là j'ai rajouté récemment ça qui est l'OpenClo Chat où là tu peux switcher entre
+**[00:20:03 - 00:20:08] gilles_35307**  
+Arnot, j'ai parlé de Toista Prémidis, c'est bon, je te fais la mise en connexion ce soir,
 
-**[52:22 - 52:27] 1-redsun**  
-LLM Cloud, donc aller chercher des API sur OpenRouter par exemple, ou LLM Local et là tu peux
+**[00:20:08 - 00:20:12] gilles_35307**  
+donc t'es service interesse, donc j'ai parti.
 
-**[52:27 - 52:35] 1-redsun**  
-switcher. Là il est plugué sur Quen3.5, je l'étais en bissue là, c'est un peu trop lourd.
+**[00:20:09 - 00:20:24] _redsun**  
+...
 
-**[52:35 - 52:43] 1-redsun**  
-Donc là je fais un auto setup et là il paramètre LM Studio, comme ça on one-click,
+**[00:20:12 - 00:20:15] gilles_35307**  
+C'est le maje.
 
-**[52:43 - 52:48] 1-redsun**  
-il tient pas envie de te prendre la tête, il règle le contexte en fonction d'OpenClo,
+**[00:20:15 - 00:20:16] gilles_35307**  
+C'est le maje.
 
-**[52:48 - 52:54] 1-redsun**  
-parce qu'OpenClo a besoin de 25000 tokens de contexte. Et du coup maintenant là théoriquement,
+**[00:20:16 - 00:20:18] gilles_35307**  
+C'est le maje.
 
-**[52:55 - 53:03] 1-redsun**  
-j'espère ça va marcher, si je mets test il va réfléchir et là dans le contexte de mon OpenClo
+**[00:20:18 - 00:20:20] gilles_35307**  
+C'est le maje.
 
-**[53:03 - 53:07] 1-redsun**  
-il va répondre avec un modèle local. Attention parce que là vous avez vu que c'était super
+**[00:20:18 - 00:20:20] nano1992_**  
+Merci.
 
-**[53:07 - 53:12] 1-redsun**  
-rapide sur LM Studio, mais en fait c'est super rapide parce que la taille du contexte est zéro,
+**[00:20:20 - 00:20:24] gilles_35307**  
+Maintenant avec un postite en papier, un style ou un petit arc, une feuille de mille ce soir.
 
-**[53:12 - 53:17] 1-redsun**  
-alors que là dans OpenClo il doit toujours prendre une taille de contexte qui est environ 25000 tokens.
+**[00:20:24 - 00:20:28] gilles_35307**  
+On a beau digitant, on reste quand même dans les sensiels.
 
-**[53:17 - 53:24] 1-redsun**  
-Pour ceux qui ne connaissent pas 25000 tokens c'est environ 25000 mots. Donc il doit traiter ça avant
+**[00:20:24 - 00:20:30] _redsun**  
+un panneau à un son
 
-**[53:24 - 53:28] 1-redsun**  
-de générer la réponse. Et normalement là vous voyez en temps réel, Processing prompt,
+**[00:20:28 - 00:20:32] gilles_35307**  
+En même...
 
-**[53:28 - 53:35] 1-redsun**  
-là il a un train de traiter mon prompt. Alors oui j'ai dit test et là il génère du token,
+**[00:20:30 - 00:20:32] _redsun**  
+Non, mais ça...
 
-**[53:35 - 53:39] 1-redsun**  
-là il écrit les mots en fait. Et là il balance sa réponse, normalement il a balancé la réponse.
+**[00:20:32 - 00:20:34] gilles_35307**  
+Ouais.
 
-**[53:45 - 53:51] 1-redsun**  
-Mais ce que je voulais c'était que ce ne soit pas la galère pour pouvoir faire ça et donc du
+**[00:20:32 - 00:20:33] _redsun**  
+Bah...
 
-**[53:51 - 53:56] 1-redsun**  
-coup j'ai fait une nuit qui gère tout ça. Et puis là je fais aussi tu peux changer de modèle
+**[00:20:33 - 00:20:36] _redsun**  
+Non, t'es génial parce que pour ceux qui débarquent, là, en fait,
 
-**[53:56 - 54:01] 1-redsun**  
-et tout, tu peux estimer tes tokens. J'essaie de faire un système où tu peux connecter WhatsApp
+**[00:20:34 - 00:20:35] gilles_35307**  
+Ouais.
 
-**[54:01 - 54:06] 1-redsun**  
-en un clic discord etc. J'ai fait les templates pour ceux qui souhaitent faire du dev mode ou
+**[00:20:35 - 00:20:37] gilles_35307**  
+Ouais.
 
-**[54:06 - 54:11] 1-redsun**  
-du fonder mode ou des trucs comme ça. Je fais tout un fact dead et puis un install aussi si tu veux
+**[00:20:36 - 00:20:40] _redsun**  
+Arnogis, ils ont parlé, ils ont trouvé des atomes cochus et puis du coup,
 
-**[54:11 - 54:16] 1-redsun**  
-supprimer chacun des trucs séparément. Et puis je fais un petit contrôle center avec du monitoring,
+**[00:20:37 - 00:20:38] gilles_35307**  
+Ouais.
 
-**[54:16 - 54:22] 1-redsun**  
-donc là je vais monitorer mon ordi parce que ça ça bouffe toutes vos ressources. Voilà vous voyez le
+**[00:20:38 - 00:20:39] gilles_35307**  
+Ouais.
 
-**[54:22 - 54:28] 1-redsun**  
-swap là c'est catastrophique. Donc ça veut dire qu'il pompe la ressource de ma machine ce qui est
+**[00:20:39 - 00:20:41] gilles_35307**  
+Ouais.
 
-**[54:28 - 54:34] 1-redsun**  
-normal parce que je vais tourner à l'élève en local quoi. Voilà ça c'est un use key,
+**[00:20:40 - 00:20:44] _redsun**  
+bah c'est génial, c'est exactement pour ça que...
 
-**[54:34 - 54:38] 1-redsun**  
-c'est que moi j'aime bien créer tout de suite des choses avec OpenClose donc là je me suis dit bah
+**[00:20:41 - 00:20:42] gilles_35307**  
+Ouais.
 
-**[54:38 - 54:44] 1-redsun**  
-vas-y je vais faire un truc concret quoi, pas du virtuel ou bla bla bla ou je sais pas quoi.
+**[00:20:42 - 00:20:43] gilles_35307**  
+Ouais.
 
-**[54:45 - 54:51] 1-redsun**  
-Tout ça là tout ce que vous voyez devant les yeux ça a été fait avec OpenClose donc en commande
+**[00:20:43 - 00:20:44] gilles_35307**  
+Ouais.
 
-**[54:51 - 54:56] 1-redsun**  
-direct. Ça a été push sur GitHub ça a été géré sur GitHub ça a été et là j'ai fait un site
+**[00:20:44 - 00:20:46] gilles_35307**  
+Ouais, c'est...
 
-**[54:56 - 55:08] 1-redsun**  
-web aussi où je le mets en vente. Alors j'ai fait un mix parce que alors pour coder franchement
+**[00:20:44 - 00:20:46] _redsun**  
+On va...
 
-**[55:08 - 55:14] 1-redsun**  
-je vous recommande parce que c'est pas cher, c'est pas forcément le meilleur. Moi j'utilise codex
+**[00:20:46 - 00:20:48] gilles_35307**  
+Le but de tout ça, c'est pas ce monde-dire.
 
-**[55:14 - 55:20] 1-redsun**  
-avant j'utilisais 5.3 quand j'ai commencé le logiciel j'utilisais 5.3 et maintenant j'utilise
+**[00:20:48 - 00:20:52] gilles_35307**  
+c'est pas ça plus mondial qu'on est un mec mini X et tonne que c'est super joli que ça fait des choses
 
-**[55:20 - 55:24] 1-redsun**  
-codex 5.5 qui est la dernière version. Je paye un abonnement à 20 balles donc vraiment c'est que
+**[00:20:52 - 00:20:55] gilles_35307**  
+au solide mais c'est surtout on est tout cela pour faire la chrine
 
-**[55:24 - 55:29] 1-redsun**  
-dalle c'est le minimum syndical et puis là vous avez quand même un usage qui est assez sympa et qui
+**[00:20:55 - 00:20:56] gilles_35307**  
+au chef
 
-**[55:29 - 55:35] 1-redsun**  
-permet de coder des logiciels entiers donc a priori vous allez être tranquille parce qu'il y a un rapport
+**[00:20:56 - 00:20:59] gilles_35307**  
+ouais j'aurais le tout à ce que ça me fait
 
-**[55:35 - 55:41] 1-redsun**  
-qualité prix qui est imbattable chez OpenAI pour le moment attention ça peut changer rapidement
+**[00:20:56 - 00:20:58] _redsun**  
+Pas à spià moyen, ça m'a fait que...
 
-**[55:42 - 55:48] 1-redsun**  
-et pour le moment c'est largement préférable de prendre un abonnement chadjpt de connecter
+**[00:20:59 - 00:21:03] gilles_35307**  
+on va pas balancer de la ronde on va lui le mettre mini et de Tolkien pour que pour
 
-**[55:48 - 55:56] 1-redsun**  
-OpenCloud dessus et puis d'être tranquille quoi. Franchement c'est tellement plus cool quoi parce que
+**[00:21:00 - 00:21:07] _redsun**  
+...
 
-**[55:56 - 56:01] 1-redsun**  
-sinon vous allez passer par OpenRouter ou par Anthropic mais l'anthropic ça marche alors Arnaud
+**[00:21:03 - 00:21:07] gilles_35307**  
+que le final ça a nourriss un malde mané ou de quoi
 
-**[56:01 - 56:04] 1-redsun**  
-ou pas j'essaie même plus mais dans la jour ça marche un jour ça marche quoi.
+**[00:21:07 - 00:21:10] gilles_35307**  
+ils ont demandé déjà plein ça va
 
-**[56:04 - 56:33] 1-redsun**  
-Ouais donc pour moi ça a un vrai problème
+**[00:21:07 - 00:21:08] _redsun**  
+...
 
-**[56:34 - 56:39] 1-redsun**  
-autant je trouve que l'autre 4.6 monstre d'air j'aime pas le 4.7 je sais pas pourquoi je l'aime pas
+**[00:21:07 - 00:21:08] pollux8888**  
+Ah...
 
-**[56:40 - 56:44] 1-redsun**  
-j'ai du mal avec le 4.7 je sais pas je trouve pas le même feeling qu'avec le 4.6
+**[00:21:08 - 00:21:12] _redsun**  
+...
 
-**[56:45 - 56:49] 1-redsun**  
-peut-être c'est moi qui suis de bien fou avec le 4.7 je sais pas si c'est possible
+**[00:21:10 - 00:21:11] gilles_35307**  
+à notre tour
 
-**[57:04 - 57:09] 1-redsun**  
-en fait ça dépend beaucoup ce que tu fais et surtout si tu fais du code en fait j'ai l'impression
+**[00:21:11 - 00:21:12] gilles_35307**  
+pour notre tour
 
-**[57:09 - 57:14] 1-redsun**  
-que le code c'est un peu c'est là où tu vois vraiment que ça châteouille quoi c'est là où ça
+**[00:21:12 - 00:21:13] gilles_35307**  
+voilà
 
-**[57:14 - 57:23] 1-redsun**  
-pique quoi c'est difficile en fait c'est difficile le code est quoi donc voilà ça permet de vous
+**[00:21:12 - 00:21:14] pollux8888**  
+Voilà, bon no à part, il n'y a pas rien encore de la vente, non ?
 
-**[57:23 - 57:27] 1-redsun**  
-montrer ça bah j'espère que vous connaissez tous et quelqu'un l'a pas vu en fait l'interface
+**[00:21:13 - 00:21:15] gilles_35307**  
+à la fin
 
-**[57:27 - 57:29] 1-redsun**  
-d'openclaw ou tout le monde l'a vu
+**[00:21:14 - 00:21:16] _redsun**  
+Ah, ouais, avec une calme.
 
-**[57:33 - 57:34] 1-redsun**  
-je sais pas je montre ça
+**[00:21:16 - 00:21:18] _redsun**  
+Alors, bah, on va commencer à tranquillement.
 
-**[57:38 - 57:42] 1-redsun**  
-le dashboard je sais pas si vous le voyez là alors
+**[00:21:18 - 00:21:21] _redsun**  
+Moi, je fais toujours une espèce de petit fil rouge.
 
-**[57:45 - 57:48] 1-redsun**  
-alors là c'est pas la dernière version mais bon je vais pas le mettre à jour maintenant
+**[00:21:21 - 00:21:23] _redsun**  
+Je n'en sais pas vraiment une présentation de ce...
 
-**[57:48 - 57:53] 1-redsun**  
-parce que d'ailleurs il y a des dernières trucs un peu chiant quoi ça c'est un peu le truc chiant
+**[00:21:23 - 00:21:24] _redsun**  
+...
 
-**[57:53 - 57:57] 1-redsun**  
-c'est que les mecs je sais pas si vous avez vu il y a une mise à jour tous les jours littéralement
+**[00:21:24 - 00:21:25] _redsun**  
+...
 
-**[57:57 - 58:02] 1-redsun**  
-tous les jours il y a une journée ils en ont fait deux par jour les mecs sont tellement fous de mise à jour
+**[00:21:25 - 00:21:26] _redsun**  
+...
 
-**[58:02 - 58:07] 1-redsun**  
-par jour ça n'a aucun sens quoi donc c'est un peu chiant parce que des fois ça couple les
+**[00:21:26 - 00:21:27] _redsun**  
+...
 
-**[58:07 - 58:12] 1-redsun**  
-connexions avec discord c'est un peu relou quoi bref c'est un peu moi ce que j'y reproche le plus
+**[00:21:27 - 00:21:33] _redsun**  
+On a plus ça pour discuter de ce qu'on a fait, de ce qu'on a vu, des problèmes qu'on a rencontré, etc.
 
-**[58:12 - 58:17] 1-redsun**  
-c'est ça quoi c'est son instabilité général donc là en gros bah vous avez le chat vous pouvez
+**[00:21:33 - 00:21:36] _redsun**  
+C'est une petite piseage, je vois, c'est un événement qu'on fait tous les mercredi.
 
-**[58:17 - 58:23] 1-redsun**  
-poser n'importe quelle question et là on voit en fait les modèles disponibles donc là en dispo
+**[00:21:36 - 00:21:41] _redsun**  
+Applité, c'est pour échangeé simplement, on va la discuter un petit peu.
 
-**[58:23 - 58:30] 1-redsun**  
-j'ai celui là donc j'ai ma 4b que je vous ai montré avant sur le cacto j'ai pt 4 5 puis je peux
+**[00:21:37 - 00:21:58] pollux8888**  
+...
 
-**[58:30 - 58:37] 1-redsun**  
-changer en fait bon là je peux passer sur kimi et kimi c'est un modèle que j'utilise via open
+**[00:21:41 - 00:21:44] _redsun**  
+Et puis entre deux on va essayer de pêcher ça par des plus gros éventes.
 
-**[58:37 - 58:42] 1-redsun**  
-router bon là il est reswitché c'est le genre de truc ça m'énerve pourquoi je vais pas demander
+**[00:21:44 - 00:21:49] _redsun**  
+Donc il faut vraiment que je lui mette, c'est beaucoup tout qu'à faire en séance, vraiment.
 
-**[58:42 - 58:46] 1-redsun**  
-de reswitcher mais il est reswitché le modèle donc là normalement il va utiliser de nouveau ça
+**[00:21:49 - 00:21:52] _redsun**  
+Et il faut qu'on a organisé vraiment un gros éventes.
 
-**[58:46 - 58:54] 1-redsun**  
-il balance le prompt là dessus donc là c'est le chat après on va attendre qu'il répond là
+**[00:21:52 - 00:21:56] _redsun**  
+Donc voilà, donc il y a tous les niveaux, donc là il n'y a pas le vend,
 
-**[58:54 - 58:58] 1-redsun**  
-il y a l'overview je vais essayer de pas spoiler mes trucs mais bon de façon ça je m'en fous c'est
+**[00:21:56 - 00:22:00] _redsun**  
+qui est un train de mettre la varassez rouge et un poiseur.
 
-**[58:58 - 59:04] 1-redsun**  
-pas mon openclos moi j'ai deux machines j'ai un openclos sur max studio et mac mini et ça c'est
+**[00:21:58 - 00:22:00] pollux8888**  
+Non, non, du peu.
 
-**[59:04 - 59:09] 1-redsun**  
-pas mon principal ça c'est mon max studio c'est ma machine que j'utilise comme ça donc là vous
+**[00:22:00 - 00:22:05] pollux8888**  
+Par rapport à vous, vu que je ne l'ai pas expérimenté encore.
 
-**[59:09 - 59:13] 1-redsun**  
-avez les channels mais je vous conseille pas d'utiliser ça moi j'ai jamais utilisé ça pour
+**[00:22:05 - 00:22:08] pollux8888**  
+Voilà, par rapport à vos churien.
 
-**[59:13 - 59:20] 1-redsun**  
-connecter whatsapp ou quoi en fait pas comme ça vous demandez à openclos de le faire tout simplement
+**[00:22:10 - 00:22:13] _redsun**  
+Ouais, on va y accueillir, on va se t'aider bien.
 
-**[59:20 - 59:27] 1-redsun**  
-ou alors le calcul soit le calcul soit ça mais pas à la main quoi là on a des différentes
+**[00:22:13 - 00:22:14] _redsun**  
+Il y a un peu de tout.
 
-**[59:27 - 59:33] 1-redsun**  
-instances qui sont ouvertes les différentes sessions qu'il a faites on sait un peu le bordel
+**[00:22:14 - 00:22:16] _redsun**  
+Justement, on va parler un peu de tout ça.
 
-**[59:33 - 59:40] 1-redsun**  
-franchement on voit que c'est encore geek et là vous avez la console des tokens vous pouvez voir
+**[00:22:16 - 00:22:19] _redsun**  
+Je prends des sujets pour avoir des débats.
 
-**[59:40 - 59:44] 1-redsun**  
-combien vous en avez utilisé mais sur celui-là j'utilise très peu donc il y a assez peu de tokens
+**[00:22:19 - 00:22:20] _redsun**  
+On fait un fait en reçoit.
 
-**[59:44 - 59:49] 1-redsun**  
-utilisé il va dire de qu'est ce qu'il a fait dans quelle session après on a les crônes jobs les
+**[00:22:20 - 00:22:22] _redsun**  
+Et si vous avez des trucs à montrer,
 
-**[59:49 - 59:56] 1-redsun**  
-crônes jobs c'est vraiment c'est un des intérêts aussi de openclos et comme il est actif h24 en fait
+**[00:22:22 - 00:22:27] _redsun**  
+ou autre, bah n'hésitez pas à partager, je peux laisser des crampes pour montrer des
 
-**[59:56 - 01:00:02] 1-redsun**  
-vous allez pouvoir lui donner des tâches récurrentes genre tous les matins à 7 heures du matin tu me
+**[00:22:27 - 00:22:30] _redsun**  
+justquets, des trucs que vous avez trouvé. Moi ce soir je voulais vous montrer un truc
 
-**[01:00:02 - 01:00:08] 1-redsun**  
-fais résumer du marché crypto du marché classique ou de la météo ce que vous voulez on s'en fiche
+**[00:22:30 - 00:22:33] _redsun**  
+peut-être qui intéresse, alors je ne suis pas si saint-est tout le monde, mais ça a
 
-**[01:00:08 - 01:00:13] 1-redsun**  
-mais c'est possible de faire de crônes jobs attention c'est pour moi les crônes jobs c'est ce
+**[00:22:33 - 00:22:38] _redsun**  
+juste qu'est-ce que j'ai trouvé moi, c'est assez sympa, c'est que j'ai pleuillé une
 
-**[01:00:13 - 01:00:17] 1-redsun**  
-qui consomme le plus de tokens parce que comme vous le donnez une tâche mais vous ne dites pas comment
+**[00:22:38 - 00:22:47] _redsun**  
+appui mes chi qui permettent de la génération 3D à la voler avec mon oeuvre, donc du coup
 
-**[01:00:17 - 01:00:23] 1-redsun**  
-le faire souvent il va vous bouzier votre bon en fait je le fais pas pas parce que j'aime pas mais
+**[00:22:47 - 00:22:52] _redsun**  
+On peut faire des sites et faire d'amadélisation 3D à la demande.
 
-**[01:00:23 - 01:00:29] 1-redsun**  
-parce qu'à juste j'essaie de le plus efficace possible quoi après la partie agent on va
+**[00:22:53 - 00:22:55] _redsun**  
+C'est assez sympa, c'est assez visuel, c'est assez choix.
 
-**[01:00:29 - 01:00:44] 1-redsun**  
-oui mais en fait mais c'est vraiment intéressant parce que en gros c'est comme une machine de guerre
+**[00:22:55 - 00:23:00] _redsun**  
+Donc je voulais montrer ça sur, puis le thème aussi, je voulais comparer un petit peu de jemas.
 
-**[01:00:44 - 01:00:48] 1-redsun**  
-openclos tu peux faire tellement de trucs mais entre ce qui est vraiment utile que tu as vraiment
+**[00:23:00 - 00:23:05] _redsun**  
+J'ai ma carte, je pense qu'il y a vraiment un truc à des creuses à derrière, et ça en train de
 
-**[01:00:48 - 01:00:53] 1-redsun**  
-vraiment vraiment besoin ce que tu fais vraiment et ce qui va apporter de la valeur il y a une
+**[00:23:05 - 00:23:07] _redsun**  
+beaucoup bosser la dessus.
 
-**[01:00:53 - 01:00:58] 1-redsun**  
-galaxie quoi tu peux t'amuser à faire un rapport tous les jours mais jusqu'à présent tu as vécu
+**[00:23:08 - 00:23:11] _redsun**  
+Et voilà, c'est des sujets comme ça, après c'est d'autres choses à apporter.
 
-**[01:00:58 - 01:01:03] 1-redsun**  
-sans rapport tous les jours tu vois donc est ce que tu as besoin de ça vraiment se poser la question
+**[00:23:11 - 00:23:12] _redsun**  
+Bon, on y va.
 
-**[01:01:03 - 01:01:08] 1-redsun**  
-quoi et souvent la réponse est quand même pour moi en tout cas c'est non j'ai pas besoin quoi après
+**[00:23:12 - 00:23:18] _redsun**  
+Mais là justement, l'idée, c'était de faire, en fait, moi, je suis un train de ricar des tombes.
 
-**[01:01:08 - 01:01:09] 1-redsun**  
-je pourrais m'amuser à le faire
+**[00:23:18 - 00:23:22] _redsun**  
+Et comme ça, je veux savoir qui fait qu'on re-eau dans le groupe.
 
-**[01:01:28 - 01:01:38] 1-redsun**  
-c'est tout à fait
+**[00:23:22 - 00:23:26] _redsun**  
+Et pour ça, en fait, la dernière fois, ce qu'on a fait, c'est qu'on s'était présentée.
 
-**[01:01:59 - 01:02:05] 1-redsun**  
-ouais c'est pas mais alors c'est tellement mal foutu moi je ne le ferais même pas via
+**[00:23:26 - 00:23:30] _redsun**  
+Et puis, on a, moi, j'ai fait n'est-il une distincte de profil?
 
-**[01:02:05 - 01:02:11] 1-redsun**  
-ce panneau là parce que c'est pour moi c'est catastrophique en fait tu vas dans le chat j'aimerais
+**[00:23:30 - 00:23:33] _redsun**  
+Et comme ça, je sais qui je peux mettre en relation avec qui,
 
-**[01:02:11 - 01:02:17] 1-redsun**  
-créer un nouvel agent tac et lui il va le créer en fait il comprend ce que tu veux en fait après
+**[00:23:33 - 00:23:37] _redsun**  
+ou voilà, bah c'est super intéressant de ça-dire qu'il peut faire quoi.
 
-**[01:02:17 - 01:02:25] 1-redsun**  
-il s'affiche là ouais c'est juste c'est juste que l'interface là c'est rigolo en fait tu peux
+**[00:23:37 - 00:23:41] _redsun**  
+Donc là, il n'y a pas l'une Zagia expliqué, mais l'idée c'était se présentée.
 
-**[01:02:25 - 01:02:29] 1-redsun**  
-tout passer par l'autre chat d'ailleurs je vous recommande de passer par l'autre chat donc
+**[00:23:41 - 00:23:47] _redsun**  
+En 30 secondes avec 3 questions, tout de suite, c'est non activité de projet qui se vous faites en
 
-**[01:02:29 - 01:02:32] 1-redsun**  
-les comptes job on peut les ajouter comme ça puis taper ce qu'on veut mais ça revient en
+**[00:23:47 - 00:23:53] _redsun**  
+haut, qu'il y a vous justi des instruments et qu'est-ce que vous vous n'échirchez ? Et moi, avec
 
-**[01:02:32 - 01:02:35] 1-redsun**  
-même que d'aller dans le chat puis dit créer un compte job pour qu'elle n'a pas trop la
+**[00:23:53 - 00:23:57] _redsun**  
+Craig, en fait, ça me permet de noter tout ce genre de trucs, puis après, de faire un résumé
 
-**[01:02:35 - 01:02:41] 1-redsun**  
-différence quoi c'est juste une nuit en fait pour plusieurs interfaces pour essayer de faire ça
+**[00:23:57 - 00:24:03] _redsun**  
+de ce que vous faites, qui vous êtes, quels sont vos besoins en haut. Donc là, il y a
 
-**[01:02:41 - 01:02:47] 1-redsun**  
-quoi après les différents agents les skills alors là il y a tous les skills là vous pouvez les
+**[00:24:03 - 00:24:12] _redsun**  
+Il y a trois nouveaux, c'est ça. Il y a Rien, il y a Fali et il y a Afondos. Donc on va y aller par
 
-**[01:02:47 - 01:02:52] 1-redsun**  
-créer à la volée moi je vous conseille de pas les bon il y a des trucs spéciaux pour obsidian
+**[00:24:12 - 00:24:17] _redsun**  
+Arval Fabétique. Je ne sais pas si vous êtes tous des micros, c'est bon. Afondos, je ne sais pas si tu
 
-**[01:02:52 - 01:02:56] 1-redsun**  
-ou les trucs comme ça mais ils sont déjà inclus donc pourquoi pas mais à part vous pourriez
+**[00:24:17 - 00:24:22] _redsun**  
+peux nous te présenter juste 30 secondes, quelques questions que tu as, donc qui tu as.
 
-**[01:02:56 - 01:03:01] 1-redsun**  
-aussi dire utilise obsidian enfin c'est à dire ça change rien et créer un skill spécial pour obsidian
+**[00:24:22 - 00:24:28] _redsun**  
+Est-ce que tu fais, est-ce que tu dis ce comme il y a, est-ce que tu fais un chercheur ici?
 
-**[01:03:01 - 01:03:07] 1-redsun**  
-croit pas il n'y a pas pour moi il n'y a pas besoin en fait de passer par là moi je passe tout par le
+**[00:24:28 - 00:24:33] _redsun**  
+Je passais la micro par front.
 
-**[01:03:07 - 01:03:13] 1-redsun**  
-chat mais après les deux sont juste on peut faire là puis je pense qu'on peut je crois même pas
+**[00:24:33 - 00:24:35] _redsun**  
+A fonds d'eau.
 
-**[01:03:13 - 01:03:18] 1-redsun**  
-qu'on peut les ajouter à l'interface non il y a ceux de base c'est tout quoi en fait tu peux aller
+**[00:24:35 - 00:24:40] _redsun**  
+Puis, il y a pas de micro, c'est pas grave.
 
-**[01:03:18 - 01:03:24] 1-redsun**  
-chercher sur clou hub tellement merdier souvent c'est mieux de les faire soi-même en fait créer
+**[00:24:35 - 00:24:50] pollux8888**  
+et nous on prend.
 
-**[01:03:24 - 01:03:31] 1-redsun**  
-moins skill pour faire ça terminer quoi après les nodes ça c'est pour faire du pairing de
+**[00:24:40 - 00:24:43] _redsun**  
+Allez, il y a pas d'air d'avard de micro.
 
-**[01:03:31 - 01:03:35] 1-redsun**  
-device donc c'est un peu le bordel le dreaming franchement ça c'est le truc j'aurais aimé qu'il
+**[00:24:43 - 00:24:47] _redsun**  
+Il y a de temps de vivre dans notre chat.
 
-**[01:03:35 - 01:03:39] 1-redsun**  
-l'ajoute pas c'est censé être un truc que quand tu l'utilises pas il va faire des trucs je sais pas
+**[00:24:47 - 00:24:52] _redsun**  
+Alors, pas d'icrôtes, donc peut-être, mais je peux faire une présentation.
 
-**[01:03:39 - 01:03:49] 1-redsun**  
-quoi oui justement alors si tu veux cramer tes tokens là ça rate et dans le top du top pour
+**[00:24:52 - 00:24:56] _redsun**  
+Par exemple, il contente faire partie sur la OK.
 
-**[01:03:49 - 01:03:54] 1-redsun**  
-tout brûler ton amour quoi là tu vas rêver la nuit pendant quoi je fais rien ouais bon super
+**[00:24:56 - 00:24:59] _redsun**  
+Alors ça, c'est pas à fondre, c'est à Viennes.
 
-**[01:03:54 - 01:04:03] 1-redsun**  
-il va cramer tout en fait en gros il est censé fixer le savoir de en fait que quand tu rêves c'est
+**[00:25:00 - 00:25:07] _faly**  
+Oui, en soir.
 
-**[01:04:03 - 01:04:09] 1-redsun**  
-la même chose il est censé fixer figer la mémoire etc faire certaines actions mais du coup
+**[00:25:00 - 00:25:03] _redsun**  
+Alors on peut passer à Fali.
 
-**[01:04:09 - 01:04:15] 1-redsun**  
-t'as pas tellement de contrôle là dessus bah moi c'est un truc que j'utilise pas mais encore une
+**[00:25:04 - 00:25:06] _redsun**  
+Fali, c'est un micro.
 
-**[01:04:15 - 01:04:25] 1-redsun**  
-fois tout dépend des usages peut-être des gens qui ont besoin de ça je sais pas de quoi j'ai pas
+**[00:25:06 - 00:25:11] _redsun**  
+Si peut-être présenter, juste dure qu'il y a que ce tu fais pour la télac, c'est ce que t'as pas.
 
-**[01:04:25 - 01:04:35] 1-redsun**  
-compris on va dire ouais bien sûr alors en gros c'est de dire tous les quand je vais me coucher tu
+**[00:25:07 - 00:25:15] _faly**  
+Oui, salut, alors je m'appelle Fali.
 
-**[01:04:35 - 01:04:41] 1-redsun**  
-vas faire telles actions tu vas faire si tu vas faire ça puis lui aussi c'est figé la mémoire mais
+**[00:25:15 - 00:25:22] _faly**  
+Et dans le domaine associatif, je m'occupe des associations dans le domaine du REL.
 
-**[01:04:41 - 01:04:47] 1-redsun**  
-c'est un truc en fait c'est sympa c'est rigolo mais il y a plein de trucs qui sont comme ça et en
+**[00:25:22 - 00:25:36] _faly**  
+Les IACs, je dis aux quotidiens, bon, pas j'ai pété Claude pour voir que surtout un peu de Claude
 
-**[01:04:47 - 01:04:51] 1-redsun**  
-fait souvent c'est tout mach si vous êtes dans le pragmatique je sais pas si vraiment vous avez
+**[00:25:26 - 00:25:53] _redsun**  
+...
 
-**[01:04:51 - 01:04:59] 1-redsun**  
-besoin de faire ça quoi bah enfin normalement en fait c'est ça c'est bien
+**[00:25:36 - 00:25:40] _faly**  
+Claude Claude design aussi. J'ai essayé pour faire un site de phas naturen, très sainte.
 
-**[01:05:06 - 01:05:13] 1-redsun**  
-en fait moi je n'ai même pas essayé quand j'ai vu le truc moi j'ai pas compris
+**[00:25:40 - 00:25:45] _faly**  
+Notre bouquet elle aime un peu de tarplitude.
 
-**[01:05:13 - 01:05:17] 1-redsun**  
-non plus parce qu'en plus la mémoire elle est gérée dans les dans les markdowns je vous dis
+**[00:25:45 - 00:25:52] _faly**  
+Encore au point de clôt, j'ai commandé un matiné, mais il n'est pas encore arrivé.
 
-**[01:05:17 - 01:05:23] 1-redsun**  
-mais à quoi ça sert enfin je suis pas bien figé je suis pas le seul on n'est pas les seuls à
+**[00:25:52 - 00:25:56] _faly**  
+On l'a été le cas de rupture de ce n'occupe.
 
-**[01:05:23 - 01:05:28] 1-redsun**  
-pas comprendre exactement pourquoi comment et à quoi ça sert exactement mais tu vois daily log
+**[00:25:53 - 00:25:55] _redsun**  
+Oh, il me va.
 
-**[01:05:28 - 01:05:36] 1-redsun**  
-bon ok waiting for promotion il y a peut-être des cas où peut-être voilà il y a des cas où
+**[00:25:55 - 00:25:57] _redsun**  
+Ouais, alors, stage des enfants,
 
-**[01:05:36 - 01:05:41] 1-redsun**  
-c'est utile je peux pas dire mais en tout cas moi j'ai jamais eu besoin de faire ça quoi il y a
+**[00:25:56 - 00:26:00] _faly**  
+Ouais.
 
-**[01:05:41 - 01:05:46] 1-redsun**  
-juste une partie je voudrais montrer qui est peut-être la plus importante mais c'est plus la même
+**[00:25:57 - 00:25:59] _redsun**  
+Paris, si jamais ça t'intéresse,
 
-**[01:05:46 - 01:05:53] 1-redsun**  
-interface soit que c'est dans configuration je cherche les fichiers md ils sont dans ce
+**[00:25:59 - 00:26:01] _redsun**  
+les ms et à qui sont en culture,
 
-**[01:05:53 - 01:06:05] 1-redsun**  
-plus d'encohétons session non alors ça channel instance overview normalement on voit ce qu'il
+**[00:26:01 - 00:26:04] _redsun**  
+et les ms en carréves, donc tu n'as peut-être pas le recevoir.
 
-**[01:06:05 - 01:06:11] 1-redsun**  
-y a dans le fichier markdown ça c'est intéressant mais c'est là voilà tout le skill channel
+**[00:26:04 - 00:26:06] _redsun**  
+C'est...
 
-**[01:06:11 - 01:06:18] 1-redsun**  
-con et puis là on a le fameux agent pour un sable voilà je peux vous le montrer ça c'est le plus
+**[00:26:05 - 00:26:07] _faly**  
+Ah ouais, je vois.
 
-**[01:06:18 - 01:06:24] 1-redsun**  
-important des trucs les plus important c'est donc en fait c'est des fichiers principaux donc il
+**[00:26:05 - 00:26:09] pollux8888**  
+et il y a une livre d'accord
 
-**[01:06:24 - 01:06:30] 1-redsun**  
-y a l'âme de votre openclos il y a le user c'est vous qui vous êtes qu'est ce que vous voulez
+**[00:26:06 - 00:26:08] _redsun**  
+Mais on est là, je suis...
 
-**[01:06:30 - 01:06:35] 1-redsun**  
-etc et ces fichiers markdown là c'est vraiment super super important de bien les configurer mais de
+**[00:26:08 - 00:26:10] _redsun**  
+C'est quelque chose.
 
-**[01:06:35 - 01:06:39] 1-redsun**  
-toute façon au début je vous demande de les configurer donc vous êtes obligé de les configurer
+**[00:26:10 - 00:26:21] _faly**  
+On a tendance, je me documente, je n'apprends que ça se passe avant de voir passer
 
-**[01:06:39 - 01:06:46] 1-redsun**  
-normalement donc il y a le fichier sale agent tools donc ça c'est les skills l'identité voilà on
+**[00:26:10 - 00:26:14] _redsun**  
+Ça porte des bâtigneuses, mais voilà, car...
 
-**[01:06:46 - 01:06:51] 1-redsun**  
-peut voir moi j'ai rien fait donc là il s'appelle clos ça c'est de trucs par défaut les modis c'est
+**[00:26:14 - 00:26:16] _redsun**  
+OK?
 
-**[01:06:51 - 01:06:57] 1-redsun**  
-ça etc tout ça vous pouvez paramétrer le orbit c'est tous les événements qu'il va faire par
+**[00:26:21 - 00:26:22] _faly**  
+sans pratique.
 
-**[01:06:57 - 01:07:01] 1-redsun**  
-exemple toutes les 10 minutes il peut faire quelque chose c'est le battement de coeur vous pouvez
+**[00:26:22 - 00:26:25] _faly**  
+J'ai été encore à le mettre sur mon ennemi sur mon ennemi.
 
-**[01:07:01 - 01:07:13] 1-redsun**  
-faire des trucs spécifiques après il y a même envie ouais normalement parce que là j'ai rien foutu
+**[00:26:23 - 00:26:40] _redsun**  
+Ok, donc petit que ça je résoudre répondre rapidement que ça t'as déjà une réponse.
 
-**[01:07:13 - 01:07:21] 1-redsun**  
-avec un donc là je pourrais aussi l'écrire en dur non non non justement bah j'utilise pour les
+**[00:26:25 - 00:26:33] _faly**  
+J'ai plutôt un peu à tout le dédié, mais bon, je n'apprends.
 
-**[01:07:21 - 01:07:27] 1-redsun**  
-demos donc pour faire des essais parce que sinon si je bricole le truc que je code ça peut foutre
+**[00:26:35 - 00:27:04] pollux8888**  
+de
 
-**[01:07:27 - 01:07:33] 1-redsun**  
-la merde pas possible quoi donc là tu peux écrire le contenu à la main mais je conseille pas non
+**[00:26:40 - 00:27:09] _faly**  
+...
 
-**[01:07:33 - 01:07:38] 1-redsun**  
-plus ce que je fais moi c'est simplement d'avoir mémoré je dis sauve sauve mon nom ou sauve cette
+**[00:26:40 - 00:26:43] _redsun**  
+Alors, dis perço, c'est vachement pas recommandé.
 
-**[01:07:38 - 01:07:44] 1-redsun**  
-data etc en fait je parle tout simplement enfin c'est le but aussi quoi c'est d'avoir un usage courant
+**[00:26:43 - 00:26:47] _redsun**  
+Ça chante qu'il a le full control, c'est quand même hyper d'en re.
 
-**[01:07:44 - 01:07:57] 1-redsun**  
-ça devrait pas être plus de ça non alors j'utilise les deux je sais pas pourquoi peut-être ça c'est
+**[00:26:47 - 00:26:53] _redsun**  
+C'est pour ça que effectivement, un économiste ou une autre machine, c'est plutôt recommandé.
 
-**[01:07:57 - 01:08:03] 1-redsun**  
-moi qui suis bizarre mais il y a un moment où les réponses étaient meilleures sur le le contrôle
+**[00:26:53 - 00:26:58] _redsun**  
+Et puis même un vieux PC, ça peut être une vie de bécade, mais il y a eu les bruits, ça marche.
 
-**[01:08:03 - 01:08:08] 1-redsun**  
-ici alors pour coder je connais là je sais pas pourquoi vraiment j'ai fait des tests et je
+**[00:26:58 - 00:27:00] _redsun**  
+C'est bien, si jamais.
 
-**[01:08:08 - 01:08:12] 1-redsun**  
-trouvais que les réponses sur discord parce qu'ils étaient connectés à discord sont moins bonnes
+**[00:27:00 - 00:27:05] _redsun**  
+Ouais, oui, oui, effectivement.
 
-**[01:08:12 - 01:08:21] 1-redsun**  
-que les réponses sur le dashboard et je crois que c'est fini maintenant c'est fini en fait ça
+**[00:27:05 - 00:27:07] _redsun**  
+Après, avant de manger le disque.
 
-**[01:08:21 - 01:08:38] 1-redsun**  
-marche maintenant ou à priori oui mais là justement c'est ce qui conseille les gens
+**[00:27:07 - 00:27:15] _redsun**  
+Ok, alors, j'ai juste parlé pour Yann, parce qu'il n'y a pas de micro, comme ça, je sais,
 
-**[01:08:38 - 01:08:44] 1-redsun**  
-c'est que tu peux faire plusieurs agents en fait c'est pour faire plusieurs tâches séparées mais
+**[00:27:10 - 00:27:11] _faly**  
+Merci.
 
-**[01:08:44 - 01:08:48] 1-redsun**  
-honnêtement il faut vraiment faire attention à ces trucs là parce que il y a beaucoup de gens qui
+**[00:27:15 - 00:27:45] _redsun**  
+de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de
 
-**[01:08:48 - 01:08:52] 1-redsun**  
-se lancent à dedans ils font 10 agents et dire j'ai 10 agents qui travaillent pour moi c'est cool
+**[00:27:45 - 00:27:48] _redsun**  
+et on dit qu'il a fait.
 
-**[01:08:52 - 01:08:58] 1-redsun**  
-à dire sur le papier mais à gérer ça devient vite un bordel quoi c'est déjà d'en faire un
+**[00:27:48 - 00:27:51] gilles_35307**  
+Renévoix, fais des édmaffiragudements.
 
-**[01:08:58 - 01:09:03] 1-redsun**  
-propre qui vous sert à quelque chose et si ça vous suffit bah gardez-le comme ça mais encore une
+**[00:27:51 - 00:27:58] gilles_35307**  
+On va rassurer pour l'autre qui est un peu long qui nous a reçu.
 
-**[01:09:03 - 01:09:07] 1-redsun**  
-fois ça dépend de votre usage il y a des mecs ils ont besoin d'avoir plusieurs agents donc en fait
+**[00:27:51 - 00:27:53] _redsun**  
+Non, non.
 
-**[01:09:07 - 01:09:13] 1-redsun**  
-ce truc là il convient à une multitude d'usages et en fait 90% des gens ils vont avoir un usage
+**[00:27:53 - 00:28:23] _redsun**  
+Non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non
 
-**[01:09:13 - 01:09:20] 1-redsun**  
-simple en fait quoi donc voilà ça c'est pour le petit tour d'horizon il y a plein de choses
+**[00:27:58 - 00:28:00] gilles_35307**  
+Qu'ils auraient ce soir.
 
-**[01:09:20 - 01:09:26] 1-redsun**  
-je sais pas s'il y a encore des questions ou pas ça va je regarde ici je vois quelque chose là dans le
+**[00:28:23 - 00:28:28] _redsun**  
+parce que parce que plein de raisons, mais justement, d'avoir une machine suffisamment
 
-**[01:09:26 - 01:09:35] 1-redsun**  
-chat ça va un peu pour pour vous comprendre un peu openclos bah je sais pas Paul tu l'avais jamais
+**[00:28:28 - 00:28:33] _redsun**  
+d'espo pour faire tourner G-M4 en local. Alors justement, on va parler G-M4,
 
-**[01:09:35 - 01:09:55] 1-redsun**  
-ouvert non mais n'est pas tant peur que ça parce que tu vois moi je l'ai mis sur celui-là il est
+**[00:28:33 - 00:28:36] _redsun**  
+moi j'ai fait pas mal de tests, donc je fais pour avoir vos uns des vainres
 
-**[01:09:55 - 01:10:00] 1-redsun**  
-sûrement l'ordinateur principal donc en fait ça dépend ce que tu fais mais je vais pas lui demander
+**[00:28:36 - 00:28:40] _redsun**  
+peu plus. C'est vraiment génial et ça torne sur des petites becaires, donc c'est super
 
-**[01:10:00 - 01:10:04] 1-redsun**  
-de faire des bricolages si je lui demande une spéciale il va pas non plus faire des conneries tout
+**[00:28:40 - 00:28:43] _redsun**  
+agréable. Et ça permet de popper ces tokens, différentes
 
-**[01:10:04 - 01:10:18] 1-redsun**  
-seul alors justement ça c'est intéressant que t'en parles parce que d'après ce que j'ai compris
+**[00:28:43 - 00:28:48] _redsun**  
+tourner des démènes, des trucs à Joan 4, tornt tout pour les cronges,
 
-**[01:10:18 - 01:10:23] 1-redsun**  
-mais ça a vérifié tout ce que je vais dire là les mecs aussi ont une très très forte sécurité
+**[00:28:48 - 00:28:53] _redsun**  
+je voulais tout comme ça. Et puis sinon, bah c'est tout.
 
-**[01:10:23 - 01:10:28] 1-redsun**  
-de base c'est à dire dans la machine donc pour prendre le contrôle de la machine à distance
+**[00:28:53 - 00:28:59] _redsun**  
+Ok, il y a Philippe qui a un petit coin de son, c'est pas grave.
 
-**[01:10:28 - 01:10:34] 1-redsun**  
-tu peux toujours il y a toujours moyen de moyenne mais il faut se rêver de bonheur ça c'est difficile
+**[00:28:59 - 00:29:01] _redsun**  
+C'est parti de Discovery.
 
-**[01:10:34 - 01:10:44] 1-redsun**  
-donc s'il n'y a pas de de fuite surtout de la gateway qui est la clé de contrôle de ça en fait
+**[00:29:01 - 00:29:05] _redsun**  
+Ailleurs, le fonds-au qui nous dit, j'utilise un Penclore,
 
-**[01:10:44 - 01:10:51] 1-redsun**  
-normalement t'es assez tranquille et justement là il y a pas mal d'avantage aussi à utiliser les
+**[00:29:05 - 00:29:07] _redsun**  
+si on peut essayer, mais il découvre en fait.
 
-**[01:10:51 - 01:10:57] 1-redsun**  
-mecs il n'y a pas que la puissance il y a vraiment plusieurs critères qui font que parce
+**[00:29:07 - 00:29:09] _redsun**  
+Donc il est vraiment dans la découverte.
 
-**[01:10:57 - 01:11:02] 1-redsun**  
-qu'un mac studio aussi ou un mac mini ça fait pas de bruit ça consomme très peu en standby
+**[00:29:09 - 00:29:13] _redsun**  
+Ok, ça marche. Comme ça, c'est noté pour les profils.
 
-**[01:11:03 - 01:11:08] 1-redsun**  
-ça s'arrête jamais ça peut tourner comme un serveur tu vois il y a plein de petits trucs
+**[00:29:13 - 00:29:17] _redsun**  
+Donc si jamais il y a un gars qui a déchissons sur eux,
 
-**[01:11:09 - 01:11:16] 1-redsun**  
-après il y a d'autres pour ceux qui ont vraiment anti mac il y a il y a aussi les merde spark
+**[00:29:17 - 00:29:20] _redsun**  
+et les voir rien, on a testé un petit peu,
 
-**[01:11:17 - 01:11:19] 1-redsun**  
-voilà il y a ça si vous voulez vous amuser
+**[00:29:18 - 00:29:38] nano1992_**  
+...
 
-**[01:11:22 - 01:11:29] 1-redsun**  
-mais donc là on est sur du lourd mais par contre là on peut faire tourner des lm
+**[00:29:20 - 00:29:25] _redsun**  
+justement quand on a fait la mesure des aides avec Ardon,
 
-**[01:11:30 - 01:11:35] 1-redsun**  
-puissant là on peut y aller quoi 128 7
+**[00:29:25 - 00:29:27] _redsun**  
+on avait testé un petit peu, mais pas beaucoup moins.
 
-**[01:11:35 - 01:11:46] 1-redsun**  
-non alors d'après les blanches et tout non parce que là il n'y a pas de question
+**[00:29:27 - 00:29:30] _redsun**  
+Et quelqu'un d'autre qui dit,
 
-**[01:11:46 - 01:11:51] 1-redsun**  
-de maraignifier et donc ça serait pas mais alors on n'est pas loin non plus attention
+**[00:29:30 - 00:29:32] _redsun**  
+Oraya est ici devant Phon Manak,
 
-**[01:11:51 - 01:11:56] 1-redsun**  
-je n'ai pas que ça c'est de la dope c'est une video non c'est pas pas de la merde mais
+**[00:29:32 - 00:29:34] _redsun**  
+au personne.
 
-**[01:11:57 - 01:11:59] 1-redsun**  
-t'as des qualités qui sont
+**[00:29:34 - 00:29:36] _redsun**  
+Ouais.
 
-**[01:12:01 - 01:12:05] 1-redsun**  
-t'as quand même c'est quand même mieux c'est quand même toujours mieux sur un mac studio
+**[00:29:36 - 00:29:37] _redsun**  
+Ouais.
 
-**[01:12:08 - 01:12:13] 1-redsun**  
-après moi je suis super forcément bah si j'aime bien les appels depuis toujours mais quand même
+**[00:29:37 - 00:29:38] _redsun**  
+Oui, c'est ça.
 
-**[01:12:13 - 01:12:17] 1-redsun**  
-bah il faut se rendre tu vois c'est pas qu'une question de j'aime ou j'aime pas quoi
+**[00:29:38 - 00:29:43] _redsun**  
+Oui, c'est ça.
 
-**[01:12:19 - 01:12:22] 1-redsun**  
-voilà les mac studio là il y a celui là qui était très très intéressant
+**[00:29:38 - 00:29:44] nano1992_**  
+Et au regard de la nouvelle, c'est que ça mêlant dans plus de plusieurs modèles.
 
-**[01:12:23 - 01:12:30] 1-redsun**  
-là t'as 128 et là tu peux faire tourner des gros modèles là ça c'est pas mal
+**[00:29:43 - 00:29:45] _redsun**  
+et
 
-**[01:12:38 - 01:12:44] 1-redsun**  
-ouais j'en ai aussi alors moi j'en ai fait plusieurs
+**[00:29:44 - 00:29:47] nano1992_**  
+Le croix.
 
-**[01:12:47 - 01:12:49] 1-redsun**  
-ouais ouais bah je concède pas
+**[00:29:45 - 00:29:49] _redsun**  
+et
 
-**[01:12:53 - 01:12:56] 1-redsun**  
-moi j'aime pas du tout
+**[00:29:49 - 00:29:52] _redsun**  
+et
 
-**[01:12:57 - 01:13:03] 1-redsun**  
-parce que alors je vais essayer d'expliquer pourquoi parce que alors effectivement c'est hyper
+**[00:29:52 - 00:29:55] _redsun**  
+et
 
-**[01:13:03 - 01:13:09] 1-redsun**  
-simple hein tu fais one click t'es bon tout mon deux secondes t'as cet opte en penclos
+**[00:29:55 - 00:29:58] _redsun**  
+et
 
-**[01:13:09 - 01:13:17] 1-redsun**  
-tu dis génial et tout en fait tu sors complètement de l'intérêt de penclos parce que autant tu vas
+**[00:29:56 - 00:30:01] nano1992_**  
+J'ai pas s'il n'a plus... est-ce qu'il doit intégrer à toute la suite un fourmagnac,
 
-**[01:13:17 - 01:13:22] 1-redsun**  
-prendre une clôte code alors dans ce cas là je crois pas le truc quoi qui t'est hosté sur
+**[00:29:58 - 00:30:04] _redsun**  
+et
 
-**[01:13:22 - 01:13:30] 1-redsun**  
-une machine qui t'appartient pas que les data transitent par eux tu vois tu perds tout plein d'avantage
+**[00:30:01 - 00:30:08] nano1992_**  
+la fomèner à quel suite équivalent à celle de Microsoft ou de Google.
 
-**[01:13:38 - 01:13:44] 1-redsun**  
-alors justement c'est ce que c'est ce que je conseille d'abord comme ça coûte pas cher
+**[00:30:04 - 00:30:12] _redsun**  
+et
 
-**[01:13:44 - 01:13:48] 1-redsun**  
-prenez une clôte ou un click c'est cinq balles par mois tu fais un mois
+**[00:30:08 - 00:30:12] nano1992_**  
+Je ne sais pas si je ne faisais aucun point de comment faire la fomèner qui ne sont pas,
 
-**[01:13:48 - 01:13:52] 1-redsun**  
-tu regardes un peu comment ça marche mais déjà tu as une expérience qui n'est pas géniale moi je
+**[00:30:12 - 00:30:19] _redsun**  
+C'est possible.
 
-**[01:13:52 - 01:13:57] 1-redsun**  
-trouve parce que bon au moins tu peux tester pas cher on va dire et puis ensuite tu peux
+**[00:30:12 - 00:30:17] nano1992_**  
+par exemple que je peux activer en même est-il, peut-être que je t'invite ce quoi ?
 
-**[01:13:58 - 01:14:06] 1-redsun**  
-décider si tu te sens à l'aise après de passer à l'étape suivante et puis voilà
+**[00:30:17 - 00:30:27] nano1992_**  
+Parce que pour des petites, pour des usages en limit simple, pense qu'elle est tout
 
-**[01:14:06 - 01:14:20] 1-redsun**  
-ah c'est le c'est le sain graal quoi mais c'est pas fortement facile non plus et il y a des gens
+**[00:30:19 - 00:30:22] _redsun**  
+Ah ouais, c'est possible.
 
-**[01:14:20 - 01:14:26] 1-redsun**  
-ils s'en foutent en va dire juste un truc tout le qui marche effectivement après
+**[00:30:27 - 00:30:34] nano1992_**  
+fonctionnelle, typiquement la priorisation de mail, la synthèse, selon deux fois, je pense que c'est
 
-**[01:14:28 - 01:14:33] 1-redsun**  
-ça se défend moi je peux pas dire mais au terme d'expérience moi j'ai une expérience radicalement
+**[00:30:34 - 00:30:40] _redsun**  
+Après réchaîner du coin, c'est du coin 36 qui tournèrent rien sur le coin.
 
-**[01:14:33 - 01:14:40] 1-redsun**  
-différente depuis que j'ai eu sur mac mini tu vois mais pourquoi pas testé déjà comme ça
+**[00:30:34 - 00:30:35] nano1992_**  
+test suffisant.
 
-**[01:14:40 - 01:14:48] 1-redsun**  
-il y avait aussi tencent de notre ami de notre ami ben qui proposait lors du dernier avènement
+**[00:30:35 - 00:30:44] nano1992_**  
+Je crois qu'ils ont 4 modèles et puis en fonction de la page, ça d'hospage sur modèle
 
-**[01:14:48 - 01:14:54] 1-redsun**  
-50 dollars pour tester eux ils font aussi ça peut même être faire une première approche puis de voir
+**[00:30:42 - 00:31:06] _redsun**  
+Je ne veux pas faire de la
 
-**[01:14:54 - 01:14:58] 1-redsun**  
-si ça te plaît ou pas quoi un peu le clou parce que
+**[00:30:44 - 00:30:46] nano1992_**  
+le plus efficient.
 
-**[01:15:00 - 01:15:06] 1-redsun**  
-c'est en chine normalement c'est là il faut peut-être ben il a plus d'info mais a priori c'est plutôt en
+**[00:31:06 - 00:31:12] _redsun**  
+les lèmes sont très limités donc la place vraiment de j'adjbt au moins j'apprécie d'avoir
 
-**[01:15:06 - 01:15:17] 1-redsun**  
-chine ah ouais ok donc on n'a pas du coup on revêt ça change rien parce que stinger ils sont
+**[00:31:12 - 00:31:16] _redsun**  
+tiré respect de la vie plus l'air. Ça c'est une vraie question par contre Rien,
 
-**[01:15:17 - 01:15:25] 1-redsun**  
-c'est à francfort donc ça change que dalle quoi par contre faut savoir un truc c'est que la chine
+**[00:31:16 - 00:31:20] _redsun**  
+sinon pour le d'avg open code, ah ouais, ça ne vous coupe plus loin.
 
-**[01:15:25 - 01:15:35] 1-redsun**  
-donc si je vais sur github open claw c'est que j'ai vu aujourd'hui il faut savoir que là ça c'est
+**[00:31:20 - 00:31:25] _redsun**  
+Sur toute mes machines et avant ça j'étais sur Gemini C. L.
 
-**[01:15:35 - 01:15:39] 1-redsun**  
-le github open claw officiel donc vous avez tout le code source d'open claw et si vous regardez moi
+**[00:31:25 - 00:31:32] _redsun**  
+Ok, donc intéressant pour que d'ailleurs la les meilleurs en tout cas en Bench et pour les
 
-**[01:15:39 - 01:15:45] 1-redsun**  
-ce qui était intéressant c'était les contributeurs c'est qui bosse là dessus en fait déjà vous avez
+**[00:31:32 - 00:31:39] _redsun**  
+avoir testé par mal, c'est pour moi, c'est soit plus catis, bizarrement pas catisette,
 
-**[01:15:45 - 01:15:50] 1-redsun**  
-des milliers de codeurs qui bosse là dessus ça c'est clair et net mais surtout ce que j'ai
+**[00:31:39 - 00:31:44] _redsun**  
+je ne suis pas je trouve mon brun, où j'ai pété 55°C, en ressort de cadax,
 
-**[01:15:50 - 01:15:58] 1-redsun**  
-découvert un peu plus en grattant c'est que les sponsors de ça ce qui code le plus là dessus
+**[00:31:44 - 00:31:48] _redsun**  
+c'est vraiment là pour le moins je trouve c'est vraiment le meilleur,
 
-**[01:15:58 - 01:16:06] 1-redsun**  
-c'est les mecs de tencent et de nvidia à priori à beaucoup quoi je suis plus j'ai eu ça sponsor
+**[00:31:48 - 00:31:52] _redsun**  
+des argentins du dire avec CD-Concarnet, que à la CD-Convallet,
 
-**[01:16:06 - 01:16:14] 1-redsun**  
-du project c'est plus voilà c'est là donc les gars qui eux ils bossent là dessus quoi
+**[00:31:52 - 00:31:57] _redsun**  
+les développeurs sont en train de peu de basculer sur cadax à cause du
 
-**[01:16:14 - 01:16:22] 1-redsun**  
-il y a aussi open air et donc il n'y a pas des gogo le vrai c'est vraiment des 4 très bons
+**[00:31:57 - 00:32:02] _redsun**  
+des restrictions à l'immutation de la quantité de taquette.
 
-**[01:16:22 - 01:16:29] 1-redsun**  
-cruders qui bossent là dessus il y a le stinger aussi là on voit qui sponsor un peu le truc
+**[00:32:02 - 00:32:07] _redsun**  
+Donc c'est vrai qu'on peut que des beaucoup plus avec un abonnement simple,
 
-**[01:16:29 - 01:16:34] 1-redsun**  
-mais après ils se font de saut mais ils code aussi forcément parce que ils apportent ils apportent
+**[00:32:07 - 00:32:11] _redsun**  
+que ça j'ai pété avant-ball, que avec les trucs, des phrases,
 
-**[01:16:34 - 01:16:38] 1-redsun**  
-d'études mais ils apportent pas que ça ils apportent aussi des connaissances puis des développeurs
+**[00:32:11 - 00:32:17] _redsun**  
+flots qui sont beaucoup plus limités.
 
-**[01:16:38 - 01:16:47] 1-redsun**  
-donc voilà pour le tour d'horizon n'hésitez pas à se faire des questions au fur et à mesure si
+**[00:32:17 - 00:32:19] _redsun**  
+Voilà.
 
-**[01:16:47 - 01:16:49] 1-redsun**  
-je peux répondre ou si quelqu'un d'autre va répondre
+**[00:32:19 - 00:32:28] _redsun**  
+Donc, d'habitude, présentation, j'ai juste reprendre Viennes qui répondent,
 
-**[01:18:04 - 01:18:21] 1-redsun**  
-c'est
+**[00:32:28 - 00:32:32] _redsun**  
+que d'être revient en force effectivement, entrepique, au point beaucoup d'essisions anti-custammer
 
-**[01:18:34 - 01:19:04] 1-redsun**  
-C'est la première fois qu'il y a des gens qui sont en train de faire la même chose qu'il y a des gens qui sont en train de faire la même chose qu'il y a des gens qui sont en train de faire la même chose que il y a des gens qui sont en train de faire la même chose que il y a des gens qui sont en train de faire la même chose que il y a des gens qui sont en train de faire la même chose que il y a des gens qui sont en train de faire la même chose que il y a des gens qui sont en train de faire la même chose que il y a des gens qui sont en train de faire la même chose que il y a des gens qui sont en train de faire la même chose que il y a des gens qui sont en train de faire la même chose que il y a des gens qui sont en train de faire la même chose que il y a des gens qui sont en train de faire la même chose que il y a des gens qui sont en train de faire la même chose que il y a
+**[00:32:32 - 00:32:33] _redsun**  
+ou c'est vrai.
 
-**[01:19:04 - 01:19:17] 1-redsun**  
-des gens qui sont en train de faire la même chose que il y a des gens qui sont en train de faire la même chose que il yaosc
+**[00:32:33 - 00:32:38] _redsun**  
+A d'ailleurs, il y a un gros sujet et moi, je suis assez d'accord avec cette théorie là.
 
-**[01:19:17 - 01:19:17] 1-redsun**  
-Ça va
+**[00:32:38 - 00:32:44] _redsun**  
+Vous savez, le fameux projet mythos, tout le monde entend du par les mythos, je suppose
 
-**[01:19:17 - 01:19:18] 1-redsun**  
-En fait
+**[00:32:44 - 00:32:47] _redsun**  
+une mythole, c'est le plus gros projet de chez anthropique.
 
-**[01:19:18 - 01:19:35] 1-redsun**  
-Alors, il y a juste une question, j'en profite de Rien, parce que j'avais pas vu là, et
+**[00:32:47 - 00:32:50] _redsun**  
+Ça va des ans qu'ils n'ont pas sorti puisqu'ils étaient trop puissants.
 
-**[01:19:35 - 01:19:40] 1-redsun**  
-une VM virtual machine sur un petit home server sous Proxmox, si t'arrives à faire
+**[00:32:50 - 00:32:56] _redsun**  
+La vraie raison, c'est des rummeurs, mais ça serait qu'ils ont pas cette puissance pour le sorti.
 
-**[01:19:40 - 01:19:45] 1-redsun**  
-ça, Rien, fais-le tout de suite, c'est pour moi le top, ça t'est tranquille, c'est
+**[00:32:56 - 00:33:02] _redsun**  
+Et que l'aïs sont un petit peu à bout en termes de capacité,
 
-**[01:19:45 - 01:19:49] 1-redsun**  
-compliqué à faire, par contre c'est pas pour tout le monde, tu vois, tu as l'air de
+**[00:33:02 - 00:33:05] _redsun**  
+parce qu'ils ont pris aussi beaucoup de clients en un coup.
 
-**[01:19:49 - 01:19:54] 1-redsun**  
-toucher un peu, donc tu peux t'amuser un peu, Raspberry Pi très bien aussi, pourquoi pas,
+**[00:33:05 - 00:33:11] _redsun**  
+Et mon avis, ils sont un petit peu dans la sauce en termes de...
 
-**[01:19:54 - 01:19:59] 1-redsun**  
-mais tu ne ferais rien de local, par contre, quelle sera la configuration minimale en
+**[00:33:11 - 00:33:18] _redsun**  
+pour provider en fait du taquaine, mais c'était pas encore enfermement, mais il y a quand même beaucoup de humeur va être succès.
 
-**[01:19:59 - 01:20:03] 1-redsun**  
-RAM Core, de toute façon, j'ai marre, si t'as moins de 16GB, tu vas quand même bien
+**[00:33:18 - 00:33:25] gilles_35307**  
+Je l'ai lu que les représentants négouvant de mon repeint, c'était épingché sur le sujet de mythos,
 
-**[01:20:03 - 01:20:09] 1-redsun**  
-galérer, ou même Nemotron, qui est excellent aussi, d'ailleurs celui de Nvidia, c'est
+**[00:33:25 - 00:33:28] gilles_35307**  
+et que par amance, il y a un petit peu tout le monde.
 
-**[01:20:09 - 01:20:16] 1-redsun**  
-un petit modèle local, Open Source, qui est très très bon aussi, et en dessous de 16GB,
+**[00:33:27 - 00:33:39] _redsun**  
+Parce que en fait c'est vrai qu'il peut faire basse, on termbe de cybercès que plus, c'est un des irréhépires dans le drôle.
 
-**[01:20:16 - 01:20:20] 1-redsun**  
-donc sur le Raspberry Pi, je ne sais pas comment il a, mais à mon avis c'est moins de 16GB
+**[00:33:27 - 00:33:51] nano1992_**  
+...
 
-**[01:20:20 - 01:20:25] 1-redsun**  
-en même sens, enfin, de ce que je me rappelle des Raspberry Pi, on s'adapte d'un petit
+**[00:33:28 - 00:33:30] gilles_35307**  
+C'est tout ce que j'ai lu.
 
-**[01:20:25 - 01:20:33] 1-redsun**  
-moment, juste pour la petite histoire, ça c'est Peter, pour ceux qui ne connaissent
+**[00:33:34 - 00:33:39] pollux8888**  
+...
 
-**[01:20:33 - 01:20:38] 1-redsun**  
-pas, c'est le Core Developer d'OpenClo, juste regarder le nombre de trucs qu'il a
+**[00:33:41 - 00:33:56] _redsun**  
+On va voir ce qu'on a fait, mais on va recommencer à évoluer.
 
-**[01:20:38 - 01:20:43] 1-redsun**  
-fait avant de faire OpenClo, qui était déjà multimillionnaire avant de faire OpenClo,
+**[00:33:56 - 00:33:59] _redsun**  
+Voilà.
 
-**[01:20:43 - 01:20:49] 1-redsun**  
-il a fait tous ces trucs-là avant de coder OpenClo, donc ça ne vient pas nulle part,
+**[00:33:57 - 00:34:03] nano1992_**  
+Il me semble compter ce qu'il est-il, non ?
 
-**[01:20:49 - 01:20:56] 1-redsun**  
-c'est un aboutissement de gros trucs, et puis maintenant, il a des très très gros supports,
+**[00:33:59 - 00:34:03] _redsun**  
+Voilà.
 
-**[01:20:56 - 01:21:02] 1-redsun**  
-et ce qui est très intéressant aussi, c'est que c'est une fondation OpenClo, donc c'est
+**[00:34:03 - 00:34:04] _redsun**  
+Voilà.
 
-**[01:21:02 - 01:21:11] 1-redsun**  
-complètement une fondation, ça ne va pas se transformer en OpenAI V2, et normalement ça va
+**[00:34:04 - 00:34:05] _redsun**  
+Voilà.
 
-**[01:21:11 - 01:21:20] 1-redsun**  
-rester, enfin, j'espère que je ne suis pas en train de porter là, mais lui il s'est
+**[00:34:04 - 00:34:06] pollux8888**  
+Réla en temps en plus.
 
-**[01:21:20 - 01:21:27] 1-redsun**  
-fait racheter, lui il s'est fait racheter, il ont fait un milliard a priori parce qu'on a compris
+**[00:34:05 - 00:34:06] _redsun**  
+Je vais juste me le croquer.
 
-**[01:21:27 - 01:21:33] 1-redsun**  
-des trucs délirants, mais lui son deal c'était que ça reste Open Source et de créer une
+**[00:34:06 - 00:34:07] _redsun**  
+Voilà.
 
-**[01:21:33 - 01:21:38] 1-redsun**  
-fondation, et a priori, c'est aussi un truc très très important aujourd'hui, parce que si autant
+**[00:34:07 - 00:34:11] _redsun**  
+Si on est en front du fond des rires, donc c'était des attraper, on a une tente.
 
-**[01:21:38 - 01:21:43] 1-redsun**  
-de développeurs chinois notamment qui adore Open Source et qui sont à fond là-dedans,
+**[00:34:11 - 00:34:12] _redsun**  
+Voilà.
 
-**[01:21:43 - 01:21:47] 1-redsun**  
-et ils participent à ça, ce n'est pas pour rien, c'est parce que justement tout le monde peut
+**[00:34:12 - 00:34:13] _redsun**  
+C'est qui?
 
-**[01:21:47 - 01:21:56] 1-redsun**  
-en profiter, et puis il y a des très bons codeurs aussi, tout le monde entier peut le faire. Alors
+**[00:34:13 - 00:34:15] _redsun**  
+Ok.
 
-**[01:21:56 - 01:22:01] 1-redsun**  
-attends, j'ai déjà des VM qui tournent, je ferai ça ce soir, pour l'instant je fais le compromis sur
+**[00:34:14 - 00:34:17] pollux8888**  
+Pas c'est de ressources comme mythos.
 
-**[01:22:01 - 01:22:05] 1-redsun**  
-les modèles locaux, le temps de tester et prendre en main au pire, j'ai aussi des modèles frites
+**[00:34:15 - 00:34:16] _redsun**  
+Ça va vraiment.
 
-**[01:22:05 - 01:22:11] 1-redsun**  
-sur OpenRouter, ouais voilà, c'est une très bonne idée, ça ce qui dit Marianne, je peux vous montrer
+**[00:34:16 - 00:34:21] _redsun**  
+Je sais, ça fait tout faire.
 
-**[01:22:11 - 01:22:18] 1-redsun**  
-OpenRouter, alors moi j'ai un petit compte OpenRouter que j'utilise de temps en temps pour faire des
+**[00:34:18 - 00:34:40] gilles_35307**  
+...
 
-**[01:22:18 - 01:22:25] 1-redsun**  
-tests, et là vous avez des modèles frites en fait, ah bah Baidu, Kiffan, voilà, celui là il est gratos,
+**[00:34:21 - 00:34:22] _redsun**  
+Voilà.
 
-**[01:22:25 - 01:22:29] 1-redsun**  
-alors il y a beaucoup de restrictions, mais au moins ça vous permet de tester OpenClo,
+**[00:34:22 - 00:34:23] _redsun**  
+Ok.
 
-**[01:22:29 - 01:22:38] 1-redsun**  
-de plugger ce genre de trucs, et puis ensuite de tester OpenClo d'ailleurs, si on tape OpenClo sur
+**[00:34:23 - 00:34:24] _redsun**  
+Donc voilà.
 
-**[01:22:38 - 01:22:47] 1-redsun**  
-OpenRouter, Clo, il me semblait, alors ils ont encore changé l'interface, il y a Hermès,
+**[00:34:24 - 00:34:26] _redsun**  
+C'était pour la petite introduction.
 
-**[01:22:47 - 01:22:57] 1-redsun**  
-un concurrent qui est très très en vogue en ce moment aussi d'ailleurs, j'ai juste idée de retrouver
+**[00:34:26 - 00:34:33] _redsun**  
+Donc en gros, moi je voulais parler aussi de GMA, était le sujet aussi de la soirée.
 
-**[01:22:57 - 01:23:05] 1-redsun**  
-ce qu'il y avait, on voyait les modèles les plus utilisés en fonction, ah bah voilà c'est ça,
+**[00:34:28 - 00:34:56] bensmart**  
+Non pas du tout alors j'ai pas très bien suivi ça peut être un petit d'entre eux
 
-**[01:23:05 - 01:23:10] 1-redsun**  
-donc les deux, la Hermès agent, il commence à prendre du poids, le truc qui est très bien aussi,
+**[00:34:33 - 00:34:37] _redsun**  
+Ce n'est pas, est-ce que quelqu'un a testé GMA qui a apprécié ?
 
-**[01:23:10 - 01:23:17] 1-redsun**  
-donc là vous avez les modèles les plus utilisés, donc sur OpenRouter c'est JLM5 Turbo,
+**[00:34:37 - 00:34:44] _redsun**  
+Oui, ah, il y a rien qui dit qu'il a testé.
 
-**[01:23:17 - 01:23:24] 1-redsun**  
-minimax 2.7, Clo de Sonet K6 et Nemo Tron, super, donc c'est ce qu'on a parlé,
+**[00:34:40 - 00:34:41] gilles_35307**  
+Non.
 
-**[01:23:24 - 01:23:30] 1-redsun**  
-et donc là c'est intéressant de voir ce que les autres utilisent, que modèles en fonction des
+**[00:34:44 - 00:34:48] _redsun**  
+Il a pas franchement, il s'est super intéressant, bon, t'as testé.
 
-**[01:23:30 - 01:23:34] 1-redsun**  
-modes, ils changent le modèle, ils utilisent plutôt autre chose, et je crois qu'il y avait
+**[00:34:56 - 00:34:57] _redsun**  
+.
 
-**[01:23:34 - 01:23:42] 1-redsun**  
-Nemo Tron free sur OpenRouter, je sais pas s'il est toujours free, ouais il est là, on peut utiliser
+**[00:34:56 - 00:35:00] bensmart**  
+Ce que c'est, j'ai ma quatre, je suis un peu lâché à ces dernières temps,
 
-**[01:23:42 - 01:23:50] 1-redsun**  
-celui là, tu installes ton OpenClo, tu mets Nemo Tron mini free, tu plugs, tu dis OpenRouter de faire
+**[00:34:57 - 00:34:58] _redsun**  
+.
 
-**[01:23:50 - 01:23:59] 1-redsun**  
-la connexion et c'est parti quoi, OpenRouter, OpenClo, voilà un petit peu, attend je regarde
+**[00:34:58 - 00:34:59] _redsun**  
+.
 
-**[01:23:59 - 01:24:03] 1-redsun**  
-juste, gros conseil OpenRouter, ajouter 10$ de crédit, même si vous utilisez que les modèles
+**[00:34:59 - 00:35:00] _redsun**  
+.
 
-**[01:24:03 - 01:24:07] 1-redsun**  
-gratuits, ça fait passer les quotas, de voir enquête par jour à 1000A, ça je savais pas,
+**[00:35:00 - 00:35:01] _redsun**  
+.
 
-**[01:24:07 - 01:24:15] 1-redsun**  
-ok, et on a moins d'évoire 429, il faut voir comme OpenRouter qui vérifie que c'est pas du free
+**[00:35:00 - 00:35:05] bensmart**  
+puisque je me suis concentré sur un silence de moins de euros.
 
-**[01:24:15 - 01:24:20] 1-redsun**  
-loader, ah ouais, pas con ça, ça c'est intéressant, rien, ils le disent en gros, même si vous
+**[00:35:01 - 00:35:02] _redsun**  
+.
 
-**[01:24:20 - 01:24:24] 1-redsun**  
-utilisez les versions gratuits, il faut mettre 10 balles sur OpenRouter, comme ça vous êtes tranquille
+**[00:35:02 - 00:35:03] _redsun**  
+.
 
-**[01:24:24 - 01:24:31] 1-redsun**  
-par rapport à l'utilisation des modèles free quoi, donc je sais pas si on a parlé un peu de
+**[00:35:03 - 00:35:04] _redsun**  
+.
 
-**[01:24:31 - 01:24:38] 1-redsun**  
-Gemma ou là c'est déjà 21h12, on a déjà, donc voilà on a fait déjà la démo en live en fait,
+**[00:35:04 - 00:35:05] _redsun**  
+.
 
-**[01:24:38 - 01:24:44] 1-redsun**  
-ah oui je voulais vous parler d'un autre truc, mais bon normalement ça fait jusqu'à 21h,
+**[00:35:05 - 00:35:06] _redsun**  
+.
 
-**[01:24:44 - 01:24:48] 1-redsun**  
-mais souvent on déborde un petit peu, donc si vous voulez partir, vous pouvez partir,
+**[00:35:05 - 00:35:12] bensmart**  
+J'espère, j'espère très prochainement que je suis pas heure, un bon honneau, un bon dîle,
 
-**[01:24:48 - 01:24:52] 1-redsun**  
-pas de soucis, ce qui veut le rester, je peux montrer un peu de trois trucs, moi je vais montrer
+**[00:35:06 - 00:35:07] _redsun**  
+.
 
-**[01:24:52 - 01:24:56] 1-redsun**  
-un petit truc intéressant tant que j'ai l'écran, puis si vous avez des trucs à montrer,
+**[00:35:07 - 00:35:08] _redsun**  
+.
 
-**[01:24:56 - 01:24:59] 1-redsun**  
-hésitez pas à me demander, moi je vous passe l'écran et vous pouvez montrer,
+**[00:35:08 - 00:35:09] _redsun**  
+.
 
-**[01:24:59 - 01:25:05] 1-redsun**  
-donc juste un petit peu de contexte, comme ça vous allez voir un peu ce que moi j'ai essayé de faire,
+**[00:35:09 - 00:35:10] _redsun**  
+.
 
-**[01:25:05 - 01:25:12] 1-redsun**  
-donc là c'est des mechis, et mechis c'est un logiciel qui permet avec des promes de créer des
+**[00:35:10 - 00:35:11] _redsun**  
+.
 
-**[01:25:12 - 01:25:17] 1-redsun**  
-modèles 3D, autant vous dire que les modèles 3D sont ultra bonnes qualités, c'est dingot quoi,
+**[00:35:11 - 00:35:12] _redsun**  
+.
 
-**[01:25:18 - 01:25:23] 1-redsun**  
-maintenant on arrive à avoir un truc, ouais tu peux les imprimer en 3D,
+**[00:35:12 - 00:35:13] _redsun**  
+.
 
-**[01:25:23 - 01:25:28] 1-redsun**  
-il y a tout le process de création, tu peux même les animer,
+**[00:35:12 - 00:35:21] bensmart**  
+d'abonnement, en fait, moins cher pour ceux qui s'intéressent à la création de vidéos avec aussi dans...
 
-**[01:25:28 - 01:25:35] 1-redsun**  
-là j'ai fait récemment un cours là dessus, alors attend c'est là où c'est intéressant,
+**[00:35:13 - 00:35:14] _redsun**  
+.
 
-**[01:25:35 - 01:25:40] 1-redsun**  
-en fait c'est un site qui permet de faire des modèles 3D, donc là j'ai fait un astronaute,
+**[00:35:14 - 00:35:15] _redsun**  
+.
 
-**[01:25:40 - 01:25:49] 1-redsun**  
-j'ai fait plein de trucs, voilà comme ça pour me marrer, et ce qui est super intéressant c'est
+**[00:35:15 - 00:35:16] _redsun**  
+.
 
-**[01:25:49 - 01:25:52] 1-redsun**  
-que tu peux les animer également, donc là j'ai fait une version animée,
+**[00:35:16 - 00:35:17] _redsun**  
+.
 
-**[01:25:52 - 01:25:58] 1-redsun**  
-donc tu peux les intégrer dans les moteurs de jeu aussi, donc tu peux faire des exportations et tu
+**[00:35:17 - 00:35:18] _redsun**  
+.
 
-**[01:25:58 - 01:26:04] 1-redsun**  
-peux les exporter avec Blender, Godot, Unity, Unreal, Maya ou 3DS, Roblox aussi,
+**[00:35:18 - 00:35:19] _redsun**  
+.
 
-**[01:26:05 - 01:26:13] 1-redsun**  
-donc tu peux créer en imprimant avec des images, là j'ai fait ça aussi avec une image GPT2 et là
+**[00:35:19 - 00:35:20] _redsun**  
+.
 
-**[01:26:13 - 01:26:21] 1-redsun**  
-je monte l'image, ça c'est ce que j'ai fait comme image sur GPT2, image GPT2, image, voilà,
+**[00:35:20 - 00:35:21] _redsun**  
+.
 
-**[01:26:21 - 01:26:27] 1-redsun**  
-et le résultat il est là quoi, c'est assez barge quand même, franchement, moi j'ai fait de la 3D
+**[00:35:21 - 00:35:22] _redsun**  
+.
 
-**[01:26:27 - 01:26:32] 1-redsun**  
-pendant 15 ans et franchement je suis un peu sur le cul là, il y a plein qui vont perdre leur boulot,
+**[00:35:21 - 00:35:35] bensmart**  
+C'est comme, comme je dis, il est toujours des prix, des pricing officiels, tu trouves sur les sites et différents modèles, des différents plateformes etc.
 
-**[01:26:33 - 01:26:42] 1-redsun**  
-c'est ça que je comprends, mais ce qui est assez fou, en fait c'est fait pour ça,
+**[00:35:22 - 00:35:23] _redsun**  
+.
 
-**[01:26:42 - 01:26:47] 1-redsun**  
-c'est à dire tu peux faire ton pont et puis tu peux l'envoyer sur Unity qui a un moteur de création
+**[00:35:23 - 00:35:24] _redsun**  
+.
 
-**[01:26:47 - 01:26:51] 1-redsun**  
-de jeu vidéo ou Unreal Engine qui est aussi un moteur et puis là en fait tu envoies ton modèle
+**[00:35:24 - 00:35:25] _redsun**  
+.
 
-**[01:26:51 - 01:26:58] 1-redsun**  
-là-bas, le setup en rigging c'est à dire tu vas le paramétrer tout son squelette et ensuite tu
+**[00:35:35 - 00:35:37] bensmart**  
+Et après, il a toujours les promo codes.
 
-**[01:26:58 - 01:27:05] 1-redsun**  
-balance dans ton moteur de jeu puis t'as un PNG ou un personnage joueur, mais laisse tomber,
+**[00:35:37 - 00:35:44] bensmart**  
+T'as toujours des contributions à un peu en parallèle.
 
-**[01:27:05 - 01:27:15] 1-redsun**  
-tu pètes les blonds, parce que là il suffit maintenant de tâffer un peu puis tu peux faire des
+**[00:35:44 - 00:35:51] bensmart**  
+Je sais de Choupe-Sah et le but, c'est de ramener les bandes et le pour la communauté,
 
-**[01:27:15 - 01:27:20] 1-redsun**  
-trucs de fou et puis c'est pas tout parce que là moi je me suis dit bah avec mes élèves on a
+**[00:35:51 - 00:35:52] bensmart**  
+pour notre communauté.
 
-**[01:27:20 - 01:27:26] 1-redsun**  
-fait ça je dis bah attend on va se marrer un peu et bah en fait il y a une autre chose là dedans
+**[00:35:52 - 00:36:04] bensmart**  
+Ça soit avec Tensant ou Alibaba ou tout sortes des bandes de crédits ou des offres moins cher,
 
-**[01:27:26 - 01:27:29] 1-redsun**  
-c'est que tu peux plugger ça et d'ailleurs c'est disponible aussi dans la pays, tu peux le
+**[00:36:04 - 00:36:13] bensmart**  
+C'est-à-dire, après, voilà, c'est nature des fenêtres d'opportunité qui faudra être
 
-**[01:27:29 - 01:27:33] 1-redsun**  
-mettre en scène, c'est à dire tu peux mettre ton modèle 3D, tu vas le mettre en scène,
+**[00:36:13 - 00:36:16] bensmart**  
+saisir plus rapidement.
 
-**[01:27:33 - 01:27:41] 1-redsun**  
-tu peux utiliser nano banana où j'ai pété image, ok et en fait donc là tu mets en scène,
+**[00:36:16 - 00:36:24] bensmart**  
+On a signé un truc avec Sidonze, donc Biteplace, et j'essaie de mettre en place
 
-**[01:27:41 - 01:27:45] 1-redsun**  
-tu tape le prompt de ce que tu veux comme background, je vous la fais vite pour pas prendre trop de
+**[00:36:24 - 00:36:29] bensmart**  
+à calculer un praising qui soit intéressant pour tout le monde.
 
-**[01:27:45 - 01:27:54] 1-redsun**  
-temps, tu génères, tac voilà et ensuite là où c'est trop trop incroyable c'est que eux ils ont
+**[00:36:25 - 00:36:27] _redsun**  
+et
 
-**[01:27:54 - 01:28:02] 1-redsun**  
-intégré Seedance 2 donc ce qui parlait avant et moi j'ai amusé à faire des vidéos avec mes
+**[00:36:29 - 00:36:32] bensmart**  
+et j'espère pouvoir ouvrir le profiter prochainement.
 
-**[01:28:02 - 01:28:07] 1-redsun**  
-objets 3D donc là c'est une vidéo que j'ai réalisée à partir de l'astronaute que vous avez
+**[00:36:33 - 00:36:35] _redsun**  
+à me commencer on s'équipe
 
-**[01:28:07 - 01:28:14] 1-redsun**  
-vu en 3D donc le contexte est complètement conservé, je sais pas si vous avez le son je pense pas
+**[00:36:35 - 00:36:41] bensmart**  
+Enfin moi avec mon associé avec mon équipe qui est basé à Hong Kong.
 
-**[01:28:14 - 01:28:29] 1-redsun**  
-on s'en fout c'est sur Mars, ok et puis il y a un de mes élèves
+**[00:36:43 - 00:36:44] _redsun**  
+à être au gain
 
-**[01:28:29 - 01:28:38] 1-redsun**  
-franchement c'est pas plus que ça et puis quand ils nous disaient Seedance c'est la révolution
+**[00:36:44 - 00:36:45] _redsun**  
+à barra
 
-**[01:28:38 - 01:28:43] 1-redsun**  
-Ben il a complètement raison c'est un modèle là on les voit Seedance 2, Seedance 2 Fast,
+**[00:36:44 - 00:36:50] bensmart**  
+Parce que les tokens sont produits depuis l'ordée de ta sainteur à Malesi.
 
-**[01:28:43 - 01:28:48] 1-redsun**  
-VO3, Kling et Kling est très bien aussi et beaucoup moins cher parce que ça coûte une
+**[00:36:52 - 00:36:54] bensmart**  
+Les tokens de sidance.
 
-**[01:28:48 - 01:28:55] 1-redsun**  
-blindasse, c'est 5 balles la plus vidéo là, voilà tu veux,
+**[00:36:55 - 00:37:03] _redsun**  
+Ok, ok, ok, bah ça fait vraiment très intéressant, évidemment, que la conserve plus
 
-**[01:29:00 - 01:29:06] 1-redsun**  
-alors la vidéo là coûte environ, je sais pas comment quantifier ça, c'est difficile c'est
+**[00:36:56 - 00:36:57] bensmart**  
+Voilà voilà.
 
-**[01:29:06 - 01:29:15] 1-redsun**  
-des tokens mais en gros entre 3 et 5 quoi et puis un café et là il y a mes élèves ils
+**[00:37:03 - 00:37:05] _redsun**  
+c'est mieux ce qui est lui qui est dans la création vidéo.
 
-**[01:29:15 - 01:29:21] 1-redsun**  
-travaillent sur une marque avec un crocodile donc création de tu vois de trucs et voilà il
+**[00:37:05 - 00:37:08] _redsun**  
+Alors pour ceux qui sont intéressés aussi vous pouvez faire de la création vidéo avec
 
-**[01:29:21 - 01:29:25] 1-redsun**  
-est juste là pas qui vole au début mais ça on n'a pas pu corriger et puis en gros il veut
+**[00:37:08 - 00:37:09] _redsun**  
+Coppen Club.
 
-**[01:29:25 - 01:29:30] 1-redsun**  
-l'utiliser pour sa marque de vêtements qui est un crocodile spécial qui est gentil je sais pas quoi
+**[00:37:09 - 00:37:15] _redsun**  
+Donc ça peut être très très intéressant évidemment comme on a toujours chaud
 
-**[01:29:30 - 01:29:41] 1-redsun**  
-il y en a déjà qu'on a déjà essayé et puis là il y a un gars qui faisait des bijoux et puis on
+**[00:37:15 - 00:37:18] _redsun**  
+Benz-y, t'as un délicat de ça, tu me fais pas de croix.
 
-**[01:29:41 - 01:29:46] 1-redsun**  
-a fait ça ensemble donc là franchement la qualité moi je pète un plomb quoi, ceux qui ont fait de la
+**[00:37:18 - 00:37:23] _redsun**  
+Et puis, j'en profite en question, on peut qu'on parle de dit, juste avant d'attaquer
 
-**[01:29:46 - 01:29:51] 1-redsun**  
-vidéo qui savent un peu combien ça coûte ce genre de trucs, ça ça coûte cher
+**[00:37:23 - 00:37:28] _redsun**  
+puis d'expliquer ce que ça a accepté à moi je fais des voir arthcomputer à Genève qui est
 
-**[01:29:51 - 01:30:02] 1-redsun**  
-là, ouais c'est ça
+**[00:37:28 - 00:37:32] _redsun**  
+revendor officiel à Paul. Je vais pas m'adiscuter avec le directeur de
 
-**[01:30:12 - 01:30:15] 1-redsun**  
-exactement, là t'as tout complété c'est bon
+**[00:37:32 - 00:37:37] _redsun**  
+mour. Ce que tu dis à chaque et tout, donc on a pas mal parlé de qu'est ce qu'on pouvait faire.
 
-**[01:30:15 - 01:30:25] 1-redsun**  
-exactement mais tu peux garder le contexte et conserver aussi ton personnage tu vas tu
+**[00:37:37 - 00:37:42] _redsun**  
+Et puis il y a des très chauds pour faire des petits rabbes pour la communauté Open Cloud
 
-**[01:30:25 - 01:30:31] 1-redsun**  
-créer ton perso et du coup tu es dans tous les angles peu importe il est en haut en bas à gauche à
+**[00:37:42 - 00:37:47] _redsun**  
+in-vaise. Ça va être super cool pour nous, on devra rameter rabbes. Si vous voulez vous équiper
 
-**[01:30:31 - 01:30:38] 1-redsun**  
-droite tout sera cohérent pour la vidéo tu vois donc là je me suis... alors attend je viens je
+**[00:37:47 - 00:37:57] _redsun**  
+on a chine, il peut y avoir des stocks, donc je vais essayer de voir si il n'est pas assez
 
-**[01:30:38 - 01:30:39] 1-redsun**  
-m'enjouis celui là parce que c'est démarrant
+**[00:37:57 - 00:38:01] _redsun**  
+chaud pour se ponceau, si les éveillements, parce que j'ai à moins de faire un superdé,
 
-**[01:30:44 - 01:30:49] 1-redsun**  
-donc là je me suis marré à faire ça et après je s'explique pourquoi c'est un dernier copainclaw
+**[00:37:59 - 00:38:27] bensmart**  
+de
 
-**[01:31:00 - 01:31:07] 1-redsun**  
-bah tu fais ce que tu veux en fait là je me suis amusé à faire un petit perso en 3D pour c'est
+**[00:38:01 - 00:38:05] _redsun**  
+les très sympas et les très ouvertes, et que la vie en plein clôt d'ailleurs, il s'est
 
-**[01:31:07 - 01:31:10] 1-redsun**  
-une démo en fait c'est rien de plus qu'une démo mais ce qui est incroyable c'est que là dedans
+**[00:38:04 - 00:38:31] pollux8888**  
+et
 
-**[01:31:10 - 01:31:15] 1-redsun**  
-il y a un petit truc qui s'appelle l'API vous savez ce que c'est une API c'est donc là en fait
+**[00:38:05 - 00:38:11] _redsun**  
+fait dévaliser son magasant à cause de ma communauté, d'avoir une approche qui m'expliquer.
 
-**[01:31:15 - 01:31:23] 1-redsun**  
-alors et justement tu peux moi ce que j'ai fait j'ai généré une clé API je l'ai balancé sur
+**[00:38:11 - 00:38:13] _redsun**  
+Ah...
 
-**[01:31:23 - 01:31:28] 1-redsun**  
-openclaw et du coup cette vidéo que vous avez vu là elle est 100% créée par openclaw
+**[00:38:13 - 00:38:15] _redsun**  
+Ah...
 
-**[01:31:28 - 01:31:40] 1-redsun**  
-là vous me suivez là où je me dis donc du coup tu peux créer de la vidéo à la demande et du
+**[00:38:15 - 00:38:17] _redsun**  
+pas la
 
-**[01:31:40 - 01:31:47] 1-redsun**  
-coup tu peux créer des moi j'ai utilisé ça pour faire un truc sur mon LinkedIn pour faire de voilà
+**[00:38:17 - 00:38:19] _redsun**  
+pas la
 
-**[01:31:47 - 01:31:52] 1-redsun**  
-tu peux faire le promo tu peux faire des trucs enfin moi je fais ça pour tester mais en fait
+**[00:38:19 - 00:38:21] _redsun**  
+pas la
 
-**[01:31:52 - 01:31:57] 1-redsun**  
-t'as mille mille possibilités si tu fais de la vente de produits tu peux te faire des trucs super
+**[00:38:21 - 00:38:23] _redsun**  
+pas la
 
-**[01:31:57 - 01:32:04] 1-redsun**  
-intéressants quoi donc voilà use case qu'on crée
+**[00:38:23 - 00:38:25] _redsun**  
+pas la
 
-**[01:32:04 - 01:32:06] 1-redsun**  
+**[00:38:25 - 00:38:29] _redsun**  
+pas la
 
-**[01:32:19 - 01:32:22] 1-redsun**  
-j'ai l'air obligée
+**[00:38:27 - 00:38:55] bensmart**  
+J'ai quand même l'impression sérieux que tous ces vagues d'achat de maquemini
 
-**[01:32:22 - 01:32:42] 1-redsun**  
-Ouais mais le problème c'est que ça va jamais être la même qualité quoi, crée moi une
+**[00:38:29 - 00:38:31] _redsun**  
+pas la
 
-**[01:32:42 - 01:32:47] 1-redsun**  
-roll extère, on va faire vraiment le prompt qu'il faut jamais faire et puis j'ai dit les méchissistes.
+**[00:38:31 - 00:38:33] _redsun**  
+pas la
 
-**[01:32:47 - 01:32:59] 1-redsun**  
-Ouais mais déjà on va voir, tu vas comprendre pourquoi on n'est pas encore là mais on va y arriver
+**[00:38:33 - 00:38:35] _redsun**  
+pas la
 
-**[01:32:59 - 01:33:04] 1-redsun**  
-gentiment, c'est qu'après tu peux aussi, parce qu'en impression 3D aussi tu vas avoir des pertes
+**[00:38:34 - 00:38:50] pollux8888**  
+et les maquemini
 
-**[01:33:04 - 01:33:10] 1-redsun**  
-de qualité importante aussi et puis lui il va générer un mesh qui est très bien franchement
+**[00:38:35 - 00:38:37] _redsun**  
+pas la
 
-**[01:33:10 - 01:33:11] 1-redsun**  
-mais qui n'est pas parfait.
+**[00:38:37 - 00:38:39] _redsun**  
+pas la
 
-**[01:34:10 - 01:34:27] 1-redsun**  
-Alors si ça vous intéresse là en ce moment c'est un dollar l'abonnement, si vous voulez tester pour
+**[00:38:39 - 00:38:41] _redsun**  
+pas la
 
-**[01:34:27 - 01:34:34] 1-redsun**  
-vous marrer, c'est pas du tout une obligation, je peux vous le partager comme ça parce que là
+**[00:38:41 - 00:38:43] _redsun**  
+pas la
 
-**[01:34:34 - 01:34:39] 1-redsun**  
-en ce moment il y a les trois ans et ça coûte un dollar mais je n'ai pas du tout obligé de tester
+**[00:38:50 - 00:38:56] pollux8888**  
+mais quelques fichiers
 
-**[01:34:39 - 01:34:45] 1-redsun**  
-ou quoi mais c'est ceux qui s'intéressent et là on va pouvoir regarder ton résultat de montre et tu
+**[00:38:55 - 00:38:58] bensmart**  
+c'est un peu à cause ou grâce à notre événement,
 
-**[01:34:45 - 01:35:06] 1-redsun**  
-vas comprendre. C'est qu'un seconde, c'est très léger, c'est du MP4, c'est généré après
+**[00:38:56 - 00:38:58] pollux8888**  
+le bas
 
-**[01:35:06 - 01:35:13] 1-redsun**  
-l'emploi, on n'a rien de spécial, tu vas lui demander d'exécuter, l'exécute termine. C'est juste que
+**[00:38:58 - 00:39:22] pollux8888**  
+Je sais que je suis en train de faire un peu de la
 
-**[01:35:13 - 01:35:18] 1-redsun**  
-je trouve ça cool de pouvoir, en fait c'est comme rajouter une corde à l'arc d'opencloth,
+**[00:38:58 - 00:39:00] bensmart**  
+l'autre jour quoi.
 
-**[01:35:18 - 01:35:22] 1-redsun**  
-qui peut faire des siqwabs, ça il peut le faire, il peut faire des documents, ça il peut le faire.
+**[00:39:00 - 00:39:05] bensmart**  
+Parce qu'avant, avant de vous jouir,
 
-**[01:35:22 - 01:35:37] 1-redsun**  
-D'ailleurs ce document là que vous voyez là, qui nous dit qu'on a repèrement serré,
+**[00:39:05 - 00:39:08] bensmart**  
+je n'ai pas eu une comment, je n'ai pas assez
 
-**[01:35:37 - 01:35:47] 1-redsun**  
-exactement c'est tout généré, tout ça c'est généré par opencloth et puis là après à la
+**[00:39:08 - 00:39:10] bensmart**  
+la comment vraiment, bon moment.
 
-**[01:35:47 - 01:35:51] 1-redsun**  
-fin de la session, là vous avez les participants qui étaient là la dernière fois, vous saurez
+**[00:39:10 - 00:39:12] bensmart**  
+Non, c'est moi, il y avait du stock interdisque
 
-**[01:35:51 - 01:35:59] 1-redsun**  
-qui ils sont et le transcript est fait via notre ami l'ours là qui s'appelle je ne sais plus comment
+**[00:39:12 - 00:39:14] bensmart**  
+en plus, j'ai 8% de rabais,
 
-**[01:35:59 - 01:36:04] 1-redsun**  
-il s'appelle, Craig qui est là et qui nous écoute et en fait il a un train d'écouter tout ce qu'on
+**[00:39:13 - 00:39:27] _redsun**  
+Alors on fait la plupart des gens qu'on occuise au PENCLO et j'utilise un mic mini
 
-**[01:36:04 - 01:36:11] 1-redsun**  
-dit et ensuite je ferai un transcript de tout ça et vous vous allez voir les logiciels qu'on a été
+**[00:39:14 - 00:39:18] bensmart**  
+ils ont affiché le prix dix % moins cher que le prix
 
-**[01:36:11 - 01:36:14] 1-redsun**  
-utilisé et tout et c'est tout lui qui va se démerder avec ça, moi je ne fais rien.
+**[00:39:18 - 00:39:19] bensmart**  
+officiel.
 
-**[01:36:21 - 01:36:26] 1-redsun**  
-Alors après c'est vrai que je n'ai pas pensé à ça, il ne voulait pas que je vous mette vos noms,
+**[00:39:27 - 00:39:33] _redsun**  
+16gd ramme le moins cher et en fait ça suffit l'air vraiment au PENCLO.
 
-**[01:36:26 - 01:36:31] 1-redsun**  
-il faut me dire que ça je ne vous met pas, mais c'est pas mal quand même de savoir qui fait quoi,
+**[00:39:28 - 00:39:30] pollux8888**  
+et
 
-**[01:36:31 - 01:36:37] 1-redsun**  
-justement pour savoir là je sais qu'ébrius lui c'est un spécialiste dans la vidéo,
+**[00:39:30 - 00:39:32] pollux8888**  
+on est
 
-**[01:36:37 - 01:36:42] 1-redsun**  
-donc si j'ai une question vidéo ou que j'ai un client qui a besoin de faire un truc vidéo,
+**[00:39:32 - 00:39:34] pollux8888**  
+on est en 4
 
-**[01:36:42 - 01:36:51] 1-redsun**  
-je peux le réunir sur ébrius, c'est ça l'idée, et là on a le résumé de ce qu'on l'a dit la
+**[00:39:33 - 00:39:37] _redsun**  
+On aime 4, le malheureusement, la mauvaise doulette.
 
-**[01:36:51 - 01:36:58] 1-redsun**  
-dernière fois aussi, donc comme ça ça permet de garder une trace, mais je sais vrai que la
+**[00:39:34 - 00:39:38] pollux8888**  
+on est en 4
 
-**[01:36:58 - 01:37:06] 1-redsun**  
-prévisse, si tu ne veux pas que je te cite ou quoi, dis et je te vires quoi du tranquille.
+**[00:39:37 - 00:39:43] _redsun**  
+avec tous les stocks même aux US se sont, je fais éclater et même il y a de la revende sur les sites de revente
 
-**[01:37:06 - 01:37:17] 1-redsun**  
-Ouais voilà, c'est ça, c'est ce que je me suis dit quoi, donc voilà c'est un new
+**[00:39:38 - 00:39:48] pollux8888**  
+on est
 
-**[01:37:17 - 01:37:26] 1-redsun**  
-case de Penclaw qui est sympa, ça vous voyez un peu le logiciel, ah oui on l'entend,
+**[00:39:40 - 00:40:04] _faly**  
+...
 
-**[01:37:26 - 01:37:34] 1-redsun**  
-bah là en fait j'ai fait une texture, tu vas pleurer à mon avis, donc il manque,
+**[00:39:43 - 00:39:49] _redsun**  
+où les maquimini vont se c'qui aéroquette de prix, on en trouve un mille de l'art, on a eu le coup
 
-**[01:37:34 - 01:37:36] 1-redsun**  
-je ne sais pas pourquoi d'ailleurs, il manque une partie de brasse là,
+**[00:39:53 - 00:39:55] _redsun**  
+même il est dispôt, hein
 
-**[01:37:36 - 01:37:49] 1-redsun**  
-mais tu vois il y a le mesh, si tu regardes le, je sais pas si on ne le voit pas, ah oui on
+**[00:39:58 - 00:40:02] _redsun**  
+mais il a demandé d'expôt, ouais voilà
 
-**[01:37:49 - 01:38:00] 1-redsun**  
-voit là, alors attends j'en veux la texture, ça c'est rigolo mais tu ne peux pas travailler avec,
+**[00:40:04 - 00:40:09] _faly**  
+J'ai passé comment de chez Fust et c'est toujours pas arrivé, je pense qu'ils sont en rupture aussi.
 
-**[01:38:00 - 01:38:11] 1-redsun**  
-mais ouais bon pour 15 secondes, tu vois par contre ce qui est intéressant c'est pour voir
+**[00:40:07 - 00:40:37] _redsun**  
+à la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman
 
-**[01:38:11 - 01:38:17] 1-redsun**  
-faire une démo à Proto ou un truc ou une idée tu vois, figer ton idée, la faire tourner en 3D,
+**[00:40:18 - 00:40:20] pollux8888**  
+les livraisons la semaine prochaine. Non.
 
-**[01:38:17 - 01:38:25] 1-redsun**  
-essayer de conceptualiser en fait, ça montre, là c'est excellent par contre, pour ça, mais pas pour la réalisation.
+**[00:40:21 - 00:40:22] pollux8888**  
+C'est marqué.
 
-**[01:38:25 - 01:38:45] 1-redsun**  
-Ouais alors là on peut s'amuser à Prado.
+**[00:40:22 - 00:40:27] pollux8888**  
+En fait, le 52 à 16 gigailles, les 900 francs.
 
-**[01:38:45 - 01:38:57] 1-redsun**  
-Ah là c'est très très très real.
+**[00:40:27 - 00:40:29] pollux8888**  
+Et puis, il y en a 3 pièces en stock.
 
-**[01:39:15 - 01:39:27] 1-redsun**  
-Exactement, ça c'est tout à fait juste, j'ai juste m'amuser à le faire tourner, mais c'est pour l'exemple parce que là il
+**[00:40:31 - 00:40:33] pollux8888**  
+Un 918.
 
-**[01:39:27 - 01:39:33] 1-redsun**  
-n'est pas très joli, mais juste pour essayer de s'imaginer les use cases, parce que ça par contre je
+**[00:40:33 - 00:40:35] pollux8888**  
+Ouais, ma commune.
 
-**[01:39:33 - 01:39:37] 1-redsun**  
-peux vous dire un truc, moi ce qui m'intéresse c'est la création de contenu pour les réseaux sociaux,
+**[00:40:35 - 00:40:37] pollux8888**  
+Allez.
 
-**[01:39:37 - 01:39:41] 1-redsun**  
-que ce soit pour vos personal branding, pour vous montrer ce que vous savez faire,
+**[00:40:37 - 00:40:43] _redsun**  
+Voilà, attends, ils ont...
 
-**[01:39:41 - 01:39:45] 1-redsun**  
-ou simplement pour générer du clic ou pour que les gens ils se disent ah c'est cool et tout,
+**[00:40:43 - 00:40:45] pollux8888**  
+Ça, moi, je l'ai devant les yeux.
 
-**[01:39:45 - 01:39:50] 1-redsun**  
-là franchement tu peux faire des trucs super cool quoi, pour ça en tout cas je trouve ça un vrai,
+**[00:40:43 - 00:40:46] _redsun**  
+Ils ont...
 
-**[01:39:50 - 01:39:58] 1-redsun**  
-parce que voilà si tu fais un truc joli qui donne envie ou un truc marron, voilà, et ben t'auras
+**[00:40:45 - 00:40:49] pollux8888**  
+devant les yeux. Père être retiré, mercredi 13 donc à la soonne prochaine.
 
-**[01:39:58 - 01:40:04] 1-redsun**  
-forcément un taux de clic ou de vue qui sera vachement plus élevé en faisant une petite vidéo en 3 secondes
+**[00:40:46 - 00:40:52] _redsun**  
+Attendez, on reçu du réacord de Macmin DM4.
 
-**[01:40:04 - 01:40:10] 1-redsun**  
-avec mes chiis ou autres, si il arrive à nous avoir des jolis trucs ben ça pourrait être intéressant
+**[00:40:52 - 00:40:55] _redsun**  
+Ouais, attends, c'est pas normal.
 
-**[01:40:10 - 01:40:15] 1-redsun**  
-de voir, parce que là ça reste quand même cher mais après tu n'es pas obligé d'utiliser
+**[00:40:55 - 00:40:58] _redsun**  
+C'est normalement, il y a des Macmini M5 qui arrivent.
 
-**[01:40:15 - 01:40:19] 1-redsun**  
-ces dents non plus quoi, là je peux récupérer la photo qu'on l'a fait donc là il a vécu
+**[00:40:58 - 00:41:02] _redsun**  
+Donc, est-ce que ça va la peine d'acheter 24, là, c'est pas sûr, hein?
 
-**[01:40:19 - 01:40:26] 1-redsun**  
-juste un fond blanc propre, puis là je peux dire tu peux me faire un éclaté de montre,
+**[00:41:01 - 00:41:07] pollux8888**  
+Je ne sais pas ce qui a comme différence, on va dire bon moi je ne suis pas sûrement
 
-**[01:40:26 - 01:40:34] 1-redsun**  
-je ne sais pas, je dis n'importe quoi là, je fais ça à la rage, de faire un éclaté de
+**[00:41:07 - 00:41:14] pollux8888**  
+que moi je suis sur PC mais je vais pose la question, c'est en SQM 4.
 
-**[01:40:34 - 01:40:46] 1-redsun**  
-mouvement ou de montre, il va comprendre tu crois, ok, moi je vais faire 10 secondes pas plus,
+**[00:41:07 - 00:41:10] _redsun**  
+Voilà.
 
-**[01:40:46 - 01:40:55] 1-redsun**  
-je le gêne alors, ah oui parce que c'est un peu con il faut faire, non, merde.
+**[00:41:10 - 00:41:17] _redsun**  
+Alors, je vais dire pourquoi, pourquoi on est comme décon, là tous dans les mac,
 
-**[01:41:04 - 01:41:26] 1-redsun**  
-Et ce que tu peux faire là aussi c'est tout simplement prendre le vrai modèle 3D de la marque
+**[00:41:15 - 00:41:17] pollux8888**  
+et
 
-**[01:41:26 - 01:41:34] 1-redsun**  
-et puis faire ça directement, là ça marche très très bien parce que les pièces sont bien
+**[00:41:17 - 00:41:18] _redsun**  
+et il y a une vraie raison.
 
-**[01:41:34 - 01:41:38] 1-redsun**  
-définies par le modèle et du coup il pourra comprendre la structure de la montre complètement.
+**[00:41:18 - 00:41:23] _redsun**  
+Et qu'en fait, il y a la raison n'a pas la même en ruine ici sur Mac.
 
-**[01:41:38 - 01:41:48] 1-redsun**  
-Mais bon on va voir, là ça tourne, on va voir en live, là je vous prends live, ça peut donner
+**[00:41:19 - 00:41:23] pollux8888**  
+le
 
-**[01:41:48 - 01:41:53] 1-redsun**  
-un truc d'égalasse, je ne sais pas du tout ce que ça va faire, c'est juste que j'ai pris
+**[00:41:23 - 00:41:27] _redsun**  
+Il permet d'avoir l'éflotation de la rampe total de cette âge guette, à cette âge guette,
 
-**[01:41:53 - 01:41:57] 1-redsun**  
-6 dance 2 en 10 secondes, là j'aurais dû faire l'audio, c'est pas grave, mais bon c'est pas très
+**[00:41:23 - 00:41:25] pollux8888**  
+le
 
-**[01:41:57 - 01:42:05] 1-redsun**  
-important l'audio, mais juste voir ce que ça fait, on devait s'en crédit, j'ai du mal à me rendre
+**[00:41:25 - 00:41:27] pollux8888**  
+le
 
-**[01:42:05 - 01:42:19] 1-redsun**  
-compte combien ça fait, je sais que, oh ouais, moi je m'en fous, mais ça m'intéresse de voir,
+**[00:41:27 - 00:41:29] pollux8888**  
+le
 
-**[01:42:20 - 01:42:25] 1-redsun**  
-là c'est un test, on est bien d'accord, mais ça m'intéresse de voir qu'est-ce qui est possible de faire.
+**[00:41:27 - 00:41:34] _redsun**  
+à cette âge guette, à cette pousse, à la chance de tout pour tout ce qui est modellé
 
-**[01:42:33 - 01:42:39] 1-redsun**  
-Ouais, je l'ai mis et puis surtout, ce qui est intéressant c'est que c'est un dollar le premier
+**[00:41:29 - 00:41:31] pollux8888**  
+le
 
-**[01:42:39 - 01:42:44] 1-redsun**  
-mois, donc franchement, je sais pas comment ils font pour gagner leur vie, j'ai pas compris.
+**[00:41:31 - 00:41:35] pollux8888**  
+le
 
-**[01:42:45 - 01:42:53] 1-redsun**  
-Bah là c'est un beau croquet.
+**[00:41:34 - 00:41:37] _redsun**  
+L'engueuse est justement s'ampermètre dans la transition.
 
-**[01:43:01 - 01:43:04] 1-redsun**  
-Après, idéalement, ce qui a été malin justement, c'est que tu me donnes la photo de la montre,
+**[00:41:35 - 00:41:41] pollux8888**  
+le
 
-**[01:43:05 - 01:43:15] 1-redsun**  
-et là je sors plus, voilà, je suis dans la maîtrise ça,
+**[00:41:37 - 00:41:42] _redsun**  
+Je vais me faire ma cape, j'ai ma cape par exemple, par modèle le cal.
 
-**[01:43:15 - 01:43:24] 1-redsun**  
-parce que c'est beau, mais est-ce que je regarde le direct ? Non,
+**[00:41:41 - 00:41:43] pollux8888**  
+le
 
-**[01:43:24 - 01:43:30] 1-redsun**  
-moi je vois rien en tout cas, je sais pas si les autres y voyent.
+**[00:41:42 - 00:41:46] _redsun**  
+Ope une course, fabriqué par Google.
 
-**[01:43:35 - 01:43:42] 1-redsun**  
-Ah, attends, juste j'ai la vidéo, on regarde vous, vous voyez mon stream.
+**[00:41:43 - 00:41:50] pollux8888**  
+Ok, all right, all right.
 
-**[01:43:45 - 01:43:56] 1-redsun**  
-Oh là là, oh putain, oh putain, c'est pas mal, pas mal, franchement, j'ai toujours
+**[00:41:46 - 00:41:50] _redsun**  
+Donc, c'est pas un titrexte, c'est un très bon modèle.
 
-**[01:43:56 - 01:44:02] 1-redsun**  
-sur le cube, parce que ça c'est beau quoi, alors si tu as des belles photos,
+**[00:41:50 - 00:41:53] _redsun**  
+Il existe en deux versions pour résumer des histoires,
 
-**[01:44:02 - 01:44:09] 1-redsun**  
-je pense que c'est parfait, il faut des belles photos de la montre réelle sur plusieurs angles,
+**[00:41:50 - 00:41:53] pollux8888**  
+All right.
 
-**[01:44:09 - 01:44:10] 1-redsun**  
-et là tu t'éclates.
+**[00:41:53 - 00:41:57] _redsun**  
+on devra le paramètre et la version de 4 milliards de par meters.
 
-**[01:44:15 - 01:44:18] 1-redsun**  
-Ça c'est stylé, je ne vais pas demander ça, de faire le petit mouvement.
+**[00:41:53 - 00:42:01] pollux8888**  
+All right.
 
-**[01:44:20 - 01:44:21] 1-redsun**  
-C'est rigolo.
+**[00:41:57 - 00:42:03] _redsun**  
+Et les deux versions tournent sur ma qu'il ne m'a plus pu les faire tourner en le cas et la
 
-**[01:44:25 - 01:44:28] 1-redsun**  
-Ouais bah c'est dégueulasse, tu veux ça ?
+**[00:42:01 - 00:42:03] pollux8888**  
+All right.
 
-**[01:44:32 - 01:44:40] 1-redsun**  
-Ah, attendez, n'est-ce pas ?
+**[00:42:03 - 00:42:04] pollux8888**  
+All right.
 
-**[01:44:57 - 01:45:00] 1-redsun**  
-En fait justement, c'est ça qui est super intéressant,
+**[00:42:03 - 00:42:05] _redsun**  
+pas chance complètement à domne.
 
-**[01:45:00 - 01:45:04] 1-redsun**  
-moi j'adore les trucs qui sont un peu multiples, tu peux le faire avec d'autres tools,
+**[00:42:04 - 00:42:05] pollux8888**  
+All right.
 
-**[01:45:04 - 01:45:08] 1-redsun**  
-mais bizarrement par exemple j'utilise Jens Park et Jens Park, le coût de la vidéo est plus élevé
+**[00:42:05 - 00:42:08] _redsun**  
+Parce que moi ça n'est pas qui m'intéresse.
 
-**[01:45:08 - 01:45:12] 1-redsun**  
-que chez Messi, alors je sais pas pourquoi, j'ai pas compris, mais c'est plus élevé,
+**[00:42:08 - 00:42:10] _redsun**  
+Il y a vraiment, et là il y a,
 
-**[01:45:12 - 01:45:17] 1-redsun**  
-donc du coup je passe par Messi pour générer la vidéo, tu vois, bon c'est une astuce.
+**[00:42:10 - 00:42:13] _redsun**  
+c'est qu'on pourrait dire, on peut une plau et on peut une plau et on peut le plau
 
-**[01:45:17 - 01:45:29] 1-redsun**  
-Non, parce que là toi tu as un train de vouloir des trucs,
+**[00:42:13 - 00:42:40] pollux8888**  
+...
 
-**[01:45:31 - 01:45:41] 1-redsun**  
-mais en fait si tu veux faire ça, tu as Xfield, qui est en fait une plateforme spéciale pour
+**[00:42:13 - 00:42:16] _redsun**  
+de faire un peu la même chose pour dire, il y a plein de trucs similaires.
 
-**[01:45:41 - 01:45:45] 1-redsun**  
-faire de la vidéo, et là tu as des templates TikTok, alors ça c'est de la bombe, la dingue,
+**[00:42:16 - 00:42:19] _redsun**  
+Ça fait d'un immense différence à ça là.
 
-**[01:45:46 - 01:45:51] 1-redsun**  
-c'est génial pour faire la création vidéo, par contre les gars ils se régalent sur les prières,
+**[00:42:19 - 00:42:24] _redsun**  
+C'est que, un peu une plau permet l'installation de modèle à peu une source.
 
-**[01:45:51 - 01:45:57] 1-redsun**  
-ça coûte une blinde, mais c'est un truc de fou quoi, mais c'est beaucoup,
+**[00:42:24 - 00:42:28] _redsun**  
+Ce que je vois jamais faire sur, sur le taux de roux.
 
-**[01:45:59 - 01:46:03] 1-redsun**  
-imagine un prix élevé, moi multiplie le part de, je sais pas.
+**[00:42:28 - 00:42:32] _redsun**  
+Et du coup, je vais faire tourner, donc j'ai ma carte,
 
-**[01:46:10 - 01:46:13] 1-redsun**  
-Pour te dire, moi j'ai fait une vidéo avec, que je peux vous la montrer,
+**[00:42:32 - 00:42:36] _redsun**  
+Et il y a un super pouvoir là-dedans, c'est que tu peux le faire tourner un des films.
 
-**[01:46:14 - 01:46:19] 1-redsun**  
-je suis dépressif dessus, donc je voulais tester un truc, j'ai pris un abonnement un mois,
+**[00:42:37 - 00:42:41] _redsun**  
+Et tu peux générer des tequelles pour zéro pour parler de l'électricité.
 
-**[01:46:19 - 01:46:25] 1-redsun**  
-j'ai dit je teste, allez, moi j'aime bien regarder ce que ça donne, et puis d'ailleurs
+**[00:42:40 - 00:42:44] pollux8888**  
+Ok, ok, ok, ok.
 
-**[01:46:25 - 01:46:31] 1-redsun**  
-je pense qu'ils ont une API aussi, je pense qu'ils ont une API, à vérifier,
+**[00:42:44 - 00:42:49] _redsun**  
+Et du coup ça donne un extraitement intéressant à compléter en différentes fois.
 
-**[01:46:33 - 01:46:38] 1-redsun**  
-et là je suis allé dans le vidéo, bon déjà l'interface, c'est vraiment bordel quoi,
+**[00:42:49 - 00:42:51] _redsun**  
+Alors derrière Rien, qui est...
 
-**[01:46:38 - 01:46:46] 1-redsun**  
-j'en trouve même pas mes vidéos quoi, c'est quand même, pourquoi j'ai pas de vidéo alors.
+**[00:42:50 - 00:42:51] pollux8888**  
+Vigre.
 
-**[01:46:56 - 01:46:57] 1-redsun**  
-Ouais mais là aussi.
+**[00:42:52 - 00:42:54] pollux8888**  
+Vigre meurement.
 
-**[01:47:09 - 01:47:14] 1-redsun**  
-Oui, exactement, mais attention, méchi, l'intérêt c'est de passer de la 3D,
+**[00:42:54 - 00:42:56] _redsun**  
+L'électricité sur Android et Edge,
 
-**[01:47:15 - 01:47:20] 1-redsun**  
-mais moi je trouve ça intéressant, tu vois, de façon de dire je passe de la 3D à la vidéo,
+**[00:42:56 - 00:43:00] _redsun**  
+Il y a rigoué la version de V-Marche, vraiment bien, je suis d'accord avec toi.
 
-**[01:47:20 - 01:47:25] 1-redsun**  
-que du coup tu as un truc qui, tu peux faire un personnage qui suit des histoires,
+**[00:43:00 - 00:43:05] _redsun**  
+Et puis il y a aussi un autre truc qui s'est capréhorie à la prochaine version de Google Chrome
 
-**[01:47:27 - 01:47:32] 1-redsun**  
-et tu vois, il y a MCP, là il y a MCP pour eux, voilà, il y a un CLI, ah bah voilà,
+**[00:43:05 - 00:43:07] _redsun**  
+un théorage de ma dévendou.
 
-**[01:47:32 - 01:47:37] 1-redsun**  
-Turn Air Message en Open Claw, bah voilà, ça même pas, Nemo Claw,
+**[00:43:07 - 00:43:14] _redsun**  
+Donc, ils vont l'installer en même temps que t'installe ton navigateur et du coup,
 
-**[01:47:37 - 01:47:43] 1-redsun**  
-parce qu'il y a, donc en fait, tu peux passer par Xfield pour générer de la vidéo
+**[00:43:10 - 00:43:37] pollux8888**  
+...
 
-**[01:47:43 - 01:47:47] 1-redsun**  
-à la volée avec ton Open Claw, et faire des trucs aussi dedans,
+**[00:43:14 - 00:43:18] _redsun**  
+tu dises la puissance automâchine pour faire des résultats.
 
-**[01:47:47 - 01:47:52] 1-redsun**  
-alors là attention, ça bombarde le prix, franchement, moi j'étais vachement déçu,
+**[00:43:18 - 00:43:21] _redsun**  
+Alors après, je ne comprends pas du tout, c'est au termis-nice.
 
-**[01:47:52 - 01:47:56] 1-redsun**  
-parce que je sais que mon pote qui fait de la vidéo pro, il travaille pour, je crois,
+**[00:43:21 - 00:43:25] _redsun**  
+Je ne comprends pas du tout le play parce que ils ont de jeminir avec la côté.
 
-**[01:47:56 - 01:48:02] 1-redsun**  
-c'est Japan Tabako, un truc comme ça, une grosse boîte, lui, il utilise ça pour,
+**[00:43:25 - 00:43:32] _redsun**  
+Dans tout cas, c'est très intéressant pour les gars qui veulent sortir complètement du truc,
 
-**[01:48:03 - 01:48:09] 1-redsun**  
-ce qui est vachement, vachement bon, par contre, bon, pour les prix, pour se marrer,
+**[00:43:32 - 00:43:33] _redsun**  
+puis justement faire de la prédéristie total.
 
-**[01:48:09 - 01:48:10] 1-redsun**  
-c'est trop cher pour rigoler, quoi.
+**[00:43:33 - 00:43:38] _redsun**  
+Ce que là tu peux débrancher ton magne d'internête et faire ton magne pour lui faire.
 
-**[01:48:13 - 01:48:17] 1-redsun**  
-Après, je sais pas, Ben, t'arrives à avoir combien de noeuds moins sur Seedance 2 toi,
+**[00:43:37 - 00:43:42] pollux8888**  
+C'est un peu mon but.
 
-**[01:48:17 - 01:48:19] 1-redsun**  
-tu sais déjà ou t'as aucune d'eux ?
+**[00:43:40 - 00:44:07] gilles_35307**  
+...
 
-**[01:48:22 - 01:48:23] 1-redsun**  
-Ah, il est parti, Ben.
+**[00:43:42 - 00:43:47] pollux8888**  
+Ok.
 
-**[01:48:27 - 01:48:34] 1-redsun**  
-Qu'eux quoi, oui, oui.
+**[00:43:43 - 00:43:49] _redsun**  
+Là, là tu commence à voir vraiment pourquoi ça va être intéressant d'avoir un peu du clou,
 
-**[01:48:41 - 01:48:45] 1-redsun**  
-Parce que là, aujourd'hui, vous avez Seedance et les autres, d'ailleurs,
+**[00:43:47 - 00:43:55] pollux8888**  
+Je vais vous remercier.
 
-**[01:48:45 - 01:48:48] 1-redsun**  
-Happy Horse, j'ai testé, c'est nul, hein, par rapport à,
+**[00:43:49 - 00:43:51] _redsun**  
+bah voilà, une des raisons principales, c'est ça quoi.
 
-**[01:48:49 - 01:48:52] 1-redsun**  
-je crois que j'ai des vidéos, là, je peux le montrer, peut-être.
+**[00:43:51 - 00:43:55] _redsun**  
+Je sais pas si vous voulez jouer au montre un peu.
 
-**[01:48:57 - 01:48:57] 1-redsun**  
-Ah ouais ?
+**[00:43:55 - 00:44:06] pollux8888**  
+Pour terminer, c'est un mec mini de 1506 avec ces Giga, M4, 1509 Giga Lexus qui est livrable après demain.
 
-**[01:48:59 - 01:49:00] 1-redsun**  
-Bon.
+**[00:43:55 - 00:43:58] _redsun**  
+Ouais.
 
-**[01:49:00 - 01:49:06] 1-redsun**  
+**[00:44:06 - 00:44:09] pollux8888**  
+Ok.
 
-**[01:49:18 - 01:49:29] 1-redsun**  
-Midos, toi.
+**[00:44:07 - 00:44:08] gilles_35307**  
+le pente.
 
-**[01:49:30 - 01:49:44] 1-redsun**  
-Là je peux vous montrer Happy Horse, c'est une autre, y'a d'ailleurs, vachement déçu de Happy Horse par rapport à Seedance, aussi chinoise, aussi un générateur vidéo, et voilà ce que ça donne.
+**[00:44:07 - 00:44:10] _redsun**  
+Ah, tu peux détaire que je suis pas.
 
-**[01:49:44 - 01:49:58] 1-redsun**  
-C'est sympa, c'est fun, c'est pas mal, mais Seedance est largement déçu moi je trouve.
+**[00:44:09 - 00:44:12] pollux8888**  
+Ok.
 
-**[01:50:14 - 01:50:24] 1-redsun**  
-C'est pas mal, c'est pas mal, c'est pas mal, c'est pas mal, c'est pas mal, c'est pas mal.
+**[00:44:10 - 00:44:40] _redsun**  
+Non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non
 
-**[01:50:44 - 01:50:50] 1-redsun**  
-C'est sympa.
+**[00:44:12 - 00:44:16] pollux8888**  
+Ouais.
 
-**[01:51:14 - 01:51:35] 1-redsun**  
-Ok, bah là je pourrais vous montrer, j'ai fait une petite vidéo avec Xfield et puis Seedance, je voulais faire une vidéo pour les 5000 abonnés que j'ai sur LinkedIn,
+**[00:44:16 - 00:44:19] pollux8888**  
+Ouais.
 
-**[01:51:35 - 01:51:55] 1-redsun**  
-et je voulais faire un truc qu'on voyait sur plusieurs axes, enfin il a fait un truc mais je suis sûr qu'il y avait une pub pour la dépression, mais ce qui est vachement bien fait c'est qu'il a fait les seins, il a organisé tout ça, et tout ça c'est de dire, franchement on voit pas tellement, c'est du Seedance justement.
+**[00:44:19 - 00:44:23] pollux8888**  
+Ouais.
 
-**[01:51:55 - 01:52:01] 1-redsun**  
-C'est pas ce qu'il a fait mais on dirait que je suis triste ou je sais pas, c'est bizarre quoi.
+**[00:44:20 - 00:44:23] gilles_35307**  
+Oui mais ça a pas livré tout de suite à tout le monde. Il y aura des dirais de livraison
 
-**[01:52:06 - 01:52:17] 1-redsun**  
-C'était bien foutu, par contre les plans séquences, alors j'ai montré 4 photos, je fais des storyboards, c'est ça les 4 photos je peux...
+**[00:44:23 - 00:44:28] gilles_35307**  
+de ces terraf, mais en jouant, il est dans ce pourgeant, c'est un pont de colle.
 
-**[01:52:18 - 01:52:31] 1-redsun**  
-Moi je m'amuse un peu, je fais des trucs comme ça pour tester un peu, je sais plus où sont les photos, tu les avais, bah moi je les avais.
+**[00:44:23 - 00:44:27] pollux8888**  
+La slice marque et la slice marque.
 
-**[01:52:34 - 01:52:45] 1-redsun**  
-J'ai pris ces photos là, j'ai balancé ça, et je lui ai dit bah fait 2 meurtures quoi, je fais moi un truc, et en fait si on regarde bien, elles sont quand même conservées.
+**[00:44:27 - 00:44:31] pollux8888**  
+ça en plus c'est marqué il y en a il y a plus de 10 pièces en stock donc
 
-**[01:52:46 - 01:53:03] 1-redsun**  
-Donc c'est juste pour dire qu'en fait OpenClo comme orchestrateur, vous pouvez lui pluguer ça et faire des trucs dedans, parce que là il y a un MCPCLE qui est fait pour OpenClo, d'ailleurs Claude aussi, Hermès aussi, et comme ça vous avez OpenClo, et comme ça vous pouvez faire des vidéos à la volée.
+**[00:44:31 - 00:44:34] pollux8888**  
+c'est dit
 
-**[01:53:04 - 01:53:18] 1-redsun**  
-Donc ça fait qu'un Yusuke sans plus, parce que là on peut faire des sites, on peut faire des applications, on peut faire des vidéos, on peut faire de la 3D, après moi je sais plus ce qui manque, pas grand chose hein.
+**[00:44:39 - 00:44:43] pollux8888**  
+je jauneur c'est marqué prêt à être tiré de demain donc
 
-**[01:53:20 - 01:53:22] 1-redsun**  
-Allez sur Mars on va attendre un petit peu.
+**[00:44:40 - 00:44:48] _redsun**  
+Alors, alors peut-être juste pas t'attendre.
 
-**[01:53:23 - 01:53:35] 1-redsun**  
-Ah et moi que le budget, attends, qu'est ce qu'il peut faire là, je fais vraiment la rache hein, je vais juste essayer avec l'image qui nous affronte nipole là.
+**[00:44:43 - 00:44:47] pollux8888**  
+livrétant après de demain
 
-**[01:53:36 - 01:53:46] 1-redsun**  
-Alors tu vois, ça c'est ça qu'il faudrait faire avec la montre, c'est le multivu, comme t'as plusieurs photos, là je le fais vraiment vite fait quoi.
+**[00:44:47 - 00:45:08] pollux8888**  
+on
 
-**[01:53:47 - 01:53:57] 1-redsun**  
-Normalement, idéalement tu fais multivu comme ça, t'as le derrière devant, parce qu'il va imaginer derrière, il n'est pas encore assez magique pour créer des trucs comme ça.
+**[00:44:48 - 00:44:51] _redsun**  
+Bref, je sais toujours, parce que c'est à GDram, c'est pour tout le monde.
 
-**[01:53:58 - 01:54:07] 1-redsun**  
-Tu vois, il a reconnu que c'est un copper dragon, timepiece, c'est fou quoi, il comprend tout sur l'image, il comprend la structure, il comprend tout quoi.
+**[00:44:51 - 00:44:58] _redsun**  
+C'est à GDram, pour écartonner les motrons, de NVIDIA, GMA4, Google,
 
-**[01:54:08 - 01:54:27] 1-redsun**  
-Puis on va voir, mais voilà donc c'est parce que Arnaud on en a parlé de la dernière fois avec Arnaud, on disait ouais tu devrais montrer l'Euské c'est un peu de punclot, et je me suis dit voilà là peut-être qu'on crée quoi,
+**[00:44:58 - 00:45:04] _redsun**  
+pour être deux points de France vers son cadre,
 
-**[01:54:27 - 01:54:34] 1-redsun**  
-voilà peut-être qu'on crée et puis ça vous voyez un peu, ça peut devenir des idées quoi, ça va aussi être but quoi.
+**[00:45:04 - 00:45:10] _redsun**  
+on était petit, on était petit, on était petit, on était petit, on était petit, on était
 
-**[01:54:35 - 01:54:42] 1-redsun**  
-Alors on va juste attendre un petit peu et je vais regarder juste, il y en a bien tout, mais je crois qu'on a tous les, ouais.
+**[00:45:08 - 00:45:10] pollux8888**  
+on
 
-**[01:54:44 - 01:54:46] 1-redsun**  
-Ah ouais, là t'as des vidéos carrément.
+**[00:45:10 - 00:45:12] pollux8888**  
+on
 
-**[01:54:48 - 01:54:55] 1-redsun**  
-Alors les vidéos ça marche pas encore, les vidéos tout 3D, elles sont belles hein, c'est chinois ça merde.
+**[00:45:10 - 00:45:15] _redsun**  
+modèle. Parfait pour un ordre de chat, pas du tout pour faire du code, j'ai fait des tests,
 
-**[01:54:58 - 01:55:05] 1-redsun**  
-Ah, ok, mais c'est pour le marché chinois ou non, c'est pour tout le monde ?
+**[00:45:12 - 00:45:14] pollux8888**  
+on
 
-**[01:55:07 - 01:55:09] 1-redsun**  
-Ah bah c'est quand même des dragons chinois quoi, bouddhamon.
+**[00:45:14 - 00:45:16] pollux8888**  
+on
 
-**[01:55:28 - 01:55:31] 1-redsun**  
-Mais ça c'est hype en ce moment un peu,
+**[00:45:15 - 00:45:23] _redsun**  
+par exemple, j'ai testé de code snake, j'ai justnake, on va être une déséraire,
 
-**[01:55:43 - 01:55:45] 1-redsun**  
-Ah ouais, d'accord.
+**[00:45:16 - 00:45:18] pollux8888**  
+on
 
-**[01:55:45 - 01:56:02] 1-redsun**  
-Ok, alors là c'est du lourd, tu vois par exemple je pense l'Euské ça pourrait être imaginer une montre qui existe pas,
+**[00:45:18 - 00:45:20] pollux8888**  
+on
 
-**[01:56:16 - 01:56:25] 1-redsun**  
-Ouais mais tu peux créer un design intéressant, puis après justement c'est marrant, tu vas faire un poste sur les réseaux sociaux, tu dis,
+**[00:45:20 - 00:45:22] pollux8888**  
+on
 
-**[01:56:26 - 01:56:34] 1-redsun**  
-voici ma version d'une Jacob où j'ai essayé de créer, puis là tu peux chatter avec GPT2 et puis faire des images de ce que t'aimerais dans ton rêve,
+**[00:45:22 - 00:45:24] pollux8888**  
+on
 
-**[01:56:35 - 01:56:39] 1-redsun**  
-puis ensuite la réaliser quoi, mais il ne sera pas fabriqué hein, d'accord.
+**[00:45:23 - 00:45:32] _redsun**  
+donc tout le code pittons quoi. Voilà, mais voilà, il veut commencer à faire du local,
 
-**[01:56:40 - 01:56:59] 1-redsun**  
-Alors regardons là, ok, c'est pas si mal, alors on va texturer en fonction de l'image, alors après tu vois, comme c'est du modeling encore,
+**[00:45:24 - 00:45:26] pollux8888**  
+on
 
-**[01:56:59 - 01:57:07] 1-redsun**  
-mais moi je pense que là on est dans une histoire, on est dans une histoire de une année,
+**[00:45:26 - 00:45:28] pollux8888**  
+on
 
-**[01:57:11 - 01:57:20] 1-redsun**  
-mais là tu mets 3-4 images, t'as un truc de fou, c'est-à-dire t'as exactement, mais moi ce que j'imagine c'est toujours dans une année, tu vois,
+**[00:45:28 - 00:45:34] pollux8888**  
+on
 
-**[01:57:20 - 01:57:29] 1-redsun**  
-je me projette un peu, putain, on est là aujourd'hui, on est où dans une année ?
+**[00:45:32 - 00:45:39] _redsun**  
+moi je conseille fortement 64 mm et tu vas être allais faire tourner des gros
 
-**[01:57:39 - 01:57:45] 1-redsun**  
-Alors juste, moi j'ai découvert mes chi, première version, je dis en beta test, j'en ai parlé à mes élèves,
+**[00:45:34 - 00:45:36] pollux8888**  
+et
 
-**[01:57:45 - 01:57:51] 1-redsun**  
-elle est toute première version, et juste pour vous donner une idée, c'est la version 5, donc celle-là vous allez comprendre un peu ce que je veux dire,
+**[00:45:39 - 00:45:46] _redsun**  
+modèle comme le coin 27 b et à monstre, il faut s'enantugier à mon mot.
 
-**[01:57:52 - 01:58:02] 1-redsun**  
-cette version-là, vous voyez la différence avec le dragon qu'on avait avant, cette version-là elle a 6 mois, donc en 6 mois on a passé de ça à ça,
+**[00:45:44 - 00:45:46] pollux8888**  
+le cas
 
-**[01:58:05 - 01:58:11] 1-redsun**  
-donc dans 6 mois on est où quoi ? C'est toujours un peu,
+**[00:45:46 - 00:45:55] _redsun**  
+Et si tu vas aller sur Kimi, là tu veux pleure, Kimi 2,5, ce que là t'as besoin de 2,
 
-**[01:58:16 - 01:58:23] 1-redsun**  
-après tu fais un export, la qualité des textures est quand même vraiment pas mal, et là tu peux faire du rematching aussi,
+**[00:45:46 - 00:45:51] pollux8888**  
+le
 
-**[01:58:24 - 01:58:33] 1-redsun**  
-et tu peux l'imprimer en 3D, ça c'est assez cool aussi, donc tu peux faire un socle, tu peux mettre un socle, faire la rotation, gérer les échelles,
+**[00:45:51 - 00:45:57] pollux8888**  
+le
 
-**[01:58:34 - 01:58:43] 1-redsun**  
-puis en plus tu peux l'envoyer directement à Form Now qui te permet d'imprimer, ou de l'Ustice et toi-même, si tu veux le faire à la maison c'était une machine,
+**[00:45:53 - 00:46:04] gilles_35307**  
+Si vous voulez le question belle, qu'est-ce qui est en pêche de faire quelque chose en
 
-**[01:58:44 - 01:58:51] 1-redsun**  
-ça c'est cool, franchement tu as un peu un outil tournant, c'est sympa, je vais juste regarder ce que ça donne pour ça,
+**[00:45:55 - 00:45:58] _redsun**  
+pour assentant 12 en 24 sur Max Studio.
 
-**[01:58:52 - 01:58:59] 1-redsun**  
-ça aurait truc à tester quoi, après il faut aller plus loin pour pas faire ça en 2 secondes à la rache,
+**[00:45:57 - 00:46:00] pollux8888**  
+le
 
-**[01:59:00 - 01:59:04] 1-redsun**  
-puis faire ça un peu propre avec plusieurs images et tout, mais au moins tout,
+**[00:46:00 - 00:46:02] _redsun**  
+Attends à peu près.
 
-**[01:59:14 - 01:59:15] 1-redsun**  
+**[00:46:00 - 00:46:03] pollux8888**  
+le
 
-**[01:59:22 - 01:59:23] 1-redsun**  
-ouais elles sont belles,
+**[00:46:04 - 00:46:06] gilles_35307**  
+le cas avec un GM4 ?
 
-**[01:59:24 - 01:59:28] 1-redsun**  
-mais il y a beaucoup de détails, donc il faudrait beaucoup beaucoup d'images en fait,
+**[00:46:06 - 00:46:09] gilles_35307**  
+Il t'a avoir des problèmes dans le pieton, etc.
 
-**[01:59:29 - 01:59:31] 1-redsun**  
-tu as moyen de les avoir dans les mains ou c'est un touchable, c'est machin là,
+**[00:46:09 - 00:46:13] gilles_35307**  
+Et puis après le faire validé par un Claude en au-rocal.
 
-**[01:59:32 - 01:59:33] 1-redsun**  
-c'est la touche,
+**[00:46:13 - 00:46:16] gilles_35307**  
+C'est un truc de question con, mais je vois.
 
-**[01:59:35 - 01:59:37] 1-redsun**  
-il va pas te remettre qu'est ce qu'il fait,
+**[00:46:16 - 00:46:19] gilles_35307**  
+Je sais, je sais, il est le pragmatique.
 
-**[01:59:38 - 01:59:39] 1-redsun**  
-il va te remettre,
+**[00:46:17 - 00:46:19] _redsun**  
+Une propre idée.
 
-**[01:59:43 - 01:59:44] 1-redsun**  
-bon c'est marrant,
+**[00:46:20 - 00:46:22] _redsun**  
+Ah, vraiment notre problème.
 
-**[01:59:50 - 01:59:55] 1-redsun**  
-c'est là tu peux attendre, je regarde juste parce que là tu as les types d'éclairage qui changent beaucoup ici en fonction des,
+**[00:46:22 - 00:46:27] _redsun**  
+Pour moi, je m'accepterai d'excelent pour des pages qui sont récurrentes et basés qui
 
-**[01:59:55 - 01:59:56] 1-redsun**  
-là c'est un peu mieux,
+**[00:46:27 - 00:46:32] _redsun**  
+soient plus qu'en page de fonds, et qui m'achinera de la gauche, c'est parfait.
 
-**[01:59:58 - 01:59:59] 1-redsun**  
-et ouais bah,
+**[00:46:32 - 00:46:36] _redsun**  
+Et puis dès que tu avres vraiment besoin du lourd, bah tu dis un petit peu de tekan.
 
-**[02:00:25 - 02:00:27] 1-redsun**  
-attaqué t'en as pas les moyens,
+**[00:46:36 - 00:46:37] _redsun**  
+Tu es switch.
 
-**[02:00:28 - 02:00:29] 1-redsun**  
-t'en as pas les sous,
+**[00:46:36 - 00:46:38] gilles_35307**  
+Oui, le sume.
 
-**[02:00:30 - 02:00:31] 1-redsun**  
-t'en as pas les sous,
+**[00:46:38 - 00:46:44] gilles_35307**  
+Ça s'en peut le faire avec ton on-voix, parce qu'en fait, à tout le monde,
 
-**[02:00:32 - 02:00:34] 1-redsun**  
-si elles sont 16 millions tu peux faire la première,
+**[00:46:44 - 00:46:49] gilles_35307**  
+Ciri, la faire un super lullitiel qui permet bien installé bien configuer le peu le
 
-**[02:00:48 - 02:00:49] 1-redsun**  
-ah bon ça va,
+**[00:46:49 - 00:46:53] gilles_35307**  
+gros sur ce mec, j'ai pris moi, le peu le clôt et ça marche très très bien.
 
-**[02:00:55 - 02:00:56] 1-redsun**  
-c'est bon,
+**[00:46:52 - 00:47:08] _redsun**  
+Je vais te couper le montré comme ça, parce que là, les gens ne vont pas te couper en
 
-**[02:01:15 - 02:01:16] 1-redsun**  
-en compte,
+**[00:46:53 - 00:47:01] gilles_35307**  
+Donc là, ce qui est ce que le clôt pourrait gérer ça, il y a 24 et plus il y a
 
-**[02:01:17 - 02:01:18] 1-redsun**  
-le poste que tu peux faire là en disant,
+**[00:47:01 - 00:47:03] gilles_35307**  
+plus de notre modèle qui est le chondable ou plus de clôt.
 
-**[02:01:19 - 02:01:21] 1-redsun**  
-j'ai installé une clothes on Mac mini,
+**[00:47:03 - 00:47:30] pollux8888**  
+.
 
-**[02:01:22 - 02:01:24] 1-redsun**  
-je vais demander de créer le monde, je vais envoyer les photos, voilà ce qu'il m'a fait,
+**[00:47:08 - 00:47:09] _redsun**  
+pas.
 
-**[02:01:25 - 02:01:28] 1-redsun**  
-ça va, putain, t'as tout le process en fait de création,
+**[00:47:09 - 00:47:16] _redsun**  
+Alors, je vais juste changer de partager grand à arrêter de se trimer, mais je vais
 
-**[02:01:30 - 02:01:31] 1-redsun**  
-moi je trouve ça, en fait,
+**[00:47:16 - 00:47:20] _redsun**  
+Frimo chose, c'est juste ok.
 
-**[02:01:32 - 02:01:36] 1-redsun**  
-si tu veux faire la promo sur les réseaux, moi je n'églige pas du tout la communication, quelle que soit votre boulot,
+**[00:47:20 - 00:47:23] _redsun**  
+Donc c'est...
 
-**[02:01:37 - 02:01:38] 1-redsun**  
-que ça soit,
+**[00:47:23 - 00:47:28] _redsun**  
+Écranti, est-ce que vous voyez tout là mon écran ?
 
-**[02:01:40 - 02:01:42] 1-redsun**  
-ah c'est pas sûr, ah ou tu peux les tagger,
+**[00:47:28 - 00:47:30] _redsun**  
+Ouais.
 
-**[02:01:43 - 02:01:44] 1-redsun**  
-je veux dire,
+**[00:47:30 - 00:47:31] pollux8888**  
+à bientôt.
 
-**[02:01:45 - 02:01:46] 1-redsun**  
-tu peux les tagger,
+**[00:47:30 - 00:47:35] _redsun**  
+Ok. Alors, juste avant de passer à ça pour que tout le monde comprend bien.
 
-**[02:01:51 - 02:01:52] 1-redsun**  
-non non non pas du tout,
+**[00:47:35 - 00:47:41] _redsun**  
+Là, vous avez un logiciel qui est fantastique, qui s'appelle LM Studio,
 
-**[02:01:53 - 02:01:54] 1-redsun**  
-pas du tout pas du tout,
+**[00:47:41 - 00:47:45] _redsun**  
+qui lui permet de faire tourner des modèles en locale.
 
-**[02:01:56 - 02:01:57] 1-redsun**  
-c'est exactement ça,
+**[00:47:45 - 00:47:49] _redsun**  
+Donc là moi je m'amuse sur mon ordinateur à faire tourner j'ai ma carte,
 
-**[02:01:58 - 02:02:01] 1-redsun**  
-parce que Jacob il va rigoler quand tu vas voir la qualité du match ou les trucs comme ça,
+**[00:47:49 - 00:47:50] _redsun**  
+voilà on les voit, c'est typiquement.
 
-**[02:02:05 - 02:02:06] 1-redsun**  
-non non il va pas du tout apprécier,
+**[00:47:50 - 00:47:56] _redsun**  
+Et puis il n'est mot 3, là, j'ajoute que j'enlève, j'enlève, mais je garde vraiment ce qui sont dit,
 
-**[02:02:08 - 02:02:09] 1-redsun**  
-c'est pas du tout pour lui,
+**[00:47:56 - 00:48:00] _redsun**  
+et puis là on voit un petit peu, voilà en fait on peut tester.
 
-**[02:02:10 - 02:02:12] 1-redsun**  
-c'est pas ça, mais c'est pour faire de la come sur les réseaux,
+**[00:48:00 - 00:48:20] pollux8888**  
+de
 
-**[02:02:13 - 02:02:14] 1-redsun**  
-parce que là tu vois,
+**[00:48:00 - 00:48:04] _redsun**  
+Là je pourrais tester j'ai ma carte en locale.
 
-**[02:02:16 - 02:02:17] 1-redsun**  
-pour s'amuser,
+**[00:48:04 - 00:48:09] _redsun**  
+Donc j'ai un p'tit sur une chat, là je me test, puis allez voir la vitesse de la réponse.
 
-**[02:02:18 - 02:02:19] 1-redsun**  
-c'est vrai que les montres c'est tellement précis,
+**[00:48:09 - 00:48:12] _redsun**  
+C'est la version 4B sur une machine 432, il y a vraiment.
 
-**[02:02:20 - 02:02:21] 1-redsun**  
-par contre il y a quelqu'un aussi,
+**[00:48:12 - 00:48:13] _redsun**  
+Voilà.
 
-**[02:02:22 - 02:02:23] 1-redsun**  
-il avait fait son visage,
+**[00:48:13 - 00:48:24] _redsun**  
+4,4 secondes, c'est bien, c'est très bien, c'est pas mal, alors après tu peux que
 
-**[02:02:23 - 02:02:24] 1-redsun**  
-en 3D pendant le cours,
+**[00:48:24 - 00:48:31] _redsun**  
+des leges, ce n'est qu'en p'ton, là on va voir un peu ce que ça donne et là malheureusement
 
-**[02:02:25 - 02:02:27] 1-redsun**  
-et franchement ça va super super bien,
+**[00:48:31 - 00:48:35] _redsun**  
+c'est là où ça commence, c'est qu'il arrive vite à répondre, il arrive d'un 30 heures
 
-**[02:02:28 - 02:02:29] 1-redsun**  
-faire une personne,
+**[00:48:35 - 00:48:39] _redsun**  
+des pinkings, donc on voit que c'est un modèle qui a la pinkings évision, donc il
 
-**[02:02:30 - 02:02:32] 1-redsun**  
-soit toi même, soit une personne connue,
+**[00:48:39 - 00:48:44] _redsun**  
+et il y a les deux. Voilà, il manque d'installer piqués dans ce qu'elle normal,
 
-**[02:02:33 - 02:02:34] 1-redsun**  
-tu te fais tourner en 3D,
+**[00:48:44 - 00:48:47] _redsun**  
+et puis là on voit le code qui est un train de pont et là, ce qui est
 
-**[02:02:35 - 02:02:36] 1-redsun**  
-tu fais un truc sympa,
+**[00:48:45 - 00:49:09] pchartois**  
+et
 
-**[02:02:36 - 02:02:37] 1-redsun**  
-je sais pas,
+**[00:48:47 - 00:48:52] _redsun**  
+je trouve magique, c'est que là, je fais une née en tropique, ni personne, je fais
 
-**[02:02:38 - 02:02:39] 1-redsun**  
-il y a mille façons de le dire,
+**[00:48:50 - 00:48:57] pollux8888**  
+et
 
-**[02:02:50 - 02:02:51] 1-redsun**  
-ça fait un peu comme de la sculpture,
+**[00:48:52 - 00:48:57] _redsun**  
+mon petit business, donc, un personne, le c'est tout est privé, tout est complètement
 
-**[02:02:51 - 02:02:52] 1-redsun**  
-ça fait un peu comme de la sculpture,
+**[00:48:57 - 00:48:58] _redsun**  
+hors d'icière, puis quoi.
 
-**[02:03:02 - 02:03:04] 1-redsun**  
-voilà il a pas vraiment éclaté dans la vidéo,
+**[00:48:57 - 00:49:01] pollux8888**  
+le
 
-**[02:03:05 - 02:03:06] 1-redsun**  
-il a plutôt tourné,
+**[00:48:58 - 00:49:02] _redsun**  
+Ah, c'est complètement déconnecté.
 
-**[02:03:09 - 02:03:10] 1-redsun**  
-regarde ça,
+**[00:49:01 - 00:49:16] pollux8888**  
+La console.
 
-**[02:03:11 - 02:03:12] 1-redsun**  
-c'est un peu bizarre ce que là il fait ça,
+**[00:49:02 - 00:49:05] _redsun**  
+Elle est donc...
 
-**[02:03:15 - 02:03:17] 1-redsun**  
-je faudrais vraiment essayer de le faire un peu sérieusement,
+**[00:49:05 - 00:49:10] _redsun**  
+C'est LM Studio et alors pas contre.
 
-**[02:03:18 - 02:03:19] 1-redsun**  
-prendre un petit moment pour le faire,
+**[00:49:10 - 00:49:13] _redsun**  
+On va pas se cacher des choses, c'est assez hardcore,
 
-**[02:03:19 - 02:03:21] 1-redsun**  
-et puis tester quoi, plus en profondeur,
+**[00:49:13 - 00:49:15] _redsun**  
+pendant un moment, c'est en tous les ou deux butés.
 
-**[02:03:32 - 02:03:33] 1-redsun**  
-ah c'est magnifique ça,
+**[00:49:15 - 00:49:20] _redsun**  
+Donc, c'est... Bah, si tu connais pas trop et tu sais pas où tu vas,
 
-**[02:03:50 - 02:03:51] 1-redsun**  
-elle fait 3 kilos là,
+**[00:49:20 - 00:49:22] _redsun**  
+tu te vis de perdre quoi.
 
-**[02:03:55 - 02:03:56] 1-redsun**  
-ok ok,
+**[00:49:22 - 00:49:25] _redsun**  
+J'aurais... Je sais pas dans les cet集 que tu sais pas où on metrait,
 
-**[02:03:57 - 02:03:58] 1-redsun**  
-il est,
+**[00:49:25 - 00:49:27] _redsun**  
+qui fait un peu peur.
 
-**[02:04:00 - 02:04:01] 1-redsun**  
-voilà c'est,
+**[00:49:27 - 00:49:29] _redsun**  
+Pour vous montrer un peu de quoi je parle.
 
-**[02:04:02 - 02:04:04] 1-redsun**  
-si on remonte le poignet c'est bon, ça suffit,
+**[00:49:29 - 00:49:34] _redsun**  
+Voilà, ici vous avez les réponses, donc celle-là que de réponses.
 
-**[02:04:07 - 02:04:08] 1-redsun**  
-donc voilà monsieur,
+**[00:49:31 - 00:49:35] pollux8888**  
+All right.
 
-**[02:04:08 - 02:04:10] 1-redsun**  
-est-ce qu'il y a encore des questions par rapport à ce soir,
+**[00:49:34 - 00:49:38] _redsun**  
+Et ici vous avez la taille du contexte.
 
-**[02:04:10 - 02:04:12] 1-redsun**  
-est-ce que vous voulez encore poser quelque chose,
+**[00:49:35 - 00:49:41] pollux8888**  
+All right.
 
-**[02:04:12 - 02:04:13] 1-redsun**  
-tant qu'on est encore là,
+**[00:49:38 - 00:49:42] _redsun**  
+C'est que le GP orflo de ces combattes, tu vas attribuer de ton GPU.
 
-**[02:04:13 - 02:04:15] 1-redsun**  
-ou est-ce qu'on a fait un peu le tour,
+**[00:49:41 - 00:49:47] pollux8888**  
+All right.
 
-**[02:04:15 - 02:04:16] 1-redsun**  
-et on se revoit,
+**[00:49:42 - 00:49:45] _redsun**  
+Et après tu peux paramétrer aussi les cavécaches.
 
-**[02:04:16 - 02:04:18] 1-redsun**  
-ou est-ce qu'on a fait un peu le tour, et on se revoit,
+**[00:49:44 - 00:49:51] gilles_35307**  
+...
 
-**[02:04:20 - 02:04:21] 1-redsun**  
+**[00:49:45 - 00:49:47] _redsun**  
+Et ce genre de truc, de la quantisation.
 
-**[02:04:43 - 02:04:45] 1-redsun**  
-arrête, tu vois mon écran là ou pas,
+**[00:49:47 - 00:49:48] _redsun**  
+Vous voyez un petit peu.
 
-**[02:04:47 - 02:04:48] 1-redsun**  
-bah en fait c'est tout ça,
+**[00:49:47 - 00:49:49] pollux8888**  
+OK, everyone.
 
-**[02:04:52 - 02:04:53] 1-redsun**  
-c'est sur le max studio,
+**[00:49:48 - 00:49:51] _redsun**  
+Là, je peux te trouver les grands en fait.
 
-**[02:04:53 - 02:04:54] 1-redsun**  
-mais c'est égal,
+**[00:49:49 - 00:49:51] pollux8888**  
+We're wish.
 
-**[02:04:54 - 02:04:55] 1-redsun**  
-t'as GPT 5.4
+**[00:49:51 - 00:49:55] _redsun**  
+Donc ça, bon, faut jamais un petit peu s'accrocher.
 
-**[02:04:56 - 02:04:57] 1-redsun**  
-via haute,
+**[00:49:55 - 00:49:58] _redsun**  
+Tu sais ce que tu fais, bon, tu peux demander tout à fait à clôt,
 
-**[02:04:58 - 02:04:59] 1-redsun**  
-connexion haute,
+**[00:49:58 - 00:50:01] _redsun**  
+on se sent un screenshot, tu dis comment je fais ?
 
-**[02:04:59 - 02:05:00] 1-redsun**  
-et t'as GMA 4.2
+**[00:50:01 - 00:50:03] _redsun**  
+Et puis, est-ce que j'ai nial ? C'est qui ici ?
 
-**[02:05:01 - 02:05:02] 1-redsun**  
-qui est via RM Studio,
+**[00:50:01 - 00:50:31] pollux8888**  
+et tout de suite, c'est une grande
 
-**[02:05:03 - 02:05:04] 1-redsun**  
-donc il y a besoin d'RM Studio,
+**[00:50:03 - 00:50:05] _redsun**  
+Je trouve ça génial.
 
-**[02:05:05 - 02:05:06] 1-redsun**  
-de l'avoir installé,
+**[00:50:05 - 00:50:09] _redsun**  
+Là, vous avez dans le voyageur sur les modèles, et vous avez tous les modèles,
 
-**[02:05:10 - 02:05:11] 1-redsun**  
-si si si si,
+**[00:50:09 - 00:50:11] _redsun**  
+le cal dis pour quoi ?
 
-**[02:05:11 - 02:05:12] 1-redsun**  
-ben justement je le fais,
+**[00:50:11 - 00:50:13] _redsun**  
+Et il y en a un pété quoi.
 
-**[02:05:13 - 02:05:14] 1-redsun**  
-GMA 4 E2B,
+**[00:50:13 - 00:50:22] _redsun**  
+Et là, on a aussi 2 versions, j'ai eu à fait les M-X qui sont plus adaptés pour les
 
-**[02:05:14 - 02:05:15] 1-redsun**  
-la version 2,
+**[00:50:22 - 00:50:27] _redsun**  
+processure un cadre justement et donc il y en a un qui me
 
-**[02:05:15 - 02:05:17] 1-redsun**  
-elle tourne très très bien sur Mac mini,
+**[00:50:27 - 00:50:31] _redsun**  
+exiter en ce moment je vais essayer de retrouver j'ai les partagés
 
-**[02:05:17 - 02:05:18] 1-redsun**  
-la même la 4,
+**[00:50:31 - 00:50:36] _redsun**  
+d'en groupe d'ailleurs sur général c'est un modèle qui est
 
-**[02:05:19 - 02:05:21] 1-redsun**  
-4 c'est le milliard de paramètres en fait,
+**[00:50:31 - 00:51:00] pollux8888**  
+et
 
-**[02:05:23 - 02:05:25] 1-redsun**  
-donc plus t'as de paramètres en même temps,
+**[00:50:36 - 00:50:38] _redsun**  
+je trouve ta brillante je vais pas tellement se marre de
 
-**[02:05:25 - 02:05:27] 1-redsun**  
-et plus t'as des bonnes qualités de résultats,
+**[00:50:38 - 00:50:42] _redsun**  
+part pas attendez l'île voilà
 
-**[02:05:27 - 02:05:28] 1-redsun**  
-on veut pour simplifier quoi,
+**[00:50:42 - 00:50:45] _redsun**  
+c'est pas vous voyez tout le monde est quand même je sais pas si je suis
 
-**[02:05:29 - 02:05:30] 1-redsun**  
-en gros plus il est lourd,
+**[00:50:44 - 00:50:46] gilles_35307**  
+...
 
-**[02:05:30 - 02:05:31] 1-redsun**  
-plus il est balèze,
+**[00:50:45 - 00:50:49] _redsun**  
+je dois vraiment donc j'ai ce que c'est que ce truc-là donc ça
 
-**[02:05:31 - 02:05:32] 1-redsun**  
-on va dire ça comme ça,
+**[00:50:49 - 00:50:53] _redsun**  
+ça avec une phase, c'est la plus grosse plateforme de partage de modèle LLM, c'est
 
-**[02:05:37 - 02:05:38] 1-redsun**  
-ah ouais,
+**[00:50:53 - 00:50:59] _redsun**  
+français d'ailleurs. Et eux, ils l'ais ont fait un modèle, c'est tellement smart. Ils ont
 
-**[02:05:39 - 02:05:40] 1-redsun**  
-nickel,
+**[00:50:59 - 00:51:07] _redsun**  
+pris quoi ? 36, 27B et ils l'ont dit qu'il y avait que plus. Donc en gros, j'utilise
 
-**[02:05:40 - 02:05:42] 1-redsun**  
-4B, 2B, nickel,
+**[00:51:07 - 00:51:13] _redsun**  
+O-pulse pour essayer de faire ressembler le plus possible à réponse de O-pulse. En
 
-**[02:05:42 - 02:05:44] 1-redsun**  
-et tu peux faire Nemotron aussi,
+**[00:51:13 - 00:51:15] _redsun**  
+c'est la différence et réponse.
 
-**[02:05:45 - 02:05:46] 1-redsun**  
-Nemotron 4B qui est là,
+**[00:51:15 - 00:51:22] _redsun**  
+Donc on va être en ce retrouver avec une espèce d'ibri de plus sur un modèle qui tourne sur une
 
-**[02:05:47 - 02:05:48] 1-redsun**  
-excellent chez Nvidia,
+**[00:51:22 - 00:51:25] _redsun**  
+bécane à 64g.
 
-**[02:05:50 - 02:05:51] 1-redsun**  
-Coen,
+**[00:51:25 - 00:51:29] _redsun**  
+Donc, je voulais tester aujourd'hui.
 
-**[02:05:51 - 02:05:52] 1-redsun**  
-alors pas 35B,
+**[00:51:29 - 00:51:33] _redsun**  
+J'ai assez un peu la galère, ce que je vais prendre de j'ai pas malheureusement pas assez
 
-**[02:05:53 - 02:05:54] 1-redsun**  
-ça c'est pas bon,
+**[00:51:33 - 00:51:34] _redsun**  
+un peu le récrack.
 
-**[02:05:54 - 02:05:55] 1-redsun**  
-9B ça marche pas non plus,
+**[00:51:34 - 00:51:40] _redsun**  
+Donc là on peut les installer, on peut tester tout et puis ensuite ça, vous pouvez le
 
-**[02:05:55 - 02:05:56] 1-redsun**  
-j'ai déjà essayé,
+**[00:51:40 - 00:51:46] _redsun**  
+plus logie. En fait vous avez juste à aller sur un peu de clôt, je peux aller sur un peu de clôt,
 
-**[02:05:56 - 02:05:57] 1-redsun**  
-c'est trop lourd en fait,
+**[00:51:44 - 00:51:46] gilles_35307**  
+et
 
-**[02:05:58 - 02:05:59] 1-redsun**  
-il y a le LFM 1,2B,
+**[00:51:46 - 00:51:51] _redsun**  
+c'est vrai. Puis moi j'ai fait un atterface parce que là il y a un gil et de la prie,
 
-**[02:06:00 - 02:06:01] 1-redsun**  
-il fait n'importe quoi,
+**[00:51:46 - 00:51:48] gilles_35307**  
+et
 
-**[02:06:01 - 02:06:02] 1-redsun**  
-mais il est rigolo,
+**[00:51:48 - 00:51:50] gilles_35307**  
+et
 
-**[02:06:02 - 02:06:03] 1-redsun**  
+**[00:51:50 - 00:51:52] gilles_35307**  
+et
+
+**[00:51:51 - 00:51:56] _redsun**  
+le logiciel, si vous s'y dit, je vais faire un truc qui est plus simple à crewe, ce que franchement,
+
+**[00:51:52 - 00:51:54] gilles_35307**  
+et
+
+**[00:51:54 - 00:51:58] gilles_35307**  
+et
+
+**[00:51:56 - 00:52:03] _redsun**  
+c'est une telle galère. Et puis là du coup j'ai connu ce logiciel à l'aide,
+
+**[00:51:58 - 00:52:00] gilles_35307**  
+et
+
+**[00:52:00 - 00:52:02] gilles_35307**  
+et
+
+**[00:52:02 - 00:52:04] gilles_35307**  
+et
+
+**[00:52:03 - 00:52:10] _redsun**  
+il est connu 100% avec un peu de clôt. Donc je le mets à jour, donc ça va pas me mettre
+
+**[00:52:04 - 00:52:08] gilles_35307**  
+et
+
+**[00:52:08 - 00:52:10] gilles_35307**  
+et
+
+**[00:52:10 - 00:52:14] _redsun**  
+aujourd'hui on a un brouh on a au d'alemstideau, tout ça, on s'attit en bête pas,
+
+**[00:52:10 - 00:52:12] gilles_35307**  
+et
+
+**[00:52:14 - 00:52:19] _redsun**  
+le but, cette passe en bête et puis là j'ai rajouté récemment ça, qui est le
+
+**[00:52:19 - 00:52:23] _redsun**  
+peine pleut chat ou là tu peux s'outier entre les mêmes clords donc à des
+
+**[00:52:23 - 00:52:27] _redsun**  
+chercheurs des appes, sur le repels en route, par exemple, où elle est l'aime locale et là
+
+**[00:52:27 - 00:52:33] _redsun**  
+tu peux s'outier, bah il est pleugués sur coin 3.5, voilà je te ambitionne
+
+**[00:52:33 - 00:52:41] _redsun**  
+un peu trop lourcent. Là, je vais faire un autosetop et là, il paraît mettre
+
+**[00:52:41 - 00:52:46] _redsun**  
+elle-même studio comme ça en WMTX. Il n'y a pas envie de te prendre la tête. Il
+
+**[00:52:46 - 00:52:50] _redsun**  
+règne le contexte en fonction d'open.com, parce que peut-être une cloie, besoin de 25 000
+
+**[00:52:50 - 00:52:55] _redsun**  
+de taquennes de contexte. Et du coup, maintenant, bah là, théoriquement, je ne suis pas
+
+**[00:52:55 - 00:53:03] _redsun**  
+faire marcher. Si je mette test, il va réfléchir. Et là, c'est-à-dire dans le contexte de mon open
+
+**[00:53:03 - 00:53:09] _redsun**  
+Il va répondre avec un modèle local attention parce que là vous avez vu que c'était super rapide sur le M studio
+
+**[00:53:09 - 00:53:12] _redsun**  
+Non, c'est super rapide parce que la taille du contexte est d'héro
+
+**[00:53:12 - 00:53:17] _redsun**  
+Alors que là, dans le PNC, il doit toujours prendre un taille de contexte qui est environ 25 000 taquennes
+
+**[00:53:18 - 00:53:21] _redsun**  
+Pour ceux qui connaissent pas 25 000 taquennes, c'est environ 25 000 morts
+
+**[00:53:22 - 00:53:27] _redsun**  
+Donc il doit traiter ça avant de générer la réponse et normalement là vous voyez en temps réelle
+
+**[00:53:28 - 00:53:30] _redsun**  
+Processive pronte, là il est un train de traiter mon pronte
+
+**[00:53:30 - 00:53:36] _redsun**  
+Alors oui, j'ai dit test et là il gênère du Toka et nous voyons des crides et mon
+
+**[00:53:36 - 00:53:42] _redsun**  
+faute et là il balançera le pens dans le monde et la balançera le pens. Voilà, ok?
+
+**[00:53:42 - 00:53:52] _redsun**  
+Mais le roulet, c'était, ça ne soit pas la galère pour pouvoir faire ça et donc du coup
+
+**[00:53:52 - 00:53:56] _redsun**  
+j'ai fait nuit avec qui j'ai reçou ça. Et puis là je fais aussi du peu changer de modèle
+
+**[00:53:56 - 00:54:00] _redsun**  
+tous, tu peux estimer cette again, j'ai essayé de faire un système où tu peux connecter
+
+**[00:54:00 - 00:54:05] _redsun**  
+WhatsApp en un clic, Discord, etc. J'ai fait les temps de plait pour ceux qui
+
+**[00:54:05 - 00:54:08] _redsun**  
+soient de faire du dévo modo, du fond d'ormes, de détruquer comme ça.
+
+**[00:54:08 - 00:54:12] _redsun**  
+J'ai fait toute une fac d'aide et puis une install aussi, je suis prie, mais chacun d'être
+
+**[00:54:12 - 00:54:17] _redsun**  
+qui s'est parlement. Et puis je suis un petit contrôle centre et du monitoring, donc là, je vais
+
+**[00:54:17 - 00:54:21] _redsun**  
+me unitérer mon ordet. Parce que ça, ça bouffe toute vos ressources, voilà,
+
+**[00:54:21 - 00:54:24] _redsun**  
+le soie, c'est le cas trop effic.
+
+**[00:54:24 - 00:54:29] _redsun**  
+Ça veut dire qu'il ne s'est pas ponp la ressource de ma machine, ce qui est normal,
+
+**[00:54:29 - 00:54:31] _redsun**  
+parce que je vais tourner à l'élèvoie, le cas le quoi.
+
+**[00:54:33 - 00:54:38] _redsun**  
+Voilà, ça se part jusqu'à ce que je me crée tout de suite des choses avec Open Cloud.
+
+**[00:54:38 - 00:54:44] _redsun**  
+Je me suis dit, ben, je vais faire un truc concret qu'on n'a pas du virtuel ou bla bla bla,
+
+**[00:54:44 - 00:54:45] _redsun**  
+ou je ne pas quoi.
+
+**[00:54:45 - 00:54:49] _redsun**  
+Tout ça, tout ce que vous voyez dans les yeux, ça a été fait avec Open Cloud.
+
+**[00:54:49 - 00:54:55] _redsun**  
+Donc en comment on le direct, c'était Boucher GitHub, c'était gérée sur GitHub, c'était
+
+**[00:54:55 - 00:55:00] _redsun**  
+Et là j'ai fait un site web aussi, où je le mets en vente, j'ai sèles.
+
+**[00:54:57 - 00:54:59] nano1992_**  
+et
+
+**[00:54:59 - 00:55:01] nano1992_**  
+et
+
+**[00:55:01 - 00:55:31] nano1992_**  
+et puis tu dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je
+
+**[00:55:04 - 00:55:09] _redsun**  
+Alors j'ai fait un mythe, parce que, alors pour que des franchement, on va le voir comment,
+
+**[00:55:09 - 00:55:12] _redsun**  
+parce que c'est pas cher, on n'était pas forcément le meilleur.
+
+**[00:55:12 - 00:55:17] _redsun**  
+Moi j'étais DiscoDex, donc CodeX avant j'étais des 53,
+
+**[00:55:17 - 00:55:22] _redsun**  
+Quand j'ai commencé l'urgicellité 5,5, maintenant j'ai dit ce collection que c'est que le dernier version.
+
+**[00:55:22 - 00:55:27] _redsun**  
+Je suis prêt à l'abonnement avant, c'est que d'aller en c'est le minimum syndical.
+
+**[00:55:27 - 00:55:31] _redsun**  
+Et puis là vous avez quand une usage qui est assez sympa et qui permet de connaître l'urgicellité.
+
+**[00:55:31 - 00:55:34] _redsun**  
+Donc à priori vous allez être tranquille.
+
+**[00:55:34 - 00:55:42] _redsun**  
+Parce qu'il y a un rapport qualité-prit qui est un batape, c'est au pénéal et pour le moment, attention ça peut changer rapidement.
+
+**[00:55:42 - 00:55:47] _redsun**  
+La pronomance est largement préférable de prendre un abonnement de chat d'épétés
+
+**[00:55:47 - 00:55:50] _redsun**  
+le connecteur peut être une clôt dessus et puis des tranquilles quoi
+
+**[00:55:52 - 00:55:57] _redsun**  
+franchement c'est tellement plus cool quoi parce que sinon vous allez passer par un bain au tour
+
+**[00:55:58 - 00:56:03] _redsun**  
+ou par un tropique mon tropique ça marche alors on a ou pas je sais même plus mais non un jour ça marche
+
+**[00:56:01 - 00:56:09] nano1992_**  
+Le nom, mais ça fait que c'était une note de ma chporte depuis qui, dans le risque,
+
+**[00:56:09 - 00:56:19] nano1992_**  
+il s'est découvert de l'utiliser des modèles partout àilleurs, autres que surclone pour autant
+
+**[00:56:12 - 00:56:31] _redsun**  
+...
+
+**[00:56:19 - 00:56:24] nano1992_**  
+qu'il y ait la bonne note avec la pays et la sursection de la pays et le coup d'une blame.
+
+**[00:56:24 - 00:56:29] nano1992_**  
+mais par la bonne note à 20 ans ou 200, on peut utiliser que dans nos nir en mon
+
+**[00:56:29 - 00:56:31] nano1992_**  
+prototype.
+
+**[00:56:31 - 00:56:32] nano1992_**  
+Ah il y a.
+
+**[00:56:31 - 00:56:34] _redsun**  
+Donc, pour moi, c'est un vrai problème.
+
+**[00:56:34 - 00:56:37] _redsun**  
+Autant, je trouve que l'eau de Katzis mon se döge,
+
+**[00:56:37 - 00:56:39] _redsun**  
+n'en parle Katzette, je ne sais pas pourquoi je le me parle.
+
+**[00:56:40 - 00:56:44] _redsun**  
+J'ai du mal avec de Katzette, c'est pas je trouve pas le même feeling avec de Katzis.
+
+**[00:56:42 - 00:56:52] gilles_35307**  
+On se fait tout ce que ça fait.
+
+**[00:56:46 - 00:56:48] _redsun**  
+T'as de moi qui suis devien fou avec le truc.
+
+**[00:56:48 - 00:56:50] _redsun**  
+Je vois, je vois, je vois.
+
+**[00:56:52 - 00:56:54] gilles_35307**  
+On ne fait pas tout ce que ça fait.
+
+**[00:56:54 - 00:56:57] gilles_35307**  
+Moi par exemple, je parle pour moi, je vais...
+
+**[00:56:57 - 00:57:00] gilles_35307**  
+Je ne vais pas faire vraiment le disent à gauche.
+
+**[00:57:00 - 00:57:02] gilles_35307**  
+On ne te redue pas. Je ne sais pas.
+
+**[00:57:01 - 00:57:11] _redsun**  
+C'est un peu un peu un peu de la haute.
+
+**[00:57:02 - 00:57:03] gilles_35307**  
+Je ne vais pas me livrer.
+
+**[00:57:03 - 00:57:05] gilles_35307**  
+Mais je ne suis pas en train.
+
+**[00:57:11 - 00:57:15] _redsun**  
+C'est la haute.
+
+**[00:57:15 - 00:57:19] _redsun**  
+C'est difficile de quoi.
+
+**[00:57:19 - 00:57:24] _redsun**  
+de quoi. Donc, voilà, ça permet de vous montrer ça.
+
+**[00:57:24 - 00:57:41] nano1992_**  
+Je ne veux pas le faire, parce que c'est le mission contrôle, c'est ça.
+
+**[00:57:24 - 00:57:28] _redsun**  
+Je suis super cool que les sétoces et quelqu'un n'a pas vu, en fait, l'interface de
+
+**[00:57:28 - 00:57:30] _redsun**  
+Pente-Loup, ou pour me la vue.
+
+**[00:57:30 - 00:57:35] _redsun**  
+Je ne sais pas, je ne m'une sa.
+
+**[00:57:35 - 00:57:40] _redsun**  
+Le dashboard, je passe que le voyage.
+
+**[00:57:40 - 00:57:48] _redsun**  
+Alors, c'est pas la dernière version, mais bon, je vais pas le mettre à l'orment
+
+**[00:57:41 - 00:57:44] nano1992_**  
+Mais vraiment, il est parti de tout grand.
+
+**[00:57:48 - 00:57:53] _redsun**  
+parce qu'il y a d'ailleurs des dernières trucs un peu chiant quoi ça c'est un peu le troupion
+
+**[00:57:53 - 00:57:56] _redsun**  
+c'est très mec et je passe vous avez vu et ni d'avoir tous les joueurs littéralement
+
+**[00:57:56 - 00:58:01] _redsun**  
+tous les joueurs il y a une journée ils ont fait deux par jour les mais ils sont tellement fou
+
+**[00:58:01 - 00:58:06] _redsun**  
+ils avaient en parlant ça dans un week un sens quoi donc ça c'est un peu chiant
+
+**[00:58:06 - 00:58:09] _redsun**  
+parce que des fois ça couper que l'élection avec discord ça un peu redou qu'on a
+
+**[00:58:09 - 00:58:13] _redsun**  
+bref c'est un peu moins que j'y reproche le plus c'est ça quoi c'est ça
+
+**[00:58:13 - 00:58:16] _redsun**  
+mon stabilité générale.
+
+**[00:58:16 - 00:58:19] _redsun**  
+En gros, vous avez le chat, vous pouvez poser d'un portes quelques questions.
+
+**[00:58:19 - 00:58:22] _redsun**  
+Et là, on voit les modèles disponibles.
+
+**[00:58:22 - 00:58:26] _redsun**  
+En disant, j'ai celui-là, j'ai ma cadet,
+
+**[00:58:26 - 00:58:29] _redsun**  
+que je vous ai montré avant le cas gauche.
+
+**[00:58:29 - 00:58:32] _redsun**  
+J'ai pété 4-5, puis je peux changer en fait.
+
+**[00:58:32 - 00:58:36] _redsun**  
+Je peux passer sur Kimi, et Kimi, ça me date que je dis,
+
+**[00:58:36 - 00:58:38] _redsun**  
+via OpenRouter.
+
+**[00:58:38 - 00:58:41] _redsun**  
+Il est là, je suis assez spécial de trucs, ça me n'a rien pour quoi.
+
+**[00:58:41 - 00:58:45] _redsun**  
+Je ne vais pas demander de reçu de chez me la reçu de chez me la
+
+**[00:58:45 - 00:58:48] _redsun**  
+on va utiliser un nouveau ça et balance le prompt-là
+
+**[00:58:48 - 00:58:50] _redsun**  
+tu es là
+
+**[00:58:50 - 00:58:54] _redsun**  
+donc là c'est le chat, après on va attendre qui va prendre
+
+**[00:58:54 - 00:58:57] _redsun**  
+là il y a le verre vieux, je ne vais pas se parler mais
+
+**[00:58:57 - 00:58:59] _redsun**  
+truc mais mon sensage, je m'en fous, c'est pas mon
+
+**[00:58:59 - 00:59:02] _redsun**  
+pein de plau, moi j'ai deux machines, j'ai un autre pein de plau
+
+**[00:59:02 - 00:59:04] _redsun**  
+sur mon max studio et ma qui m'a fini et ça c'est pas mon
+
+**[00:59:04 - 00:59:06] _redsun**  
+principal, ça c'est mon max studio, c'est mon max studio, c'est mon
+
+**[00:59:06 - 00:59:08] _redsun**  
+max studio que j'utilise comme ça
+
+**[00:59:08 - 00:59:12] _redsun**  
+Là vous avez les chadelles mais je ne vous conseille pas d'utiliser ça.
+
+**[00:59:12 - 00:59:17] _redsun**  
+Moi j'ai jamais utilisé ça pour connecter WhatsApp ou quoi en fait pas comme ça.
+
+**[00:59:17 - 00:59:20] _redsun**  
+Vous demandez à un paix du coup de le faire tout simplement.
+
+**[00:59:20 - 00:59:25] _redsun**  
+Voilà le cas clôt, soit le cas clôt, soit ça, mais pas à la mangroie.
+
+**[00:59:25 - 00:59:29] _redsun**  
+Là on a une différence en instance qui sont verte.
+
+**[00:59:29 - 00:59:33] _redsun**  
+Les différentes sessions qui la faites, on s'est un peu le bordel.
+
+**[00:59:33 - 00:59:36] _redsun**  
+En fait, on voit que c'est encore geek.
+
+**[00:59:36 - 00:59:38] _redsun**  
+Et là, vous avez la console des Token.
+
+**[00:59:39 - 00:59:43] _redsun**  
+Vous pouvez voir combien vous en avez utilisés, mais sur cela, je dis des très peu.
+
+**[00:59:43 - 00:59:45] _redsun**  
+Donc, il y a assez peu de Token utilisés,
+
+**[00:59:45 - 00:59:47] _redsun**  
+il va dire, de Qu'est-ce qui l'a fait dans quelle session ?
+
+**[00:59:48 - 00:59:51] _redsun**  
+Après, on a des cron jobs, les cron jobs, c'est vraiment...
+
+**[00:59:51 - 00:59:53] _redsun**  
+C'est un des enterres aussi de Pen Plus,
+
+**[00:59:53 - 00:59:55] _redsun**  
+et que, il est mis d'actifs à 24,
+
+**[00:59:55 - 00:59:57] _redsun**  
+très bien fait, ils a l'up pouvoir,
+
+**[00:59:57 - 00:59:59] _redsun**  
+lui donner des tâches, récurantes, genre,
+
+**[00:59:59 - 01:00:01] _redsun**  
+tous les matins à 7 heures du mat,
+
+**[01:00:01 - 01:00:07] _redsun**  
+Tu me fais une résumée du marché crypto, du marché, le pâssique ou de la météo
+
+**[01:00:07 - 01:00:11] _redsun**  
+où vous voulez en son friche, mais c'est possible de faire de con job attention.
+
+**[01:00:11 - 01:00:33] nano1992_**  
+Jusine question pour le chron. Tu pourrais le coupler un asquille ?
+
+**[01:00:11 - 01:00:14] _redsun**  
+C'est pour moi les con jobs, c'est ce qui concerne le plus de taquette.
+
+**[01:00:14 - 01:00:18] _redsun**  
+Parce que comme vous le délénatez, je me voulais une taquette, comme on le fait, souvent
+
+**[01:00:18 - 01:00:20] _redsun**  
+il va vous bousier à votre...
+
+**[01:00:20 - 01:00:26] _redsun**  
+Bon, en fait je ne fais pas parce que j'aime pas, mais parce que juste, j'essaie de vous
+
+**[01:00:26 - 01:00:27] _redsun**  
+plus efficace possible.
+
+**[01:00:27 - 01:00:29] _redsun**  
+Après, elle a partie à un genre.
+
+**[01:00:29 - 01:00:31] _redsun**  
+On va...
+
+**[01:00:33 - 01:00:37] nano1992_**  
+On lui dit comment faire le faire correctement.
+
+**[01:00:34 - 01:00:36] _redsun**  
+Oui, mais...
+
+**[01:00:38 - 01:00:44] _redsun**  
+Mais en fait, mais c'est vrai intéressant parce que en gros, c'est comme un machine de guerre,
+
+**[01:00:44 - 01:00:48] _redsun**  
+on peut te faire tellement de truc, mais entre ce qui est vraiment utile,
+
+**[01:00:48 - 01:00:53] _redsun**  
+que t'as vraiment vraiment vraiment besoin, ce que tu fais vraiment, est-ce qu'il va porter de la valeur?
+
+**[01:00:53 - 01:00:57] _redsun**  
+Il y a une galaxie quoi, tu peux t'amuser à faire un rapport tous les jours,
+
+**[01:00:57 - 01:01:00] _redsun**  
+Mais jusqu'à présent, t'as vécu sans rapport tous les jours, tu vois.
+
+**[01:01:00 - 01:01:02] _redsun**  
+Qu'est-ce que tu as besoin de ça ?
+
+**[01:01:02 - 01:01:03] _redsun**  
+Pour vraiment se poser la question.
+
+**[01:01:03 - 01:01:13] nano1992_**  
+Je vais vous donner un moment de temps de faire une veille.
+
+**[01:01:03 - 01:01:06] _redsun**  
+Et souvent la réponse, c'est quand même pour moi en tout cas, c'est non.
+
+**[01:01:06 - 01:01:08] _redsun**  
+J'ai pas besoin de quoi.
+
+**[01:01:08 - 01:01:10] _redsun**  
+Après, je pourrais même mieux aller faire.
+
+**[01:01:12 - 01:01:41] gilles_35307**  
+et
+
+**[01:01:13 - 01:01:15] nano1992_**  
+Je vais vous donner une veille.
+
+**[01:01:15 - 01:01:17] nano1992_**  
+Je vais vous donner une veille.
+
+**[01:01:17 - 01:01:19] nano1992_**  
+Je vais vous donner une veille.
+
+**[01:01:19 - 01:01:21] nano1992_**  
+Je vais vous donner une veille.
+
+**[01:01:21 - 01:01:23] nano1992_**  
+Je vais vous donner une veille.
+
+**[01:01:23 - 01:01:25] nano1992_**  
+Je vais vous donner une veille.
+
+**[01:01:25 - 01:01:27] nano1992_**  
+Je vais vous donner une veille.
+
+**[01:01:27 - 01:01:29] nano1992_**  
+Je vais vous donner une veille.
+
+**[01:01:27 - 01:01:47] _redsun**  
+on a fait un
+
+**[01:01:29 - 01:01:31] nano1992_**  
+Je vais vous donner une veille.
+
+**[01:01:31 - 01:02:01] nano1992_**  
+de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabil
+
+**[01:01:57 - 01:02:03] _redsun**  
+C'est tellement mal foutu.
+
+**[01:02:01 - 01:02:19] nano1992_**  
+La prédité de la piste, c'est vrai.
+
+**[01:02:03 - 01:02:08] _redsun**  
+Je ne le ferai même pas via ce panola, parce que c'est catastrophique.
+
+**[01:02:08 - 01:02:10] _redsun**  
+En fait, tu vas dans le chat.
+
+**[01:02:10 - 01:02:12] _redsun**  
+J'aimerais créer un nouvel agent,
+
+**[01:02:12 - 01:02:15] _redsun**  
+t'as qu'est-à-dire qu'il y va, le créon va y comprendre ce que tu veux.
+
+**[01:02:15 - 01:02:18] _redsun**  
+Ça fait ça.
+
+**[01:02:18 - 01:02:20] _redsun**  
+C'est juste que l'interfacetat,
+
+**[01:02:19 - 01:02:20] nano1992_**  
+Merci.
+
+**[01:02:20 - 01:02:23] _redsun**  
+c'est rigolo.
+
+**[01:02:23 - 01:02:26] _redsun**  
+En fait, tu peux tout passer par le chat.
+
+**[01:02:26 - 01:02:28] _redsun**  
+à terre, je vous recommande de passer par le chat.
+
+**[01:02:28 - 01:02:32] _redsun**  
+Donc les cronjobes ont plus ajouté comme ça, puis t'appuissent qu'on veut, mais ça
+
+**[01:02:32 - 01:02:35] _redsun**  
+revient en même que d'aller dans le chat, puis d'y crênt un tendobre, mais on ne l'a pas trop
+
+**[01:02:35 - 01:02:36] _redsun**  
+la différence.
+
+**[01:02:36 - 01:02:43] _redsun**  
+C'est juste une nuit pour nous dire un interface pour s'être faire ça quoi.
+
+**[01:02:43 - 01:02:46] _redsun**  
+Après les différents agents, les skids, alors là il y a tous les skids.
+
+**[01:02:46 - 01:02:51] _redsun**  
+Là vous pouvez les créer à l'avoler, moi je vous conseille de parler des trucs spéciaux
+
+**[01:02:51 - 01:02:55] _redsun**  
+pour obsidian ou les trucs comme ça, mais ils sont déjà inclus, donc pourquoi pas.
+
+**[01:02:55 - 01:02:58] _redsun**  
+Mais à un par... vous pouvez aussi dire utiliser obsidian,
+
+**[01:02:58 - 01:03:00] _redsun**  
+enfin ça, ça change rien, et vous créez un ski,
+
+**[01:03:00 - 01:03:02] _redsun**  
+tu sais, c'est spécial pour obsidian.
+
+**[01:03:02 - 01:03:03] _redsun**  
+C'est trop pas.
+
+**[01:03:04 - 01:03:06] _redsun**  
+Il n'y a pas besoin, en fait, de passer 20 ans,
+
+**[01:03:06 - 01:03:08] _redsun**  
+je ne passe tout par le chat, mais après,
+
+**[01:03:08 - 01:03:10] _redsun**  
+les deux sont juste, on peut faire là,
+
+**[01:03:10 - 01:03:12] _redsun**  
+puis je pense qu'on peut...
+
+**[01:03:12 - 01:03:15] _redsun**  
+Bah je ne rempeis que les ajoutés, il y a un interfrce,
+
+**[01:03:15 - 01:03:16] _redsun**  
+non, il y a ce de base, c'est tout quoi.
+
+**[01:03:17 - 01:03:19] _redsun**  
+En fait, il peut aller chercher sur Clo-Hab,
+
+**[01:03:19 - 01:03:22] _redsun**  
+même en... c'est tellement de merder.
+
+**[01:03:22 - 01:03:23] _redsun**  
+Ce bon, c'est mieux de l'effaire, soit même,
+
+**[01:03:23 - 01:03:26] _redsun**  
+on fait créer moins un skill pour faire ça, terminer quoi.
+
+**[01:03:28 - 01:03:31] _redsun**  
+Après les nodes, ça ne peut pas faire du périn de divaise,
+
+**[01:03:30 - 01:03:59] pollux8888**  
+et
+
+**[01:03:31 - 01:03:33] _redsun**  
+donc c'est un peu le bordel.
+
+**[01:03:33 - 01:03:36] _redsun**  
+Le draming franchement, ça c'était le truc, j'aurais eu une équilage ou pas.
+
+**[01:03:36 - 01:03:38] _redsun**  
+C'est censé être un truc que quand tu le dises pas,
+
+**[01:03:38 - 01:03:40] _redsun**  
+il va faire des trucs, j'ai pas quoi.
+
+**[01:03:41 - 01:03:43] _redsun**  
+Enfin, je...
+
+**[01:03:45 - 01:03:47] _redsun**  
+Oui, justement, alors, je cramais tes tokens,
+
+**[01:03:47 - 01:03:49] _redsun**  
+là, ça va être dans le top de ton bon,
+
+**[01:03:49 - 01:03:51] _redsun**  
+pour tout brûler ton aboc.
+
+**[01:03:51 - 01:03:56] _redsun**  
+Tu vas rêver la nuit, donc moi je suis rien, on va se faire, on va se faire mes tourons.
+
+**[01:03:58 - 01:04:01] _redsun**  
+En gros, il est censé quitter le savoir de...
+
+**[01:03:59 - 01:04:20] pollux8888**  
+et
+
+**[01:04:01 - 01:04:05] _redsun**  
+En fait que quand tu rêves, c'est la même chose, il est censé quitter,
+
+**[01:04:05 - 01:04:08] _redsun**  
+figer la même oire, etc., faire certaines actions.
+
+**[01:04:08 - 01:04:11] _redsun**  
+Mais du coup, tu ne t'as pas tellement de contre-latus,
+
+**[01:04:11 - 01:04:14] _redsun**  
+bah moi, c'est un truc que je ne dis pas.
+
+**[01:04:14 - 01:04:17] _redsun**  
+Mais encore une fois, tu peux te prendre des usages,
+
+**[01:04:17 - 01:04:19] _redsun**  
+tu as déjà qu'on ne besoin de ça, je ne suis pas.
+
+**[01:04:19 - 01:04:21] _redsun**  
+D'accord ?
+
+**[01:04:20 - 01:04:23] pollux8888**  
+et utiliser un moment pour même pas.
+
+**[01:04:21 - 01:04:26] _redsun**  
+Je ne vais pas concruter.
+
+**[01:04:26 - 01:04:27] _redsun**  
+Voilà.
+
+**[01:04:26 - 01:04:31] pollux8888**  
+Est-ce que t'as un outpource qui est avec dreaming qui est de permet l'obtenuilleux?
+
+**[01:04:27 - 01:04:28] _redsun**  
+Bonsoir.
+
+**[01:04:28 - 01:04:37] _redsun**  
+On rose à dire, tous les quand je vais me coucher, tu vas faire tels actions, tu vas faire
+
+**[01:04:37 - 01:04:38] _redsun**  
+si tu vas faire ça.
+
+**[01:04:38 - 01:04:40] _redsun**  
+Puis, aussi, c'est toujours la même moi.
+
+**[01:04:40 - 01:04:42] _redsun**  
+Mais c'est un truc.
+
+**[01:04:41 - 01:04:55] gilles_35307**  
+Et c'est pour intérider la mémoire.
+
+**[01:04:42 - 01:04:47] _redsun**  
+En fait, c'est simple par ça, il y a plein de trucs qui sont comme ça.
+
+**[01:04:47 - 01:04:51] _redsun**  
+C'est en fait souvent c'est tout mode si tu fais dans le proyomatique, je passais vraiment
+
+**[01:04:51 - 01:04:53] _redsun**  
+on faisait de faire ça quoi.
+
+**[01:04:53 - 01:04:55] _redsun**  
+Bon voilà.
+
+**[01:04:55 - 01:04:58] gilles_35307**  
+Je ne comprends pas trop ce que vous faites des bacopes.
+
+**[01:04:55 - 01:04:58] _redsun**  
+Normalement, on aurait que ça.
+
+**[01:04:58 - 01:05:02] gilles_35307**  
+Mais maintenant que tu le fais, la instruction, tu le dis à qui a Rohris, ça l'entendémoire.
+
+**[01:04:58 - 01:05:00] _redsun**  
+C'est...
+
+**[01:05:02 - 01:05:03] gilles_35307**  
+Il a fait.
+
+**[01:05:03 - 01:05:05] gilles_35307**  
+ou l'heure c'est ça se le manière de l'autobatiser ça ?
+
+**[01:05:08 - 01:05:12] _redsun**  
+Enfin, je ne vais même pas être problémique pour lui, quand vous voulez le truc,
+
+**[01:05:08 - 01:05:11] gilles_35307**  
+Je ne suis pas un terme
+
+**[01:05:12 - 01:05:15] _redsun**  
+je ne vais pas compris le plus, parce que en plus ça m'a eu moi,
+
+**[01:05:15 - 01:05:19] _redsun**  
+dans les marches d'armes. Je vous dis, mais à quoi ça c'est ?
+
+**[01:05:17 - 01:05:18] gilles_35307**  
+Bye
+
+**[01:05:19 - 01:05:23] _redsun**  
+Je ne sais pas bien piser, je suis pas le seul, mais pas les seuls n'a pas
+
+**[01:05:23 - 01:05:27] _redsun**  
+compris, on a exactement pourquoi, comment il est à quoi ça c'est exactement.
+
+**[01:05:27 - 01:05:32] _redsun**  
+Mais tu vois, des lilles logs, bon ok, oi, t'es une fois pour me son.
+
+**[01:05:32 - 01:05:36] _redsun**  
+Il y a peut-être des cas où, peut-être ça, voilà, des cas où c'est utile.
+
+**[01:05:36 - 01:05:40] _redsun**  
+Je ne sais pas dire, mais en tout cas moi j'ai jamais eu besoin de faire ça quoi.
+
+**[01:05:40 - 01:05:44] _redsun**  
+Il y a juste une partie, je vous remontrai, qui est peut-être la plus importante,
+
+**[01:05:44 - 01:05:49] _redsun**  
+mais c'est plus le moment de terre façze, recédant, confiliations.
+
+**[01:05:50 - 01:05:53] _redsun**  
+Je cherche le déficit md et son dent,
+
+**[01:05:53 - 01:05:54] _redsun**  
+ce plus d'encoisson.
+
+**[01:05:56 - 01:05:57] _redsun**  
+C'est si on...
+
+**[01:05:57 - 01:05:58] _redsun**  
+Non.
+
+**[01:05:59 - 01:06:02] _redsun**  
+Alors ça, tu as l'al instance,
+
+**[01:06:02 - 01:06:03] _redsun**  
+l'albert-Vyou.
+
+**[01:06:04 - 01:06:05] _redsun**  
+Parlement, on voit ce qui a donc fait
+
+**[01:06:05 - 01:06:07] _redsun**  
+le marché de son intérêt à son.
+
+**[01:06:07 - 01:06:08] _redsun**  
+Ah mais ça, là.
+
+**[01:06:08 - 01:06:09] _redsun**  
+Voilà.
+
+**[01:06:10 - 01:06:12] _redsun**  
+Tout le ski de son avécron,
+
+**[01:06:12 - 01:06:15] _redsun**  
+et puis là on a le fameux agent pour en salle.
+
+**[01:06:15 - 01:06:16] _redsun**  
+Bref, je peux vous montrer.
+
+**[01:06:16 - 01:06:18] _redsun**  
+Ça, c'est le plus important.
+
+**[01:06:18 - 01:06:20] _redsun**  
+A des trucs les plus importants, c'est...
+
+**[01:06:20 - 01:06:24] _redsun**  
+Donc en fait, c'est des fisciers principaux.
+
+**[01:06:24 - 01:06:29] _redsun**  
+Donc il y a l'âme de votre Pente-Clo, il y a le user, ce que vous,
+
+**[01:06:29 - 01:06:31] _redsun**  
+qui vous êtes, qu'est-ce que vous voulez, etc.
+
+**[01:06:31 - 01:06:34] _redsun**  
+Et ces fisciers m'arrivent en l'un, c'est vraiment super, super important de donner
+
+**[01:06:34 - 01:06:35] _redsun**  
+qu'on firaient.
+
+**[01:06:35 - 01:06:38] _redsun**  
+Mais de toute façon, au début, je vous demande de les confierer.
+
+**[01:06:38 - 01:06:40] _redsun**  
+Donc vous êtes obligés de les confierer énormément.
+
+**[01:06:40 - 01:06:46] _redsun**  
+Donc il y a le fiché Sarl, agente, tout le système, ça c'est des skils, des dents
+
+**[01:06:46 - 01:06:49] _redsun**  
+cités, voilà on peut voir, moi j'ai rien fait, donc laissait pas le plau, ça
+
+**[01:06:49 - 01:06:53] _redsun**  
+c'est tout le part des fois, les modiciens Sarl, etc. Tout ça vous pouvez pas
+
+**[01:06:53 - 01:06:58] _redsun**  
+remettre le orbite, c'est tous les événements qui va faire par exemple toutes
+
+**[01:06:58 - 01:07:02] _redsun**  
+les 10 minutes, qui peut faire 14 choses, et le batement de coeur pour les faire
+
+**[01:07:02 - 01:07:13] _redsun**  
+de tout expié, c'est fait. Après, il y a même mort et vraiment, parce que là, j'arrère
+
+**[01:07:13 - 01:07:20] _redsun**  
+foutu avec un clage pour y aussi décrire en dehors. Non, non, non, justement,
+
+**[01:07:19 - 01:07:24] nano1992_**  
+Ok.
+
+**[01:07:20 - 01:07:25] _redsun**  
+bah, j'ai utilisé pour les démôts, pour faire des SL, parce que sinon, si vous
+
+**[01:07:24 - 01:07:46] nano1992_**  
+...
+
+**[01:07:25 - 01:07:29] _redsun**  
+le truc que je coupe, ça peut foutre caméra possible.
+
+**[01:07:29 - 01:07:33] _redsun**  
+Donc là tu peux éclair le compte du allamant, mais je ne pensais pas non plus.
+
+**[01:07:33 - 01:07:35] _redsun**  
+Ce que je fais, moi c'est simplement normal.
+
+**[01:07:35 - 01:07:41] _redsun**  
+Même aurait-je dit sauvre, sauvre mon nom, sauf cette date à, et c'est un, enfin du père, là tout ça, c'est un bon
+
+**[01:07:41 - 01:07:44] _redsun**  
+on va, c'est le but aussi quoi, c'est d'avoir un usage courant.
+
+**[01:07:44 - 01:07:46] _redsun**  
+C'est-à-dire, on va pas être plus strict.
+
+**[01:07:46 - 01:07:51] nano1992_**  
+Toi tu utilises tout le temps le chat que les affichés ici pour parler avec,
+
+**[01:07:46 - 01:07:47] _redsun**  
+C'est-à-dire qu'on va être plus strict.
+
+**[01:07:47 - 01:07:55] _redsun**  
+Non alors j'utilise les deux.
+
+**[01:07:51 - 01:07:53] nano1992_**  
+tu parles pas de fueilleur.
+
+**[01:07:55 - 01:08:00] _redsun**  
+C'est pas pourquoi peut-être ça c'est moi qui s'y bizarre mais j'ai un moment où les réponses
+
+**[01:08:00 - 01:08:03] _redsun**  
+étaient meilleures sur le contrôle.
+
+**[01:08:03 - 01:08:08] _redsun**  
+Alors pour que d'échre que d'elle, je ne sais pas pourquoi vraiment j'ai fait des tests
+
+**[01:08:05 - 01:08:06] nano1992_**  
+Accord.
+
+**[01:08:06 - 01:08:19] nano1992_**  
+Et puis, tu... Ouais, allez-y.
+
+**[01:08:08 - 01:08:12] _redsun**  
+et je trouvais que les réponses sur Discord parce qu'il était connecté à Discord,
+
+**[01:08:12 - 01:08:15] _redsun**  
+sont moins bonnes que les réponses sur le dashboard.
+
+**[01:08:15 - 01:08:18] _redsun**  
+et je crois que c'est un peu plus.
+
+**[01:08:18 - 01:08:20] _redsun**  
+Maintenant c'est...
+
+**[01:08:19 - 01:08:27] nano1992_**  
+Et tu peux ouvrir plusieurs questions ici, par exemple, en parallèle, si tu a plusieurs
+
+**[01:08:20 - 01:08:21] _redsun**  
+C'est fidène, en fait.
+
+**[01:08:21 - 01:08:22] _redsun**  
+Ça marche maintenant.
+
+**[01:08:27 - 01:08:28] nano1992_**  
+choses à faire en même temps.
+
+**[01:08:28 - 01:08:33] nano1992_**  
+à aller à la tête du pire.
+
+**[01:08:31 - 01:08:32] _redsun**  
+Ou...
+
+**[01:08:32 - 01:08:34] _redsun**  
+Après l'aurier oui.
+
+**[01:08:33 - 01:08:35] nano1992_**  
+D'accord.
+
+**[01:08:36 - 01:08:38] _redsun**  
+Mais là justement, c'est ce qu'on sait,
+
+**[01:08:38 - 01:08:40] _redsun**  
+les gens s'équipent faire plusieurs agents.
+
+**[01:08:40 - 01:08:41] _redsun**  
+On va te...
+
+**[01:08:41 - 01:08:46] _redsun**  
+C'est pour faire plusieurs tâches séparées, mais honnêtement, faut vraiment faire attention
+
+**[01:08:46 - 01:08:50] _redsun**  
+à ces trucs-là, parce qu'il y a beaucoup de gens qui s'il en savent dans, ils font 10 agents
+
+**[01:08:50 - 01:08:54] _redsun**  
+d'hage et 10 agents qui travaillent pour moi, c'est cool à dire sur le papier, mais j'ai
+
+**[01:08:54 - 01:09:00] _redsun**  
+récemment dit un vite un bordel, c'est de faire un propre, qui vous sert à quelque chose
+
+**[01:09:00 - 01:09:04] _redsun**  
+et si ça vous suffit, regardez le comme ça, mais encore une fois ça dépend de votre
+
+**[01:09:04 - 01:09:08] _redsun**  
+usage, il y a des mecs qui ont besoin d'hage, plusieurs agents, donc en fait ce truc
+
+**[01:09:08 - 01:09:13] _redsun**  
+il convient à un multitude du zage et en fait ne nombre pour son des gens ils vont avoir
+
+**[01:09:13 - 01:09:20] _redsun**  
+des achissants en fait donc voilà ça ça pour le petit tour d'horizon il y a plein de choses
+
+**[01:09:20 - 01:09:42] pollux8888**  
+Je l'ai vu en démo, parce qu'il y a un ami qui m'avait montré, mais je l'ai pas encore testé.
+
+**[01:09:20 - 01:09:26] _redsun**  
+c'est encore des questions on peut avoir ça va j'aurais dû essayer je vois quelque chose
+
+**[01:09:26 - 01:09:34] _redsun**  
+dans le chap ça va un peu pour vous on prend un peu un peu un peu le clob à cheva
+
+**[01:09:34 - 01:09:36] _redsun**  
+pas à Paul, tu l'avais jamais ouvert, toi, non ?
+
+**[01:09:42 - 01:09:47] pollux8888**  
+Ok, j'attends une nouvelle install,
+
+**[01:09:47 - 01:09:51] pollux8888**  
+il n'est pas une nouvelle install d'un vieux ordinateur.
+
+**[01:09:51 - 01:10:15] pollux8888**  
+et
+
+**[01:09:51 - 01:09:55] _redsun**  
+Ah mais n'est pas tant peur que ça, parce que tu vois, moi je l'ai mis sur, sur l'aille,
+
+**[01:09:55 - 01:09:57] _redsun**  
+et sur mon ordinateur principal.
+
+**[01:09:57 - 01:10:01] _redsun**  
+Donc on va être ça dépend ce que tu fermes, mais je ne vais pas lui demander de faire des bréscolages,
+
+**[01:10:01 - 01:10:05] _redsun**  
+si je ne me rends pas, il n'a pas non plus de faire des conneries tout seul.
+
+**[01:10:05 - 01:10:07] _redsun**  
+Ah bah c'est un peu...
+
+**[01:10:15 - 01:10:18] _redsun**  
+Alors justement ça c'est un tas sans de temps parle parce que d'après ce que j'ai compris
+
+**[01:10:18 - 01:10:20] _redsun**  
+mais ça a vérifié en tout ce que je vais dire là,
+
+**[01:10:20 - 01:10:24] _redsun**  
+les maques aussi ont une très très forte sécurité de base
+
+**[01:10:21 - 01:10:41] pollux8888**  
+on a été
+
+**[01:10:24 - 01:10:26] _redsun**  
+et c'est-à-dire dans la machine.
+
+**[01:10:26 - 01:10:29] _redsun**  
+Donc, pour prendre le contrôle de la machine à distance, tu peux toujours,
+
+**[01:10:29 - 01:10:33] _redsun**  
+toujours, mais il y a toujours moyen de m'ont éné, mais il faut se réveiller de bonheur.
+
+**[01:10:33 - 01:10:35] _redsun**  
+Ça a assez difficile.
+
+**[01:10:35 - 01:10:44] _redsun**  
+Donc, si il n'y a pas de fuite de la gaite-way qu'il est de contrôle de ça,
+
+**[01:10:41 - 01:10:42] pollux8888**  
+.
+
+**[01:10:42 - 01:11:02] pollux8888**  
+...
+
+**[01:10:44 - 01:10:51] _redsun**  
+en fait, normalement, c'est assez tranquille et justement, là, il n'y a pas mal d'avantage.
+
+**[01:10:51 - 01:10:55] _redsun**  
+J'ai utilisé le maquillapac que la puissance doit y avoir plusieurs critères,
+
+**[01:10:55 - 01:10:58] _redsun**  
+parce qu'il y a un mec studio aussi,
+
+**[01:10:58 - 01:11:00] _redsun**  
+au enach mini ça ne fait pas de bruit.
+
+**[01:11:00 - 01:11:03] _redsun**  
+Ça comme ça me très peu en se tombe.
+
+**[01:11:02 - 01:11:04] pollux8888**  
+Aller.
+
+**[01:11:03 - 01:11:06] _redsun**  
+Ça s'arrête jamais, ça peut tourner comment ça revoir.
+
+**[01:11:06 - 01:11:08] _redsun**  
+Ça va y avoir plein de petites trucs.
+
+**[01:11:08 - 01:11:13] _redsun**  
+Après il y a d'autres pour ceux qui sont vraiment en timac,
+
+**[01:11:13 - 01:11:15] _redsun**  
+il y a aussi les hermes.
+
+**[01:11:15 - 01:11:16] _redsun**  
+C'est pas arc.
+
+**[01:11:16 - 01:11:19] _redsun**  
+Aller à ça, c'est vous le vous abonner.
+
+**[01:11:18 - 01:11:19] pollux8888**  
+Aller.
+
+**[01:11:19 - 01:11:20] pollux8888**  
+Aller.
+
+**[01:11:19 - 01:11:22] _redsun**  
+Mais...
+
+**[01:11:20 - 01:11:21] pollux8888**  
+Je vais vous s'encer.
+
+**[01:11:22 - 01:11:25] _redsun**  
+Donc là on est sur du loin.
+
+**[01:11:25 - 01:11:26] _redsun**  
+Mais...
+
+**[01:11:26 - 01:11:31] _redsun**  
+Là on peut faire tourner des LM 800.
+
+**[01:11:28 - 01:11:38] nano1992_**  
+Et là ce serait pas mieux qu'à ma expérience, ça.
+
+**[01:11:31 - 01:11:33] _redsun**  
+Là on peut y aller quoi.
+
+**[01:11:33 - 01:11:35] _redsun**  
+S'en attuite, c'est...
+
+**[01:11:39 - 01:11:42] _redsun**  
+Alors, d'après les blanches,
+
+**[01:11:42 - 01:11:44] _redsun**  
+et tout, non.
+
+**[01:11:44 - 01:11:47] _redsun**  
+Parce que là il n'y a pas de question de même à unifier.
+
+**[01:11:47 - 01:11:57] _redsun**  
+Et donc ça serait pas mais alors on est pas loin, donc plusieurs attention, je ne parlais que ça c'est de la d'eau, c'est une vidéo, on ne sait pas de la mer de mes,
+
+**[01:11:57 - 01:12:00] _redsun**  
+de la déclalité, de qui sont...
+
+**[01:12:00 - 01:12:01] _redsun**  
+Ah...
+
+**[01:12:01 - 01:12:05] _redsun**  
+T'as quand même... c'est quand même mieux, c'est quand même toujours mieux sur un maxi, j'ai aucun.
+
+**[01:12:05 - 01:12:15] _redsun**  
+Après moi, je suis pas forcément... Bah si j'aime bien les rappels, là, depuis toujours mais quand même il faut se rendre en toi,
+
+**[01:12:15 - 01:12:30] pchartois**  
+...
+
+**[01:12:15 - 01:12:18] _redsun**  
+Ah, c'est pas que une question de j'aime ou j'aime pas quand même.
+
+**[01:12:19 - 01:12:22] _redsun**  
+Voilà les maxitis-dios là il y a celui-là qui était très très intéressant.
+
+**[01:12:23 - 01:12:24] _redsun**  
+Cela t'a sans ensuite.
+
+**[01:12:26 - 01:12:28] _redsun**  
+Et là tu peux faire tourner des gros modèles là.
+
+**[01:12:29 - 01:12:30] _redsun**  
+On ne faut se pas mal.
+
+**[01:12:30 - 01:12:36] pchartois**  
+Mais mercredi dernier on avait parlé de surostingur aussi, mais j'ai un hébergement
+
+**[01:12:36 - 01:12:40] pchartois**  
+Stingur, un clas startup, et il propose d'opènes clôt.
+
+**[01:12:38 - 01:12:39] _redsun**  
+Ouais j'en ai aussi.
+
+**[01:12:40 - 01:12:45] pchartois**  
+Je sais pas si quelqu'un a fait ça sur un comme genre, j'ai mes...
+
+**[01:12:43 - 01:12:44] _redsun**  
+Alors moi j'en ai fait plusieurs ans.
+
+**[01:12:45 - 01:12:48] pchartois**  
+Surostingur, ton affaire.
+
+**[01:12:45 - 01:12:50] _redsun**  
+Voilà, je ne compte pas.
+
+**[01:12:48 - 01:12:52] pchartois**  
+Ok, et c'est plutôt...
+
+**[01:12:50 - 01:13:02] _redsun**  
+Moi, je ne me suis pas du tout parce que, alors je vais essayer d'expliquer pourquoi,
+
+**[01:12:52 - 01:12:56] pchartois**  
+Qu'est-ce que ton pensent plutôt bien...
+
+**[01:12:56 - 01:12:59] pchartois**  
+Un bad du tout, ok, d'accord.
+
+**[01:13:02 - 01:13:04] _redsun**  
+parce que, alors effectivement, c'est hyper simple.
+
+**[01:13:04 - 01:13:09] _redsun**  
+Il y a tu fais one click, t'es bon, tout mon 2 seconde à cet octobre ton bonclo.
+
+**[01:13:09 - 01:13:10] _redsun**  
+tu dis génial et tout.
+
+**[01:13:10 - 01:13:15] _redsun**  
+En fait, tu sortes complètement de l'intérêt de Penclaw,
+
+**[01:13:15 - 01:13:19] _redsun**  
+parce que autant tu vas prendre clout de code à l'endance carage,
+
+**[01:13:19 - 01:13:21] _redsun**  
+pas le truc.
+
+**[01:13:21 - 01:13:24] _redsun**  
+Petit austé sur ma chine qui t'appartient pas,
+
+**[01:13:24 - 01:13:28] _redsun**  
+que les data transitares, tu vois,
+
+**[01:13:26 - 01:13:34] pchartois**  
+C'était surtout la spécurité aussi qui était sous lignée tout à l'heure.
+
+**[01:13:28 - 01:13:30] _redsun**  
+c'est super tout plus indavant, je crois.
+
+**[01:13:30 - 01:13:40] _redsun**  
+Je ne sais pas, c'est pas ça.
+
+**[01:13:34 - 01:13:36] pchartois**  
+J'ai juste pour un peu une prise en main.
+
+**[01:13:36 - 01:13:38] pchartois**  
+Tu vois, je vais voyeler plus comme une prise en main.
+
+**[01:13:38 - 01:13:41] pchartois**  
+Tu vois, de l'outil avant de le migrer.
+
+**[01:13:40 - 01:13:44] _redsun**  
+C'est ce que je conseille d'abord comme ça que vous ne pas cher.
+
+**[01:13:44 - 01:13:48] _redsun**  
+Je ne peux pas être une clore, ou une pique, c'est ça que ne me parle pas.
+
+**[01:13:48 - 01:13:49] _redsun**  
+Tu fais un mois.
+
+**[01:13:49 - 01:13:52] _redsun**  
+Il y a un peu de commence à marcher, mais déjà t'as un experience,
+
+**[01:13:52 - 01:13:57] _redsun**  
+mais je trouve que au moins tu peux tester pas cher, on va dire.
+
+**[01:13:56 - 01:14:13] pchartois**  
+Je pense que l'ophan chlor est dans tout ce qui est local, effectivement, pour justement éviditer avec du LLM local tout ce qui est token.
+
+**[01:13:57 - 01:14:03] _redsun**  
+tu peux décider si tu te sens à l'aise après de passer à l'étape suivante.
+
+**[01:14:03 - 01:14:04] _redsun**  
+Allez puis voilà.
+
+**[01:14:13 - 01:14:15] pchartois**  
+Je ne peux pas te prendre avec toi.
+
+**[01:14:13 - 01:14:20] _redsun**  
+C'était le stingera, mais c'était pas fortement facilement plus.
+
+**[01:14:20 - 01:14:22] _redsun**  
+Et il y a des gens qui sont tout en vingt et eux-l'uils,
+
+**[01:14:22 - 01:14:27] _redsun**  
+un truc boule qui marche effectivement après
+
+**[01:14:27 - 01:14:32] _redsun**  
+d'accord, je peux pas dire, mais en termes d'expérience,
+
+**[01:14:32 - 01:14:58] pollux8888**  
+...
+
+**[01:14:32 - 01:14:34] _redsun**  
+moi j'ai une expérience radicalement différent depuis
+
+**[01:14:34 - 01:14:36] _redsun**  
+j'ai le sur McMintre.
+
+**[01:14:36 - 01:14:40] _redsun**  
+Pour le revoir, tester déjà comme ça.
+
+**[01:14:40 - 01:14:45] _redsun**  
+Il y avait aussi 10 cent de notre ami,
+
+**[01:14:45 - 01:14:47] _redsun**  
+de notre ami Ben, qui proposait leur des dernières
+
+**[01:14:47 - 01:14:54] _redsun**  
+ça prendra une première approche puis de voir si ça ne peut pas.
+
+**[01:14:54 - 01:15:04] _redsun**  
+Parce que c'est enchine. Normalement, c'est de là, il faut que c'est de bien
+
+**[01:14:55 - 01:15:13] bensmart**  
+le serveur en Europe s'il a à Frankfort en fait
+
+**[01:14:58 - 01:15:00] pollux8888**  
+C'est un peu le même.
+
+**[01:15:04 - 01:15:08] _redsun**  
+il a plus d'info, mais après, c'est peut-être enchine.
+
+**[01:15:08 - 01:15:16] _redsun**  
+à avoir ou qu'elle n'a pas dit pour le revenu ça change rien parce que
+
+**[01:15:13 - 01:15:14] bensmart**  
+Au revoir.
+
+**[01:15:16 - 01:15:19] _redsun**  
+est ingaise on se sert à fond de voir dans le revenu ça change quelque chose
+
+**[01:15:19 - 01:15:26] _redsun**  
+par contre il faut savoir un truc c'est que la chine donc si je vais sur
+
+**[01:15:26 - 01:15:34] _redsun**  
+le github op et le cluo c'est que j'ai vu aujourd'hui il faut savoir que là
+
+**[01:15:34 - 01:15:37] _redsun**  
+ça c'est le guitare, on ne peut pas une clove officielle, donc vous avez tout le code source de
+
+**[01:15:37 - 01:15:41] _redsun**  
+plainclore. Et si vous regardez, moi ce qui est intéressant, c'était les contributers,
+
+**[01:15:41 - 01:15:44] _redsun**  
+c'est qu'il doit se la dessus, en fait.
+
+**[01:15:44 - 01:15:49] _redsun**  
+On aura déjà des milliers de codeurs qui va s'adure, ça c'est une clare inate.
+
+**[01:15:49 - 01:15:56] _redsun**  
+Mais surtout ce que j'ai découvert un peu plus sans rappel, c'est que les sponsors de
+
+**[01:15:56 - 01:16:01] _redsun**  
+ça, ce qui cote le plus là dessus, c'est les mecs de tancelles, de NVIDIA,
+
+**[01:15:58 - 01:16:16] pollux8888**  
+...
+
+**[01:16:01 - 01:16:07] _redsun**  
+a beaucoup quoi. Je ne plus j'avais vu ça. C'est pas de sorte d'espoir
+
+**[01:16:07 - 01:16:15] _redsun**  
+directe. C'est la, donc les gars qui, oui, ils boissent à dessus quoi.
+
+**[01:16:15 - 01:16:23] _redsun**  
+Il n'y a pas des Google, c'est vraiment des 4 avonds de crédor qui bossa tu.
+
+**[01:16:16 - 01:16:17] pollux8888**  
+Petite.
+
+**[01:16:23 - 01:16:25] _redsun**  
+Il y a aussi singular aussi.
+
+**[01:16:25 - 01:16:29] _redsun**  
+Ils font de sois en peu le truc.
+
+**[01:16:29 - 01:16:33] _redsun**  
+Après ils font de sois mais ils ne connaissent pas ceci.
+
+**[01:16:33 - 01:16:35] _redsun**  
+Ils apportent des tunes, ils apportent pas que ça.
+
+**[01:16:35 - 01:16:38] _redsun**  
+Ils apportent aussi des connaissances, puis des développeurs.
+
+**[01:16:38 - 01:16:44] _redsun**  
+Donc voilà pour le petit tour d'horizon.
+
+**[01:16:43 - 01:17:11] bensmart**  
+On va faire un peu de
+
+**[01:16:44 - 01:16:47] _redsun**  
+Ah, n'hésitez pas à rassurer des questions, on ferait un mesure,
+
+**[01:16:47 - 01:16:50] _redsun**  
+si je peux rassurer, mais aussi quelqu'un d'autre aura pas.
+
+**[01:17:11 - 01:17:14] bensmart**  
+à truc qui tournent sur l'occal.
+
+**[01:17:14 - 01:17:22] bensmart**  
+Par contre, si on a vraiment besoin de développer des projets de codés sur tout un coulisse,
+
+**[01:17:22 - 01:17:29] bensmart**  
+un sang qui, voilà, pour regarder vraiment 100% la spère privéci, là effectivement,
+
+**[01:17:29 - 01:17:32] bensmart**  
+on a de la terresse de cette tournée sur l'occal.
+
+**[01:17:32 - 01:17:35] bensmart**  
+Installez au fin clôt sur l'occal.
+
+**[01:17:35 - 01:17:43] bensmart**  
+Mais voilà, après ça dépend de niveau des gens, moi je dirais tout le monde pour démocratiser cette rue qui il faut vraiment un truc simple.
+
+**[01:17:43 - 01:17:49] bensmart**  
+Sur tout au niveau de coup d'acquisition, au niveau d'installation, etc.
+
+**[01:17:49 - 01:18:00] bensmart**  
+Je pense que la plupart des gens qui arrivent quand même par payez 5 dollars, dit de la part moi et faire un essai sur le clode.
+
+**[01:18:00 - 01:18:05] bensmart**  
+Et énormément, la plupart des gens après ils trouvent qu'ils ont pas besoin en fait.
+
+**[01:18:05 - 01:18:07] bensmart**  
+c'est juste...
+
+**[01:18:07 - 01:18:10] bensmart**  
+je me prends toujours la anecdote
+
+**[01:18:08 - 01:18:28] _redsun**  
+...
+
+**[01:18:10 - 01:18:14] bensmart**  
+ce qui s'est passé en Chine avec au point de clore
+
+**[01:18:14 - 01:18:16] bensmart**  
+les gens ils étaient ratholes
+
+**[01:18:16 - 01:18:20] bensmart**  
+ah ouais il y a une nouvelle technologie apparemment avec ça on peut donner un risque
+
+**[01:18:20 - 01:18:25] bensmart**  
+et nous que les gens y payaient presque les qui valent de s'endre la francise
+
+**[01:18:25 - 01:18:26] bensmart**  
+il est beaucoup d'argent
+
+**[01:18:26 - 01:18:33] bensmart**  
+de payer les gens qui les aient d'installer au point de clore sur leur machine
+
+**[01:18:28 - 01:18:38] _redsun**  
+...
+
+**[01:18:33 - 01:18:40] bensmart**  
+et deux semaines après il est repayé 20, 20 francs lesquivalents pour des installés
+
+**[01:18:40 - 01:18:45] bensmart**  
+trop, c'est vrai que parce qu'il se trouve qu'en fait ils ont pas besoin.
+
+**[01:18:45 - 01:18:51] bensmart**  
+Voilà et en fait si on n'arrive même pas tout seul installé sur sa propre machine
+
+**[01:18:51 - 01:18:58] bensmart**  
+au plancleur ça montre le niveau en IT et ça montre qu'on n'a pas vraiment besoin
+
+**[01:18:58 - 01:19:02] bensmart**  
+de ces outils quoi on n'a pas compris ce que c'est au plancleur quoi.
+
+**[01:18:58 - 01:19:16] _redsun**  
+...
+
+**[01:19:02 - 01:19:05] bensmart**  
+Donc c'était juste une petite anecdote.
+
+**[01:19:05 - 01:19:07] bensmart**  
+Je pense que...
+
+**[01:19:07 - 01:19:10] bensmart**  
+Pour essayer vraiment connaître ce que c'est,
+
+**[01:19:10 - 01:19:16] bensmart**  
+on paye 5, 5, 1, par mois pendant 2-3 mois, ça suffit l'arrêtement.
+
+**[01:19:16 - 01:19:22] bensmart**  
+Et surtout étant donné que maintenant la acquisition du maquette tellement difficile,
+
+**[01:19:16 - 01:19:18] _redsun**  
+En fait...
+
+**[01:19:22 - 01:19:25] bensmart**  
+elle peut être en attendant, c'est déjà de...
+
+**[01:19:25 - 01:19:28] bensmart**  
+Voilà, ce famille l'araiser a peu ce que c'est.
+
+**[01:19:31 - 01:19:35] _redsun**  
+Il y a juste une question de Jean-Propfitte de Rien, parce que j'avais pas vu là.
+
+**[01:19:35 - 01:19:39] _redsun**  
+Et une VM, virtuel machin sur un petit, on me s'a avair sous Prox Mox.
+
+**[01:19:39 - 01:19:45] _redsun**  
+Si t'as vu la fin ça, Rien fait la totout de suite, c'est pour moi le top, c'était tranquille.
+
+**[01:19:45 - 01:19:48] _redsun**  
+C'est compliqué à faire, pour tout le monde,
+
+**[01:19:48 - 01:19:50] _redsun**  
+si vous êtes à l'art de tout chaimpe,
+
+**[01:19:50 - 01:19:51] _redsun**  
+tu peux t'amuser un peu,
+
+**[01:19:51 - 01:19:53] _redsun**  
+à spérer pire très bien aussi,
+
+**[01:19:53 - 01:19:56] _redsun**  
+pour reprendre, mais tu feras rien de locale, en part contre.
+
+**[01:19:57 - 01:19:59] _redsun**  
+Qu'est-ce que ça va la configuer,
+
+**[01:19:59 - 01:20:02] _redsun**  
+l'emmple encore, je m'arbre, c'est à moins de 16 guards,
+
+**[01:20:02 - 01:20:05] _redsun**  
+tu vas quand même bien galère.
+
+**[01:20:05 - 01:20:07] _redsun**  
+Au même n'est mottrou,
+
+**[01:20:07 - 01:20:08] _redsun**  
+qui a excellents aussi d'ailleurs,
+
+**[01:20:08 - 01:20:09] _redsun**  
+celui d'une vision,
+
+**[01:20:09 - 01:20:11] _redsun**  
+c'est un petit modèle local,
+
+**[01:20:12 - 01:20:14] _redsun**  
+un peu de source, qui est très très bon aussi.
+
+**[01:20:14 - 01:20:19] _redsun**  
+et en dessous de 16, donc sur le ras peut lui pire, je ne sais pas combien d'âmes,
+
+**[01:20:19 - 01:20:21] _redsun**  
+mais on lui fait 16 ans, ça me semble.
+
+**[01:20:22 - 01:20:25] _redsun**  
+Enfin, de ce que je m'en rappelle des ras peut lui pire, on s'adapte,
+
+**[01:20:25 - 01:20:26] _redsun**  
+d'un petit moment encore.
+
+**[01:20:29 - 01:20:32] _redsun**  
+Juste pour la petite histoire, ça c'est Peter,
+
+**[01:20:32 - 01:20:34] _redsun**  
+en ce qui connaissent pas, c'est le développeur,
+
+**[01:20:34 - 01:20:36] _redsun**  
+encore de l'oport de Pentello,
+
+**[01:20:36 - 01:20:39] _redsun**  
+puisqu'il regarde le nombre de trucs qu'il a fait avant de faire au Pentello.
+
+**[01:20:39 - 01:20:46] _redsun**  
+Il était déjà multimilénaire avant de faire un peu, il a fait tous ces trucs là avant de que des open-clocs.
+
+**[01:20:46 - 01:20:52] _redsun**  
+Donc ça ne veut pas ne lui part, c'est ça un aboutissement d'un gros truc.
+
+**[01:20:52 - 01:21:01] _redsun**  
+Et puis maintenant, il sont des très, très gros supports et c'était très intéressant, c'est que c'est une fondation en open-cloc.
+
+**[01:21:01 - 01:21:07] _redsun**  
+donc c'est complètement une fondation, c'est ça va pas se transformer en
+
+**[01:21:07 - 01:21:09] _redsun**  
+pénéal vd.
+
+**[01:21:09 - 01:21:14] _redsun**  
+Et dans le moment ça va rester, enfin, je espère que je dis, je suis pas
+
+**[01:21:14 - 01:21:22] _redsun**  
+trop malin de porter là, mais lui, c'est faire acheter lui, c'est faire
+
+**[01:21:16 - 01:21:24] pollux8888**  
+et ça fait un asté, mais ça, non mais je dis à...
+
+**[01:21:22 - 01:21:24] _redsun**  
+acheter.
+
+**[01:21:24 - 01:21:28] _redsun**  
+Et donc il y a un milliard à priori parce qu'on a compris mon détruit
+
+**[01:21:28 - 01:21:33] _redsun**  
+dédérant, mais à lui, ils s'étaient que ça reste au pente source et de création.
+
+**[01:21:33 - 01:21:38] _redsun**  
+Et on a priori, c'est aussi un truc très très important aujourd'hui parce que si autant
+
+**[01:21:38 - 01:21:43] _redsun**  
+de l'opheur chinois ne t'aiment qu'à d'ordre le pente source, c'est qu'il soit fond
+
+**[01:21:43 - 01:21:47] _redsun**  
+là-dedans et il participe à ça, c'est pas pour rien, c'est parce que justement,
+
+**[01:21:47 - 01:21:49] _redsun**  
+on va tout le monde peut en profiter quoi.
+
+**[01:21:49 - 01:21:55] _redsun**  
+Et puis il y a des travaux de codore aussi qui lui fait tout le monde en disait pas le faire.
+
+**[01:21:55 - 01:21:59] _redsun**  
+Alors attend, les déjà des VMs qui tournent, je ferai ça soir aller.
+
+**[01:21:59 - 01:22:03] _redsun**  
+Pour l'instant, je fais le compromis sur les modèles locaux, le temps de tester, et prendre en moins
+
+**[01:22:03 - 01:22:06] _redsun**  
+au pierre, je suis démodale friche sur un peu en outreur.
+
+**[01:22:06 - 01:22:09] _redsun**  
+Voilà, c'est une très bonne idée, ça ce qui dit à William.
+
+**[01:22:09 - 01:22:15] _redsun**  
+Je fais au monde que a peine en outreur, alors moi j'ai un petit compte-op, à l'en route
+
+**[01:22:15 - 01:22:18] _redsun**  
+ur, que j'utilise de temps en temps pour faire des tests.
+
+**[01:22:18 - 01:22:22] _redsun**  
+Et là vous avez des modèles fris en fait.
+
+**[01:22:22 - 01:22:25] _redsun**  
+Ababaidou qui finne, voilà, tu l'as des gratos.
+
+**[01:22:26 - 01:22:29] _redsun**  
+Il y a beaucoup de restrictions, mais au moins ça vous permet de tester Pune-Clo,
+
+**[01:22:29 - 01:22:32] _redsun**  
+de pluguer jour de truc.
+
+**[01:22:32 - 01:22:37] _redsun**  
+Et puis ensuite de tester au Pune-Clo-Dair,
+
+**[01:22:37 - 01:22:40] _redsun**  
+sont un peu Pune-Clo sur un panne-router.
+
+**[01:22:40 - 01:22:43] _redsun**  
+Clo, il semble là.
+
+**[01:22:43 - 01:22:46] _redsun**  
+Alors, ils ont encore changé d'interface.
+
+**[01:22:46 - 01:22:50] _redsun**  
+Il y a un remès, sans qu'un concurrent qui est très très en vrai,
+
+**[01:22:50 - 01:22:53] _redsun**  
+et quand on se demande, c'est d'ailleurs.
+
+**[01:22:53 - 01:22:59] _redsun**  
+Je suis spécadre, je suis trop bé.
+
+**[01:22:59 - 01:23:03] _redsun**  
+Ce qui avait un truc, on voyait les modèles plus utilisés en fonction.
+
+**[01:23:03 - 01:23:05] _redsun**  
+C'est ça.
+
+**[01:23:05 - 01:23:07] _redsun**  
+Donc les deux, la Hermes-Alan, il prend.
+
+**[01:23:07 - 01:23:11] _redsun**  
+Comment ça prend de la truc qui est très bien aussi ?
+
+**[01:23:11 - 01:23:14] _redsun**  
+Donc, là, vous avez les modèles plus utilisés.
+
+**[01:23:14 - 01:23:17] _redsun**  
+Donc, sur un panneuteur, c'est GLM50,
+
+**[01:23:17 - 01:23:21] _redsun**  
+Minimax de Pancate, l'autre sonnel cassie, c'est Nemotron super.
+
+**[01:23:23 - 01:23:28] _redsun**  
+Ce qu'on a parlé, c'est intéressant de voir ce que les autres utilisent.
+
+**[01:23:29 - 01:23:33] _redsun**  
+Comme d'elle en fonction des modes, il change le mode à l'hélicie, plutôt autre chose.
+
+**[01:23:34 - 01:23:37] _redsun**  
+Je crois qu'il y avait Nemotron fris sur un pannerotor.
+
+**[01:23:39 - 01:23:44] _redsun**  
+Tu pas si l'est toujours fris, on peut utiliser sur la salle tempagne clore,
+
+**[01:23:44 - 01:23:51] _redsun**  
+Tu me suis dit à un peu de moteur de faire la connexion, c'est parti.
+
+**[01:23:51 - 01:23:53] _redsun**  
+Pas de la pâte ou t'aupel.
+
+**[01:23:57 - 01:24:00] _redsun**  
+Voilà un petit peu à temps de réagir.
+
+**[01:24:00 - 01:24:04] _redsun**  
+Gros conseillers, pas de moteur, j'étais dit de l'art de crédit même si vous dis que les modèles
+
+**[01:24:04 - 01:24:08] _redsun**  
+gratuits, ça ne fait pas c'est les cotats de vainque, 4 par jour a 1000 a ça ça ne fait pas.
+
+**[01:24:08 - 01:24:15] _redsun**  
+Et on a moins d'éroits qu'à 100 ans, enfin, qu'il faut voir le voir comme au paix de moteur qui vérifie que ce n'est pas du fris l'odeur.
+
+**[01:24:15 - 01:24:17] _redsun**  
+Ah ouais, pas qu'on s'en a.
+
+**[01:24:17 - 01:24:21] _redsun**  
+Ça, ça intéressant, rien n'y de dire en gros, même si vous dis les versions ratuils,
+
+**[01:24:21 - 01:24:23] _redsun**  
+vous m'avez très dit balles, la sur au paix de moteur.
+
+**[01:24:23 - 01:24:25] _redsun**  
+Comme ça, vous êtes tranquille.
+
+**[01:24:25 - 01:24:28] _redsun**  
+Par rapport à l'utilisation des modèles fréquents.
+
+**[01:24:28 - 01:24:34] _redsun**  
+Donc, je sais pas si on a parlé un peu de jemard, ou là, ça devient 20h en 12, on a déjà...
+
+**[01:24:34 - 01:24:38] _redsun**  
+Donc, voilà, on a fait déjà des mots en live.
+
+**[01:24:38 - 01:24:43] _redsun**  
+en fait. Ah oui je voulais vous parler d'un autre truc mais alors bon normalement ça fait
+
+**[01:24:43 - 01:24:47] _redsun**  
+jusqu'à 20h mais souvent on déborde un petit peu donc si vous voulez partir vous pouvez
+
+**[01:24:47 - 01:24:52] _redsun**  
+partir bah c'est ce qui veut rester bah je veux montrer un peu de trois trucs moi je vais
+
+**[01:24:52 - 01:24:55] _redsun**  
+montrer un petit tout qui est intéressant tant que j'ai l'écran puis si vous avez des
+
+**[01:24:55 - 01:24:58] _redsun**  
+trucs à montrer et c'était pas un moment de demander un moment où pas c'est grand et on
+
+**[01:24:58 - 01:25:03] _redsun**  
+vous montrer donc que juste un petit peu un petit peu de contexte comme ça vous allez voir un
+
+**[01:25:03 - 01:25:10] _redsun**  
+je vais essayer de faire. Donc là c'est parce que c'est meshys et meshys à l'urgicelle
+
+**[01:25:10 - 01:25:14] _redsun**  
+qui permet à y déprongent de créer des modèles 3D là autant vous dire que les modèles 3D sont
+
+**[01:25:14 - 01:25:22] _redsun**  
+ultra bonne qualité, c'est dingue, voilà on a vu d'avoir un truc, ouais, tu fais
+
+**[01:25:16 - 01:25:18] pollux8888**  
+et
+
+**[01:25:22 - 01:25:28] _redsun**  
+un peu de 3D. Il y a tout le process de création, tu peux même les animés, voilà j'ai
+
+**[01:25:28 - 01:25:32] _redsun**  
+fait récemment un cours là dessus, donc on te mettrai à gêne-le-dessus.
+
+**[01:25:33 - 01:25:35] gilles_35307**  
+...
+
+**[01:25:33 - 01:25:35] _redsun**  
+Alors attend, c'est là où c'est intéressant.
+
+**[01:25:35 - 01:25:38] _redsun**  
+En fait, c'est un site qui permet de faire des modèles 3 des.
+
+**[01:25:38 - 01:25:41] _redsun**  
+Donc là, j'ai fait un astronot, je fais plein de trucs,
+
+**[01:25:41 - 01:25:43] _redsun**  
+comme ça pour marrer.
+
+**[01:25:43 - 01:25:50] _redsun**  
+Et ce qui est super intéressant, tu sais que tu peux les animer également.
+
+**[01:25:50 - 01:25:52] _redsun**  
+Donc là, j'ai fait une version animée.
+
+**[01:25:52 - 01:25:54] _redsun**  
+On tu peux les intégrer dans les moteurs de jeu aussi,
+
+**[01:25:54 - 01:25:59] _redsun**  
+je veux aussi, donc tu peux faire des exportations et tu peux les
+
+**[01:25:59 - 01:26:04] _redsun**  
+exporter avec Blender, GoDat, Unity, Unreal, Maya ou 3DS pour
+
+**[01:26:04 - 01:26:05] _redsun**  
+Roblox aussi.
+
+**[01:26:06 - 01:26:10] _redsun**  
+Toute, tu peux créer en un prontant avec des images, là, j'ai
+
+**[01:26:10 - 01:26:13] _redsun**  
+fait ça aussi avec une image GPT2 et là, je vous montre
+
+**[01:26:13 - 01:26:17] _redsun**  
+ce que j'ai fait comme une image sur GPT2, il m'a j'ai
+
+**[01:26:16 - 01:26:37] pollux8888**  
+...
+
+**[01:26:17 - 01:26:19] _redsun**  
+mais depuis des deux images.
+
+**[01:26:19 - 01:26:25] _redsun**  
+Voilà, et résultat, c'est assez barge quand on franchement...
+
+**[01:26:25 - 01:26:30] _redsun**  
+Moi, j'ai fait de la 3D pendant 15 ans, et franchement, je suis un peu solculat.
+
+**[01:26:30 - 01:26:32] _redsun**  
+Il va me perdre la roue bouleau.
+
+**[01:26:32 - 01:26:35] _redsun**  
+C'est ça que je comprends.
+
+**[01:26:35 - 01:26:38] _redsun**  
+Mais ce qui est assez cool.
+
+**[01:26:37 - 01:26:39] pollux8888**  
+on fait très déjure.
+
+**[01:26:38 - 01:26:43] _redsun**  
+Ah, bah, en fait, c'est fait pour ça, c'est parti peu fort ton pont.
+
+**[01:26:43 - 01:26:49] _redsun**  
+Et puis tu peux l'envoyer sur un métier de crains de la vidéo ou un gré dans le gên.
+
+**[01:26:48 - 01:26:49] pollux8888**  
+Oui ?
+
+**[01:26:49 - 01:27:16] pollux8888**  
+et
+
+**[01:26:49 - 01:26:52] _redsun**  
+Que le Sahm-Mathor a un pire en fait, tu vois ton modèle là-bas.
+
+**[01:26:52 - 01:26:57] _redsun**  
+Le 7-aporn-rigue, ça a dire tu vas les paramétrer à tous son scolapes.
+
+**[01:26:57 - 01:27:03] _redsun**  
+Et ensuite tu balances dans ton métier de jeu, pita un péngie ou un personnage où on va voir.
+
+**[01:27:03 - 01:27:06] _redsun**  
+Ah mais laisse tomber moi, je me laisse.
+
+**[01:27:06 - 01:27:15] _redsun**  
+Tu pète les bruits, ce qui est là, il suffit maintenant de t'affaire un peu, puis tu peux faire des trucs de fou.
+
+**[01:27:15 - 01:27:22] _redsun**  
+Et puis ce n'est pas tout, parce que là, moi je me suis dit, avec mes élèves, on a fait ça, je dis bah attends, on va se marrer un peu.
+
+**[01:27:16 - 01:27:43] pollux8888**  
+.
+
+**[01:27:22 - 01:27:28] _redsun**  
+Et ben on a, en fait, il y a une autre chose là-dedans, c'est que tu peux plager ça, et d'ailleurs c'est d'y dispos aussi dans la pays.
+
+**[01:27:28 - 01:27:33] _redsun**  
+Tu peux le mettre en scène, c'est-à-dire tu peux le mettre en mode d'elle 3D, tu vas le mettre en scène.
+
+**[01:27:33 - 01:28:00] gilles_35307**  
+...
+
+**[01:27:33 - 01:27:39] _redsun**  
+tu peux utiliser un aloeins un anard où j'ai pété image.
+
+**[01:27:39 - 01:27:43] _redsun**  
+En fait, tu m'en sens que tu t'applèves prendre ce que tu veux comme
+
+**[01:27:43 - 01:27:45] _redsun**  
+background pour que je voulais faire vite pour pas prendre trop de temps.
+
+**[01:27:43 - 01:27:45] pollux8888**  
+et
+
+**[01:27:45 - 01:27:47] pollux8888**  
+le
+
+**[01:27:45 - 01:27:53] _redsun**  
+Tu génères, t'as que là, ensuite là où c'est trop, trop incroyable,
+
+**[01:27:47 - 01:27:49] pollux8888**  
+le
+
+**[01:27:49 - 01:27:53] pollux8888**  
+le
+
+**[01:27:53 - 01:27:57] pollux8888**  
+le
+
+**[01:27:53 - 01:28:00] _redsun**  
+c'est qu'ils ont intérêt si d'un 2, donc ce qui parlait avant, et moi j'ai
+
+**[01:27:56 - 01:28:24] pchartois**  
+...
+
+**[01:27:57 - 01:28:01] pollux8888**  
+le
+
+**[01:28:00 - 01:28:03] _redsun**  
+à m'user à faire des vidéos avec mes objets 3D.
+
+**[01:28:01 - 01:28:09] pollux8888**  
+le
+
+**[01:28:03 - 01:28:21] gilles_35307**  
+C'est un mécopter ministre.
+
+**[01:28:03 - 01:28:07] _redsun**  
+Donc là c'est une vidéo que j'ai réalisé à partir de l'astronaute que vous avez
+
+**[01:28:07 - 01:28:11] _redsun**  
+en 3D, donc tu es le contexte et complètement conservé.
+
+**[01:28:09 - 01:28:12] pollux8888**  
+le
+
+**[01:28:12 - 01:28:16] pollux8888**  
+On a le sang, on a le sang.
+
+**[01:28:12 - 01:28:14] _redsun**  
+Je ne sais pas si vous avez le fond que je pense pas.
+
+**[01:28:16 - 01:28:19] pollux8888**  
+On a le sang.
+
+**[01:28:19 - 01:28:24] pollux8888**  
+On a le sang.
+
+**[01:28:21 - 01:28:31] gilles_35307**  
+et donc ça, c'est simplement tu as un port de ton image et que tu balances un petit
+
+**[01:28:22 - 01:28:24] _redsun**  
+En sans fous, c'est sur Mars.
+
+**[01:28:24 - 01:28:33] pollux8888**  
+On a le sang.
+
+**[01:28:24 - 01:28:29] _redsun**  
+Ok, et puis on met la même.
+
+**[01:28:29 - 01:28:35] _redsun**  
+Franchement, c'est pas plus que ça.
+
+**[01:28:31 - 01:28:33] gilles_35307**  
+pourront animer moi ça et puis là, c'est parti.
+
+**[01:28:33 - 01:28:39] pollux8888**  
+On a le sang.
+
+**[01:28:35 - 01:28:39] _redsun**  
+Et puis quand il nous disait, si d'être la révolution, bien, il a complètement raison,
+
+**[01:28:39 - 01:28:41] pollux8888**  
+C'est ça ?
+
+**[01:28:39 - 01:28:40] _redsun**  
+c'est un modèle...
+
+**[01:28:40 - 01:28:43] _redsun**  
+Là on les voit, si d'être deux, si d'être fast,
+
+**[01:28:43 - 01:28:45] _redsun**  
+veu, trois things, et teams de très bien aussi.
+
+**[01:28:45 - 01:28:48] _redsun**  
+Et beaucoup moins cher, parce que c'est un sacout,
+
+**[01:28:48 - 01:28:49] _redsun**  
+une blan d'asse.
+
+**[01:28:49 - 01:28:51] _redsun**  
+C'est ça que je parle de la pubg vidéo là.
+
+**[01:28:50 - 01:28:54] pollux8888**  
+C'est un peu ce qu'il n'a pas un moment pas plein pour les tests.
+
+**[01:28:54 - 01:28:59] pchartois**  
+Et ton mes chie, c'est à côté 5, c'est ça.
+
+**[01:28:54 - 01:28:56] _redsun**  
+Voilà tu...
+
+**[01:29:00 - 01:29:01] pchartois**  
+T'as vidéo là.
+
+**[01:29:00 - 01:29:01] _redsun**  
+Alors...
+
+**[01:29:01 - 01:29:11] gilles_35307**  
+Donc un café en fait.
+
+**[01:29:01 - 01:29:05] _redsun**  
+La vidéo là, le coup de en visérant, on ne reste pas comment quantitif.
+
+**[01:29:05 - 01:29:09] _redsun**  
+C'est difficile, c'est des tokens, mais on grow entre 3 et 5 quoi.
+
+**[01:29:09 - 01:29:29] pollux8888**  
+...
+
+**[01:29:10 - 01:29:11] pchartois**  
+Merci.
+
+**[01:29:10 - 01:29:10] _redsun**  
+Et puis...
+
+**[01:29:11 - 01:29:14] gilles_35307**  
+En fait, un café en taille.
+
+**[01:29:11 - 01:29:12] _redsun**  
+Un café.
+
+**[01:29:13 - 01:29:17] _redsun**  
+Et là il y a un mes élèves, il travaille sur une marque avec un crocodile.
+
+**[01:29:17 - 01:29:24] _redsun**  
+Donc, qui création de trucs et c'est juste un pactif vol au début, mais ça en a pas plus corréjé.
+
+**[01:29:24 - 01:29:48] pchartois**  
+C'est pas le plus important de la
+
+**[01:29:24 - 01:29:31] _redsun**  
+Et puis on roue, ils veulent utiliser pour sa marque de vêtements, qui y a un crocodile spécial qui est gentil, je ne sais pas quoi.
+
+**[01:29:29 - 01:29:50] pollux8888**  
+...
+
+**[01:29:31 - 01:29:33] gilles_35307**  
+et
+
+**[01:29:32 - 01:29:58] bensmart**  
+En fait, sur cet après un abonnement, là je vois ta 1300, cet ensemble crédit.
+
+**[01:29:33 - 01:29:35] gilles_35307**  
+on a eu pouille
+
+**[01:29:34 - 01:29:37] _redsun**  
+Ouais, il y a déjà qu'au gêné, c'est qui.
+
+**[01:29:35 - 01:29:41] gilles_35307**  
+et
+
+**[01:29:38 - 01:29:40] _redsun**  
+Et puis là il y a qui vous est débitjou.
+
+**[01:29:40 - 01:29:45] _redsun**  
+Et puis on a fait ça ensemble, donc là, franchement, la qualité, moi je peux te faire un pont.
+
+**[01:29:41 - 01:29:49] gilles_35307**  
+et
+
+**[01:29:45 - 01:29:49] _redsun**  
+Ce qui on fait de la vidéo, qui s'avent un peu comme ça coûte ce genre de truc,
+
+**[01:29:49 - 01:29:52] gilles_35307**  
+c'est quoi chiant sur le
+
+**[01:29:49 - 01:29:52] _redsun**  
+à ce que ça coûte cher.
+
+**[01:29:54 - 01:30:01] _redsun**  
+C'est vrai.
+
+**[01:29:58 - 01:30:02] bensmart**  
+En fait, tu peux appartir au plus près à modèle 3D,
+
+**[01:30:01 - 01:30:12] _redsun**  
+C'est vrai.
+
+**[01:30:02 - 01:30:06] bensmart**  
+et en plus, à partir de ce modèle 3D, tu peux le jeu.
+
+**[01:30:06 - 01:30:09] bensmart**  
+L'injecté est dans 6-10 euros,
+
+**[01:30:09 - 01:30:11] bensmart**  
+ça te crée carrément une vidéo.
+
+**[01:30:11 - 01:30:13] bensmart**  
+Comme ça, la boucle est boucée.
+
+**[01:30:12 - 01:30:14] _redsun**  
+Exactement.
+
+**[01:30:13 - 01:30:14] bensmart**  
+C'est ça ?
+
+**[01:30:14 - 01:30:18] bensmart**  
+En plus, il est prêt à être imprimé par les machines,
+
+**[01:30:14 - 01:30:20] _redsun**  
+C'est vrai.
+
+**[01:30:18 - 01:30:20] bensmart**  
+les appris en 3D.
+
+**[01:30:20 - 01:30:22] bensmart**  
+C'est ça ?
+
+**[01:30:20 - 01:30:21] _redsun**  
+Exactement.
+
+**[01:30:21 - 01:30:25] _redsun**  
+Mais tu peux garder le contexte et conserver aussi ton personnage.
+
+**[01:30:22 - 01:30:24] bensmart**  
+Un peu restant.
+
+**[01:30:22 - 01:30:37] gilles_35307**  
+Et le lien a le copain qui est au rassemble.
+
+**[01:30:25 - 01:30:29] _redsun**  
+Tu as tu crés ton perso et du coup, tu es dans tous les angles.
+
+**[01:30:28 - 01:30:35] bensmart**  
+...
+
+**[01:30:29 - 01:30:41] pollux8888**  
+...
+
+**[01:30:29 - 01:30:31] _redsun**  
+Peu importe-ils en haut en bas à gauche à droite.
+
+**[01:30:31 - 01:30:34] _redsun**  
+Tout sera cohérent pour la vidéo, tu as.
+
+**[01:30:34 - 01:30:36] _redsun**  
+Donc là je me suis...
+
+**[01:30:36 - 01:30:39] _redsun**  
+Alors, attend, j'ai un gigit bon jusuit de syllèmes, j'ai mal.
+
+**[01:30:37 - 01:30:39] gilles_35307**  
+Impressionnant.
+
+**[01:30:41 - 01:30:43] pollux8888**  
+et c'est génial.
+
+**[01:30:44 - 01:30:46] _redsun**  
+Donc là, je vais s'immer à faire ça.
+
+**[01:30:46 - 01:30:50] _redsun**  
+Et après, je te explique pourquoi ça indère avec un peu de temps.
+
+**[01:30:49 - 01:30:55] gilles_35307**  
+Ça, tu couches, tu peux faire des vidéos avec des tèmes, des expliquatives, façon,
+
+**[01:30:50 - 01:31:09] _redsun**  
+Je me suis amusée à faire un petit perso, en 3D pour c'est une démour, c'est un plus qu'une démour,
+
+**[01:30:55 - 01:30:59] gilles_35307**  
+un podcast de vidéos comme un autre bouquet d'hèmes.
+
+**[01:31:07 - 01:31:36] gilles_35307**  
+et
+
+**[01:31:09 - 01:31:13] _redsun**  
+mais ce qui est incroyable, c'est que là-dedans il y a un petit truc qui s'appelle la pays, ça va se que c'est une
+
+**[01:31:11 - 01:31:31] pollux8888**  
+on a été
+
+**[01:31:13 - 01:31:16] _redsun**  
+la pays, c'est donc la refette.
+
+**[01:31:16 - 01:31:24] _redsun**  
+Alors, justement, je fais une client pays, c'est balancez sur un penclon et du coup,
+
+**[01:31:24 - 01:31:28] _redsun**  
+cette vidéo que vous avez vu là, elle est 100% créée par un penclon.
+
+**[01:31:28 - 01:31:33] _redsun**  
+Là, vous ne suivez-la, vous?
+
+**[01:31:31 - 01:31:33] pollux8888**  
+Ah, c'est une compréhabilité.
+
+**[01:31:33 - 01:31:35] pollux8888**  
+Oui, moi, je suis conclée.
+
+**[01:31:33 - 01:31:35] _redsun**  
+Je vous ai...
+
+**[01:31:35 - 01:31:37] pollux8888**  
+C'est une compréhabilité.
+
+**[01:31:35 - 01:31:41] _redsun**  
+Donc du coup tu peux créer de la vidéo à la demande et du coup tu peux créer des
+
+**[01:31:36 - 01:31:37] gilles_35307**  
+Piste.
+
+**[01:31:41 - 01:31:48] _redsun**  
+moi j'ai utilisé ça pour faire un truc sur mon LinkedIn pour faire de, voilà, tu peux
+
+**[01:31:46 - 01:31:47] pollux8888**  
+OK.
+
+**[01:31:47 - 01:31:48] pollux8888**  
+Aller.
+
+**[01:31:48 - 01:31:49] pollux8888**  
+Aller.
+
+**[01:31:48 - 01:31:53] _redsun**  
+faire de mon, tu peux faire des trucs, je fais ça pour tester mais en fait pas 1000
+
+**[01:31:53 - 01:31:57] _redsun**  
+000 possibilités, tu fais de la vendre de produits, tu peux te faire des trucs super
+
+**[01:31:57 - 01:32:27] _redsun**  
+en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de
+
+**[01:31:57 - 01:31:58] gilles_35307**  
+Chau,
+
+**[01:31:58 - 01:32:00] gilles_35307**  
+tu veux que tu veux?
+
+**[01:32:01 - 01:32:10] pollux8888**  
+C'est une question, c'est-ce que je peux me permettre à quelqu'un qui a un lien avec ça,
+
+**[01:32:01 - 01:32:02] gilles_35307**  
+Pas de seconde.
+
+**[01:32:10 - 01:32:18] pollux8888**  
+c'est que les modèles 3D, est-ce que tu peux créer une montre et puis un premier montre avec tous les composantes ou les mouvements.
+
+**[01:32:20 - 01:32:22] pollux8888**  
+Je vous le souhaite, je vous le souhaite.
+
+**[01:32:22 - 01:32:24] pollux8888**  
+Oui, mais je vous le souhaite de le faire depuis que je suis gamma.
+
+**[01:32:25 - 01:32:31] pollux8888**  
+En fait, les torbillons, etc., de New Year, sans vingt-genre de chose, mais quand j'aimerais être aimant.
+
+**[01:32:27 - 01:32:41] _redsun**  
+Je ne sais pas, mais le problème, ça va jamais être la même qualité quoi.
+
+**[01:32:31 - 01:32:55] pollux8888**  
+le plus important de la
+
+**[01:32:41 - 01:32:46] _redsun**  
+C'est vrai que moi, une relacité, on va faire vraiment le pronte qu'il faut jamais faire.
+
+**[01:32:46 - 01:32:48] _redsun**  
+et puis il ne le disait mais je sais, c'est...
+
+**[01:32:53 - 01:32:54] _redsun**  
+Ouais mais déjà on va voir...
+
+**[01:32:54 - 01:32:57] _redsun**  
+Ça va voir déjà, tu vas comprendre pourquoi c'est...
+
+**[01:32:57 - 01:32:59] _redsun**  
+Comme me prend encore là mais...
+
+**[01:32:59 - 01:33:00] _redsun**  
+On va y arriver gentiment.
+
+**[01:33:01 - 01:33:03] _redsun**  
+C'est qu'après tu peux aussi parce que en impression 3-2,
+
+**[01:33:01 - 01:33:14] pollux8888**  
+La raison est très simple.
+
+**[01:33:03 - 01:33:06] _redsun**  
+tu vas avoir des pertes de qualité importants aussi.
+
+**[01:33:06 - 01:33:07] _redsun**  
+Donc tu as...
+
+**[01:33:07 - 01:33:10] _redsun**  
+Et puis lui, va générer un mec qui est très bien franchement,
+
+**[01:33:10 - 01:33:11] _redsun**  
+mais qui est pas parfait.
+
+**[01:33:14 - 01:33:17] pollux8888**  
+En Asine, bon, je suis en fan de montrer.
+
+**[01:33:17 - 01:33:20] pollux8888**  
+Je ne sais pas un collectionnaire, mais je suis en fan de montrer.
+
+**[01:33:20 - 01:33:25] pollux8888**  
+Et j'en regarde beaucoup en fait les mantees qui sont maillons et les chinois, qui sont vraiment
+
+**[01:33:25 - 01:33:32] pollux8888**  
+Je l'ai dit qu'il y en a des marques, qu'ils sont pas occidentaux,
+
+**[01:33:32 - 01:33:35] pollux8888**  
+mais ni en moins qu'ils sont comme de bonne qualité.
+
+**[01:33:35 - 01:33:38] pollux8888**  
+Et puis je me sais dit,
+
+**[01:33:36 - 01:33:43] gilles_35307**  
+et
+
+**[01:33:38 - 01:33:40] pollux8888**  
+mais tiens, comment est-ce qu'il faut en pouvoir arriver à ça ?
+
+**[01:33:40 - 01:33:42] pollux8888**  
+Peut-être que ce soit des monde qui marche,
+
+**[01:33:42 - 01:33:43] pollux8888**  
+qu'ils ont des mouvements.
+
+**[01:33:43 - 01:33:45] gilles_35307**  
+le
+
+**[01:33:43 - 01:33:47] pollux8888**  
+Oui.
+
+**[01:33:45 - 01:33:47] gilles_35307**  
+s'en plie
+
+**[01:33:46 - 01:34:07] _redsun**  
+...
+
+**[01:33:47 - 01:33:51] gilles_35307**  
+et s'en plie
+
+**[01:33:47 - 01:33:50] pollux8888**  
+Mais maintenant, je me dis,
+
+**[01:33:50 - 01:33:54] pollux8888**  
+mais est-ce que avec ça, maintenant, c'est aller en un peu face pour ordre,
+
+**[01:33:51 - 01:33:57] gilles_35307**  
+et s'en plie
+
+**[01:33:54 - 01:34:08] pollux8888**  
+C'est S avec ça en un mateur pour rien, j'oconnais les mouvements de base et puis j'aimerais que train de monde, parce que ça soit en pourra ou à preuve.
+
+**[01:33:57 - 01:34:05] gilles_35307**  
+et s'en plie
+
+**[01:34:05 - 01:34:10] gilles_35307**  
+On te donne rendez-vous dans une semaine et tu l'as dit.
+
+**[01:34:07 - 01:34:25] _redsun**  
+C'est pas vous intéresse, là en ce moment c'est un de la bonne main.
+
+**[01:34:10 - 01:34:17] gilles_35307**  
+Ça va être courté, ça compte de l'art d'appui, mais ça ne coûte pas toujours moins cher.
+
+**[01:34:12 - 01:34:14] pollux8888**  
+Et là j'ai...
+
+**[01:34:17 - 01:34:20] gilles_35307**  
+Il montre, et puis, effectivement, c'est...
+
+**[01:34:20 - 01:34:26] gilles_35307**  
+OK.
+
+**[01:34:24 - 01:34:28] pollux8888**  
+Ok.
+
+**[01:34:25 - 01:34:30] _redsun**  
+Si vous voulez tester pour vous marrer, ce n'est pas du tout une vision,
+
+**[01:34:26 - 01:34:27] gilles_35307**  
+OK.
+
+**[01:34:27 - 01:34:45] gilles_35307**  
+...
+
+**[01:34:28 - 01:34:30] pollux8888**  
+All right.
+
+**[01:34:30 - 01:34:35] _redsun**  
+je fais au le partage et comme ça parce que là en ce moment il y a les trois ans
+
+**[01:34:35 - 01:34:40] _redsun**  
+et ça coûte un dollar mais je ne sais pas du tout où j'ai testé ou quoi mais c'est ceux qui
+
+**[01:34:40 - 01:34:46] _redsun**  
+s'intéressent et là on va pouvoir regarder ton résultat de maître et tu vas comprendre
+
+**[01:34:45 - 01:34:51] gilles_35307**  
+Du coup, c'est fluid pour faire de l'apparition sur l'incudin, etc.
+
+**[01:34:51 - 01:34:54] gilles_35307**  
+pour faire du... Je vais vu, je crois, je vais vous t'en film sur un codez.
+
+**[01:34:54 - 01:34:56] pollux8888**  
+Moi, moi, je l'ai vu, c'est vrai que...
+
+**[01:34:55 - 01:35:00] gilles_35307**  
+C'est facile, ça prend, c'est pas leourd leur vidéo, c'est...
+
+**[01:35:00 - 01:35:07] _redsun**  
+C'est qu'un second, c'est très légère, c'est du MP4, c'est généré après un employeur,
+
+**[01:35:00 - 01:35:01] gilles_35307**  
+On se passe.
+
+**[01:35:05 - 01:35:06] gilles_35307**  
+Ouais.
+
+**[01:35:07 - 01:35:12] _redsun**  
+on regarde spécial, tu vas l'invent, tu demandais exécuter les écoutes terminés.
+
+**[01:35:07 - 01:35:08] gilles_35307**  
+Ouais.
+
+**[01:35:09 - 01:35:10] gilles_35307**  
+Ok, bon, bon.
+
+**[01:35:12 - 01:35:18] _redsun**  
+C'est juste que je trouve ça cool de pouvoir en retécommer un jouté une corde à l'art qui peut
+
+**[01:35:13 - 01:35:13] gilles_35307**  
+Voilà.
+
+**[01:35:18 - 01:35:22] _redsun**  
+ne clôt, à qui peut faire des sites clubs, ça y peut le faire, ça y peut faire des documents,
+
+**[01:35:19 - 01:35:19] gilles_35307**  
+D'ailleurs.
+
+**[01:35:19 - 01:35:20] gilles_35307**  
+Ah, là, tu...
+
+**[01:35:21 - 01:35:26] gilles_35307**  
+C'est ça la magie de Pongklu, c'est quand même plus long grave, plus on se perd sur que le potentiel
+
+**[01:35:22 - 01:35:24] _redsun**  
+on ça y peut le faire.
+
+**[01:35:24 - 01:35:37] _redsun**  
+D'ailleurs, ce document-là que vous voyez là, qui nous dit qu'on a repère mon
+
+**[01:35:24 - 01:35:26] pollux8888**  
+et
+
+**[01:35:26 - 01:35:28] pollux8888**  
+le
+
+**[01:35:26 - 01:35:27] gilles_35307**  
+est gigantesque.
+
+**[01:35:27 - 01:35:31] gilles_35307**  
+Alors, à l'un Star des agendiers, de verson de l'air.
+
+**[01:35:28 - 01:35:34] pollux8888**  
+le
+
+**[01:35:34 - 01:35:39] pollux8888**  
+le
+
+**[01:35:37 - 01:35:43] _redsun**  
+serve, exactement, c'est tout généréable, je me plonge le plan.
+
+**[01:35:39 - 01:35:45] pollux8888**  
+le
+
+**[01:35:43 - 01:35:45] _redsun**  
+Tout ça, c'est généré par un peu de clon.
+
+**[01:35:45 - 01:35:53] pollux8888**  
+le
+
+**[01:35:45 - 01:35:49] _redsun**  
+Et puis là, après, à la fin de la session, voilà, vous avez les participants d'ailleurs
+
+**[01:35:49 - 01:35:52] _redsun**  
+qui ont été là-dedans, vous serez qui sont...
+
+**[01:35:52 - 01:35:57] _redsun**  
+Et le transcript est fait via notre améliorce,
+
+**[01:35:53 - 01:36:17] pollux8888**  
+...
+
+**[01:35:57 - 01:35:59] _redsun**  
+qui s'appelle le jupelur comme un sable.
+
+**[01:35:59 - 01:36:03] _redsun**  
+Crag, qui est là, qui nous écoute.
+
+**[01:36:03 - 01:36:05] _redsun**  
+Et en fait, il a un train d'écouter tout ce qu'on dit.
+
+**[01:36:05 - 01:36:09] _redsun**  
+Et ensuite, je ferai un transcript de tout ça.
+
+**[01:36:09 - 01:36:12] _redsun**  
+Et vous allez voir, l'élogici elle qu'on a été utilisé,
+
+**[01:36:12 - 01:36:14] _redsun**  
+et tout est tout lui qui va se démarre d'alcool.
+
+**[01:36:14 - 01:36:15] _redsun**  
+Moi je ferai.
+
+**[01:36:15 - 01:36:25] _redsun**  
+Alors après, je ne vais pas penser à ça.
+
+**[01:36:17 - 01:36:19] pollux8888**  
+Moi je veux dire à la privacy.
+
+**[01:36:25 - 01:36:27] _redsun**  
+Je ne voulais pas que je vous mets de vos noms.
+
+**[01:36:27 - 01:36:29] _redsun**  
+Vous ne vous me dire pas, ça ne vous vait pas.
+
+**[01:36:29 - 01:36:32] _redsun**  
+Mais c'est pas mal quand on des savoir qu'il fait quoi.
+
+**[01:36:32 - 01:36:38] _redsun**  
+Bah justement pour savoir, là, je sais que c'est brillou, celui ça a un spécialiste dans la vidéo.
+
+**[01:36:38 - 01:36:42] _redsun**  
+Donc si j'ai une question vidéo que j'ai un client qui a besoin de faire un truc vidéo,
+
+**[01:36:42 - 01:36:47] _redsun**  
+peut-être l'orienter sur la bruit, c'est ça, c'est ça.
+
+**[01:36:47 - 01:36:49] pollux8888**  
+C'est très bien.
+
+**[01:36:49 - 01:36:53] _redsun**  
+Puis dans la résumée de ce qu'on a dit dans un fort aussi, donc comme ça,
+
+**[01:36:54 - 01:36:59] _redsun**  
+ça permet de garder une trace, mais je sais vrai que la prévencie,
+
+**[01:37:00 - 01:37:03] _redsun**  
+si tu ne pas que je te cite tout, quoi,
+
+**[01:37:03 - 01:37:07] _redsun**  
+je te veux dire quoi, de 3.
+
+**[01:37:05 - 01:37:09] pollux8888**  
+On prend ici. On prend ici. On prend ici. On fait le compte de délement. On partit ici.
+
+**[01:37:07 - 01:37:12] _redsun**  
+Voilà, voilà.
+
+**[01:37:09 - 01:37:12] pollux8888**  
+Pour faire déjà.
+
+**[01:37:12 - 01:37:15] _redsun**  
+C'est ça, c'est ce que je me suis dit, quoi.
+
+**[01:37:15 - 01:37:20] _redsun**  
+Donc, voilà, c'est un newscase de Pado-Clo, qui est sympa.
+
+**[01:37:17 - 01:37:19] pollux8888**  
+Je vais vous remercier.
+
+**[01:37:19 - 01:37:21] pollux8888**  
+Je vais vous remercier.
+
+**[01:37:20 - 01:37:24] _redsun**  
+Ça vous voyez un peu de news.
+
+**[01:37:21 - 01:37:23] pollux8888**  
+Je vais vous remercier.
+
+**[01:37:23 - 01:37:25] pollux8888**  
+Je vais vous remercier.
+
+**[01:37:24 - 01:37:27] _redsun**  
+Ah, vraiment, en temps.
+
+**[01:37:25 - 01:37:27] pollux8888**  
+Je vais vous remercier.
+
+**[01:37:27 - 01:37:29] pollux8888**  
+Je vais vous remercier.
+
+**[01:37:27 - 01:37:29] _redsun**  
+Bon, en fait, j'ai fait une texture.
+
+**[01:37:29 - 01:37:31] pollux8888**  
+Je vais vous remercier.
+
+**[01:37:29 - 01:37:32] _redsun**  
+Ah, tu vas pleurer, hein, on avait.
+
+**[01:37:31 - 01:37:33] pollux8888**  
+Je vais vous remercier.
+
+**[01:37:32 - 01:37:35] _redsun**  
+Donc, il manque, je ne veux pas pourquoi,
+
+**[01:37:33 - 01:37:35] pollux8888**  
+Je vais vous remercier.
+
+**[01:37:35 - 01:37:37] pollux8888**  
+Je vais vous remercier.
+
+**[01:37:35 - 01:37:37] _redsun**  
+et on va y avoir une partie de la scope
+
+**[01:37:37 - 01:37:39] pollux8888**  
+Je vais vous remercier.
+
+**[01:37:39 - 01:37:41] pollux8888**  
+Je vais vous remercier.
+
+**[01:37:41 - 01:37:43] pollux8888**  
+Je vais vous remercier.
+
+**[01:37:42 - 01:37:47] _redsun**  
+Vativa, déjà le mesh, c'est de regarder un chvason
+
+**[01:37:43 - 01:37:45] pollux8888**  
+Je vais vous remercier.
+
+**[01:37:45 - 01:37:47] pollux8888**  
+et
+
+**[01:37:47 - 01:37:49] pollux8888**  
+on
+
+**[01:37:48 - 01:37:50] _redsun**  
+On ne peut pas le voir, on voit là, ok
+
+**[01:37:49 - 01:37:53] pollux8888**  
+on
+
+**[01:37:51 - 01:38:06] gilles_35307**  
+pour une seule chose pour une semaine.
+
+**[01:37:53 - 01:38:00] pollux8888**  
+on
+
+**[01:37:53 - 01:37:56] _redsun**  
+Alors attention, on veut la texture, ça va
+
+**[01:37:57 - 01:38:00] _redsun**  
+C'est un série Guru, mais tu ne vas pas travailler avec
+
+**[01:38:00 - 01:38:06] pollux8888**  
+on
+
+**[01:38:00 - 01:38:15] _redsun**  
+pour qu'il y a un seconde voiture, c'est pour voir faire une demo à Protô ou à un truc ou une idée
+
+**[01:38:06 - 01:38:08] pollux8888**  
+Ouais, c'est bon, c'est bien.
+
+**[01:38:15 - 01:38:21] _redsun**  
+tu vois, fidier ton idée, la faire tourner en 3D, c'est de conséptualiser en fait pas monté assez
+
+**[01:38:21 - 01:38:23] _redsun**  
+excellent, en varrant pour ça.
+
+**[01:38:21 - 01:38:50] gilles_35307**  
+on a eu un peu de
+
+**[01:38:23 - 01:38:26] _redsun**  
+Mais pas pour la règle.
+
+**[01:38:28 - 01:38:36] bensmart**  
+parce que ça, de faire tourner à modèle en 3D dans les entreprises dans l'enjeur, ça
+
+**[01:38:30 - 01:38:54] _redsun**  
+On peut s'amuser à un.
+
+**[01:38:36 - 01:38:40] bensmart**  
+c'est des années de formation, on s'est là, on a fait un bromp.
+
+**[01:38:36 - 01:38:39] pollux8888**  
+J'ai déjà dit que j'ai pas fait.
+
+**[01:38:40 - 01:38:49] bensmart**  
+Tous les gens ont envoyé des plateformes, des logiciels et des modèles qui nous font
+
+**[01:38:49 - 01:38:54] bensmart**  
+parce que la période de travail c'est durée là.
+
+**[01:38:50 - 01:38:56] gilles_35307**  
+Résuculement.
+
+**[01:38:54 - 01:38:58] _redsun**  
+la c'est très très très
+
+**[01:38:54 - 01:39:00] bensmart**  
+Mais d'année de formation à faire preiner c'est dans de l'agitiel.
+
+**[01:38:56 - 01:38:57] gilles_35307**  
+.
+
+**[01:38:57 - 01:38:58] gilles_35307**  
+.
+
+**[01:38:58 - 01:38:59] gilles_35307**  
+.
+
+**[01:38:58 - 01:39:27] _redsun**  
+J'ai juste ma misère de faire tourner, mais c'est pour l'exemple parce qu'elle n'a pas très
+
+**[01:38:59 - 01:39:00] gilles_35307**  
+.
+
+**[01:39:00 - 01:39:04] lelio1213**  
+Je ne sais pas si il y a un peu de duplication rapidement.
+
+**[01:39:00 - 01:39:01] gilles_35307**  
+.
+
+**[01:39:00 - 01:39:02] bensmart**  
+Allà !
+
+**[01:39:01 - 01:39:02] gilles_35307**  
+.
+
+**[01:39:02 - 01:39:03] gilles_35307**  
+.
+
+**[01:39:03 - 01:39:04] gilles_35307**  
+.
+
+**[01:39:04 - 01:39:05] gilles_35307**  
+.
+
+**[01:39:04 - 01:39:08] lelio1213**  
+Le mieux c'est d'abord de poser la question aux heures sur répétés ou pour qu'elle
+
+**[01:39:05 - 01:39:06] gilles_35307**  
+.
+
+**[01:39:06 - 01:39:07] gilles_35307**  
+.
+
+**[01:39:07 - 01:39:08] gilles_35307**  
+.
+
+**[01:39:08 - 01:39:09] gilles_35307**  
+.
+
+**[01:39:08 - 01:39:12] lelio1213**  
+elle est même, juste pour avoir une compte de qualité vraiment complexe d'étagé.
+
+**[01:39:09 - 01:39:10] gilles_35307**  
+.
+
+**[01:39:10 - 01:39:11] gilles_35307**  
+.
+
+**[01:39:11 - 01:39:12] gilles_35307**  
+.
+
+**[01:39:12 - 01:39:13] gilles_35307**  
+.
+
+**[01:39:12 - 01:39:15] lelio1213**  
+Et ensuite je mets cette point directement dans le luchel-mart.
+
+**[01:39:13 - 01:39:14] gilles_35307**  
+.
+
+**[01:39:14 - 01:39:15] gilles_35307**  
+.
+
+**[01:39:15 - 01:39:16] gilles_35307**  
+.
+
+**[01:39:16 - 01:39:17] gilles_35307**  
+.
+
+**[01:39:17 - 01:39:18] gilles_35307**  
+.
+
+**[01:39:18 - 01:39:19] gilles_35307**  
+.
+
+**[01:39:19 - 01:39:20] gilles_35307**  
+.
+
+**[01:39:20 - 01:39:21] gilles_35307**  
+.
+
+**[01:39:21 - 01:39:22] gilles_35307**  
+.
+
+**[01:39:22 - 01:39:23] gilles_35307**  
+.
+
+**[01:39:23 - 01:39:24] gilles_35307**  
+.
+
+**[01:39:24 - 01:39:25] gilles_35307**  
+.
+
+**[01:39:27 - 01:39:32] _redsun**  
+j'ai l'imais juste pour essayer de s'imaginer les jusqu'à ce cas.
+
+**[01:39:32 - 01:39:36] _redsun**  
+Parce que ça part compte, je peux vous dire un truc, moi ce qui m'intéresse à la création
+
+**[01:39:36 - 01:39:40] _redsun**  
+de contenu pour les réseaux sociaux, ça soit pour vos personnels, brentings, pour vous montrer
+
+**[01:39:40 - 01:39:44] _redsun**  
+ce que vous savez faire, vous simplement pour générer du clic, pour que les gens
+
+**[01:39:44 - 01:39:46] _redsun**  
+disent, c'est que vous voulez tout.
+
+**[01:39:46 - 01:39:50] _redsun**  
+La France-Pantie peut faire des trucs super cool pour ça, en tout cas je trouve ça
+
+**[01:39:50 - 01:39:55] _redsun**  
+parce que voilà, si tu fais un truc je lis qui dénonvie,
+
+**[01:39:55 - 01:39:57] _redsun**  
+ou un truc marron, ou voilà,
+
+**[01:39:57 - 01:40:02] _redsun**  
+et bah, t'as reforsement un taux de clique de vue qui sera vachement plus élevé,
+
+**[01:40:02 - 01:40:05] _redsun**  
+en faisant une petite vidéo en trois secondes avec mes chinois,
+
+**[01:40:05 - 01:40:06] _redsun**  
+au train, avec si d'être sou.
+
+**[01:40:06 - 01:40:09] _redsun**  
+Bah si la grivette nous a avoir des jeux littroups,
+
+**[01:40:09 - 01:40:10] _redsun**  
+ben ça pourrait t'intéressant,
+
+**[01:40:10 - 01:40:14] _redsun**  
+parce que là, c'est ça reste quand même chère,
+
+**[01:40:14 - 01:40:16] _redsun**  
+mais à quoi ne t'es pas obligé d'utiliser si d'être sou.
+
+**[01:40:16 - 01:40:18] _redsun**  
+Là, je peux récupérer la photo qu'on a fait,
+
+**[01:40:18 - 01:40:20] _redsun**  
+donc là, il a fini à juste un fond blanc propre,
+
+**[01:40:20 - 01:40:27] _redsun**  
+je veux dire, tu peux me faire un éclater de mon trou, je sais pas,
+
+**[01:40:27 - 01:40:36] _redsun**  
+asine en port que vous allez, je veux ça, la rache, de faire un éclater de mon, de mouvement
+
+**[01:40:30 - 01:40:39] bensmart**  
+de mouvement, de mouvement, de mouvement, c'est plus de premier.
+
+**[01:40:36 - 01:40:38] pollux8888**  
+et
+
+**[01:40:36 - 01:40:46] _redsun**  
+ou de mon trou, il va comprendre, tu crois, ok, moi je vais faire 10 secondes
+
+**[01:40:38 - 01:40:40] pollux8888**  
+le
+
+**[01:40:39 - 01:40:55] bensmart**  
+Par rapport à l'autre, parce que faire un écla té de mouvement entre
+
+**[01:40:40 - 01:40:42] pollux8888**  
+le
+
+**[01:40:42 - 01:40:44] pollux8888**  
+le
+
+**[01:40:44 - 01:40:46] pollux8888**  
+le
+
+**[01:40:46 - 01:40:52] _redsun**  
+plus je le jenais alors aucune avée parce que t'as un peu con et faut faire
+
+**[01:40:46 - 01:40:48] pollux8888**  
+le
+
+**[01:40:48 - 01:40:52] pollux8888**  
+le
+
+**[01:40:52 - 01:40:54] _redsun**  
+non
+
+**[01:40:52 - 01:40:56] pollux8888**  
+le
+
+**[01:40:55 - 01:41:00] bensmart**  
+ça toutes les marques les maisons à la hauteur il ne font
+
+**[01:40:56 - 01:41:00] pollux8888**  
+le
+
+**[01:41:00 - 01:41:04] pollux8888**  
+le
+
+**[01:41:00 - 01:41:07] bensmart**  
+et ça coûte moins juste mon expérience il y a 15 ans
+
+**[01:41:07 - 01:41:11] bensmart**  
+j'ai mis une en plus c'est qu'elle maison
+
+**[01:41:11 - 01:41:17] bensmart**  
+l'orbuget était de 2-5-4 francises pour une vidéo de 20 fonds
+
+**[01:41:16 - 01:41:27] _redsun**  
+Et ce que tu peux faire là aussi, c'est tout simplement prendre le vrai modèle 3D de la marque,
+
+**[01:41:17 - 01:41:22] bensmart**  
+ça c'était l'orbuget il y a 15 ans encore
+
+**[01:41:25 - 01:41:46] bensmart**  
+et
+
+**[01:41:27 - 01:41:35] _redsun**  
+et puis faire ça directement. Là, ça marche très très bien parce que les pièces sont bien définies par le modèle,
+
+**[01:41:35 - 01:41:39] _redsun**  
+et du coup il pourra comprendre la structure de la montre complètement.
+
+**[01:41:39 - 01:41:52] _redsun**  
+Mais bon, on va voir là, à sa tourne, on live là je vous prend là, donc ça peut donner un truc dégueulasse, je ne sais pas du tout ce qui ça va faire.
+
+**[01:41:46 - 01:42:08] bensmart**  
+...
+
+**[01:41:52 - 01:41:57] _redsun**  
+C'est juste que j'ai pris Cdn2 en 10 secondes, à genre du phalodium, c'est pas là.
+
+**[01:41:57 - 01:41:59] _redsun**  
+Bon, ce n'est pas très important de le dieu.
+
+**[01:41:59 - 01:42:01] _redsun**  
+juste voir ce que ça fait
+
+**[01:42:01 - 01:42:03] _redsun**  
+donc deux centrées d'ici
+
+**[01:42:03 - 01:42:06] _redsun**  
+Rage du mal à me rendre compte qu'on vient ça faire
+
+**[01:42:04 - 01:42:09] pollux8888**  
+Je suis en train de vous faire du débat.
+
+**[01:42:07 - 01:42:09] _redsun**  
+à cheque
+
+**[01:42:08 - 01:42:13] bensmart**  
+parce que avant, tu étais 13 ans avec la manante de 1200
+
+**[01:42:13 - 01:42:15] _redsun**  
+Ouais, moi je m'en fous, je...
+
+**[01:42:14 - 01:42:18] bensmart**  
+200, 200, 200 clédés
+
+**[01:42:18 - 01:42:20] _redsun**  
+La me s'ammentarrasse de voir
+
+**[01:42:20 - 01:42:23] _redsun**  
+la c'est intéressant, bien accord, mais s'ammentarrasse de voir
+
+**[01:42:24 - 01:42:26] _redsun**  
+qu'est ce qui peut s'y faire
+
+**[01:42:25 - 01:42:54] gilles_35307**  
+et
+
+**[01:42:26 - 01:42:30] bensmart**  
+tu disais, tu as référeux pour ressent comme ça on peut tester la terre
+
+**[01:42:29 - 01:42:58] _redsun**  
+et
+
+**[01:42:30 - 01:42:32] bensmart**  
+référeux qui donne après un prépensiel
+
+**[01:42:32 - 01:42:35] bensmart**  
+tu es la partagé, ok, je suis là
+
+**[01:42:34 - 01:42:54] pollux8888**  
+.
+
+**[01:42:36 - 01:42:37] bensmart**  
+allez
+
+**[01:42:38 - 01:42:41] bensmart**  
+on est
+
+**[01:42:41 - 01:42:45] bensmart**  
+on est
+
+**[01:42:45 - 01:42:48] bensmart**  
+c'est le crochel
+
+**[01:42:48 - 01:42:51] bensmart**  
+c'est le crochel
+
+**[01:42:54 - 01:42:58] pollux8888**  
+en attendant j'arrive juste à partager juste un infoto
+
+**[01:42:55 - 01:43:16] gilles_35307**  
+...
+
+**[01:42:58 - 01:43:02] pollux8888**  
+j'arrive
+
+**[01:42:58 - 01:43:04] _redsun**  
+Après, il est tellement... ce qu'on a été maintenant, justement, c'est que tu me
+
+**[01:43:04 - 01:43:07] _redsun**  
+donne la photo de la montre et la chancule.
+
+**[01:43:06 - 01:43:08] pollux8888**  
+ok mais mais
+
+**[01:43:07 - 01:43:08] _redsun**  
+Parra.
+
+**[01:43:08 - 01:43:16] _redsun**  
+On ne parle pas si j'aurais... voilà, je ne suis vraiment... c'est vraiment ma trisson.
+
+**[01:43:10 - 01:43:11] pollux8888**  
+là
+
+**[01:43:11 - 01:43:13] pollux8888**  
+ce que tu vois
+
+**[01:43:16 - 01:43:23] _redsun**  
+Ce que je... c'est beau, mais... est-ce que j'aurais eu un direct direct?
+
+**[01:43:16 - 01:43:18] gilles_35307**  
+tu sais je ne sais pas
+
+**[01:43:23 - 01:43:25] _redsun**  
+Non.
+
+**[01:43:24 - 01:43:25] pollux8888**  
+C'est que...
+
+**[01:43:25 - 01:43:26] pollux8888**  
+Tu n'as rien qu'il y a.
+
+**[01:43:25 - 01:43:27] _redsun**  
+Je ne dois pas.
+
+**[01:43:27 - 01:43:27] pollux8888**  
+Tu.
+
+**[01:43:27 - 01:43:30] _redsun**  
+Moi, je vois rien en tout que je passe les autres qui voyent.
+
+**[01:43:30 - 01:43:34] _redsun**  
+Ah j'ai...
+
+**[01:43:31 - 01:43:33] gilles_35307**  
+non
+
+**[01:43:33 - 01:43:34] pollux8888**  
+Ah, ça.
+
+**[01:43:34 - 01:43:35] pollux8888**  
+Oh.
+
+**[01:43:34 - 01:43:38] _redsun**  
+Et tant, j'ai juste... j'ai la vidéo, regarde où on...
+
+**[01:43:38 - 01:43:42] bensmart**  
+...
+
+**[01:43:38 - 01:43:42] _redsun**  
+Vous voyez mon... mon serait bon.
+
+**[01:43:39 - 01:43:41] gilles_35307**  
+non
+
+**[01:43:40 - 01:43:41] pollux8888**  
+Ok, vas-y.
+
+**[01:43:42 - 01:43:43] pollux8888**  
+Oui.
+
+**[01:43:42 - 01:43:46] _redsun**  
+Oh là là.
+
+**[01:43:46 - 01:43:47] pollux8888**  
+Oui.
+
+**[01:43:46 - 01:43:48] gilles_35307**  
+...
+
+**[01:43:46 - 01:43:50] _redsun**  
+Ah, fit un... Ah fit un... Ah fit un...
+
+**[01:43:48 - 01:43:49] gilles_35307**  
+...
+
+**[01:43:49 - 01:43:53] gilles_35307**  
+...
+
+**[01:43:50 - 01:43:52] _redsun**  
+C'est pas vrai.
+
+**[01:43:53 - 01:43:56] gilles_35307**  
+...
+
+**[01:43:53 - 01:43:56] _redsun**  
+On va aller quand on va pas toujours.
+
+**[01:43:54 - 01:44:14] pollux8888**  
+...
+
+**[01:43:56 - 01:43:58] _redsun**  
+J'ai déjà sorti qu'il veut.
+
+**[01:43:56 - 01:43:57] gilles_35307**  
+...
+
+**[01:43:57 - 01:43:58] gilles_35307**  
+...
+
+**[01:43:58 - 01:44:00] _redsun**  
+Est-ce que ça c'est beau au quoi.
+
+**[01:43:58 - 01:43:59] gilles_35307**  
+...
+
+**[01:43:59 - 01:44:00] gilles_35307**  
+...
+
+**[01:44:00 - 01:44:01] gilles_35307**  
+...
+
+**[01:44:00 - 01:44:04] _redsun**  
+Alors si t'as des belles photos, je pense que c'est pas...
+
+**[01:44:01 - 01:44:02] gilles_35307**  
+...
+
+**[01:44:02 - 01:44:03] gilles_35307**  
+...
+
+**[01:44:03 - 01:44:04] gilles_35307**  
+...
+
+**[01:44:04 - 01:44:05] gilles_35307**  
+...
+
+**[01:44:05 - 01:44:06] gilles_35307**  
+...
+
+**[01:44:06 - 01:44:07] gilles_35307**  
+...
+
+**[01:44:06 - 01:44:10] _redsun**  
+Il faut d'aller belles photos de la montre réelle sur plusieurs angles et à du t'es clattant.
+
+**[01:44:07 - 01:44:08] gilles_35307**  
+...
+
+**[01:44:08 - 01:44:09] gilles_35307**  
+...
+
+**[01:44:09 - 01:44:10] gilles_35307**  
+...
+
+**[01:44:10 - 01:44:11] gilles_35307**  
+...
+
+**[01:44:11 - 01:44:12] gilles_35307**  
+...
+
+**[01:44:12 - 01:44:13] gilles_35307**  
+...
+
+**[01:44:13 - 01:44:14] gilles_35307**  
+...
+
+**[01:44:14 - 01:44:15] gilles_35307**  
+...
+
+**[01:44:14 - 01:44:16] pollux8888**  
+ça
+
+**[01:44:15 - 01:44:17] gilles_35307**  
+Je vais vous montrer, c'est un peu plus important.
+
+**[01:44:15 - 01:44:16] _redsun**  
+Ça c'est stylé.
+
+**[01:44:16 - 01:44:17] _redsun**  
+Je n'ai pas demandé.
+
+**[01:44:17 - 01:44:19] gilles_35307**  
+Je vais vous montrer, c'est un peu plus important.
+
+**[01:44:17 - 01:44:19] _redsun**  
+Ça va faire le petit mouvement des blois.
+
+**[01:44:19 - 01:44:21] gilles_35307**  
+Je vais vous montrer, c'est un peu plus important.
+
+**[01:44:19 - 01:44:21] _redsun**  
+ça a été un peu
+
+**[01:44:21 - 01:44:23] gilles_35307**  
+Je vais vous montrer, c'est un peu plus important.
+
+**[01:44:23 - 01:44:25] gilles_35307**  
+Je vais vous montrer, c'est un peu plus important.
+
+**[01:44:25 - 01:44:27] gilles_35307**  
+Je vais vous montrer, c'est un peu plus important.
+
+**[01:44:25 - 01:44:27] _redsun**  
+on a des dégulats, tu sais
+
+**[01:44:27 - 01:44:29] gilles_35307**  
+Je vais vous montrer, c'est un peu plus important.
+
+**[01:44:27 - 01:44:29] pollux8888**  
+ça va lui bien
+
+**[01:44:29 - 01:44:31] gilles_35307**  
+Je vais vous montrer, c'est un peu plus important.
+
+**[01:44:31 - 01:44:33] gilles_35307**  
+Je vais vous montrer, c'est un peu plus important.
+
+**[01:44:33 - 01:44:35] gilles_35307**  
+Je vais vous montrer, c'est un peu plus important.
+
+**[01:44:35 - 01:44:37] gilles_35307**  
+Je vais vous montrer, c'est un peu plus important.
+
+**[01:44:37 - 01:44:39] gilles_35307**  
+Je vais vous montrer, c'est un peu plus important.
+
+**[01:44:37 - 01:44:39] _redsun**  
+attendez, ne me discous
+
+**[01:44:39 - 01:44:41] gilles_35307**  
+Je vais vous montrer, c'est un peu plus important.
+
+**[01:44:41 - 01:44:43] gilles_35307**  
+Je vais vous montrer, c'est un peu plus important.
+
+**[01:44:43 - 01:44:50] gilles_35307**  
+Et donc du coup en fait tu peux envoyer une photo d'un produit et puis le monde est
+
+**[01:44:49 - 01:45:02] _redsun**  
+On fait justement, c'est ça qui est super intérance en danger d'order les trucs qui sont un peu multiples.
+
+**[01:44:50 - 01:44:52] gilles_35307**  
+venu animé et c'était rare de faire un film d'un autre talent.
+
+**[01:44:52 - 01:44:53] gilles_35307**  
+C'est pour pour moi.
+
+**[01:44:53 - 01:44:56] gilles_35307**  
+Et le tout vient notre chéropole clon.
+
+**[01:44:54 - 01:45:21] pchartois**  
+Et il y a un peu de temps de plait sur mes chilles par exemple.
+
+**[01:45:02 - 01:45:09] _redsun**  
+Tu peux le faire avec d'autres tools, mais bizarrement par exemple, je dis Jean Spark et Jean Spark le coup de la vidéo et plus évec chez Messier.
+
+**[01:45:09 - 01:45:12] _redsun**  
+Je n'ai pas compris mais c'est plus élevé.
+
+**[01:45:12 - 01:45:14] _redsun**  
+Donc du coup je passe par Messier pour générer la vidéo.
+
+**[01:45:14 - 01:45:37] pollux8888**  
+...
+
+**[01:45:14 - 01:45:17] _redsun**  
+bon c'est une astuce
+
+**[01:45:21 - 01:45:24] pchartois**  
+et tout à fait, c'est un truc,
+
+**[01:45:24 - 01:45:25] pchartois**  
+c'est un plan,
+
+**[01:45:24 - 01:45:29] _redsun**  
+non parce que la tote tote tote un train de vouloir des trucs
+
+**[01:45:25 - 01:45:27] pchartois**  
+un plan de plan.
+
+**[01:45:29 - 01:45:32] _redsun**  
+je vais vous dire que je vais faire ça
+
+**[01:45:32 - 01:45:34] _redsun**  
+t'as exfiles
+
+**[01:45:34 - 01:45:37] _redsun**  
+qui est en fait une plateforme
+
+**[01:45:37 - 01:45:38] pollux8888**  
+On se rendu.
+
+**[01:45:39 - 01:45:42] _redsun**  
+une plateforme spéciale pour faire de la vidéo
+
+**[01:45:42 - 01:45:46] _redsun**  
+Là, tu as des templé-tic-toc, ça c'est la bombe, la dingue,
+
+**[01:45:43 - 01:45:56] gilles_35307**  
+Je suis en train de faire un blanc.
+
+**[01:45:46 - 01:45:49] _redsun**  
+des géniales pour faire la création vidéo par contre les guiles,
+
+**[01:45:49 - 01:45:51] _redsun**  
+c'est régale sur les prix.
+
+**[01:45:51 - 01:45:54] _redsun**  
+Ça coûte une blande, mais ça en truc de fou quoi.
+
+**[01:45:54 - 01:45:58] _redsun**  
+C'est c'est bon.
+
+**[01:45:56 - 01:46:07] gilles_35307**  
+ça dépend, c'est une vie à sa coule d'hide de l'âtre de Ken, c'est toujours rien par
+
+**[01:45:58 - 01:46:02] _redsun**  
+Il n'a pas d'impréhélever, moi, multiplieu de part de...
+
+**[01:46:02 - 01:46:04] _redsun**  
+Je veux un...
+
+**[01:46:04 - 01:46:14] _redsun**  
+Pour te dire, moi, j'ai fait une vidéo avec que je peux vous montrer, c'est, je suis
+
+**[01:46:07 - 01:46:09] gilles_35307**  
+pour la vraie vie, c'est ça c'est une autre problème.
+
+**[01:46:14 - 01:46:16] _redsun**  
+dépressive de ces gens.
+
+**[01:46:16 - 01:46:20] _redsun**  
+Je voulais tester un truc, j'ai pris un abonnement, un moi, j'ai dit, je teste.
+
+**[01:46:20 - 01:46:23] _redsun**  
+Allez, j'ai bien regardé ce que ça donne.
+
+**[01:46:23 - 01:46:28] _redsun**  
+Et puis, d'ailleurs, je pense qu'il est long de n'appuie aussi, je pense qu'ils ont
+
+**[01:46:26 - 01:46:54] gilles_35307**  
+Donc, dans le méchite, tu peux faire le match sur ça, dans le méchite, tu peux utiliser
+
+**[01:46:28 - 01:46:35] _redsun**  
+appais, avéreux si un, et là, je suis allé dans le vidéo, on monte déjà
+
+**[01:46:35 - 01:46:41] _redsun**  
+l'interface, c'est un bon bordel quoi, je ne trouve pas le même pas mes vidéos,
+
+**[01:46:41 - 01:46:57] _redsun**  
+c'est quand même, quoi je ne sais pas du vidéo, là, ouais, mais là aussi,
+
+**[01:46:54 - 01:47:24] gilles_35307**  
+d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un
+
+**[01:46:57 - 01:47:14] _redsun**  
+Mais alors en torçant mes chi, de l'intérêt, c'est de passer la 3D.
+
+**[01:47:14 - 01:47:20] _redsun**  
+Moi je trouve ça intéressant, c'est une façon de dire, je passe de la 3D à la vidéo
+
+**[01:47:20 - 01:47:25] _redsun**  
+que du coup t'as une truc qui peut faire un personnage qui existe ou art.
+
+**[01:47:24 - 01:47:26] gilles_35307**  
+On se passe.
+
+**[01:47:25 - 01:47:34] _redsun**  
+Et tu vas y aller, mcp, cp pour aller y aller, c'est l'ababa, la ternère, mais ça j'en a un peu une clove,
+
+**[01:47:34 - 01:47:41] _redsun**  
+voilà ça, même pas, des mots clôt parce qu'il y a un, donc tu en fais tu peux passer par
+
+**[01:47:37 - 01:47:59] pollux8888**  
+.
+
+**[01:47:41 - 01:47:46] _redsun**  
+expi de, pour générer de la vidéo, à la voler avec ton peu de clove et faire des trucs aussi
+
+**[01:47:46 - 01:47:52] _redsun**  
+dedans, voilà, attention ça bonne barre de le prix, je m'en jettez, je m'en dis
+
+**[01:47:52 - 01:47:56] _redsun**  
+parce que je sais qu'il y a mon pot qui fait la vidéo pro, il travaille pour moi,
+
+**[01:47:56 - 01:48:00] _redsun**  
+c'est japonne, japonne tabacourt, comme ça, au zb.
+
+**[01:47:59 - 01:48:01] pollux8888**  
+C'est un peu cool, mait.
+
+**[01:48:00 - 01:48:11] _redsun**  
+Lui, j'ai dit ça pour, c'était vachement, je m'en ai par contre, pour les prix pour se marrer, c'est trop cher pour rigoler quoi.
+
+**[01:48:01 - 01:48:03] pollux8888**  
+Did AI?
+
+**[01:48:08 - 01:48:23] bensmart**  
+.
+
+**[01:48:11 - 01:48:17] _redsun**  
+Après, c'est pas un ben train, on va remerger un moment sur sidelines de toi.
+
+**[01:48:17 - 01:48:19] _redsun**  
+Tu sais déjà, ou plutôt qu'une des.
+
+**[01:48:22 - 01:48:24] _redsun**  
+à y participer.
+
+**[01:48:23 - 01:48:28] bensmart**  
+J'ai pas encore le président, mais sûrement au moins cher que les...
+
+**[01:48:24 - 01:48:34] gilles_35307**  
+...
+
+**[01:48:29 - 01:48:34] pollux8888**  
+...
+
+**[01:48:31 - 01:48:33] bensmart**  
+On m'entend là.
+
+**[01:48:32 - 01:48:34] _redsun**  
+Que eux quoi ?
+
+**[01:48:33 - 01:48:39] bensmart**  
+C'est un peu moins cher que les prix de HX-field et compagnies.
+
+**[01:48:39 - 01:48:57] bensmart**  
+Et si l'année, c'est un train de préparer le 3.0.
+
+**[01:48:41 - 01:48:44] _redsun**  
+Ce que là aujourd'hui, vous avez si dense et les autres.
+
+**[01:48:44 - 01:48:47] _redsun**  
+D'ailleurs, à pire, ça j'ai testé ces nuits en...
+
+**[01:48:47 - 01:48:49] _redsun**  
+par rapport à la
+
+**[01:48:49 - 01:48:51] _redsun**  
+la
+
+**[01:48:51 - 01:48:53] _redsun**  
+la
+
+**[01:48:53 - 01:48:57] _redsun**  
+la
+
+**[01:48:54 - 01:49:20] gilles_35307**  
+...
+
+**[01:48:57 - 01:48:59] _redsun**  
+la
+
+**[01:48:57 - 01:49:06] bensmart**  
+J'ai entendu parler à par amont, enfin je vois, tu as fait comme ça.
+
+**[01:48:59 - 01:49:06] pollux8888**  
+.
+
+**[01:48:59 - 01:49:02] _redsun**  
+la
+
+**[01:49:02 - 01:49:05] _redsun**  
+la
+
+**[01:49:05 - 01:49:08] _redsun**  
+la
+
+**[01:49:06 - 01:49:10] bensmart**  
+Je te tourne en préparer comme on dirait
+
+**[01:49:08 - 01:49:10] _redsun**  
+la
+
+**[01:49:10 - 01:49:14] bensmart**  
+les arbres secrets, t'as cité en tropique
+
+**[01:49:10 - 01:49:13] _redsun**  
+la
+
+**[01:49:13 - 01:49:16] _redsun**  
+la
+
+**[01:49:14 - 01:49:17] bensmart**  
+avec le clod, comment ça pèse la mythique,
+
+**[01:49:16 - 01:49:23] _redsun**  
+et plutôt sur.
+
+**[01:49:17 - 01:49:18] bensmart**  
+ni mythos.
+
+**[01:49:18 - 01:49:22] bensmart**  
+Ou à, on peut-être en très peur.
+
+**[01:49:20 - 01:49:22] gilles_35307**  
+J'ai eu de chouche.
+
+**[01:49:22 - 01:49:25] bensmart**  
+On ne tourne pas en préparer leur truc
+
+**[01:49:25 - 01:49:29] bensmart**  
+en colise pour vraiment attendre au bon moment de sortir.
+
+**[01:49:29 - 01:49:50] pollux8888**  
+C'est très sympa.
+
+**[01:49:31 - 01:49:36] _redsun**  
+Je peux montrer à Piers, parce que c'est notre, il y a, d'ailleurs,
+
+**[01:49:36 - 01:49:39] _redsun**  
+je pense que je fente des suites de Piers, par rapport à Cidance,
+
+**[01:49:36 - 01:49:57] bensmart**  
+...
+
+**[01:49:39 - 01:49:42] _redsun**  
+aussi Chinois, social, je n'en intervidez-vous.
+
+**[01:49:42 - 01:49:45] _redsun**  
+Voilà ce que ça donne.
+
+**[01:49:45 - 01:49:49] _redsun**  
+Bon, ce sont ces transmetes en maquillement.
+
+**[01:49:50 - 01:49:52] pollux8888**  
+on
+
+**[01:49:50 - 01:49:53] _redsun**  
+C'est sympa, c'est fun.
+
+**[01:49:50 - 01:49:53] gilles_35307**  
+Non c'est bien.
+
+**[01:49:54 - 01:49:58] _redsun**  
+C'est pas mal, mais c'est d'être largement, c'est moi-même.
+
+**[01:49:57 - 01:50:03] bensmart**  
+Parce que ce que c'est d'un, c'est en fait, c'est Biden, donc la maison mère de TikTok,
+
+**[01:50:03 - 01:50:09] bensmart**  
+qui est vraiment le pionnier dans tout ce qui est alboeux.
+
+**[01:50:09 - 01:50:13] bensmart**  
+Donc ils ont un alboeux extrêmement puissant.
+
+**[01:50:13 - 01:50:15] bensmart**  
+C'est ça leur avantage.
+
+**[01:50:15 - 01:50:19] bensmart**  
+Ils investissent largement aussi, quand ça.
+
+**[01:50:19 - 01:50:33] bensmart**  
+À par mois ils ont vendu un société fille de jeu vidéo, un société à rame,
+
+**[01:50:33 - 01:50:38] bensmart**  
+par un moment où j'ai entendu parler pour pouvoir capitaliser et réinvestir dans
+
+**[01:50:38 - 01:50:47] bensmart**  
+Donc là il prenne vraiment de l'âge et ils investissent massivement dans ce truc.
+
+**[01:50:45 - 01:50:50] _redsun**  
+...
+
+**[01:50:47 - 01:50:54] bensmart**  
+Il y en a tendance peut-être de sortir aussi à modèle qui a un peu plus on va dire
+
+**[01:50:54 - 01:51:00] bensmart**  
+éthique étant donné que ça a eu un clash avec les studios de production de
+
+**[01:51:00 - 01:51:04] bensmart**  
+les roues, etc., sur les droits d'auteur, etc.,
+
+**[01:51:04 - 01:51:08] bensmart**  
+donc là il se met un peu en retraite,
+
+**[01:51:08 - 01:51:11] bensmart**  
+mais pour mieux travailler un peu tout ce qui est,
+
+**[01:51:11 - 01:51:13] bensmart**  
+je pense, compléenne, etc.,
+
+**[01:51:13 - 01:51:15] bensmart**  
+mais techniquement,
+
+**[01:51:15 - 01:51:18] bensmart**  
+ils sont abattables aujourd'hui.
+
+**[01:51:15 - 01:51:27] _redsun**  
+Ok, bah, à voir, là je ferais mon trait, j'ai fait une petite vidéo avec
+
+**[01:51:27 - 01:51:29] _redsun**  
+ex-fils de l'épisode.
+
+**[01:51:29 - 01:51:34] _redsun**  
+J'vous l'ai fait un vidéo pour les 5 000 abonnés que j'ai sur l'ingline.
+
+**[01:51:34 - 01:51:38] _redsun**  
+Et je voulais faire un tout, on voyait sur plusieurs acts, il a fait un truc, mais
+
+**[01:51:38 - 01:51:40] _redsun**  
+je sens un peu pour la dépression.
+
+**[01:51:40 - 01:51:44] _redsun**  
+Mais ce qui est vachement bien fait, c'est qu'il a fait les seines,
+
+**[01:51:44 - 01:51:47] _redsun**  
+d'ailleurs, rien n'y a ni tout ça, et tout ça c'est le lien.
+
+**[01:51:47 - 01:51:50] _redsun**  
+Pour ce moment on voit pas tellement, c'est de c'est du sidène, c'est au sein.
+
+**[01:51:50 - 01:51:53] pollux8888**  
+La douze ans, elle va être facile à l'hierida.
+
+**[01:51:50 - 01:52:02] gilles_35307**  
+Non, tu me n'étais pas la vidéo de l'astronautique.
+
+**[01:51:55 - 01:51:57] _redsun**  
+C'est parce qu'il a pas, mais on dirait que je suis trilé,
+
+**[01:51:57 - 01:52:00] _redsun**  
+tu sais pas, c'est bizarre, quoi.
+
+**[01:52:00 - 01:52:01] _redsun**  
+Mais non,
+
+**[01:52:02 - 01:52:06] gilles_35307**  
+C'est cette problème, bon, je comprends, mais c'est pas vrai, c'est bien.
+
+**[01:52:06 - 01:52:08] _redsun**  
+c'est bien foutu, par contre les plans séquences.
+
+**[01:52:06 - 01:52:10] gilles_35307**  
+Et ça tu l'as juste de l'une photo ?
+
+**[01:52:10 - 01:52:13] _redsun**  
+Alors j'ai montré quatre photos. Je fais des stories, bon.
+
+**[01:52:10 - 01:52:13] gilles_35307**  
+C'est quoi mon...
+
+**[01:52:15 - 01:52:16] _redsun**  
+C'est ça les quatre photos.
+
+**[01:52:17 - 01:52:19] _redsun**  
+Pas si j'ai...
+
+**[01:52:19 - 01:52:23] _redsun**  
+Moi je vais m'a mis un peu. Je découvre, je fais des trucs comme ça pour tester un peu.
+
+**[01:52:20 - 01:52:35] pollux8888**  
+...
+
+**[01:52:20 - 01:52:21] gilles_35307**  
+.
+
+**[01:52:21 - 01:52:23] pchartois**  
+et
+
+**[01:52:21 - 01:52:22] gilles_35307**  
+.
+
+**[01:52:22 - 01:52:23] gilles_35307**  
+.
+
+**[01:52:23 - 01:52:24] gilles_35307**  
+.
+
+**[01:52:24 - 01:52:27] _redsun**  
+Ah, j'ai plus le sens, les photos...
+
+**[01:52:24 - 01:52:25] gilles_35307**  
+.
+
+**[01:52:25 - 01:52:26] gilles_35307**  
+.
+
+**[01:52:26 - 01:52:27] gilles_35307**  
+.
+
+**[01:52:27 - 01:52:29] pchartois**  
+j'ai tout de suite juste tout de suite
+
+**[01:52:27 - 01:52:28] gilles_35307**  
+.
+
+**[01:52:28 - 01:52:29] gilles_35307**  
+.
+
+**[01:52:29 - 01:52:31] _redsun**  
+Tu les avais, moi j'ai...
+
+**[01:52:29 - 01:52:30] gilles_35307**  
+.
+
+**[01:52:30 - 01:52:33] pchartois**  
+tu as mis sur la gauche
+
+**[01:52:30 - 01:52:31] gilles_35307**  
+.
+
+**[01:52:31 - 01:52:32] gilles_35307**  
+.
+
+**[01:52:32 - 01:52:33] gilles_35307**  
+.
+
+**[01:52:33 - 01:52:36] _redsun**  
+J'ai pris ces photos là. J'ai pas l'encement.
+
+**[01:52:33 - 01:52:34] gilles_35307**  
+.
+
+**[01:52:34 - 01:52:35] gilles_35307**  
+.
+
+**[01:52:35 - 01:52:36] pollux8888**  
+OK.
+
+**[01:52:35 - 01:52:36] gilles_35307**  
+.
+
+**[01:52:36 - 01:52:37] gilles_35307**  
+.
+
+**[01:52:36 - 01:52:38] _redsun**  
+Et je lui dis, bah, en fait, des meurs, toi.
+
+**[01:52:37 - 01:52:38] gilles_35307**  
+.
+
+**[01:52:38 - 01:52:40] _redsun**  
+Je suis au jeu, moi, en truc.
+
+**[01:52:38 - 01:52:39] gilles_35307**  
+.
+
+**[01:52:39 - 01:52:40] gilles_35307**  
+.
+
+**[01:52:40 - 01:52:42] _redsun**  
+Et en fait, c'est en garde bien,
+
+**[01:52:40 - 01:52:41] gilles_35307**  
+.
+
+**[01:52:41 - 01:52:42] gilles_35307**  
+.
+
+**[01:52:42 - 01:52:43] gilles_35307**  
+.
+
+**[01:52:42 - 01:52:45] _redsun**  
+ils sont comme conservés.
+
+**[01:52:43 - 01:52:44] gilles_35307**  
+.
+
+**[01:52:44 - 01:52:45] gilles_35307**  
+.
+
+**[01:52:45 - 01:52:47] _redsun**  
+Donc, c'est juste pour dire, en fait,
+
+**[01:52:45 - 01:52:46] gilles_35307**  
+.
+
+**[01:52:46 - 01:52:47] gilles_35307**  
+.
+
+**[01:52:47 - 01:52:50] _redsun**  
+on peut une clôt comme orchestrateur,
+
+**[01:52:47 - 01:52:48] gilles_35307**  
+.
+
+**[01:52:48 - 01:52:49] gilles_35307**  
+.
+
+**[01:52:50 - 01:52:51] _redsun**  
+on peut lui plugger ça,
+
+**[01:52:51 - 01:52:53] _redsun**  
+et faire des trucs dedans,
+
+**[01:52:53 - 01:52:54] _redsun**  
+parce que là il a même ses pc-dix,
+
+**[01:52:54 - 01:52:55] _redsun**  
+qui est fait pour une clôt,
+
+**[01:52:55 - 01:52:56] _redsun**  
+mais il a recloud aussi,
+
+**[01:52:56 - 01:52:58] _redsun**  
+en remasse aussi,
+
+**[01:52:58 - 01:52:59] _redsun**  
+et comme ça,
+
+**[01:52:59 - 01:53:01] _redsun**  
+bah vous avez un peu de clôt,
+
+**[01:53:01 - 01:53:02] _redsun**  
+et comme ça, vous pouvez faire des vidéos
+
+**[01:53:02 - 01:53:03] _redsun**  
+à la voler.
+
+**[01:53:03 - 01:53:05] _redsun**  
+Donc,
+
+**[01:53:06 - 01:53:08] _redsun**  
+ça fait que,
+
+**[01:53:08 - 01:53:09] _redsun**  
+on a jusqu'à sans plus,
+
+**[01:53:09 - 01:53:14] _redsun**  
+parce que là on peut faire décide, on peut faire des applications, on peut faire des vidéos, on peut faire de la 3D après
+
+**[01:53:14 - 01:53:19] _redsun**  
+les recherches plus qu'ils vont le qu'ils vont qu'ils vont qu'ils vont qu'ils vont pas grandfois en faisant,
+
+**[01:53:19 - 01:53:23] gilles_35307**  
+Je...
+
+**[01:53:20 - 01:53:44] pollux8888**  
+...
+
+**[01:53:20 - 01:53:22] _redsun**  
+à des sortements on va apporter un peu un peu un peu un peu un peu
+
+**[01:53:21 - 01:53:25] pchartois**  
+Il manque le budget qu'on va.
+
+**[01:53:25 - 01:53:27] _redsun**  
+à une moque peu de vieux,
+
+**[01:53:27 - 01:53:31] _redsun**  
+on va essayer de faire la rentrée,
+
+**[01:53:32 - 01:53:35] _redsun**  
+juste essayer avec les images qui nous a affronté pas là,
+
+**[01:53:35 - 01:53:39] _redsun**  
+Pour lui, là, tu as eu...
+
+**[01:53:39 - 01:53:43] _redsun**  
+C'est ça qu'il faudrait faire avec la montre, ça le multiplie.
+
+**[01:53:43 - 01:53:47] _redsun**  
+Comme pas, plusieurs photos, là, je le fais vraiment, il te fait quoi.
+
+**[01:53:47 - 01:53:51] _redsun**  
+Alors, vraiment, il est d'allemand, tu fais multiplie comme ça, t'as derrière devant,
+
+**[01:53:50 - 01:54:00] pollux8888**  
+.
+
+**[01:53:51 - 01:53:53] _redsun**  
+qui est, puisqu'il va imaginer derrière, mais il n'y a pas,
+
+**[01:53:53 - 01:53:58] _redsun**  
+et pas encore assez magique pour créer des trucs comme ça.
+
+**[01:53:58 - 01:54:01] _redsun**  
+Tu as eu la reconnaissance, c'est un copeur dragon,
+
+**[01:54:01 - 01:54:06] _redsun**  
+T'as une piste, c'est fou qu'il comprend tout sur les mages et qu'on prend la structure et on prend tout
+
+**[01:54:08 - 01:54:09] _redsun**  
+sur avoir
+
+**[01:54:11 - 01:54:18] _redsun**  
+Mais voilà donc c'est parce que Arnaut on va parler d'un arfor et Arnaut on disait
+
+**[01:54:18 - 01:54:24] _redsun**  
+ouais tu te rémondrez les jusqu'à ce que c'est un peu de pencours et je me suis dit
+
+**[01:54:20 - 01:54:47] pollux8888**  
+...
+
+**[01:54:24 - 01:54:31] _redsun**  
+Voilà, on crée quoi, on crée, on se voit un peu de j'en ai des idées quoi.
+
+**[01:54:31 - 01:54:34] _redsun**  
+Ça a aussi de but.
+
+**[01:54:35 - 01:54:38] _redsun**  
+Voilà, on va juste attendre un petit peu et je vais regarder juste.
+
+**[01:54:38 - 01:54:41] _redsun**  
+Si on a bien en tout le même choix qu'on a tous les gens.
+
+**[01:54:44 - 01:54:46] _redsun**  
+Ah ouais, là, t'as des vidéos carrément.
+
+**[01:54:46 - 01:54:52] _redsun**  
+à l'endive vidéo ça marche pas encore et au tout 3D ça le sont bien là
+
+**[01:54:47 - 01:54:57] pollux8888**  
+Non, c'est Jacob.
+
+**[01:54:49 - 01:54:50] gilles_35307**  
+J'ai eu.
+
+**[01:54:52 - 01:54:56] _redsun**  
+c'est chinois ça mais rien va
+
+**[01:54:57 - 01:55:02] pollux8888**  
+Oui, c'est trop l'as je n'ai pas.
+
+**[01:55:01 - 01:55:05] _redsun**  
+mais c'est pour le marché chinois vous non c'est pour tout le monde
+
+**[01:55:02 - 01:55:32] pollux8888**  
+Non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non
+
+**[01:55:05 - 01:55:09] _redsun**  
+d'avoir des difficultes et dragon chinois,
+
+**[01:55:08 - 01:55:09] gilles_35307**  
+L'autre.
+
+**[01:55:09 - 01:55:19] _redsun**  
+.
+
+**[01:55:19 - 01:55:26] gilles_35307**  
+...
+
+**[01:55:32 - 01:55:36] pollux8888**  
+pour le galat du week en dernier,
+
+**[01:55:36 - 01:55:40] pollux8888**  
+de rock et il avait un recob,
+
+**[01:55:39 - 01:56:03] _redsun**  
+à la
+
+**[01:55:40 - 01:55:42] pollux8888**  
+un jack-ob à 18 millions de croix.
+
+**[01:55:44 - 01:55:47] pollux8888**  
+Moi, moi, pas comme ça, mais avec tout plein de diamants,
+
+**[01:55:47 - 01:55:49] pollux8888**  
+je crois, je sais plus combien de diamants, mais beaucoup.
+
+**[01:55:50 - 01:55:53] pollux8888**  
+Puis, voilà, du week-m'en est à ça,
+
+**[01:56:02 - 01:56:07] pollux8888**  
+Oui, c'est ça. Et en fin de compte, c'est un peu mon but parce que j'ai toujours rêvé de pouvoir créer une
+
+**[01:56:03 - 01:56:05] _redsun**  
+Et je...
+
+**[01:56:07 - 01:56:13] pollux8888**  
+demande depuis de pique chez Gama. Mais d'abord, j'avais pas les outils. Je suis pas obligé non plus.
+
+**[01:56:13 - 01:56:17] pollux8888**  
+Je suis un petit affront matéciant pour mentir.
+
+**[01:56:17 - 01:56:20] _redsun**  
+Moi, mettez-vous, c'est un design intéressant,
+
+**[01:56:20 - 01:56:22] _redsun**  
+bien pas justement, c'est ce moment,
+
+**[01:56:22 - 01:56:24] _redsun**  
+on te fait un peu sur les réseaux sociaux,
+
+**[01:56:24 - 01:56:27] _redsun**  
+tu dis, on va s'y m'inversions d'une Jacob,
+
+**[01:56:27 - 01:56:28] _redsun**  
+on voulait essayer de créer,
+
+**[01:56:28 - 01:56:30] _redsun**  
+puis là, tu vas être un peu chataire,
+
+**[01:56:30 - 01:56:35] _redsun**  
+avec le GPT2 puis faire des images de ce que t'aimerais dans ton rêve puis ensuite
+
+**[01:56:32 - 01:56:34] pollux8888**  
+et
+
+**[01:56:34 - 01:56:38] pollux8888**  
+on a
+
+**[01:56:35 - 01:56:43] _redsun**  
+t'arrêt de l'équipe. Mais ça ne sera pas fabriqué là on a d'accord. Alors regarde
+
+**[01:56:38 - 01:56:41] pollux8888**  
+le
+
+**[01:56:41 - 01:56:44] pollux8888**  
+le
+
+**[01:56:43 - 01:56:56] _redsun**  
+on l'a, ok. C'est passé là. Alors la texture en fonction de l'image. Après être
+
+**[01:56:44 - 01:56:47] pollux8888**  
+le
+
+**[01:56:47 - 01:56:51] pollux8888**  
+le
+
+**[01:56:51 - 01:56:55] pollux8888**  
+le
+
+**[01:56:55 - 01:57:01] pollux8888**  
+le
+
+**[01:56:56 - 01:57:01] _redsun**  
+comme c'est du modelien, encore, mais moi je pense que là on est dans une histoire.
+
+**[01:57:01 - 01:57:02] pollux8888**  
+C'est bien fait.
+
+**[01:57:02 - 01:57:04] pollux8888**  
+On commence déjà bien fait.
+
+**[01:57:04 - 01:57:09] pollux8888**  
+On passe le verre, le verre, il est en brom, il est bon, c'est à fil, mais bon,
+
+**[01:57:05 - 01:57:07] _redsun**  
+On est dans une histoire, une amour.
+
+**[01:57:09 - 01:57:11] pollux8888**  
+là c'est déjà bien fait, va se la târe.
+
+**[01:57:11 - 01:57:13] pollux8888**  
+Et je vais vous l'imagine de t'aider.
+
+**[01:57:12 - 01:57:15] _redsun**  
+Mais là tu mets trois quatre images, c'est un truc de fou,
+
+**[01:57:13 - 01:57:15] pollux8888**  
+Allez.
+
+**[01:57:15 - 01:57:19] pollux8888**  
+Dans ce mois.
+
+**[01:57:16 - 01:57:17] _redsun**  
+c'est un cas exactement.
+
+**[01:57:17 - 01:57:20] _redsun**  
+Mais moi ce que j'imagine, c'est toujours dans une année, tu vois.
+
+**[01:57:19 - 01:57:23] pollux8888**  
+dans si moi
+
+**[01:57:20 - 01:57:22] _redsun**  
+Je me projet un peu.
+
+**[01:57:21 - 01:57:32] pchartois**  
+on a la content sera palé pour ton frappe les images d'hier un an on a tu fais c'est d'influir
+
+**[01:57:22 - 01:57:28] _redsun**  
+On est là au nord des cas, on ne faisait pas au plus temps.
+
+**[01:57:23 - 01:57:37] pollux8888**  
+je pense que la vidéo de Wilson mais ce qui mange des spaghetti
+
+**[01:57:28 - 01:57:30] _redsun**  
+On est ou dans le monde.
+
+**[01:57:32 - 01:57:37] pchartois**  
+...
+
+**[01:57:37 - 01:57:39] pollux8888**  
+c'est ça
+
+**[01:57:38 - 01:57:42] _redsun**  
+Alors, je vais découvrir mes chi,
+
+**[01:57:42 - 01:57:44] _redsun**  
+à première version, je vais en mettre à test,
+
+**[01:57:44 - 01:57:46] _redsun**  
+je vais me parler à mes élèves.
+
+**[01:57:46 - 01:57:48] _redsun**  
+Les toutes premières versions, et juste pour vous donner une idée,
+
+**[01:57:48 - 01:57:51] _redsun**  
+la version 5, donc c'est là que vous allez comprendre
+
+**[01:57:49 - 01:58:09] pollux8888**  
+de
+
+**[01:57:51 - 01:57:55] _redsun**  
+parce que je vais dire que cette version là, on est la différence avec les dragons qu'on avait avant.
+
+**[01:57:56 - 01:57:58] _redsun**  
+Cette version là, elle a 6 mois.
+
+**[01:57:59 - 01:58:01] _redsun**  
+En 6 mois, on ne passait de ça.
+
+**[01:58:02 - 01:58:02] _redsun**  
+A ça.
+
+**[01:58:05 - 01:58:08] _redsun**  
+Donc, dans 6 mois, on est ou quoi.
+
+**[01:58:09 - 01:58:14] pollux8888**  
+En fait, c'est la nime à la réel en OVCA.
+
+**[01:58:10 - 01:58:11] _redsun**  
+On sait toujours un peu.
+
+**[01:58:15 - 01:58:19] _redsun**  
+Ouais, bah, après, tu fais un export.
+
+**[01:58:19 - 01:58:21] _redsun**  
+la qualité des tests sur les communs.
+
+**[01:58:21 - 01:58:22] _redsun**  
+On peut pas maler.
+
+**[01:58:22 - 01:58:24] _redsun**  
+Et là tu peux faire du ril machine aussi.
+
+**[01:58:24 - 01:58:26] _redsun**  
+Et tu peux l'imprimer en 3 des ça, c'est cool aussi.
+
+**[01:58:26 - 01:58:28] _redsun**  
+Donc tu peux faire un sec.
+
+**[01:58:29 - 01:58:34] _redsun**  
+Tu peux mettre un sec, faire la rotation, faire gérer les échelles.
+
+**[01:58:35 - 01:58:38] _redsun**  
+Puis en plus tu peux l'envoyer directement à forme,
+
+**[01:58:38 - 01:58:40] _redsun**  
+forme-nau qui permet d'imprimer.
+
+**[01:58:39 - 01:59:03] pollux8888**  
+...
+
+**[01:58:40 - 01:58:42] _redsun**  
+Ou le style, c'est toi même quoi.
+
+**[01:58:42 - 01:58:44] _redsun**  
+Si tu veux le faire à la maison, c'est le machine.
+
+**[01:58:44 - 01:58:48] _redsun**  
+Si tu as assez cool, franchement, t'as un peu un petit tour, non, ça, c'est pas.
+
+**[01:58:48 - 01:58:52] _redsun**  
+Je vais juste regarder ce que ça donne pour ça.
+
+**[01:58:52 - 01:59:03] _redsun**  
+Ça aurait fait se retrouver tout qui a testé, quoi, après il faut aller plus loin pour un faire 200-2 g de la rache puis faire ça un peu propre avec plusieurs images et tout.
+
+**[01:59:03 - 01:59:05] _redsun**  
+Mais au moins.
+
+**[01:59:03 - 01:59:09] pollux8888**  
+Il va revenir à mon écran, je vais te montrer à une démonte que j'aime bien.
+
+**[01:59:09 - 01:59:13] pollux8888**  
+La face d'entirios de chez Jacob avec deux tourbillons.
+
+**[01:59:18 - 01:59:24] _redsun**  
+a s'en bas le
+
+**[01:59:19 - 01:59:22] pollux8888**  
+C'est vraiment les modèles face d'entirios.
+
+**[01:59:22 - 01:59:32] pollux8888**  
+...
+
+**[01:59:24 - 01:59:28] _redsun**  
+m'a il y a beaucoup d'étails donc il faudrait beaucoup beaucoup d'image en fait
+
+**[01:59:28 - 01:59:32] _redsun**  
+ta moyen des avoir dans les mains où c'est un touchable c'est ma chanla
+
+**[01:59:32 - 01:59:37] pollux8888**  
+Faut tourner au magazine qui se trouve à la rue du rône, mais après je sais pas si vous
+
+**[01:59:32 - 01:59:39] _redsun**  
+c'est la touche
+
+**[01:59:37 - 01:59:44] pollux8888**  
+voudra que prenne cette voiture.
+
+**[01:59:39 - 01:59:43] _redsun**  
+et elle va pas travailler ce qui fait lui
+
+**[01:59:43 - 01:59:45] _redsun**  
+et de la maman.
+
+**[01:59:44 - 01:59:47] pollux8888**  
+Mais bah, on peut s'arrêter de me l'étrouver.
+
+**[01:59:49 - 01:59:51] _redsun**  
+On se le marre.
+
+**[01:59:55 - 01:59:57] _redsun**  
+C'est vrai que tu peux attendre j'en voyage,
+
+**[01:59:57 - 01:59:58] _redsun**  
+parce que là, tu as des types d'éclairages,
+
+**[01:59:58 - 02:00:00] nano1992_**  
+Je vais vous voir.
+
+**[01:59:58 - 02:00:01] _redsun**  
+que les chambles beaucoup aussi en fonction des.
+
+**[02:00:01 - 02:00:03] _redsun**  
+Voilà, c'est un peu mieux.
+
+**[02:00:04 - 02:00:06] _redsun**  
+Et, ouais bah.
+
+**[02:00:13 - 02:00:28] _redsun**  
+...
+
+**[02:00:17 - 02:00:20] pollux8888**  
+Je vais le faire une marque de mon trastisanaire que j'aime beaucoup.
+
+**[02:00:24 - 02:00:28] pollux8888**  
+Je ne suis pas en train de faire de leur promotion, mais je les ai un peu.
+
+**[02:00:28 - 02:00:31] _redsun**  
+Attaque dans la Palémoire.
+
+**[02:00:31 - 02:00:32] pollux8888**  
+Pardon ?
+
+**[02:00:31 - 02:00:34] _redsun**  
+On a pas les foutre, je comprends pas.
+
+**[02:00:34 - 02:00:39] _redsun**  
+J'ai fait 500 000 millions, je peux faire la promo.
+
+**[02:00:37 - 02:00:39] pollux8888**  
+Non, non, non, non, non, non, non, non, non, non, non, non, non, du tout.
+
+**[02:00:39 - 02:00:41] pollux8888**  
+Et tout, on ne s'empathé.
+
+**[02:00:41 - 02:00:44] pollux8888**  
+Il se trouve à ne chaîtez, le c'est une petite trastisanale.
+
+**[02:00:43 - 02:01:03] _redsun**  
+à la
+
+**[02:00:44 - 02:00:48] pollux8888**  
+ça commence à, on a tellement ça commence à 400 je crois.
+
+**[02:00:48 - 02:00:53] pollux8888**  
+Et puis le plus cher de tête je crois qu'il doit être à 8 000.
+
+**[02:00:53 - 02:00:56] pollux8888**  
+Ça va pas, on ne sait pas les, on se fait excès.
+
+**[02:00:56 - 02:01:06] pollux8888**  
+Moi, il y a une vague connaît le patron, des diners,
+
+**[02:01:06 - 02:01:12] pollux8888**  
+après je sais de trouver des idées pour y nover
+
+**[02:01:12 - 02:01:14] pollux8888**  
+à peu leur fabrication.
+
+**[02:01:13 - 02:01:21] _redsun**  
+En compte, le post que tu peux faire là en disant, j'ai un style de plus de l'oseau de maquinée,
+
+**[02:01:14 - 02:01:15] pollux8888**  
+Oui, mais c'est bien.
+
+**[02:01:21 - 02:01:25] _redsun**  
+j'ai demandé de créer le monde, je disant, on va y aller les photos, voilà ce qui m'a fait, ça va,
+
+**[02:01:25 - 02:01:28] _redsun**  
+ça va tout le process en fait de création.
+
+**[02:01:28 - 02:01:34] _redsun**  
+Je trouve ça va être, il te veut faire la promo sur les réseaux, moi je ne dégue dis,
+
+**[02:01:34 - 02:01:37] _redsun**  
+je ne sais pas du tout la communication, quelque chose à votre boulot,
+
+**[02:01:36 - 02:01:40] pollux8888**  
+mais je sais pas si j'accobles l'aimer.
+
+**[02:01:37 - 02:01:39] _redsun**  
+que ça soit...
+
+**[02:01:39 - 02:01:42] _redsun**  
+Ah, c'est pas si... Ah, ou tu peux les t'agir, hein?
+
+**[02:01:40 - 02:01:47] pollux8888**  
+Non mais, non mais je sais pas si j'accobles là,
+
+**[02:01:42 - 02:01:45] _redsun**  
+C'est-à-dire, tu peux les tânguer ?
+
+**[02:01:47 - 02:01:51] pollux8888**  
+cette photo avec le dragon lui l'aimer il appréciera ça ou pas.
+
+**[02:01:50 - 02:01:52] _redsun**  
+Non, non, non, non pas du tout.
+
+**[02:01:51 - 02:01:53] pollux8888**  
+Je pense pas.
+
+**[02:01:52 - 02:01:54] _redsun**  
+Pas du tout, non, non.
+
+**[02:01:53 - 02:01:56] pollux8888**  
+C'est pour ça que c'est de comment je ne ferais pas,
+
+**[02:01:56 - 02:01:59] pollux8888**  
+mais ça au moins pour voir qu'est-ce qui est possible.
+
+**[02:01:59 - 02:02:04] pollux8888**  
+Je ne sais pas si il va aimer.
+
+**[02:01:59 - 02:02:04] _redsun**  
+C'est exactement ça parce que j'accueil à l'évier, à l'aqué des têtes du match ou les trucs comme...
+
+**[02:02:04 - 02:02:06] pollux8888**  
+Je ne vais même pas s'il va y apprécier.
+
+**[02:02:06 - 02:02:09] pollux8888**  
+Non, ça.
+
+**[02:02:07 - 02:02:09] _redsun**  
+Non, non, ils ne vont pas du tout à quoi c'est.
+
+**[02:02:09 - 02:02:16] _redsun**  
+C'est pas du tout pour lui, c'est pas ça, mais c'est pour faire de la comme sur les réseaux.
+
+**[02:02:09 - 02:02:10] pollux8888**  
+Ouais.
+
+**[02:02:10 - 02:02:12] pollux8888**  
+Ouais.
+
+**[02:02:12 - 02:02:13] pollux8888**  
+Ouais.
+
+**[02:02:13 - 02:02:14] pollux8888**  
+Même.
+
+**[02:02:14 - 02:02:15] pollux8888**  
+Ouais.
+
+**[02:02:15 - 02:02:16] pollux8888**  
+Ouais.
+
+**[02:02:16 - 02:02:18] _redsun**  
+C'est la tu vois.
+
+**[02:02:16 - 02:02:17] pollux8888**  
+Ouais.
+
+**[02:02:17 - 02:02:18] pollux8888**  
+Ouais.
+
+**[02:02:18 - 02:02:22] _redsun**  
+Pour ça, mais c'est pas ça que les mondes c'est tellement précis.
+
+**[02:02:18 - 02:02:19] pollux8888**  
+Ouais.
+
+**[02:02:19 - 02:02:20] pollux8888**  
+Ouais.
+
+**[02:02:20 - 02:02:21] pollux8888**  
+Ouais.
+
+**[02:02:21 - 02:02:22] pollux8888**  
+Ouais.
+
+**[02:02:22 - 02:02:26] _redsun**  
+Par contre, il y a quelqu'un, même à faire son visage entre 1-3 et pour en cours,
+
+**[02:02:22 - 02:02:23] pollux8888**  
+Ouais.
+
+**[02:02:23 - 02:02:24] pollux8888**  
+Ouais.
+
+**[02:02:24 - 02:02:25] pollux8888**  
+Ouais.
+
+**[02:02:25 - 02:02:26] pollux8888**  
+Ouais.
+
+**[02:02:26 - 02:02:29] _redsun**  
+des franchements, ça va super, super bien.
+
+**[02:02:26 - 02:02:27] pollux8888**  
+Ouais.
+
+**[02:02:27 - 02:02:28] pollux8888**  
+Ouais.
+
+**[02:02:28 - 02:02:41] pollux8888**  
+On va me la faire chancer, c'est bien.
+
+**[02:02:29 - 02:02:35] _redsun**  
+C'est un personne, on va se soit toi-même, soit un personne connu, tu fais tournant en 3-4,
+
+**[02:02:35 - 02:02:40] _redsun**  
+tu ne fais pas, je ne suis pas en 1000 façons, mais non.
+
+**[02:02:41 - 02:02:46] pollux8888**  
+Ah ouais, on va vraiment être extru.
+
+**[02:02:46 - 02:02:51] pollux8888**  
+Il y a un peu la finage, mais, hey, merci.
+
+**[02:02:51 - 02:02:53] _redsun**  
+Je ne vais pas faire un peu comme la structure.
+
+**[02:02:51 - 02:02:54] pollux8888**  
+C'est possible.
+
+**[02:02:53 - 02:03:05] _redsun**  
+On a pas vraiment éclaté dans la vidéo.
+
+**[02:02:54 - 02:02:57] pollux8888**  
+Je pense que les clattés, ce que tu disais...
+
+**[02:02:57 - 02:03:00] pollux8888**  
+Avec les clattés pour voir les mouvements.
+
+**[02:03:03 - 02:03:04] pollux8888**  
+Non.
+
+**[02:03:04 - 02:03:05] pollux8888**  
+Non.
+
+**[02:03:05 - 02:03:08] _redsun**  
+Et la plutôt tourner, en fait.
+
+**[02:03:08 - 02:03:10] _redsun**  
+C'est un grand ça.
+
+**[02:03:10 - 02:03:14] _redsun**  
+La personne peut plus en ce que là, il fait ça, parce que c'est une petite tourne.
+
+**[02:03:14 - 02:03:18] _redsun**  
+Je fais vraiment essayer de faire un peu sérieusement,
+
+**[02:03:18 - 02:03:20] _redsun**  
+on va un petit moment pour le faire,
+
+**[02:03:20 - 02:03:22] _redsun**  
+et tout est encore plus en profondeur.
+
+**[02:03:21 - 02:03:26] pollux8888**  
+Je suis en train de faire une vie qui t'aura fait.
+
+**[02:03:26 - 02:03:30] pollux8888**  
+Je suis en train de faire une vie qui t'aura fait.
+
+**[02:03:30 - 02:03:33] pollux8888**  
+Je suis en train de faire une vie qui t'aura fait.
+
+**[02:03:32 - 02:04:00] pchartois**  
+...
+
+**[02:03:32 - 02:03:33] _redsun**  
+Allez, bonne et ultra.
+
+**[02:03:33 - 02:03:36] pollux8888**  
+Je suis en train de faire une vie qui t'aura fait.
+
+**[02:03:36 - 02:03:39] pollux8888**  
+Je suis en train de faire une vie qui t'aura fait.
+
+**[02:03:39 - 02:03:42] pollux8888**  
+Je suis en train de faire une vie qui t'aura fait.
+
+**[02:03:42 - 02:03:45] pollux8888**  
+Je suis en train de faire une vie qui t'aura fait.
+
+**[02:03:45 - 02:03:48] pollux8888**  
+Je suis en train de faire une vie qui t'aura fait.
+
+**[02:03:48 - 02:03:49] _redsun**  
+Ah !
+
+**[02:03:48 - 02:03:51] pollux8888**  
+et puis qui sert à rien, pas qui sert à rien mais.
+
+**[02:03:52 - 02:03:54] _redsun**  
+Ouais, il fait 3 kilos là !
+
+**[02:03:53 - 02:03:54] pollux8888**  
+C'est ça.
+
+**[02:03:57 - 02:03:59] _redsun**  
+Ok, ok, ok.
+
+**[02:03:58 - 02:03:59] pollux8888**  
+C'est bon.
+
+**[02:03:59 - 02:04:00] _redsun**  
+T'il est...
+
+**[02:04:00 - 02:04:02] pchartois**  
+T'as pas vu dans la réelle, elle a le sport, c'est bien.
+
+**[02:04:02 - 02:04:03] _redsun**  
+Ah, c'est...
+
+**[02:04:04 - 02:04:07] _redsun**  
+C'est remonte-le, poigné, c'est vraiment le saussi.
+
+**[02:04:09 - 02:04:14] _redsun**  
+Donc, voilà, mais c'est... Est-ce qu'il y a encore des questions par rapport à ce soir, est-ce que vous voulez encore poser quelque chose ?
+
+**[02:04:19 - 02:04:25] gilles_35307**  
+Au début, on parle de JMA4 et puis les autres modèles.
+
+**[02:04:25 - 02:04:29] gilles_35307**  
+Juste pour ma comprension qui suitent vraiment un peu néochite.
+
+**[02:04:29 - 02:04:34] gilles_35307**  
+Comment tu arrives à utiliser les deux ? Donc il y a avoir JMA4 en local
+
+**[02:04:34 - 02:04:41] gilles_35307**  
+et utiliser d'autres meuls plus complexe comme j'ai pété 5, 5 et Claude.
+
+**[02:04:41 - 02:04:46] gilles_35307**  
+En même temps sur le même join.
+
+**[02:04:44 - 02:04:48] _redsun**  
+C'est tout le monde.
+
+**[02:04:46 - 02:04:47] gilles_35307**  
+Ouais je vois.
+
+**[02:04:48 - 02:04:50] gilles_35307**  
+C'est ça c'est sur eux. On est d'accord c'est sur eux même maquemignaire.
+
+**[02:04:48 - 02:04:53] _redsun**  
+C'est le maque studio, c'est égal.
+
+**[02:04:53 - 02:04:59] _redsun**  
+J'ai pléter 54, via autres, connections, et tâches, il m'a quatre points.
+
+**[02:04:54 - 02:04:55] gilles_35307**  
+Je veux que c'est ça.
+
+**[02:04:56 - 02:04:58] gilles_35307**  
+Ouais.
+
+**[02:04:58 - 02:05:08] gilles_35307**  
+Ok, et ça elle a du tout dû en acheminer simple, ça ne s'attompare.
+
+**[02:04:59 - 02:05:02] _redsun**  
+Quand on veut dire, on fait un lème studio.
+
+**[02:05:02 - 02:05:04] _redsun**  
+Il y a besoin d'elle est le studio.
+
+**[02:05:04 - 02:05:09] _redsun**  
+Il y a un ventre, je ne sais pas.
+
+**[02:05:08 - 02:05:37] gilles_35307**  
+C'est un moment de
+
+**[02:05:09 - 02:05:12] _redsun**  
+C'est ici, c'est bon, justement, je le fais.
+
+**[02:05:12 - 02:05:18] _redsun**  
+J'ai ma 4e 2b, la version 2, elle tente très bien sur ma culée, elle va me la carte.
+
+**[02:05:19 - 02:05:22] _redsun**  
+4, c'est le milieu de paramètres en fait.
+
+**[02:05:23 - 02:05:29] _redsun**  
+Donc plus tate paramètres en même temps, elle pute à des bonnes calités de résultats en route pour simplifier quoi.
+
+**[02:05:29 - 02:05:33] _redsun**  
+En haut, plus les lourdes, plus les balaises, on va dire ça comme ça.
+
+**[02:05:37 - 02:05:39] gilles_35307**  
+Saturant.
+
+**[02:05:37 - 02:05:38] _redsun**  
+Voilà.
+
+**[02:05:39 - 02:05:40] _redsun**  
+N'est qu'elle?
+
+**[02:05:39 - 02:05:41] gilles_35307**  
+Ouais.
+
+**[02:05:40 - 02:05:42] _redsun**  
+4b, 2b, nickel.
+
+**[02:05:42 - 02:05:45] _redsun**  
+Et tu peux faire né mot tron aussi,
+
+**[02:05:46 - 02:05:50] _redsun**  
+né mot tron cadets, qu'elle a excellente, je sais, à vis-à-dire,
+
+**[02:05:47 - 02:05:49] gilles_35307**  
+Ouais.
+
+**[02:05:51 - 02:05:54] _redsun**  
+qu'on ne va pas t'en 35 bé, ça ne va pas bon,
+
+**[02:05:55 - 02:05:58] _redsun**  
+9 bé, ça ne marche pas mon plus, c'est trop lourant,
+
+**[02:05:59 - 02:06:03] _redsun**  
+il y a le LFM un végal de bé, d'ailleurs il fait de n'importe quoi, mais il y a rigolo,
+
+**[02:06:03 - 02:06:04] _redsun**  
 parce qu'il est ultra rapide,
 
-**[02:06:04 - 02:06:05] 1-redsun**  
-il y a Mistral,
+**[02:06:05 - 02:06:09] _redsun**  
+il y a ministra, qui est marchoci et puis il y a,
 
-**[02:06:05 - 02:06:06] 1-redsun**  
-qui marche aussi,
+**[02:06:07 - 02:06:14] gilles_35307**  
+...
 
-**[02:06:07 - 02:06:08] 1-redsun**  
-et puis il y a,
+**[02:06:09 - 02:06:14] _redsun**  
+Il y a quoi une 3, 4b qui est pas mal.
 
-**[02:06:09 - 02:06:10] 1-redsun**  
-il y a voilà,
+**[02:06:14 - 02:06:15] gilles_35307**  
+...
 
-**[02:06:10 - 02:06:11] 1-redsun**  
-il y a Coen 3,
+**[02:06:14 - 02:06:21] _redsun**  
+La réalité elle c'est un peu de béçu là c'est une tue, les coins 3, 26b mais malheureusement
 
-**[02:06:11 - 02:06:12] 1-redsun**  
+**[02:06:15 - 02:06:24] gilles_35307**  
+...
 
-**[02:06:13 - 02:06:14] 1-redsun**  
-que pas mal,
+**[02:06:21 - 02:06:24] _redsun**  
+sur la hétourne à partir de 60 à 12h.
 
-**[02:06:15 - 02:06:16] 1-redsun**  
-mais l'idéal c'est 27B,
+**[02:06:24 - 02:06:31] _redsun**  
+Il va y avoir des trucs hein, il va se passer des délirs à un je crois parce que
 
-**[02:06:16 - 02:06:18] 1-redsun**  
-celui là c'est une tuerie,
+**[02:06:24 - 02:06:28] gilles_35307**  
+...
 
-**[02:06:18 - 02:06:20] 1-redsun**  
-le Coen 3.6, 27B,
+**[02:06:28 - 02:06:33] gilles_35307**  
+...
 
-**[02:06:20 - 02:06:21] 1-redsun**  
-mais malheureusement celui là,
+**[02:06:30 - 02:07:00] pchartois**  
+C'est pas le fait que c'est pas le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait
 
-**[02:06:21 - 02:06:23] 1-redsun**  
-il tourne à partir de 64GB,
+**[02:06:31 - 02:06:35] _redsun**  
+tu es partagé, alors moi je partage des pâpes p'il est derrière, faut me dire
 
-**[02:06:25 - 02:06:26] 1-redsun**  
-donc,
+**[02:06:35 - 02:06:44] _redsun**  
+c'est trop compliqué. J'ai partagé un papier de recherche sur deux chefs ou gueuls,
 
-**[02:06:27 - 02:06:28] 1-redsun**  
-mais il va y avoir des trucs,
+**[02:06:44 - 02:06:51] _redsun**  
+où ça parle de l'innovation technologique et derrière, comment ils appelerent ça,
 
-**[02:06:28 - 02:06:29] 1-redsun**  
-il va se passer des délires,
+**[02:06:48 - 02:07:02] pollux8888**  
+...
 
-**[02:06:29 - 02:06:30] 1-redsun**  
-je crois,
+**[02:06:51 - 02:06:56] _redsun**  
+les multitokens de tradition de raffter MTP.
 
-**[02:06:31 - 02:06:32] 1-redsun**  
-parce que,
+**[02:06:56 - 02:07:01] _redsun**  
+Et en fait j'ai ma carte qui est déjà rapide, va faire trois fois la vitesse.
 
-**[02:06:32 - 02:06:33] 1-redsun**  
-j'ai partagé,
+**[02:07:01 - 02:07:05] _redsun**  
+Trois fois.
 
-**[02:06:33 - 02:06:34] 1-redsun**  
-alors moi j'ai partagé papier,
+**[02:07:02 - 02:07:04] pollux8888**  
+à fallet.
 
-**[02:06:34 - 02:06:35] 1-redsun**  
-d'ailleurs il faut me dire,
+**[02:07:05 - 02:07:10] _redsun**  
+Donc, et puis c'est Google qui est derrière, moi je m'intéresse au euro.
 
-**[02:06:35 - 02:06:36] 1-redsun**  
-c'est trop compliqué,
+**[02:07:10 - 02:07:13] _redsun**  
+Alibaba, c'est quoi, une fois des très bonmédales.
 
-**[02:06:36 - 02:06:38] 1-redsun**  
-j'ai partagé un papier de recherche,
+**[02:07:13 - 02:07:19] _redsun**  
+J'ai regardé à NVIDIA parce qu'il y a une émotron et NVIDIA puis j'ai ma carte.
 
-**[02:06:39 - 02:06:40] 1-redsun**  
-de chez,
+**[02:07:19 - 02:07:23] _redsun**  
+Les autres qui sont coulussies mais ils n'ont pas des moyens de faire la compédition
 
-**[02:06:41 - 02:06:42] 1-redsun**  
-Google,
+**[02:07:23 - 02:07:30] _redsun**  
+quand c'est mec là quoi, simplement. Alors, ouais, qu'est-ce qu'il faut que je ne sais pas si
 
-**[02:06:43 - 02:06:44] 1-redsun**  
-où ça parle
+**[02:07:25 - 02:07:27] pollux8888**  
+Et puis il y a quoi à voyons ?
 
-**[02:06:46 - 02:06:48] 1-redsun**  
-de l'innovation technologique,
+**[02:07:30 - 02:07:37] _redsun**  
+il faut que je ne suis pas si en modèle local, je crois pas, il y a Kimi qui a des
 
-**[02:06:48 - 02:06:49] 1-redsun**  
-derrière,
+**[02:07:32 - 02:08:00] pollux8888**  
+Je vais vous montrer le
 
-**[02:06:49 - 02:06:50] 1-redsun**  
-comment ils appelaient ça,
+**[02:07:37 - 02:07:41] _redsun**  
+très bons modèles locaux, mais ils sont très gros donc, c'est pas pour nous, moi moi
 
-**[02:06:50 - 02:06:53] 1-redsun**  
-les Multi-Token Prediction Drafters,
+**[02:07:41 - 02:07:45] _redsun**  
+le tann B, les tannes B, les tannes B, les tannes de guerre, puis le tannes, il y a, je crois
 
-**[02:06:53 - 02:06:54] 1-redsun**  
-MTP,
+**[02:07:45 - 02:07:49] _redsun**  
+que mes minimales, ils font pas de modèles au paine soir, c'est ouais, je crois pas qu'ils font
 
-**[02:06:55 - 02:06:56] 1-redsun**  
-et en fait,
+**[02:07:49 - 02:07:51] _redsun**  
+de l'épensal, mais que le sol.
 
-**[02:06:56 - 02:06:58] 1-redsun**  
-j'ai ma carte qui est déjà rapide,
+**[02:07:52 - 02:07:53] _redsun**  
+Un pressure.
 
-**[02:06:58 - 02:07:00] 1-redsun**  
-va faire 3 fois la vitesse,
+**[02:07:58 - 02:08:27] nano1992_**  
+Il n'y a pas de réussir à faire tourner des modèles sur des puces Huawei,
 
-**[02:07:02 - 02:07:03] 1-redsun**  
-3 fois,
+**[02:08:00 - 02:08:10] bensmart**  
+C'est une entreprise chinoise concentrée de tech, qu'il y a une trabutie sans, mais ils sont un peu à part, pas à port.
 
-**[02:07:04 - 02:07:05] 1-redsun**  
-donc,
+**[02:08:02 - 02:08:32] pollux8888**  
+C'est ici, c'est parce que nous on a fait une compétition avec
 
-**[02:07:05 - 02:07:07] 1-redsun**  
-et puis c'est Google qui est derrière,
+**[02:08:10 - 02:08:13] bensmart**  
+Tout d'autres entreprise chinoise...
 
-**[02:07:07 - 02:07:09] 1-redsun**  
-donc moi je m'intéresse au gros,
+**[02:08:15 - 02:08:19] bensmart**  
+Je ne veux pas aller plus loin, mais c'est pas comme les autres.
 
-**[02:07:09 - 02:07:10] 1-redsun**  
-Alibaba,
+**[02:08:19 - 02:08:21] bensmart**  
+C'est vraiment spécial.
 
-**[02:07:10 - 02:07:11] 1-redsun**  
-Sequen,
+**[02:08:21 - 02:08:23] bensmart**  
+et
 
-**[02:07:11 - 02:07:12] 1-redsun**  
-ils font des très bons modèles,
+**[02:08:27 - 02:08:28] nano1992_**  
+ça m'en.
 
-**[02:07:13 - 02:07:15] 1-redsun**  
-je regarde NVIDIA,
+**[02:08:29 - 02:08:31] bensmart**  
+on a une journée
 
-**[02:07:15 - 02:07:16] 1-redsun**  
-parce qu'il y a Nemotron,
+**[02:08:32 - 02:08:38] pollux8888**  
+avec justement les assants ou les attaussants ou les aches puis il y a des benchmarks
 
-**[02:07:16 - 02:07:17] 1-redsun**  
-NVIDIA,
+**[02:08:38 - 02:08:39] pollux8888**  
+là dessus donc ils y arrivent.
 
-**[02:07:17 - 02:07:19] 1-redsun**  
-puis j'ai ma carte,
+**[02:08:39 - 02:08:40] pollux8888**  
+.
 
-**[02:07:19 - 02:07:20] 1-redsun**  
-les autres ils sont cool aussi,
+**[02:08:39 - 02:08:43] nano1992_**  
+J'en veux que j'attends justement le patron d'ennVIDIA avec fait une
 
-**[02:07:20 - 02:07:22] 1-redsun**  
-mais ils n'ont pas les moyens
+**[02:08:40 - 02:08:41] pollux8888**  
+.
 
-**[02:07:22 - 02:07:23] 1-redsun**  
-de faire de la compétition
+**[02:08:41 - 02:08:42] pollux8888**  
+.
 
-**[02:07:23 - 02:07:24] 1-redsun**  
-contre ces mecs là,
+**[02:08:42 - 02:08:43] pollux8888**  
+.
 
-**[02:07:25 - 02:07:26] 1-redsun**  
-simplement.
+**[02:08:43 - 02:08:44] pollux8888**  
+.
 
-**[02:07:27 - 02:07:28] 1-redsun**  
-Alors Huawei,
+**[02:08:43 - 02:08:48] nano1992_**  
+répondeux à une question par rapport à ça et que justement la Chine avait
 
-**[02:07:28 - 02:07:29] 1-redsun**  
-qu'est-ce qu'ils foutent,
+**[02:08:44 - 02:08:45] pollux8888**  
+.
 
-**[02:07:29 - 02:07:30] 1-redsun**  
-je sais pas si ils foutent,
+**[02:08:45 - 02:08:46] pollux8888**  
+.
 
-**[02:07:30 - 02:07:32] 1-redsun**  
-ils sont ou Huawei,
+**[02:08:46 - 02:08:47] pollux8888**  
+.
 
-**[02:07:32 - 02:07:34] 1-redsun**  
-je sais pas si ils ont un modèle local,
+**[02:08:47 - 02:08:48] pollux8888**  
+.
 
-**[02:07:34 - 02:07:35] 1-redsun**  
-je crois pas,
+**[02:08:48 - 02:08:49] pollux8888**  
+.
 
-**[02:07:35 - 02:07:37] 1-redsun**  
-il y a Kimi qui a des très bons modèles locaux,
+**[02:08:48 - 02:08:53] nano1992_**  
+plus tellement de retard malgré que les américains étaient encore des embarquaux
 
-**[02:07:37 - 02:07:39] 1-redsun**  
-mais ils sont très gros,
+**[02:08:49 - 02:09:07] _redsun**  
+...
 
-**[02:07:39 - 02:07:40] 1-redsun**  
-donc c'est pas pour nous,
+**[02:08:49 - 02:08:50] pollux8888**  
+.
 
-**[02:07:41 - 02:07:43] 1-redsun**  
-ou à moins il y a une mécanique de guerre,
+**[02:08:50 - 02:08:51] pollux8888**  
+.
 
-**[02:07:43 - 02:07:44] 1-redsun**  
-et puis autrement il y a,
+**[02:08:51 - 02:08:52] pollux8888**  
+.
 
-**[02:07:45 - 02:07:46] 1-redsun**  
-je crois que mes minimacs
+**[02:08:52 - 02:08:53] pollux8888**  
+.
 
-**[02:07:46 - 02:07:47] 1-redsun**  
-qui font pas un modèle open source,
+**[02:08:53 - 02:08:54] pollux8888**  
+.
 
-**[02:07:47 - 02:07:48] 1-redsun**  
-et Huawei je crois pas
+**[02:08:53 - 02:08:56] nano1992_**  
+sur les plus puissantes que une vidéo fabriquée.
 
-**[02:07:48 - 02:07:49] 1-redsun**  
-qui font le modèle open source,
+**[02:08:54 - 02:08:55] pollux8888**  
+.
 
-**[02:07:49 - 02:07:50] 1-redsun**  
-ma connaissance.
+**[02:08:55 - 02:08:56] pollux8888**  
+.
 
-**[02:07:52 - 02:07:53] 1-redsun**  
-Après,
+**[02:08:56 - 02:08:57] pollux8888**  
+.
 
-**[02:08:07 - 02:08:08] 1-redsun**  
-c'est tout,
+**[02:08:56 - 02:08:59] nano1992_**  
+pour ne pas les envoyer en Chine à cause justement de
 
-**[02:08:08 - 02:08:09] 1-redsun**  
-c'est tout,
+**[02:08:57 - 02:08:58] pollux8888**  
+.
 
-**[02:08:09 - 02:08:10] 1-redsun**  
-c'est tout,
+**[02:08:58 - 02:08:59] pollux8888**  
+.
 
-**[02:08:10 - 02:08:11] 1-redsun**  
-c'est tout,
+**[02:08:59 - 02:09:00] pollux8888**  
+.
 
-**[02:08:11 - 02:08:12] 1-redsun**  
-c'est tout,
+**[02:08:59 - 02:09:02] nano1992_**  
+pour préserver la lancé tecnologique puis que
 
-**[02:08:12 - 02:08:13] 1-redsun**  
-c'est tout,
+**[02:09:00 - 02:09:01] pollux8888**  
+.
 
-**[02:08:13 - 02:08:14] 1-redsun**  
-c'est tout,
+**[02:09:01 - 02:09:02] pollux8888**  
+.
 
-**[02:08:14 - 02:08:15] 1-redsun**  
-c'est tout,
+**[02:09:02 - 02:09:03] pollux8888**  
+.
 
-**[02:08:15 - 02:08:16] 1-redsun**  
-c'est tout,
+**[02:09:02 - 02:09:04] nano1992_**  
+maintenant le retard était très pire.
 
-**[02:08:16 - 02:08:17] 1-redsun**  
-c'est tout,
+**[02:09:03 - 02:09:04] pollux8888**  
+.
 
-**[02:08:17 - 02:08:18] 1-redsun**  
-c'est tout,
+**[02:09:04 - 02:09:05] pollux8888**  
+.
 
-**[02:08:18 - 02:08:19] 1-redsun**  
-c'est tout,
+**[02:09:05 - 02:09:06] pollux8888**  
+.
 
-**[02:08:19 - 02:08:20] 1-redsun**  
-c'est tout,
+**[02:09:06 - 02:09:07] pollux8888**  
+.
 
-**[02:08:20 - 02:08:21] 1-redsun**  
-c'est tout,
+**[02:09:07 - 02:09:08] _redsun**  
+Abast.
 
-**[02:08:21 - 02:08:22] 1-redsun**  
-c'est tout,
+**[02:09:07 - 02:09:08] pollux8888**  
+.
 
-**[02:08:22 - 02:08:23] 1-redsun**  
-c'est tout,
+**[02:09:08 - 02:09:12] pollux8888**  
+les studentes de même public, justement, de les bench-partes, les assants, les achessants
 
-**[02:08:23 - 02:08:24] 1-redsun**  
-c'est tout,
+**[02:09:12 - 02:09:13] pollux8888**  
+avec les plus suites oui.
 
-**[02:08:24 - 02:08:25] 1-redsun**  
-c'est tout,
+**[02:09:15 - 02:09:19] pollux8888**  
+Et puis nous, enfin, notre CTO avait décidé et puis,
 
-**[02:08:25 - 02:08:26] 1-redsun**  
-c'est tout,
+**[02:09:19 - 02:09:23] pollux8888**  
+pour l'utilisation qu'on en fait, ça suffit, en plus le monde.
 
-**[02:08:26 - 02:08:27] 1-redsun**  
-c'est tout,
+**[02:09:29 - 02:09:32] _redsun**  
+Oui, alors tout à fait, il y a les plus soins-vahés qui vont arriver,
 
-**[02:08:27 - 02:08:28] 1-redsun**  
-c'est tout,
+**[02:09:32 - 02:09:34] _redsun**  
+donc ça ça va être un gros sujet.
 
-**[02:08:28 - 02:08:29] 1-redsun**  
-c'est tout,
+**[02:09:34 - 02:09:47] _redsun**  
+mais moi je pense surtout qu'il va se passer entre que c'est très spécifique, c'est que là les modèles vont réduire leur consommation de ce que ça peut la faire de contexte, c'est grâce au quavez cache,
 
-**[02:08:29 - 02:08:30] 1-redsun**  
-c'est tout,
+**[02:09:47 - 02:10:04] _redsun**  
+c'est un peu compliqué mais c'est super cruciale et ce que je vous ai partagé, c'est le papier de recherche de Google, c'est belles turbo quantes qui permettent de compresser en fait le cache et donc d'utiliser beaucoup moins de type de contexte et c'est la clé pour faire des modèles justement
 
-**[02:08:30 - 02:08:31] 1-redsun**  
-c'est tout,
+**[02:10:04 - 02:10:11] _redsun**  
+de l'occu et c'est un game changer quoi il faut le comprendre
 
-**[02:08:31 - 02:08:32] 1-redsun**  
-c'est tout,
+**[02:10:08 - 02:10:15] pollux8888**  
+J'ai justement exactement exactement pour revendre ce que tu viens de dire, eux ils ont
 
-**[02:08:32 - 02:08:33] 1-redsun**  
-c'est tout,
+**[02:10:15 - 02:10:21] pollux8888**  
+parvêt à la développer pas mal de solution en pinceauir pour les LM, justement pour la gestion
 
-**[02:08:33 - 02:08:34] 1-redsun**  
-c'est tout,
+**[02:10:21 - 02:10:22] pollux8888**  
+des cavécaches.
 
-**[02:08:34 - 02:08:35] 1-redsun**  
-c'est tout,
+**[02:10:22 - 02:10:27] pollux8888**  
+...
 
-**[02:08:36 - 02:08:37] 1-redsun**  
-c'est tout,
+**[02:10:23 - 02:10:28] _redsun**  
+je sais que par exemple d'y psique dans son dernier modèle
 
-**[02:08:37 - 02:08:38] 1-redsun**  
-c'est tout,
+**[02:10:28 - 02:10:30] _redsun**  
+il a un truc très spécifique là dessus sur le quavec à ce
 
-**[02:08:38 - 02:08:39] 1-redsun**  
-c'est tout,
+**[02:10:30 - 02:10:34] _redsun**  
+ça pandène non, mais toujours des non, j'ai plus une attellement.
 
-**[02:08:39 - 02:08:40] 1-redsun**  
-c'est tout,
+**[02:10:34 - 02:10:36] _redsun**  
+Mais un rôle, c'est toujours la même idée quoi.
 
-**[02:08:40 - 02:08:41] 1-redsun**  
-c'est tout,
+**[02:10:36 - 02:10:38] _redsun**  
+C'est de rétenture.
 
-**[02:08:41 - 02:08:42] 1-redsun**  
-c'est tout,
+**[02:10:38 - 02:10:39] _redsun**  
+Est-ce qu'il va se passer ?
 
-**[02:08:42 - 02:08:43] 1-redsun**  
-c'est tout,
+**[02:10:39 - 02:10:42] _redsun**  
+Après, c'est ma thé, et quand même, peut-être que je me gorge.
 
-**[02:08:43 - 02:08:44] 1-redsun**  
-c'est tout,
+**[02:10:42 - 02:10:44] _redsun**  
+Mais un rôle, je suis sûr, qu'on va arriver dans un monde,
 
-**[02:08:44 - 02:08:45] 1-redsun**  
-c'est tout,
+**[02:10:44 - 02:10:48] _redsun**  
+où tu vas faire tourner ton opu sur ton esort à bacon à la maison.
 
-**[02:08:45 - 02:08:46] 1-redsun**  
-c'est tout,
+**[02:10:51 - 02:11:11] bensmart**  
+Je suis pas vraiment de cet avila, mais ça te s'intéressant.
 
-**[02:08:46 - 02:08:47] 1-redsun**  
-c'est tout,
+**[02:10:51 - 02:10:53] _redsun**  
+Et à partir de jour là, il y a tout qui change.
 
-**[02:08:47 - 02:08:48] 1-redsun**  
-c'est tout,
+**[02:10:55 - 02:10:58] _redsun**  
+C'est à plus besoin des mecs qui vont de leur truc une blinde,
 
-**[02:08:48 - 02:08:49] 1-redsun**  
-c'est tout,
+**[02:10:58 - 02:11:00] _redsun**  
+Et puis, il était plus dépendante par ça de quoi.
 
-**[02:08:49 - 02:08:50] 1-redsun**  
-c'est tout,
+**[02:11:00 - 02:11:29] pchartois**  
+des
 
-**[02:08:50 - 02:08:51] 1-redsun**  
-c'est tout,
+**[02:11:03 - 02:11:05] _redsun**  
+T'as-tu que je me grouis ou quoi?
 
-**[02:08:51 - 02:08:52] 1-redsun**  
-c'est tout,
+**[02:11:11 - 02:11:19] bensmart**  
+parce que les esparlons, c'est tout le monde, fait tourner leur modèle localement,
 
-**[02:08:52 - 02:08:53] 1-redsun**  
-c'est tout,
+**[02:11:19 - 02:11:23] bensmart**  
+sans payer un rond pour les toquelles.
 
-**[02:08:53 - 02:08:54] 1-redsun**  
-c'est tout,
+**[02:11:22 - 02:11:46] pollux8888**  
+...
 
-**[02:08:54 - 02:08:55] 1-redsun**  
-c'est tout,
+**[02:11:23 - 02:11:29] bensmart**  
+Comment ils arrivent à randomiser, voir faire des profils sur leur aiméciement?
 
-**[02:08:55 - 02:08:56] 1-redsun**  
-c'est tout,
+**[02:11:28 - 02:11:40] _redsun**  
+...
 
-**[02:08:56 - 02:08:57] 1-redsun**  
-c'est tout,
+**[02:11:29 - 02:11:33] bensmart**  
+J'y conteste les aiméciement dans EI.
 
-**[02:08:57 - 02:08:58] 1-redsun**  
-c'est tout,
+**[02:11:33 - 02:11:39] bensmart**  
+les cartes graphiques, les agénieurs,
 
-**[02:08:58 - 02:08:59] 1-redsun**  
-c'est tout,
+**[02:11:39 - 02:11:42] bensmart**  
+et les cartes graphiques, les agénieurs,
 
-**[02:08:59 - 02:09:00] 1-redsun**  
-c'est tout,
+**[02:11:40 - 02:11:45] _redsun**  
+Ah, même pas ce que les chinois, il distile en fait en
 
-**[02:09:00 - 02:09:01] 1-redsun**  
-c'est tout,
+**[02:11:42 - 02:11:46] bensmart**  
+et les cartes graphiques, les agénieurs,
 
-**[02:09:01 - 02:09:02] 1-redsun**  
-c'est tout,
+**[02:11:45 - 02:11:49] _redsun**  
+dit, distile à mort, les modènes, et c'est très smarte, et franchement.
 
-**[02:09:02 - 02:09:03] 1-redsun**  
-c'est tout,
+**[02:11:46 - 02:11:50] bensmart**  
+et les cartes graphiques, les agénieurs,
 
-**[02:09:03 - 02:09:04] 1-redsun**  
-c'est tout,
+**[02:11:50 - 02:11:53] bensmart**  
+et les cartes graphiques, les agénieurs,
 
-**[02:09:04 - 02:09:05] 1-redsun**  
-c'est tout,
+**[02:11:52 - 02:11:54] pollux8888**  
+et
 
-**[02:09:05 - 02:09:06] 1-redsun**  
-c'est tout,
+**[02:11:53 - 02:11:55] bensmart**  
+et les cartes graphiques, les agénieurs, les cartes graphiques, les agénieurs,
 
-**[02:09:06 - 02:09:07] 1-redsun**  
-c'est tout,
+**[02:11:55 - 02:12:00] bensmart**  
+de mon avis, c'est vraiment, c'est du bisesse, c'est pas un truc charitable.
 
-**[02:09:07 - 02:09:08] 1-redsun**  
-c'est tout,
+**[02:11:58 - 02:12:05] _redsun**  
+Je ne suis pas bien compris quand ça va se le couper, mais en tout cas ce que je vois,
 
-**[02:09:08 - 02:09:09] 1-redsun**  
-c'est tout,
+**[02:12:00 - 02:12:02] bensmart**  
+Voilà.
 
-**[02:09:10 - 02:09:11] 1-redsun**  
-c'est tout,
+**[02:12:05 - 02:12:11] _redsun**  
+c'est que même quand même 27 b, aujourd'hui, il y a 90% des usages à jeune avres,
 
-**[02:09:11 - 02:09:12] 1-redsun**  
-c'est tout,
+**[02:12:11 - 02:12:14] _redsun**  
+je pense qu'il peut être conbée par ça madellable.
 
-**[02:09:12 - 02:09:13] 1-redsun**  
-c'est tout,
+**[02:12:15 - 02:12:18] bensmart**  
+J'ai fait vraiment juste pour donner une idée
 
-**[02:09:13 - 02:09:14] 1-redsun**  
-c'est tout,
+**[02:12:19 - 02:12:22] bensmart**  
+et il y a assistant qui s'appelle D'Obore
 
-**[02:09:14 - 02:09:15] 1-redsun**  
-c'est tout,
+**[02:12:22 - 02:12:23] pollux8888**  
+.
 
-**[02:09:16 - 02:09:17] 1-redsun**  
-c'est tout,
+**[02:12:22 - 02:12:26] bensmart**  
+qui est utilisé par Améler de Chinois, quotidiennement,
 
-**[02:09:17 - 02:09:18] 1-redsun**  
-c'est tout,
+**[02:12:23 - 02:12:24] pollux8888**  
+.
 
-**[02:09:18 - 02:09:19] 1-redsun**  
-c'est tout,
+**[02:12:24 - 02:12:25] pollux8888**  
+.
 
-**[02:09:19 - 02:09:20] 1-redsun**  
-c'est tout,
+**[02:12:25 - 02:12:26] pollux8888**  
+.
 
-**[02:09:20 - 02:09:21] 1-redsun**  
-c'est tout,
+**[02:12:26 - 02:12:27] pollux8888**  
+.
 
-**[02:09:21 - 02:09:22] 1-redsun**  
-c'est tout,
+**[02:12:26 - 02:12:29] bensmart**  
+depuis deux ans il est gratuit
 
-**[02:09:22 - 02:09:23] 1-redsun**  
-c'est tout,
+**[02:12:27 - 02:12:28] pollux8888**  
+.
 
-**[02:09:23 - 02:09:24] 1-redsun**  
-c'est tout,
+**[02:12:28 - 02:12:29] pollux8888**  
+.
 
-**[02:09:24 - 02:09:25] 1-redsun**  
-c'est tout,
+**[02:12:28 - 02:12:57] _redsun**  
+de
 
-**[02:09:25 - 02:09:26] 1-redsun**  
-c'est tout,
+**[02:12:29 - 02:12:30] pollux8888**  
+.
 
-**[02:09:26 - 02:09:27] 1-redsun**  
-c'est tout,
+**[02:12:29 - 02:12:36] bensmart**  
+et hier ils ont lancé, hier ils ont pu lier les abonnements payants.
 
-**[02:09:27 - 02:09:28] 1-redsun**  
-c'est tout.
+**[02:12:30 - 02:12:31] pollux8888**  
+.
 
-**[02:09:29 - 02:09:30] 1-redsun**  
-Je vais voir,
+**[02:12:31 - 02:12:32] pollux8888**  
+.
 
-**[02:09:30 - 02:09:32] 1-redsun**  
-il y a les plusbiautet,
+**[02:12:32 - 02:12:33] pollux8888**  
+.
 
-**[02:09:32 - 02:09:33] 1-redsun**  
-qui vont arriver,
+**[02:12:33 - 02:12:34] pollux8888**  
+.
 
-**[02:09:33 - 02:09:38] 1-redsun**  
-être un gros sujet, mais moi je pense surtout qu'il va se passer un truc, c'est très spécifique,
+**[02:12:34 - 02:12:35] pollux8888**  
+.
 
-**[02:09:38 - 02:09:44] 1-redsun**  
-c'est que là les modèles vont réduire leur consommation de ce que s'appelle la fenêtre
+**[02:12:35 - 02:12:36] pollux8888**  
+.
 
-**[02:09:44 - 02:09:50] 1-redsun**  
-de contexte grâce au KV Cache, c'est un peu compliqué mais c'est super crucial et ce que
+**[02:12:36 - 02:12:40] bensmart**  
+Donc voilà c'est ça d'orbao, c'est aussi, voilà.
 
-**[02:09:50 - 02:09:56] 1-redsun**  
-je vous ai partagé c'est le papier de recherche de Google, qui s'appelle TurboQuant, qui permet
+**[02:12:36 - 02:12:37] pollux8888**  
+.
 
-**[02:09:56 - 02:10:02] 1-redsun**  
-de compresser en fait le cache et donc d'utiliser beaucoup moins de tailles de contexte et c'est
+**[02:12:37 - 02:12:38] pollux8888**  
+.
 
-**[02:10:02 - 02:10:10] 1-redsun**  
-la clé pour faire des modèles justement de locaux et c'est un game changer quoi, il faut le
+**[02:12:38 - 02:12:39] pollux8888**  
+.
 
-**[02:10:10 - 02:10:28] 1-redsun**  
-comprendre. Je sais que par exemple Deeppsych dans son dernier modèle a fait un truc très
+**[02:12:39 - 02:12:40] pollux8888**  
+.
 
-**[02:10:28 - 02:10:33] 1-redsun**  
-spécifique là dessus sur le KV Cache, alors ça porte des noms, il y a toujours des noms j'ai plus,
+**[02:12:40 - 02:12:41] pollux8888**  
+.
 
-**[02:10:33 - 02:10:38] 1-redsun**  
-il y en a tellement, mais en gros c'est toujours la même idée quoi, c'est en fait et ce qui va
+**[02:12:40 - 02:12:47] bensmart**  
+Un autre pour la Anien de Fora, c'est à notre produit du même groupe TikTok,
 
-**[02:10:38 - 02:10:44] 1-redsun**  
-se passer, bon après c'est ma thé, peut-être que je me gore, mais en gros je suis sûr qu'on va
+**[02:12:41 - 02:12:42] pollux8888**  
+.
 
-**[02:10:44 - 02:10:51] 1-redsun**  
-arriver dans un monde où tu vas faire tourner ton opus sur ta bacon à la maison, et à part
+**[02:12:42 - 02:12:43] pollux8888**  
+.
 
-**[02:10:51 - 02:10:57] 1-redsun**  
-de ce jour là il y a tout qui change, c'est à plus besoin des mecs qui vendent leur truc,
+**[02:12:43 - 02:12:44] pollux8888**  
+.
 
-**[02:10:57 - 02:11:04] 1-redsun**  
-une blinde et puis il n'était plus dépendant de personne, peut-être que je me gourme.
+**[02:12:44 - 02:12:45] pollux8888**  
+.
 
-**[02:11:27 - 02:11:48] 1-redsun**  
-Ah mais parce que les chinois ils distillent en fait, il distillent à mort les modèles et c'est très
+**[02:12:45 - 02:12:46] pollux8888**  
+.
 
-**[02:11:48 - 02:12:04] 1-redsun**  
-smart et franchement. J'ai toujours pas bien compris comment ça va se goupiller, mais en
+**[02:12:46 - 02:12:47] pollux8888**  
+.
 
-**[02:12:04 - 02:12:11] 1-redsun**  
-tout cas ce que je vois c'est que même quenne 27B aujourd'hui, il y a 90% des usages à Genève,
+**[02:12:47 - 02:12:48] pollux8888**  
+.
 
-**[02:12:11 - 02:12:14] 1-redsun**  
-je pense qu'ils peuvent être comblés par ce modèle là.
+**[02:12:47 - 02:12:50] bensmart**  
+c'est à dire comment ça va Biden.
 
-**[02:12:14 - 02:12:44] 1-redsun**  
-Je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je
+**[02:12:48 - 02:12:49] pollux8888**  
+.
 
-**[02:12:44 - 02:12:55] 1-redsun**  
-je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas,95
+**[02:12:49 - 02:12:50] pollux8888**  
+.
 
-**[02:12:55 - 02:12:58] 1-redsun**  
-Page avance
+**[02:12:50 - 02:12:51] pollux8888**  
+.
 
-**[02:12:58 - 02:13:01] 1-redsun**  
-cinquante
+**[02:12:50 - 02:12:54] bensmart**  
+Biden c'est Biden c'est encore Biden,
 
-**[02:13:01 - 02:13:05] 1-redsun**  
-Roland
+**[02:12:51 - 02:12:53] pollux8888**  
+d'enceau.
 
-**[02:13:05 - 02:13:07] 1-redsun**  
-Jean
+**[02:12:54 - 02:13:01] bensmart**  
+ils ont pris un large, ça fait que 10 ans, c'est dans les exeux. Ils sont en une prédent. Ils sont en une prédent.
 
-**[02:13:07 - 02:13:13] 1-redsun**  
-max
+**[02:12:57 - 02:13:00] _redsun**  
+et euh... Qu'est-ce qu'il faut là ?
 
-**[02:13:14 - 02:13:22] 1-redsun**  
-Tout pas au putain, c'est incroyable, personne n'a entendu parler de ça ici quoi, enfin...
+**[02:13:00 - 02:13:01] _redsun**  
+Il peut-être les bons avoir...
 
-**[02:13:28 - 02:13:34] 1-redsun**  
-Ah mais c'est pas une clôt derrière, je comprends rien là, ou pas.
+**[02:13:01 - 02:13:11] bensmart**  
+Et surtout pour le traitement de texte en Chinois, c'est sûrement ce numéro, c'est le numéro.
 
-**[02:13:34 - 02:13:38] 1-redsun**  
-Ah ok.
+**[02:13:01 - 02:13:03] _redsun**  
+Je suis beaucoup...
 
-**[02:13:44 - 02:14:00] 1-redsun**  
-Oui mais la boîte de Pandore est déjà ouverte, les Models Open Source sont déjà là, donc en fait...
+**[02:13:11 - 02:13:13] pollux8888**  
+La base en avantage de voir la masse critique.
 
-**[02:14:00 - 02:14:08] 1-redsun**  
-puis des améliorés maintenant, en fait pas de la nouvelle technologie mais de la nouvelle façon de structurer les LLM,
+**[02:13:16 - 02:13:18] bensmart**  
+Ouais, ça...
 
-**[02:14:08 - 02:14:15] 1-redsun**  
-on essaie d'être plus malin en fait d'optimisant le KV Cache, la clé et tout ces trucs là,
+**[02:13:16 - 02:13:20] _redsun**  
+Tout bas au p'tit... C'est agréable, ça a personne en tournit par les saïsiques, ouais...
 
-**[02:14:15 - 02:14:24] 1-redsun**  
-et en fait moi je vois pas ce qui va empêcher bientôt des Models de sortir, enfin tu prends une base quenne et puis tu commences à te marrer dessus,
+**[02:13:18 - 02:13:26] bensmart**  
+Et bien, ils ont pas, ils ont pas, ils ne se radez pas, ils ont pas poussé ça à l'international.
 
-**[02:14:24 - 02:14:29] 1-redsun**  
-et puis tu commences à développer une autre IE dessus quoi.
+**[02:13:21 - 02:13:26] pollux8888**  
+...
 
-**[02:14:29 - 02:14:40] 1-redsun**  
-On verra, là on est un peu sur la prédiction mais moi je pense que les use cases ou les usages quand tu vois en Suisse,
+**[02:13:26 - 02:13:28] bensmart**  
+C'est que utiliser un chine Continental.
 
-**[02:14:40 - 02:14:48] 1-redsun**  
-en tout cas à Genève, ce que font les gens avec l'IA, c'est-à-dire mais un truc d'il y a deux ans, il y aurait pas la différence,
+**[02:13:27 - 02:13:33] _redsun**  
+à mes serres ben plus d'âtre, au moins pour un ou pas.
 
-**[02:14:48 - 02:15:03] 1-redsun**  
-il y a les mecs, je vois qu'il y a des grosses entreprises, je sais qu'il y a des grosses entreprises, je vais pas dire les noms pour parler,
+**[02:13:28 - 02:13:29] bensmart**  
+D'abord.
 
-**[02:15:03 - 02:15:18] 1-redsun**  
-mais je sais qu'il y a des grosses entreprises qui utilisent la GPT 4ans quoi, non mais bon, ben justement, qu'est-ce qu'ils ont fait, alors justement.
+**[02:13:29 - 02:13:35] bensmart**  
+Non, non, non, non, non, tu peux le relier, il y a un appui.
 
-**[02:15:18 - 02:15:32] 1-redsun**  
-Pas de commentaires, tu sais des prics, tu sais qu'il y en a un 2-3 qui utilise 5, je dis en fait un bon model open source peut faire le tard.
+**[02:13:33 - 02:13:54] _redsun**  
+...
 
-**[02:15:32 - 02:15:47] 1-redsun**  
-Et puis en plus, je suis pas du tout étonné que le nouveau patron d'Apple soit un spécialiste du hardware,
+**[02:13:35 - 02:13:39] bensmart**  
+Non, mais je me rends tu vois, c'est vraiment un...
 
-**[02:15:48 - 02:15:58] 1-redsun**  
-parce qu'ils n'ont pas d'IA et à mon avis ils ont une idée derrière la tête là, je sais pas ce qu'ils vont nous pondre mais il y a un truc qui va sortir de chez eux je pense,
+**[02:13:39 - 02:13:42] bensmart**  
+Une se radezue d'investissement à très long terme.
 
-**[02:15:58 - 02:16:11] 1-redsun**  
-qui va, ils pourraient squiser beaucoup de, enfin vendre énormément de Mac Mini ou Mac Studio ou autre en étant la numéro 1 fournisseur des IALOCAL.
+**[02:13:42 - 02:13:50] bensmart**  
+mais sur moi un jour ils vont sérer les filaires on va tous passer par payer quelque chose
 
-**[02:16:11 - 02:16:13] 1-redsun**  
-Ça c'est pas un truc là.
+**[02:13:50 - 02:13:56] bensmart**  
+sinon tous ces investissements ne se propagent jamais
 
-**[02:16:41 - 02:16:43] 1-redsun**  
-C'est pas un truc là.
+**[02:13:54 - 02:13:57] _redsun**  
+Ouais mais la boîte de pendants est déjà horent.
 
-**[02:17:11 - 02:17:30] 1-redsun**  
-Alors, c'est non, ça c'est vieux, bah ouais, alors là, moi je pense que ça, ça va être un...
+**[02:13:57 - 02:13:59] _redsun**  
+Les modèles peuvent être sortes, on déjà là.
 
-**[02:17:30 - 02:17:37] 1-redsun**  
-Est-ce que tu peux entraîner les modèles GPT et OPUS sur ces puces là, ou c'est que pour le marché chinois ?
+**[02:13:59 - 02:14:03] _redsun**  
+Donc en fait, puis des améliorés maintenant.
 
-**[02:17:37 - 02:17:40] 1-redsun**  
-Est-ce que l'inverse est compatible, tu vois ce que je veux dire ?
+**[02:14:03 - 02:14:05] _redsun**  
+Il n'y a pas de la nouvelle technologie,
 
-**[02:17:50 - 02:17:54] 1-redsun**  
-Mais comment ça on les utilise, toi tu les utilise ?
+**[02:14:05 - 02:14:08] _redsun**  
+mais de la nouvelle façon de structurer les élènes.
 
-**[02:18:02 - 02:18:04] 1-redsun**  
-Ah ok.
+**[02:14:08 - 02:14:13] _redsun**  
+On essaye d'être plus malin, on fait d'optimiser le camécage
 
-**[02:18:07 - 02:18:26] 1-redsun**  
-Ok, donc ils en ont là-bas, il y a du stack ou quoi ?
+**[02:14:13 - 02:14:15] _redsun**  
+qu'elle a clé tous ces trucs là.
 
-**[02:18:26 - 02:18:29] 1-redsun**  
-Ah, ok.
+**[02:14:15 - 02:14:18] _redsun**  
+Et en fait, je vois pas ce qui va empêcher
 
-**[02:18:38 - 02:18:46] 1-redsun**  
-Ok, bah écoute, si tu arrives à en chopper, je choppe besoin un maximum, mais à mon avis c'est un peu la clé de tout quoi, c'est histoire là.
+**[02:14:18 - 02:14:21] _redsun**  
+autour des modèles de sortir.
 
-**[02:18:46 - 02:18:50] 1-redsun**  
-Bon après, il faut entraîner les modèles, enfin c'est un peu le but.
+**[02:14:21 - 02:14:48] pollux8888**  
+...
 
-**[02:18:53 - 02:18:57] 1-redsun**  
-Mais ça va jouer là-dessus, celui qui aura les meilleures puces.
+**[02:14:21 - 02:14:23] _redsun**  
+En fin tu prends une base qu'on a un petit coup
 
-**[02:18:57 - 02:19:00] 1-redsun**  
-Mais est-ce que ça va être la puissance brute ? Moi je suis pas certain de ça.
+**[02:14:23 - 02:14:27] _redsun**  
+comment ça te m'arrête sur, puis tu commençais à développer notre IED-Suc.
 
-**[02:19:00 - 02:19:09] 1-redsun**  
-Moi je pense que la GPT, ils sont en train de se planter sur la stratégie de toujours plus de data center, c'est pas forcément la solution.
+**[02:14:27 - 02:14:36] _redsun**  
+Tu vois, on verra, on peut-être sur la production, mais moi je pense que les
 
-**[02:19:09 - 02:19:13] 1-redsun**  
-Je pense qu'on peut beaucoup optimiser encore les modèles.
+**[02:14:33 - 02:14:54] gilles_35307**  
+...
 
-**[02:19:17 - 02:19:20] 1-redsun**  
-Ça on va voir avec le temps, franchement.
+**[02:14:36 - 02:14:41] _redsun**  
+usquets sur les usages, quand tu vas en suivre cela, tout quand je n'avais ce que
 
-**[02:19:24 - 02:19:27] 1-redsun**  
-Je trouve pas d'articles propres là-dessus.
+**[02:14:41 - 02:14:46] _redsun**  
+font les gens avec l'Ia, c'est normal, un truc qui vient à deux ans, il n'y aurait pas
 
-**[02:19:31 - 02:19:42] 1-redsun**  
-Ok, donc il est 22h, je propose qu'on arrête, sinon il y a 3h du mat, moi il y a encore 3 questions.
+**[02:14:42 - 02:14:55] bensmart**  
+La T-shirt prend l'exemple, vraiment le plus, le moire représentatif sur terre.
 
-**[02:19:42 - 02:19:49] 1-redsun**  
-Merci à tous d'être revenus, de toute façon on se voit la semaine prochaine.
+**[02:14:46 - 02:14:50] _redsun**  
+la différence, ça va, c'est vrai, il y a des mecs.
 
-**[02:19:49 - 02:19:58] 1-redsun**  
-On se voit la semaine prochaine et puis voilà, on se refait un petit weekly claw, on fait un point sur ce qu'est avancé.
+**[02:14:48 - 02:15:16] pollux8888**  
+...
 
-**[02:19:59 - 02:20:02] 1-redsun**  
-Et puis on se tient au courant si vous avez des questions, des trucs comme ça.
+**[02:14:50 - 02:15:05] _redsun**  
+d'un mec, je vois que j'ai des gros entreprises, je sais qu'il y a des gros entreprises,
 
-**[02:20:02 - 02:20:06] 1-redsun**  
-Et s'il y en a aussi qui veut faire une démo, il faut qu'il me demande.
+**[02:14:59 - 02:15:19] pchartois**  
+...
 
-**[02:20:06 - 02:20:10] 1-redsun**  
-Il me dit voilà, je vais juste montrer un truc, envoyez-moi un message privé.
+**[02:15:03 - 02:15:24] gilles_35307**  
+de
 
-**[02:20:10 - 02:20:15] 1-redsun**  
-Et puis comme ça, la prochaine fois je vous laisse montrer comment vous utilisez OpenClaw,
+**[02:15:05 - 02:15:13] _redsun**  
+si tu as du BT 4 ans, voilà, bah justement, c'est ce qu'est-ce qu'ils ont fait, alors
 
-**[02:20:15 - 02:20:19] 1-redsun**  
-ou que ce soit toujours moi qui montre aussi un peu, si vous avez des trucs à montrer vous,
+**[02:15:13 - 02:15:15] _redsun**  
+j'ai vraiment...
 
-**[02:20:19 - 02:20:23] 1-redsun**  
-ça peut être sympa de voir que vous faites avec quoi.
+**[02:15:16 - 02:15:18] pollux8888**  
+Je ne peux pas comment faire.
 
-**[02:20:24 - 02:20:30] 1-redsun**  
-Voilà voilà monsieur, bonne soirée à tous et puis on...
+**[02:15:18 - 02:15:21] _redsun**  
+Attends que mon terme est à d'être tous les plus écras...
 
-**[02:20:32 - 02:20:38] 1-redsun**  
-Merci, tchao, tchao à tous.
+**[02:15:21 - 02:15:22] _redsun**  
+Tu sais qui...
 
-**[02:20:53 - 02:20:56] 1-redsun**  
-Sous-titres réalisés par la communauté d'Amara.org
+**[02:15:22 - 02:15:23] _redsun**  
+Voilà quoi...
+
+**[02:15:23 - 02:15:25] _redsun**  
+Il y a de quoi que tu l'es dit...
+
+**[02:15:25 - 02:15:26] _redsun**  
+Euh...
+
+**[02:15:26 - 02:15:30] _redsun**  
+Je me dis, c'est un bon modèle de bonne source, peut-être.
+
+**[02:15:31 - 02:15:33] _redsun**  
+Mais...
+
+**[02:15:33 - 02:15:34] _redsun**  
+Mais voilà donc...
+
+**[02:15:34 - 02:15:37] _redsun**  
+Et puis on puisse...
+
+**[02:15:36 - 02:15:38] pollux8888**  
+Et là, c'est le lobbying,
+
+**[02:15:38 - 02:15:40] pollux8888**  
+c'est le vrai.
+
+**[02:15:39 - 02:15:40] _redsun**  
+Ouais mais moi je...
+
+**[02:15:40 - 02:15:42] pollux8888**  
+En vrai, en vrai, c'est un autre type.
+
+**[02:15:40 - 02:15:47] _redsun**  
+Je ne suis pas du tout étonné que le nouveau patron de Apple soit un spécialiste de hardware.
+
+**[02:15:49 - 02:15:53] _redsun**  
+Parce qu'ils ont pas des onpa-diaires, on a mis des arrières,
+
+**[02:15:53 - 02:15:57] _redsun**  
+je ne sais pas ce qu'ils ont au point, mais il y a un truc qui va sortir de chez eux,
+
+**[02:15:57 - 02:16:05] _redsun**  
+je pense qu'il pourrait escouiser beaucoup de faire vendre énormément de marque mini au max de dieu au haut.
+
+**[02:15:59 - 02:16:09] pchartois**  
+...
+
+**[02:16:05 - 02:16:11] _redsun**  
+En étant la numéro à fond du serve, il y a le calco.
+
+**[02:16:09 - 02:16:14] pchartois**  
+...
+
+**[02:16:11 - 02:16:17] _redsun**  
+Je ne sais pas, mais je ne peux pas.
+
+**[02:16:14 - 02:16:22] pchartois**  
+...
+
+**[02:16:16 - 02:16:22] pollux8888**  
+Et vous posez la question du tout à l'heure à propos de Huawei, justement, c'est les plus...
+
+**[02:16:23 - 02:16:28] pollux8888**  
+Ah, comment ils appellent la ASEAN et Aie, la nouvelle nouvelle Thégoire,
+
+**[02:16:28 - 02:16:31] pollux8888**  
+des plus Huawei qui supportent des psychères sur 4,
+
+**[02:16:31 - 02:16:34] pollux8888**  
+et avec votre moto les véhicules flash,
+
+**[02:16:34 - 02:16:38] pollux8888**  
+qui coûte à peu près, il me semble peut-être à peu près 0,10,
+
+**[02:16:38 - 02:16:43] pollux8888**  
+ou 0,10, c'est 0,15 de l'art par millions de tokens.
+
+**[02:16:46 - 02:16:54] pollux8888**  
+C'est beaucoup moins cher que j'ai été au plus de plus 4-7.
+
+**[02:16:54 - 02:17:04] pollux8888**  
+3 de têtes, il y a un objectif actuel libri, avec 10% de qu'avecage,
+
+**[02:17:04 - 02:17:12] pollux8888**  
+et puis quelque chose avec 3 de cs du Compress4,
+
+**[02:17:05 - 02:17:25] _redsun**  
+...
+
+**[02:17:12 - 02:17:15] pollux8888**  
+attention, ça c'est les nouvelles générations des plus revoir.
+
+**[02:17:18 - 02:17:20] pollux8888**  
+Açant et à.
+
+**[02:17:20 - 02:17:21] pollux8888**  
+Oui.
+
+**[02:17:25 - 02:17:27] _redsun**  
+ça veut dire.
+
+**[02:17:27 - 02:17:32] _redsun**  
+Alors là je pense que ça va être... est-ce que tu peux entraîner les modèles?
+
+**[02:17:32 - 02:17:37] _redsun**  
+J'ai pété et au plus sur cette plus-là, ou c'est que pour le marcher sinon.
+
+**[02:17:37 - 02:17:40] _redsun**  
+Est-ce que l'inverse est compatique de ta se que vous êtes?
+
+**[02:17:39 - 02:17:43] pollux8888**  
+Je crois que, oui, parce qu'ils ont deux instances, non, non,
+
+**[02:17:40 - 02:18:09] _redsun**  
+et
+
+**[02:17:43 - 02:17:48] pollux8888**  
+justement, les utilisent, il y a une instance pour le marché international et une
+
+**[02:17:48 - 02:17:52] pollux8888**  
+pour le marché chinois. Et puis l'accès.
+
+**[02:17:54 - 02:17:59] pollux8888**  
+Oui, en fait, ma boîte, moi, à boite, qui a rien à voir avec tout ce qui est création
+
+**[02:17:59 - 02:18:03] pollux8888**  
+de contenu, mais nous, on fait la mamanise des sentiments en émarché pour s'y é.
+
+**[02:18:03 - 02:18:07] pollux8888**  
+Et on a une partie qui est bergée chez Google.
+
+**[02:18:07 - 02:18:10] pollux8888**  
+On a été avant en été chez AdobeVS, en tant que startup.
+
+**[02:18:09 - 02:18:24] _redsun**  
+Ok, donc ils en vend l'avant, on y a du stock.
+
+**[02:18:11 - 02:18:16] pollux8888**  
+On a eu reçu un peu des crédits et puis arriver un peu à cours de crédit.
+
+**[02:18:16 - 02:18:19] pollux8888**  
+on se voit en travers d'autres droits d'un Huawei.
+
+**[02:18:24 - 02:18:26] pollux8888**  
+Où est son nom ?
+
+**[02:18:24 - 02:18:28] _redsun**  
+Ok.
+
+**[02:18:28 - 02:18:30] pollux8888**  
+Et donc, à Huawei International,
+
+**[02:18:28 - 02:18:31] _redsun**  
+Ok.
+
+**[02:18:30 - 02:18:32] pollux8888**  
+et puis à Huawei China,
+
+**[02:18:31 - 02:18:37] _redsun**  
+Ok.
+
+**[02:18:32 - 02:18:33] pollux8888**  
+à Huawei China,
+
+**[02:18:33 - 02:18:36] pollux8888**  
+qui est quasi-invanche à Hong Kong.
+
+**[02:18:37 - 02:18:38] _redsun**  
+Ok.
+
+**[02:18:38 - 02:18:43] _redsun**  
+On va avec, c'est un cité en choper, je suis en maximum, mais on a vu ça un peu
+
+**[02:18:43 - 02:18:44] _redsun**  
+la clé de tout.
+
+**[02:18:44 - 02:18:46] _redsun**  
+Quoi un cistor là.
+
+**[02:18:46 - 02:18:51] pollux8888**  
+...
+
+**[02:18:46 - 02:18:53] _redsun**  
+On va après, ils font entrener les modèles, enfin, c'est un peu le bouchre.
+
+**[02:18:52 - 02:18:54] pchartois**  
+...
+
+**[02:18:53 - 02:18:56] _redsun**  
+ça va jouer là-dessus quoi celui-qu'auro les meilleures plus
+
+**[02:18:54 - 02:18:56] pchartois**  
+...
+
+**[02:18:56 - 02:18:58] pchartois**  
+...
+
+**[02:18:57 - 02:19:01] _redsun**  
+mais est-ce que ça va être la puissance bruit de moi je pense que l'an
+
+**[02:18:58 - 02:19:00] pchartois**  
+...
+
+**[02:19:00 - 02:19:02] pchartois**  
+...
+
+**[02:19:01 - 02:19:05] _redsun**  
+j'ai pété sans prendre ce planter sur la stratégie
+
+**[02:19:02 - 02:19:04] pchartois**  
+...
+
+**[02:19:04 - 02:19:06] pchartois**  
+...
+
+**[02:19:05 - 02:19:09] _redsun**  
+de toujours plus de data center c'est pas forcément la solution
+
+**[02:19:06 - 02:19:08] pchartois**  
+...
+
+**[02:19:08 - 02:19:10] pchartois**  
+...
+
+**[02:19:09 - 02:19:13] _redsun**  
+je pense qu'on peut beaucoup optimiser encore les modèles
+
+**[02:19:10 - 02:19:12] pchartois**  
+...
+
+**[02:19:12 - 02:19:16] pchartois**  
+...
+
+**[02:19:16 - 02:19:18] pchartois**  
+...
+
+**[02:19:17 - 02:19:19] _redsun**  
+ça on va voir avec peut-être tant
+
+**[02:19:18 - 02:19:20] pchartois**  
+...
+
+**[02:19:19 - 02:19:27] _redsun**  
+je ne trouve pas d'artiques sur le groupe de patients.
+
+**[02:19:27 - 02:19:31] _redsun**  
+Bon, c'est pas...
+
+**[02:19:31 - 02:19:42] _redsun**  
+Ok, bon les 22 heures, je propose qu'on arrête à avoir de faire de voir la moitié de notre question.
+
+**[02:19:42 - 02:19:49] _redsun**  
+Et merci à tous d'être revenu et puis de façon en source, voilà ce monde prochain.
+
+**[02:19:49 - 02:19:59] _redsun**  
+On se voit la semaine prochaine et puis voilà on se refait un petit week-liclore, on fait un point sur ce qu'à rancer.
+
+**[02:19:59 - 02:20:05] _redsun**  
+Et puis on se sert au courant, si vous avez des questions, on est comme ça. Et si on a aussi qui veut faire une démo,
+
+**[02:20:05 - 02:20:10] _redsun**  
+il faut qu'il me demande, il me dit voilà, je me suis juste montré un truc, en voyant à mesage privés,
+
+**[02:20:10 - 02:20:14] _redsun**  
+comme ça, la prochaine fois je voulais ça montrer, soit vous, comment vous disiez
+
+**[02:20:12 - 02:20:32] bensmart**  
+Merci, merci, Rien.
+
+**[02:20:14 - 02:20:19] _redsun**  
+au pain, c'est soit toujours moi qui montre aussi un peu, si vous avez tout
+
+**[02:20:16 - 02:20:34] pollux8888**  
+C'est un peu comme, c'est un monde, c'est céréel, c'est un truc.
+
+**[02:20:19 - 02:20:22] _redsun**  
+qui a montré vous, ça peut être sympa de voir que vous faites avec quoi.
+
+**[02:20:20 - 02:20:30] pchartois**  
+...
+
+**[02:20:24 - 02:20:29] gilles_35307**  
+Je me suis dit que je ne suis pas mal.
+
+**[02:20:25 - 02:20:29] _redsun**  
+Voilà, voilà, mais sur une bonne soirée à tous et puis on.
+
+**[02:20:26 - 02:20:35] nano1992_**  
+...
+
+**[02:20:29 - 02:20:33] gilles_35307**  
+Je me suis dit que je ne suis pas mal.
+
+**[02:20:29 - 02:20:34] _redsun**  
+Je vais vous donner un peu de temps.
+
+**[02:20:30 - 02:20:32] pchartois**  
+Bye bye !
+
+**[02:20:32 - 02:20:34] bensmart**  
+Je vais vous entrer.
+
+**[02:20:33 - 02:20:36] gilles_35307**  
+Je me suis mal.
+
+**[02:20:34 - 02:20:37] _faly**  
+C'est un peu le plus fort.
+
+**[02:20:34 - 02:20:35] bensmart**  
+T'as déjà...
+
+**[02:20:34 - 02:20:37] _redsun**  
+Je vais vous donner un peu de temps.
+
+**[02:20:35 - 02:20:36] nano1992_**  
+Merci.
+
+**[02:20:36 - 02:20:39] gilles_35307**  
+Je me suis mal.
+
+**[02:20:36 - 02:20:37] nano1992_**  
+Ciao.
