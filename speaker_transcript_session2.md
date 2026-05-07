@@ -1,14 +1,8 @@
 # Transcript clean - OpenClaw Geneva Meetup (Session 2 - 6 mai)
 
-
-
 Version lisible (nettoyée) à partir des pistes speakers.
 
-
-
 ### Session 2
-
-
 
 Il est 19h47, c'est le cas de CREG, tu commences à récordes, et on commence déjà à dire que ça a 19h47, donc ça c'est pour le timestem, comme ça tu seras qu'on n'a pas besoin de garder cette partie-là jusqu'à ce qu'on soit tout cela. Donc voilà 19h47, timestem. Il est 9h502 officiellement au commence en 8 minutes. Ce récording des débuts, on va pas regarder, on va être plus tard que mon feu. On va pas regarder auquel, normalement, tu gardes pas ça.
 
@@ -76,7 +70,7 @@ Ailleurs, le fonds-au qui nous dit, j'utilise un Penclore, si on peut essayer, m
 
 Et au regard de la nouvelle, c'est que ça mêlant dans plus de plusieurs modèles. J'ai pas s'il n'a plus... est-ce qu'il doit intégrer à toute la suite un fourmagnac, la fomèner à quel suite équivalent à celle de Microsoft ou de Google. Je ne sais pas si je ne faisais aucun point de comment faire la fomèner qui ne sont pas, C'est possible. par exemple que je peux activer en même est-il, peut-être que je t'invite ce quoi ?
 
-Parce que pour des petites, pour des usages en limit simple, pense qu'elle est tout Ah ouais, c'est possible. fonctionnelle, typiquement la priorisation de mail, la synthèse, selon deux fois, je pense que c'est Après réchaîner du coin, c'est du coin 36 qui tournèrent rien sur le coin. Je crois qu'ils ont 4 modèles et puis en fonction de la page, ça d'hospage sur modèle Je ne veux pas faire de la le plus efficient. les lèmes sont très limités donc la place vraiment de j'adjbt au moins j'apprécie d'avoir tiré respect de la vie plus l'air. Ça c'est une vraie question par contre Rien, sinon pour le d'avg open code, ah ouais, ça ne vous coupe plus loin.
+Parce que pour des petites, pour des usages en limit simple, pense qu'elle est tout Ah ouais, c'est possible. fonctionnelle, typiquement la priorisation de mail, la synthèse, selon deux fois, je pense que c'est Après réchaîner du coin, c'est du coin 36 qui tournèrent rien sur le coin. Je crois qu'ils ont 4 modèles et puis en fonction de la page, ça d'hospage sur modèle Je ne veux pas faire de la le plus efficient. les lèmes sont très limités donc la place vraiment de au moins j'apprécie d'avoir tiré respect de la vie plus l'air. Ça c'est une vraie question par contre Rien, sinon pour le d'avg open code, ah ouais, ça ne vous coupe plus loin.
 
 Sur toute mes machines et avant ça j'étais sur Gemini C. Donc c'est vrai qu'on peut que des beaucoup plus avec un abonnement simple, que ça j'ai pété avant-ball, que avec les trucs, des phrases, flots qui sont beaucoup plus limités. Donc, d'habitude, présentation, j'ai juste reprendre Viennes qui répondent, que d'être revient en force effectivement, entrepique, au point beaucoup d'essisions anti-custammer ou c'est vrai. A d'ailleurs, il y a un gros sujet et moi, je suis assez d'accord avec cette théorie là. Vous savez, le fameux projet mythos, tout le monde entend du par les mythos, je suppose une mythole, c'est le plus gros projet de chez anthropique.
 
@@ -428,7 +422,7 @@ C'est agréable, ça a personne en tournit par les saïsiques, ouais... Et bien,
 
 Non, mais je me rends tu vois, c'est vraiment un... Une se radezue d'investissement à très long terme. mais sur moi un jour ils vont sérer les filaires on va tous passer par payer quelque chose sinon tous ces investissements ne se propagent jamais Ouais mais la boîte de pendants est déjà horent. Les modèles peuvent être sortes, on déjà là. Donc en fait, puis des améliorés maintenant.
 
-Il n'y a pas de la nouvelle technologie, mais de la nouvelle façon de structurer les élènes. On essaye d'être plus malin, on fait d'optimiser le camécage qu'elle a clé tous ces trucs là. Et en fait, je vois pas ce qui va empêcher autour des modèles de sortir. En fin tu prends une base qu'on a un petit coup comment ça te m'arrête sur, puis tu commençais à développer notre IED-Suc. Tu vois, on verra, on peut-être sur la production, mais moi je pense que les usquets sur les usages, quand tu vas en suivre cela, tout quand je n'avais ce que font les gens avec l'Ia, c'est normal, un truc qui vient à deux ans, il n'y aurait pas La T-shirt prend l'exemple, vraiment le plus, le moire représentatif sur terre.
+Il n'y a pas de la nouvelle technologie, mais de la nouvelle façon de structurer les élènes. On essaye d'être plus malin, on fait d'optimiser le camécage qu'elle a clé tous ces trucs là. Et en fait, je vois pas ce qui va empêcher autour des modèles de sortir. En fin tu prends une base qu'on a un petit coup comment ça te m'arrête sur, puis tu commençais à développer notre IED-Suc. Tu vois, on verra, on peut-être sur la production, mais moi je pense que les usquets sur les usages, quand tu vas en suivre cela, tout quand je n'avais ce que font les gens avec l'Ia, c'est normal, un truc qui vient à deux ans, il n'y aurait pas La prend l'exemple, vraiment le plus, le moire représentatif sur terre.
 
 la différence, ça va, c'est vrai, il y a des mecs. d'un mec, je vois que j'ai des gros entreprises, je sais qu'il y a des gros entreprises, si tu as du BT 4 ans, voilà, bah justement, c'est ce qu'est-ce qu'ils ont fait, alors j'ai vraiment... Je ne peux pas comment faire. Attends que mon terme est à d'être tous les plus écras... Il y a de quoi que tu l'es dit...
 
