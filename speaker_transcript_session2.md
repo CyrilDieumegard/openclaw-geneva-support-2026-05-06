@@ -1569,7 +1569,6 @@ t'as mille mille possibilités si tu fais de la vente de produits tu peux te fai
 intéressants quoi donc voilà use case qu'on crée
 
 **[01:32:04 - 01:32:06] 1-redsun**  
-3
 
 **[01:32:19 - 01:32:22] 1-redsun**  
 j'ai l'air obligée
@@ -1929,7 +1928,6 @@ Ah ouais ?
 Bon.
 
 **[01:49:00 - 01:49:06] 1-redsun**  
-Oh !
 
 **[01:49:18 - 01:49:29] 1-redsun**  
 Midos, toi.
@@ -2067,7 +2065,6 @@ puis en plus tu peux l'envoyer directement à Form Now qui te permet d'imprimer,
 puis faire ça un peu propre avec plusieurs images et tout, mais au moins tout,
 
 **[01:59:14 - 01:59:15] 1-redsun**  
-ouais,
 
 **[01:59:22 - 01:59:23] 1-redsun**  
 ouais elles sont belles,
@@ -2277,7 +2274,6 @@ et on se revoit,
 ou est-ce qu'on a fait un peu le tour, et on se revoit,
 
 **[02:04:20 - 02:04:21] 1-redsun**  
-ouais,
 
 **[02:04:43 - 02:04:45] 1-redsun**  
 arrête, tu vois mon écran là ou pas,
@@ -2415,7 +2411,6 @@ il y a voilà,
 il y a Coen 3,
 
 **[02:06:11 - 02:06:12] 1-redsun**  
-4B,
 
 **[02:06:13 - 02:06:14] 1-redsun**  
 que pas mal,
