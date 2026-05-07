@@ -1,13710 +1,3048 @@
 # Transcript par intervenant - OpenClaw Geneva Meetup (Session 2 - 6 mai)
 
-Source: Craig multi-track audio (session 2).
+Source: Pistes audio séparées Craig (9 intervenants).
 
-**[00:00:00 - 00:00:07] _speaker**  
-Ok, donc là normalement ça record. C'était parfois. On va attendre tout le monde.
+**[00:00 - 00:10] 1-redsun**  
+Il est 19h47, Craig tu commences à record s'il te plait et voilà on commence déjà,
 
-**[00:00:10 - 00:00:16] _speaker**  
-Ah, c'est bien ce truc-là. Alors, partage d'écran.
+**[00:10 - 00:16] 1-redsun**  
+je commence à registrer à 19h47 ok, donc ça c'est pour le timestamp comme ça tu
 
-**[00:00:21 - 00:00:25] _speaker**  
-On va voir. Donc là, je vais partager mon écran.
+**[00:16 - 00:21] 1-redsun**  
+sauras qu'on n'a pas besoin de garder cette partie là jusqu'à ce qu'on soit tout cela.
 
-**[00:00:31 - 00:00:39] _speaker**  
-Voilà. Donc là, je le partage en fait les petites cartes que j'ai faites
+**[00:21 - 00:24] 1-redsun**  
+Donc voilà 19h47 timestamp.
 
-**[00:00:41 - 00:00:44] _speaker**  
-pour organiser un petit peu l'avent.
+**[00:30 - 00:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:00:52 - 00:00:56] _speaker**  
-Et puis pour, ouais, pour montrer un peu de trois choses.
+**[01:00 - 01:04] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:00:56 - 00:01:03] _speaker**  
-On va parler concrètement en soir. Je teste le recording en même temps.
+**[01:30 - 01:34] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:01:04 - 00:01:10] _speaker**  
-Là, ça record normalement. C'est pas très. Ça a l'air super bien, ce petit bot-là.
+**[02:00 - 02:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:01:11 - 00:01:14] _speaker**  
-Ça serait cool d'en développer un d'ailleurs pour...
+**[02:30 - 02:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:01:16 - 00:01:18] _speaker**  
-Avec OpenClo, mais je sais pas trop si c'est possible.
+**[03:00 - 03:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:01:18 - 00:01:28] _speaker**  
-On va attendre un peu que tout le monde arrive. Je vais mettre mon micro.
+**[03:30 - 03:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:01:29 - 00:01:33] _speaker**  
-Et puis on va attendre. Donc toi, tu continues de le déregistrer, Craig.
+**[04:00 - 04:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:01:48 - 00:01:50] _speaker**  
-Merci.
+**[04:30 - 04:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:02:18 - 00:02:20] _speaker**  
-Merci.
+**[05:00 - 05:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:02:48 - 00:02:50] _speaker**  
-Merci.
+**[05:30 - 05:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:03:18 - 00:03:20] _speaker**  
-Merci.
+**[06:00 - 06:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:03:48 - 00:03:50] _speaker**  
-Merci.
+**[06:30 - 06:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:04:18 - 00:04:20] _speaker**  
-Merci.
+**[07:00 - 07:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:04:48 - 00:04:49] _speaker**  
-Merci.
+**[07:30 - 07:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:05:18 - 00:05:19] _speaker**  
-Merci.
+**[08:00 - 08:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:05:48 - 00:05:49] _speaker**  
-Merci.
+**[08:30 - 08:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:06:18 - 00:06:19] _speaker**  
-Merci.
+**[09:00 - 09:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:06:48 - 00:06:49] _speaker**  
-Merci.
+**[09:30 - 09:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:07:19 - 00:07:22] _speaker**  
-Ah, mais c'est sûr, on est là.
+**[10:00 - 10:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:07:26 - 00:07:30] _speaker**  
-Non, non, je suis là. Et le bot, tu te calmes.
+**[10:30 - 10:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:07:34 - 00:07:37] _speaker**  
-Ah non, mais en fait, ah ouais, d'accord, il me dit.
+**[11:00 - 11:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:07:41 - 00:07:43] _speaker**  
-Attrape-sons, attrape-sons.
+**[11:30 - 11:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:07:48 - 00:07:50] _speaker**  
-Ah, mais je me vois un message.
+**[12:00 - 12:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:07:54 - 00:07:55] _speaker**  
-Ok.
+**[12:30 - 12:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:07:59 - 00:08:00] _speaker**  
-Ok.
+**[13:00 - 13:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:08:01 - 00:08:02] _speaker**  
-Ok.
+**[13:30 - 13:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:08:03 - 00:08:04] _speaker**  
-Ok.
+**[14:00 - 14:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:08:05 - 00:08:06] _speaker**  
-Ok.
+**[14:30 - 14:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:08:07 - 00:08:08] _speaker**  
-Ok.
+**[15:00 - 15:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:08:09 - 00:08:10] _speaker**  
-Ok.
+**[15:30 - 15:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:08:11 - 00:08:12] _speaker**  
-Ok.
+**[16:00 - 16:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:08:13 - 00:08:14] _speaker**  
-Ok.
+**[16:30 - 16:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:08:15 - 00:08:16] _speaker**  
-Ok.
+**[17:00 - 17:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:08:16 - 00:08:17] _speaker**  
-Ok.
+**[17:30 - 17:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:08:18 - 00:08:19] _speaker**  
-Ok.
+**[18:00 - 18:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:08:20 - 00:08:21] _speaker**  
-Ok.
+**[18:30 - 18:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:08:22 - 00:08:23] _speaker**  
-Ok.
+**[19:00 - 19:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:08:24 - 00:08:25] _speaker**  
-Ok.
+**[19:30 - 19:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:08:26 - 00:08:27] _speaker**  
-Ok.
+**[20:00 - 20:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:08:28 - 00:08:29] _speaker**  
-Ok.
+**[20:30 - 20:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:08:30 - 00:08:31] _speaker**  
-Ok.
+**[21:00 - 21:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:08:32 - 00:08:33] _speaker**  
-Ok.
+**[21:30 - 21:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:08:34 - 00:08:35] _speaker**  
-Ok.
+**[22:00 - 22:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:08:36 - 00:08:37] _speaker**  
-Ok.
+**[22:30 - 22:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:08:38 - 00:08:39] _speaker**  
-Ok.
+**[23:00 - 23:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:08:40 - 00:08:41] _speaker**  
-Ok.
+**[23:30 - 23:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:08:42 - 00:08:43] _speaker**  
-Ok.
+**[24:00 - 24:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:08:44 - 00:08:45] _speaker**  
-Ok.
+**[24:30 - 24:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:08:46 - 00:08:47] _speaker**  
-Ok.
+**[25:00 - 25:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:09:08 - 00:09:11] _speaker**  
-Je suis sûr que tout le monde sera un petit peu à repas, à mon avis.
+**[25:30 - 25:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:09:12 - 00:09:14] _speaker**  
-Ah, salut.
+**[26:00 - 26:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:09:17 - 00:09:20] _speaker**  
-Ah, je sais pas, je t'entends pas.
+**[26:30 - 26:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:09:29 - 00:09:31] _speaker**  
-J, informatique.
+**[27:00 - 27:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:09:32 - 00:09:34] _speaker**  
-C'est un micro.
+**[27:30 - 27:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:09:35 - 00:09:36] _speaker**  
-Oui.
+**[28:00 - 28:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:09:36 - 00:09:37] _speaker**  
-Tu as entendu un truc.
+**[28:30 - 28:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:09:37 - 00:09:39] _speaker**  
-Je vais cliquer mon temps.
+**[29:00 - 29:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:09:39 - 00:09:40] _speaker**  
-Ouais.
+**[29:30 - 29:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:09:40 - 00:09:41] _speaker**  
-Ok, alors.
+**[30:00 - 30:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:09:41 - 00:09:43] _speaker**  
-Ça me permet de têter mon ourson, là.
+**[30:30 - 30:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:09:43 - 00:09:45] _speaker**  
-Il y a un petit tour, ce qui nous a registré.
+**[31:00 - 31:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:09:45 - 00:09:46] _speaker**  
-Je sais pas si t'as vu.
+**[31:30 - 31:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:09:46 - 00:09:47] _speaker**  
-Ok.
+**[32:00 - 32:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:09:47 - 00:09:49] _speaker**  
-C'est un bot.
+**[32:30 - 32:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:09:49 - 00:09:50] _speaker**  
-C'est un bot, c'est vrai.
+**[33:00 - 33:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:09:50 - 00:09:52] _speaker**  
-C'est vrai qu'on met en fait plus un bot sur Discord,
+**[33:30 - 33:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:09:52 - 00:09:54] _speaker**  
-qui va registrer le Meetup,
+**[34:00 - 34:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:09:54 - 00:09:56] _speaker**  
-qui va faire le transcript et tout.
+**[34:30 - 34:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:09:56 - 00:09:58] _speaker**  
-C'est pas mal, quoi.
+**[35:00 - 35:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:09:58 - 00:10:00] _speaker**  
-Je me suis connecté en avance, parce que là,
+**[35:30 - 35:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:10:00 - 00:10:02] _speaker**  
-il faut juste que je prenne un truc à manger,
+**[36:00 - 36:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:10:02 - 00:10:03] _speaker**  
-et que j'arrive.
+**[36:30 - 36:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:10:03 - 00:10:05] _speaker**  
-Ouais, je pense qu'il sera pas tout seul.
+**[37:00 - 37:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:10:05 - 00:10:06] _speaker**  
-T'inquiète pas.
+**[37:30 - 37:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:10:06 - 00:10:07] _speaker**  
-Donc, vas-y.
+**[38:00 - 38:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:10:07 - 00:10:09] _speaker**  
-Ça va se faire 5 minutes.
+**[38:30 - 38:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:10:09 - 00:10:10] _speaker**  
-Vas-y, quoi.
+**[39:00 - 39:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:10:10 - 00:10:11] _speaker**  
-Ouais, tchis.
+**[39:30 - 39:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:10:11 - 00:10:12] _speaker**  
-À toute.
+**[40:00 - 40:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:10:13 - 00:10:14] _speaker**  
-A toute.
+**[40:30 - 40:33] 1-redsun**  
+Sous-titres réalisés par l'Amara.org
 
-**[00:10:43 - 00:10:44] _speaker**  
-Merci.
+**[41:00 - 41:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:11:13 - 00:11:14] _speaker**  
-Merci.
+**[41:30 - 41:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:11:43 - 00:11:44] _speaker**  
-Merci.
+**[42:00 - 42:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:12:13 - 00:12:14] _speaker**  
-Merci.
+**[42:30 - 42:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:12:43 - 00:12:44] _speaker**  
-Merci.
+**[43:00 - 43:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:13:13 - 00:13:15] _speaker**  
-Craig, t'es désactive pas.
+**[43:30 - 43:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:13:43 - 00:13:44] _speaker**  
-Merci.
+**[44:00 - 44:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:14:13 - 00:14:25] _speaker**  
-Salut.
+**[44:30 - 44:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:14:25 - 00:14:29] _speaker**  
-Tout le monde arrive pile, quoi.
+**[45:00 - 45:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:14:29 - 00:14:31] _speaker**  
-On va bien aller suisse.
+**[45:30 - 45:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:14:31 - 00:14:33] _speaker**  
-Il est là.
+**[46:00 - 46:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:14:33 - 00:14:35] _speaker**  
-Il est là.
+**[46:30 - 46:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:14:35 - 00:14:37] _speaker**  
-Il est là.
+**[47:00 - 47:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:14:37 - 00:14:39] _speaker**  
-Alors, il y a des autres qui sont pas vus.
+**[47:30 - 47:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:14:39 - 00:14:42] _speaker**  
-Ouais, alors je vais se poser la question.
+**[47:33 - 47:36] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:14:42 - 00:14:44] _speaker**  
-Est-ce que c'est bon, Victor?
+**[47:36 - 47:39] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:14:44 - 00:14:46] _speaker**  
-Parce que si je fais plus tard,
+**[47:39 - 47:42] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:14:46 - 00:14:48] _speaker**  
-non, c'est pas quoi.
+**[47:42 - 47:45] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:14:48 - 00:14:50] _speaker**  
-Ouais, Victor, ça me paraît bien quand même.
+**[47:45 - 47:48] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:14:50 - 00:14:52] _speaker**  
-Moi, j'ai les petits qui ne dorment pas encore, mais...
+**[47:48 - 47:51] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:14:52 - 00:14:57] _speaker**  
-Ils sont perdus les autres, là.
+**[47:51 - 47:54] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:14:57 - 00:15:00] _speaker**  
-Il y a 24 inscrits, donc c'est pas mal, normalement.
+**[47:54 - 47:57] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:15:00 - 00:15:01] _speaker**  
-C'est bien.
+**[47:57 - 48:00] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:15:01 - 00:15:05] _speaker**  
-Ouais, mais il faut qu'ils trouvent le salon.
+**[48:00 - 48:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:15:05 - 00:15:08] _speaker**  
-Bon, on va mettre pour moi bien, là.
+**[48:03 - 48:06] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:15:08 - 00:15:10] _speaker**  
-A ce temps, quelques minutes.
+**[48:06 - 48:09] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:15:10 - 00:15:12] _speaker**  
-Ah bah, qu'est-ce que tu fais là, toi?
+**[48:09 - 48:12] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:15:12 - 00:15:14] _speaker**  
-Qu'est-ce que tu ne venez pas?
+**[48:12 - 48:15] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:15:17 - 00:15:20] _speaker**  
-Il y a un nano qui est connecté.
+**[48:15 - 48:18] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:15:25 - 00:15:28] _speaker**  
-Je pense qu'on va l'espérer un petit moment, parce que...
+**[48:18 - 48:21] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:15:28 - 00:15:32] _speaker**  
-Il est temps que les gens aient trop, il y a bien 5 minutes, facile, quoi.
+**[48:21 - 48:24] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:15:36 - 00:15:37] _speaker**  
-Mais nano, il est là, là.
+**[48:24 - 48:27] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:15:37 - 00:15:39] _speaker**  
-Il m'a dit qu'il venez pas.
+**[48:27 - 48:30] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:15:39 - 00:15:41] _speaker**  
-Je comprends pas.
+**[48:30 - 48:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:15:41 - 00:15:43] _speaker**  
-Il m'a cool, hein, que tu sois là.
+**[48:33 - 48:36] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:15:43 - 00:15:45] _speaker**  
-Ah, il y a le Ben.
+**[48:36 - 48:39] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:15:47 - 00:15:48] _speaker**  
-Hello, Ben.
+**[48:39 - 48:42] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:15:48 - 00:15:49] _speaker**  
-Salut.
+**[48:42 - 48:45] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:15:51 - 00:15:52] _speaker**  
-Hello, hello.
+**[48:45 - 48:48] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:15:52 - 00:15:53] _speaker**  
-Hello.
+**[48:48 - 48:51] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:15:57 - 00:16:00] _speaker**  
-Il y a des gens qui viennent direct.
+**[48:51 - 48:54] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:16:00 - 00:16:02] _speaker**  
-Ouais, on va attendre 5 minutes.
+**[48:54 - 48:57] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:16:02 - 00:16:04] _speaker**  
-Je dis ce que je disais, là, c'est qu'on va attendre.
+**[48:57 - 49:00] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:16:04 - 00:16:06] _speaker**  
-J'espère que le recording marche bien, là.
+**[49:00 - 49:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:16:06 - 00:16:08] _speaker**  
-J'ai mis un bot qui a l'air vraiment cool.
+**[49:03 - 49:06] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:16:08 - 00:16:11] _speaker**  
-Un bot qui record sur Discord.
+**[49:06 - 49:09] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:16:11 - 00:16:14] _speaker**  
-Et qui registre tout le Meetup, quoi.
+**[49:09 - 49:12] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:16:14 - 00:16:16] _speaker**  
-Et qui va faire un transcript après et tout.
+**[49:12 - 49:15] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:16:16 - 00:16:17] _speaker**  
-C'est cool, quoi.
+**[49:15 - 49:18] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:16:18 - 00:16:19] _speaker**  
-Bonne chance.
+**[49:18 - 49:21] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:16:23 - 00:16:25] _speaker**  
-Ah, il y a Philippe qui est là.
+**[49:21 - 49:24] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:16:25 - 00:16:26] _speaker**  
-Salut, Philippe.
+**[49:24 - 49:27] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:16:29 - 00:16:31] _speaker**  
-On a le noyau dur, là.
+**[49:27 - 49:30] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:16:32 - 00:16:33] _speaker**  
-Mon clé nouveau, là.
+**[49:30 - 49:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:16:33 - 00:16:35] _speaker**  
-J'espère qu'ils ne sont pas perdues, quoi.
+**[49:33 - 49:36] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:16:39 - 00:16:41] _speaker**  
-Vous voyez l'écran, là?
+**[49:36 - 49:39] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:16:41 - 00:16:42] _speaker**  
-Vous voyez bien?
+**[49:39 - 49:42] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:16:42 - 00:16:43] _speaker**  
-Ouais.
+**[49:42 - 49:45] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:16:44 - 00:16:46] _speaker**  
-Ouais, j'ai pas pu mon PC, c'est comme...
+**[49:45 - 49:48] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:16:46 - 00:16:47] _speaker**  
-Ouais.
+**[49:48 - 49:51] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:16:49 - 00:16:51] _speaker**  
-Ah non, je vais dire ton image, elle est en miroir,
+**[49:51 - 49:54] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:16:51 - 00:16:53] _speaker**  
-parce que le texte derrière toi, il est à l'envers.
+**[49:54 - 49:57] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:16:56 - 00:16:58] _speaker**  
-Ah, mais tu dis en fond, l'écran, là?
+**[49:57 - 50:00] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:16:59 - 00:17:02] _speaker**  
-Bah, ce qu'il y a, ouais, derrière toi, en...
+**[50:00 - 50:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:17:02 - 00:17:03] _speaker**  
-En screen.
+**[50:03 - 50:06] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:17:04 - 00:17:06] _speaker**  
-Ouais, c'est un point de vue.
+**[50:06 - 50:09] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:17:06 - 00:17:07] _speaker**  
-En screen.
+**[50:09 - 50:12] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:17:08 - 00:17:10] _speaker**  
-Ah, purée, parce que sur Discord,
+**[50:12 - 50:15] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:17:10 - 00:17:12] _speaker**  
-il y a de la fiche dans l'autre sens, donc...
+**[50:15 - 50:18] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:17:14 - 00:17:15] _speaker**  
-Elle est trop bizarre.
+**[50:18 - 50:21] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:17:15 - 00:17:17] _speaker**  
-Du coup, j'ai fait un miroir, là.
+**[50:21 - 50:24] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:17:17 - 00:17:19] _speaker**  
-Ok, bon, c'est pas grave, alors je remets ça.
+**[50:24 - 50:27] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:17:21 - 00:17:23] _speaker**  
-Tch, là, ça doit être bon.
+**[50:27 - 50:30] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:17:24 - 00:17:26] _speaker**  
-Ouais, là, c'est bon.
+**[50:30 - 50:33] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:17:27 - 00:17:29] _speaker**  
-Ouais, moi, je le vois un miroir, tu vois.
+**[50:33 - 50:36] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:17:29 - 00:17:30] _speaker**  
-Ça n'a aucun sens.
+**[50:36 - 50:39] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:17:30 - 00:17:31] _speaker**  
-Bon, c'est pas grave.
+**[50:39 - 50:42] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:17:32 - 00:17:33] _speaker**  
-Tant que ça marche.
+**[50:42 - 50:45] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:17:37 - 00:17:38] _speaker**  
-Bon, on va...
+**[50:45 - 50:48] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:17:38 - 00:17:41] _speaker**  
-Ah, il y a Ebruz, Kela et...
+**[50:48 - 50:51] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:17:44 - 00:17:46] _speaker**  
-Ah, maintenant, tu es là, alors, du coup?
+**[50:51 - 50:54] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:17:46 - 00:17:48] _speaker**  
-Ouais, je suis là, je suis là, finalement.
+**[50:54 - 50:57] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:17:49 - 00:17:51] _speaker**  
-Je viens, je viens, pas...
+**[50:57 - 51:00] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:17:51 - 00:17:53] _speaker**  
-J'ai quand-ce que le mon truc pour être là.
+**[51:00 - 51:03] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:17:55 - 00:17:57] _speaker**  
-Ouais, Mito, tu as un grand midi, elle, là-bas.
+**[51:03 - 51:06] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:17:57 - 00:17:59] _speaker**  
-Ouais, j'avais surtout pas envie d'y aller.
+**[51:06 - 51:09] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:18:00 - 00:18:03] _speaker**  
-Excellent raison, je te donnais un...
+**[51:09 - 51:12] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
 
-**[00:18:03 - 00:18:05] _speaker**  
-un alibi en or, là.
+**[51:12 - 51:15] 1-redsun**  
+詞 en description
 
-**[00:18:05 - 00:18:06] _speaker**  
-Ah, je peux pas faire ça.
+**[51:15 - 51:21] 1-redsun**  
+donc en fait on se retrouve avec une espèce d'hybride opus sur un modèle qui tourne sur une
 
-**[00:18:06 - 00:18:08] _speaker**  
-Non, je... c'était pas mon alibi, mais...
+**[51:21 - 51:30] 1-redsun**  
+becan 64 gigatrames quoi. Donc moi je voulais le tester aujourd'hui, j'ai essayé un peu la galère
 
-**[00:18:08 - 00:18:10] _speaker**  
-mais je suis pas allé, quoi.
+**[51:30 - 51:36] 1-redsun**  
+comme j'ai 32, malheureusement pas assez, j'ai un peu le re-crack. Donc là on peut les installer,
 
-**[00:18:14 - 00:18:16] _speaker**  
-Non, non, mais quand on est là.
+**[51:36 - 51:43] 1-redsun**  
+on peut tester et tout. Et puis ensuite c'est ça, on va pouvoir le plugger à, en fait vous avez
 
-**[00:18:16 - 00:18:17] _speaker**  
-Ouais, c'était chouette.
+**[51:43 - 51:47] 1-redsun**  
+juste à aller sur OpenClo, je peux aller sur OpenClo, on sait où l'est. Puis moi j'ai fait une
 
-**[00:18:17 - 00:18:18] _speaker**  
-D'ailleurs, tu...
+**[51:47 - 51:54] 1-redsun**  
+interface parce qu'il y a GIL, il l'a pris, le logiciel, je me suis dit maintenant je vais faire
 
-**[00:18:18 - 00:18:20] _speaker**  
-toi, tu avais enregistré la dernière position,
+**[51:54 - 52:00] 1-redsun**  
+un truc qui est plus sympa parce que franchement c'est une telle galère. Et puis là du coup j'ai codé,
 
-**[00:18:20 - 00:18:21] _speaker**  
-je crois, Nanou, hein?
+**[52:00 - 52:10] 1-redsun**  
+ce logiciel là il est codé 100% avec OpenClo. Donc je le mets à jour, donc là ça permet de mettre
 
-**[00:18:22 - 00:18:24] _speaker**  
-J'avais enregistré, j'avais transcrit,
+**[52:10 - 52:15] 1-redsun**  
+à jour Humbrew, Node, LM Studio, tout ça. Ça tu t'embêtes pas quoi, le but c'est de pas s'embêter.
 
-**[00:18:24 - 00:18:27] _speaker**  
-ouais, via Granola, là, j'ai relancé aussi.
+**[52:15 - 52:22] 1-redsun**  
+Et puis là j'ai rajouté récemment ça qui est l'OpenClo Chat où là tu peux switcher entre
 
-**[00:18:30 - 00:18:31] _speaker**  
-Ouais.
+**[52:22 - 52:27] 1-redsun**  
+LLM Cloud, donc aller chercher des API sur OpenRouter par exemple, ou LLM Local et là tu peux
 
-**[00:18:32 - 00:18:33] _speaker**  
-Ouais.
+**[52:27 - 52:35] 1-redsun**  
+switcher. Là il est plugué sur Quen3.5, je l'étais en bissue là, c'est un peu trop lourd.
 
-**[00:18:33 - 00:18:34] _speaker**  
-Voilà.
+**[52:35 - 52:43] 1-redsun**  
+Donc là je fais un auto setup et là il paramètre LM Studio, comme ça on one-click,
 
-**[00:18:35 - 00:18:38] _speaker**  
-Ah, bah c'est cool, parce que moi, je suis en train de tester
+**[52:43 - 52:48] 1-redsun**  
+il tient pas envie de te prendre la tête, il règle le contexte en fonction d'OpenClo,
 
-**[00:18:38 - 00:18:41] _speaker**  
-un petit bot de la Discord qui s'appelle Craig,
+**[52:48 - 52:54] 1-redsun**  
+parce qu'OpenClo a besoin de 25000 tokens de contexte. Et du coup maintenant là théoriquement,
 
-**[00:18:41 - 00:18:44] _speaker**  
-qui enregistre tout, en fait, là, depuis un petit moment.
+**[52:55 - 53:03] 1-redsun**  
+j'espère ça va marcher, si je mets test il va réfléchir et là dans le contexte de mon OpenClo
 
-**[00:18:44 - 00:18:46] _speaker**  
-Ça a l'air super cool, super simple à utiliser,
+**[53:03 - 53:07] 1-redsun**  
+il va répondre avec un modèle local. Attention parce que là vous avez vu que c'était super
 
-**[00:18:46 - 00:18:48] _speaker**  
-donc on va voir ce que ça donne.
+**[53:07 - 53:12] 1-redsun**  
+rapide sur LM Studio, mais en fait c'est super rapide parce que la taille du contexte est zéro,
 
-**[00:18:49 - 00:18:51] _speaker**  
-Et après, je demanderais à mon open-cloud
+**[53:12 - 53:17] 1-redsun**  
+alors que là dans OpenClo il doit toujours prendre une taille de contexte qui est environ 25000 tokens.
 
-**[00:18:51 - 00:18:53] _speaker**  
-faire le transcript et tout ça, quoi.
+**[53:17 - 53:24] 1-redsun**  
+Pour ceux qui ne connaissent pas 25000 tokens c'est environ 25000 mots. Donc il doit traiter ça avant
 
-**[00:18:53 - 00:18:55] _speaker**  
-Parce qu'il met les noms des gens qui se connectent
+**[53:24 - 53:28] 1-redsun**  
+de générer la réponse. Et normalement là vous voyez en temps réel, Processing prompt,
 
-**[00:18:55 - 00:18:56] _speaker**  
-et qui parlent, je crois.
+**[53:28 - 53:35] 1-redsun**  
+là il a un train de traiter mon prompt. Alors oui j'ai dit test et là il génère du token,
 
-**[00:18:56 - 00:18:58] _speaker**  
-En ce cas, c'est vachement utile, tu vois.
+**[53:35 - 53:39] 1-redsun**  
+là il écrit les mots en fait. Et là il balance sa réponse, normalement il a balancé la réponse.
 
-**[00:18:58 - 00:19:00] _speaker**  
-Puisque lui, il est en Discord directement.
+**[53:45 - 53:51] 1-redsun**  
+Mais ce que je voulais c'était que ce ne soit pas la galère pour pouvoir faire ça et donc du
 
-**[00:19:01 - 00:19:03] _speaker**  
-C'est quoi le nom de ton applet, t'as dit?
+**[53:51 - 53:56] 1-redsun**  
+coup j'ai fait une nuit qui gère tout ça. Et puis là je fais aussi tu peux changer de modèle
 
-**[00:19:04 - 00:19:05] _speaker**  
-C'est Craig.
+**[53:56 - 54:01] 1-redsun**  
+et tout, tu peux estimer tes tokens. J'essaie de faire un système où tu peux connecter WhatsApp
 
-**[00:19:05 - 00:19:07] _speaker**  
-Ouais, c'est le petit tour horrible.
+**[54:01 - 54:06] 1-redsun**  
+en un clic discord etc. J'ai fait les templates pour ceux qui souhaitent faire du dev mode ou
 
-**[00:19:08 - 00:19:09] _speaker**  
-OK.
+**[54:06 - 54:11] 1-redsun**  
+du fonder mode ou des trucs comme ça. Je fais tout un fact dead et puis un install aussi si tu veux
 
-**[00:19:11 - 00:19:14] _speaker**  
-C'est super cool, quoi, à utiliser.
+**[54:11 - 54:16] 1-redsun**  
+supprimer chacun des trucs séparément. Et puis je fais un petit contrôle center avec du monitoring,
 
-**[00:19:15 - 00:19:16] _speaker**  
-C'est super cool, ça va marcher,
+**[54:16 - 54:22] 1-redsun**  
+donc là je vais monitorer mon ordi parce que ça ça bouffe toutes vos ressources. Voilà vous voyez le
 
-**[00:19:16 - 00:19:18] _speaker**  
-par contre, pour ça, je te demande si t'en rajides,
+**[54:22 - 54:28] 1-redsun**  
+swap là c'est catastrophique. Donc ça veut dire qu'il pompe la ressource de ma machine ce qui est
 
-**[00:19:18 - 00:19:19] _speaker**  
-parce que...
+**[54:28 - 54:34] 1-redsun**  
+normal parce que je vais tourner à l'élève en local quoi. Voilà ça c'est un use key,
 
-**[00:19:20 - 00:19:23] _speaker**  
-Ouais, je transcrit, par contre,
+**[54:34 - 54:38] 1-redsun**  
+c'est que moi j'aime bien créer tout de suite des choses avec OpenClose donc là je me suis dit bah
 
-**[00:19:23 - 00:19:26] _speaker**  
-ça identifie pas forcément les participants,
+**[54:38 - 54:44] 1-redsun**  
+vas-y je vais faire un truc concret quoi, pas du virtuel ou bla bla bla ou je sais pas quoi.
 
-**[00:19:26 - 00:19:29] _speaker**  
-mais après, il peut quand même...
+**[54:45 - 54:51] 1-redsun**  
+Tout ça là tout ce que vous voyez devant les yeux ça a été fait avec OpenClose donc en commande
 
-**[00:19:30 - 00:19:32] _speaker**  
-Il arrive quand même à définir qu'il y est,
+**[54:51 - 54:56] 1-redsun**  
+direct. Ça a été push sur GitHub ça a été géré sur GitHub ça a été et là j'ai fait un site
 
-**[00:19:32 - 00:19:33] _speaker**  
-quoi, plus ou moins.
+**[54:56 - 55:08] 1-redsun**  
+web aussi où je le mets en vente. Alors j'ai fait un mix parce que alors pour coder franchement
 
-**[00:19:36 - 00:19:38] _speaker**  
-Bon, attends encore 2-3 minutes.
+**[55:08 - 55:14] 1-redsun**  
+je vous recommande parce que c'est pas cher, c'est pas forcément le meilleur. Moi j'utilise codex
 
-**[00:19:38 - 00:19:41] _speaker**  
-Dans le Meetup, vous avez bien le lien directement
+**[55:14 - 55:20] 1-redsun**  
+avant j'utilisais 5.3 quand j'ai commencé le logiciel j'utilisais 5.3 et maintenant j'utilise
 
-**[00:19:41 - 00:19:44] _speaker**  
-pour le Discord, on a d'accord, je ne suis pas correct, je crois.
+**[55:20 - 55:24] 1-redsun**  
+codex 5.5 qui est la dernière version. Je paye un abonnement à 20 balles donc vraiment c'est que
 
-**[00:19:47 - 00:19:49] _speaker**  
-Je ne sais pas s'ils sont perdus.
+**[55:24 - 55:29] 1-redsun**  
+dalle c'est le minimum syndical et puis là vous avez quand même un usage qui est assez sympa et qui
 
-**[00:19:49 - 00:19:51] _speaker**  
-Moi, je suis venu directement depuis le Discord,
+**[55:29 - 55:35] 1-redsun**  
+permet de coder des logiciels entiers donc a priori vous allez être tranquille parce qu'il y a un rapport
 
-**[00:19:51 - 00:19:53] _speaker**  
-je n'ai pas utilisé le lien perso.
+**[55:35 - 55:41] 1-redsun**  
+qualité prix qui est imbattable chez OpenAI pour le moment attention ça peut changer rapidement
 
-**[00:19:53 - 00:19:54] _speaker**  
-Ouais, bien sûr.
+**[55:42 - 55:48] 1-redsun**  
+et pour le moment c'est largement préférable de prendre un abonnement chadjpt de connecter
 
-**[00:19:54 - 00:19:57] _speaker**  
-Si vous êtes déjà là, évidemment, c'est plus simple, quoi.
+**[55:48 - 55:56] 1-redsun**  
+OpenCloud dessus et puis d'être tranquille quoi. Franchement c'est tellement plus cool quoi parce que
 
-**[00:19:58 - 00:20:01] _speaker**  
-Pour les nouveaux, parce qu'il y a quand même pas mal d'inscrits, quoi.
+**[55:56 - 56:01] 1-redsun**  
+sinon vous allez passer par OpenRouter ou par Anthropic mais l'anthropic ça marche alors Arnaud
 
-**[00:20:02 - 00:20:04] _speaker**  
-Ouais, pour ce qui t'as au point,
+**[56:01 - 56:04] 1-redsun**  
+ou pas j'essaie même plus mais dans la jour ça marche un jour ça marche quoi.
 
-**[00:20:04 - 00:20:05] _speaker**  
-je reviens de direct.
+**[56:04 - 56:33] 1-redsun**  
+Ouais donc pour moi ça a un vrai problème
 
-**[00:20:06 - 00:20:08] _speaker**  
-Bah, t'as son fin comme ça, les prochaines sessions.
+**[56:34 - 56:39] 1-redsun**  
+autant je trouve que l'autre 4.6 monstre d'air j'aime pas le 4.7 je sais pas pourquoi je l'aime pas
 
-**[00:20:08 - 00:20:10] _speaker**  
-Ça, ça va être un weekly, donc...
+**[56:40 - 56:44] 1-redsun**  
+j'ai du mal avec le 4.7 je sais pas je trouve pas le même feeling qu'avec le 4.6
 
-**[00:20:10 - 00:20:13] _speaker**  
-On va le faire régulièrement, ce truc-là, donc...
+**[56:45 - 56:49] 1-redsun**  
+peut-être c'est moi qui suis de bien fou avec le 4.7 je sais pas si c'est possible
 
-**[00:20:13 - 00:20:16] _speaker**  
-Une fois que t'es sur Discord, t'as juste actiqué pour venir.
+**[57:04 - 57:09] 1-redsun**  
+en fait ça dépend beaucoup ce que tu fais et surtout si tu fais du code en fait j'ai l'impression
 
-**[00:20:18 - 00:20:20] _speaker**  
-Est-ce qu'ils m'inquiètent, c'est les nouveaux, là,
+**[57:09 - 57:14] 1-redsun**  
+que le code c'est un peu c'est là où tu vois vraiment que ça châteouille quoi c'est là où ça
 
-**[00:20:20 - 00:20:22] _speaker**  
-qui ne débarquent pas, quoi.
+**[57:14 - 57:23] 1-redsun**  
+pique quoi c'est difficile en fait c'est difficile le code est quoi donc voilà ça permet de vous
 
-**[00:20:23 - 00:20:27] _speaker**  
-Et ils manquent toujours une présence féminine.
+**[57:23 - 57:27] 1-redsun**  
+montrer ça bah j'espère que vous connaissez tous et quelqu'un l'a pas vu en fait l'interface
 
-**[00:20:28 - 00:20:30] _speaker**  
-Bon, alors ça, tu peux rêver, hein.
+**[57:27 - 57:29] 1-redsun**  
+d'openclaw ou tout le monde l'a vu
 
-**[00:20:31 - 00:20:33] _speaker**  
-C'est plus toujours l'attendre.
+**[57:33 - 57:34] 1-redsun**  
+je sais pas je montre ça
 
-**[00:20:34 - 00:20:36] _speaker**  
-Il y a plusieurs personnes qui sont là,
+**[57:38 - 57:42] 1-redsun**  
+le dashboard je sais pas si vous le voyez là alors
 
-**[00:20:36 - 00:20:39] _speaker**  
-mais qui sont intéressées au meeting...
+**[57:45 - 57:48] 1-redsun**  
+alors là c'est pas la dernière version mais bon je vais pas le mettre à jour maintenant
 
-**[00:20:40 - 00:20:42] _speaker**  
-Ouais, ou Al Delil.
+**[57:48 - 57:53] 1-redsun**  
+parce que d'ailleurs il y a des dernières trucs un peu chiant quoi ça c'est un peu le truc chiant
 
-**[00:20:43 - 00:20:45] _speaker**  
-Ouais, il y en avait une, elle s'appelle...
+**[57:53 - 57:57] 1-redsun**  
+c'est que les mecs je sais pas si vous avez vu il y a une mise à jour tous les jours littéralement
 
-**[00:20:45 - 00:20:47] _speaker**  
-D'ailleurs, elle a liké mon...
+**[57:57 - 58:02] 1-redsun**  
+tous les jours il y a une journée ils en ont fait deux par jour les mecs sont tellement fous de mise à jour
 
-**[00:20:47 - 00:20:49] _speaker**  
-Elle a mis un petit commentaire sympa, là.
+**[58:02 - 58:07] 1-redsun**  
+par jour ça n'a aucun sens quoi donc c'est un peu chiant parce que des fois ça couple les
 
-**[00:20:49 - 00:20:51] _speaker**  
-Elle s'appelle Gwenaël,
+**[58:07 - 58:12] 1-redsun**  
+connexions avec discord c'est un peu relou quoi bref c'est un peu moi ce que j'y reproche le plus
 
-**[00:20:51 - 00:20:53] _speaker**  
-elle s'appelle Gwenaël.
+**[58:12 - 58:17] 1-redsun**  
+c'est ça quoi c'est son instabilité général donc là en gros bah vous avez le chat vous pouvez
 
-**[00:20:53 - 00:20:55] _speaker**  
-Ouais, et puis il y avait une autre,
+**[58:17 - 58:23] 1-redsun**  
+poser n'importe quelle question et là on voit en fait les modèles disponibles donc là en dispo
 
-**[00:20:55 - 00:20:57] _speaker**  
-il y a une autre qui s'appelle...
+**[58:23 - 58:30] 1-redsun**  
+j'ai celui là donc j'ai ma 4b que je vous ai montré avant sur le cacto j'ai pt 4 5 puis je peux
 
-**[00:20:57 - 00:20:59] _speaker**  
-Je ne sais plus.
+**[58:30 - 58:37] 1-redsun**  
+changer en fait bon là je peux passer sur kimi et kimi c'est un modèle que j'utilise via open
 
-**[00:20:59 - 00:21:01] _speaker**  
-Ouais, il y en a deux, hein.
+**[58:37 - 58:42] 1-redsun**  
+router bon là il est reswitché c'est le genre de truc ça m'énerve pourquoi je vais pas demander
 
-**[00:21:03 - 00:21:05] _speaker**  
-Milaine, ouais.
+**[58:42 - 58:46] 1-redsun**  
+de reswitcher mais il est reswitché le modèle donc là normalement il va utiliser de nouveau ça
 
-**[00:21:05 - 00:21:07] _speaker**  
-Je ne sais pas si elle vient, non.
+**[58:46 - 58:54] 1-redsun**  
+il balance le prompt là dessus donc là c'est le chat après on va attendre qu'il répond là
 
-**[00:21:15 - 00:21:17] _speaker**  
-Ils n'ont pas l'air perdus non plus, hein.
+**[58:54 - 58:58] 1-redsun**  
+il y a l'overview je vais essayer de pas spoiler mes trucs mais bon de façon ça je m'en fous c'est
 
-**[00:21:18 - 00:21:21] _speaker**  
-Ils vont me quiller, ils vont pas mal de gens, quoi.
+**[58:58 - 59:04] 1-redsun**  
+pas mon openclos moi j'ai deux machines j'ai un openclos sur max studio et mac mini et ça c'est
 
-**[00:21:23 - 00:21:25] _speaker**  
-Je ne sais pas si je commence tout de suite,
+**[59:04 - 59:09] 1-redsun**  
+pas mon principal ça c'est mon max studio c'est ma machine que j'utilise comme ça donc là vous
 
-**[00:21:25 - 00:21:27] _speaker**  
-ou on attend encore un petit peu.
+**[59:09 - 59:13] 1-redsun**  
+avez les channels mais je vous conseille pas d'utiliser ça moi j'ai jamais utilisé ça pour
 
-**[00:21:29 - 00:21:31] _speaker**  
-Bon, tu peux commencer peut-être juste
+**[59:13 - 59:20] 1-redsun**  
+connecter whatsapp ou quoi en fait pas comme ça vous demandez à openclos de le faire tout simplement
 
-**[00:21:31 - 00:21:32] _speaker**  
-à...
+**[59:20 - 59:27] 1-redsun**  
+ou alors le calcul soit le calcul soit ça mais pas à la main quoi là on a des différentes
 
-**[00:21:32 - 00:21:33] _speaker**  
-nous dire un peu,
+**[59:27 - 59:33] 1-redsun**  
+instances qui sont ouvertes les différentes sessions qu'il a faites on sait un peu le bordel
 
-**[00:21:33 - 00:21:35] _speaker**  
-ton voyage en Asie,
+**[59:33 - 59:40] 1-redsun**  
+franchement on voit que c'est encore geek et là vous avez la console des tokens vous pouvez voir
 
-**[00:21:35 - 00:21:37] _speaker**  
-comme ça, on a tendance.
+**[59:40 - 59:44] 1-redsun**  
+combien vous en avez utilisé mais sur celui-là j'utilise très peu donc il y a assez peu de tokens
 
-**[00:21:37 - 00:21:39] _speaker**  
-Juste à partir un peu, on a tendance,
+**[59:44 - 59:49] 1-redsun**  
+utilisé il va dire de qu'est ce qu'il a fait dans quelle session après on a les crônes jobs les
 
-**[00:21:39 - 00:21:41] _speaker**  
-les gens arrivent, quoi.
+**[59:49 - 59:56] 1-redsun**  
+crônes jobs c'est vraiment c'est un des intérêts aussi de openclos et comme il est actif h24 en fait
 
-**[00:21:41 - 00:21:43] _speaker**  
-Ouais, je peux raconter un peu,
+**[59:56 - 01:00:02] 1-redsun**  
+vous allez pouvoir lui donner des tâches récurrentes genre tous les matins à 7 heures du matin tu me
 
-**[00:21:43 - 00:21:45] _speaker**  
-bon, ça ne intéressera pas tout le monde,
+**[01:00:02 - 01:00:08] 1-redsun**  
+fais résumer du marché crypto du marché classique ou de la météo ce que vous voulez on s'en fiche
 
-**[00:21:45 - 00:21:47] _speaker**  
-mais...
+**[01:00:08 - 01:00:13] 1-redsun**  
+mais c'est possible de faire de crônes jobs attention c'est pour moi les crônes jobs c'est ce
 
-**[00:21:47 - 00:21:49] _speaker**  
-Je ne pense pas que tout le monde
+**[01:00:13 - 01:00:17] 1-redsun**  
+qui consomme le plus de tokens parce que comme vous le donnez une tâche mais vous ne dites pas comment
 
-**[00:21:49 - 00:21:51] _speaker**  
-ici ait la chance de visiter
+**[01:00:17 - 01:00:23] 1-redsun**  
+le faire souvent il va vous bouzier votre bon en fait je le fais pas pas parce que j'aime pas mais
 
-**[00:21:51 - 00:21:53] _speaker**  
-l'autre bout du monde.
+**[01:00:23 - 01:00:29] 1-redsun**  
+parce qu'à juste j'essaie de le plus efficace possible quoi après la partie agent on va
 
-**[00:21:53 - 00:21:55] _speaker**  
-C'est clair.
+**[01:00:29 - 01:00:44] 1-redsun**  
+oui mais en fait mais c'est vraiment intéressant parce que en gros c'est comme une machine de guerre
 
-**[00:21:55 - 00:21:57] _speaker**  
-Bah, écoute, donc pour sur-surpass...
+**[01:00:44 - 01:00:48] 1-redsun**  
+openclos tu peux faire tellement de trucs mais entre ce qui est vraiment utile que tu as vraiment
 
-**[00:21:57 - 00:21:59] _speaker**  
-Et pour cette période de...
+**[01:00:48 - 01:00:53] 1-redsun**  
+vraiment vraiment besoin ce que tu fais vraiment et ce qui va apporter de la valeur il y a une
 
-**[00:21:59 - 00:22:01] _speaker**  
-que les prix d'éthiqués d'avions
+**[01:00:53 - 01:00:58] 1-redsun**  
+galaxie quoi tu peux t'amuser à faire un rapport tous les jours mais jusqu'à présent tu as vécu
 
-**[00:22:01 - 00:22:03] _speaker**  
-explosent.
+**[01:00:58 - 01:01:03] 1-redsun**  
+sans rapport tous les jours tu vois donc est ce que tu as besoin de ça vraiment se poser la question
 
-**[00:22:03 - 00:22:05] _speaker**  
-Ouais, je pense que c'est la dernière fois
+**[01:01:03 - 01:01:08] 1-redsun**  
+quoi et souvent la réponse est quand même pour moi en tout cas c'est non j'ai pas besoin quoi après
 
-**[00:22:05 - 00:22:07] _speaker**  
-que c'est possible.
+**[01:01:08 - 01:01:09] 1-redsun**  
+je pourrais m'amuser à le faire
 
-**[00:22:07 - 00:22:09] _speaker**  
-Je ne sais pas, on verra plus tard,
+**[01:01:28 - 01:01:38] 1-redsun**  
+c'est tout à fait
 
-**[00:22:09 - 00:22:11] _speaker**  
-si tous les vols ne sont pas nullés.
+**[01:01:59 - 01:02:05] 1-redsun**  
+ouais c'est pas mais alors c'est tellement mal foutu moi je ne le ferais même pas via
 
-**[00:22:11 - 00:22:13] _speaker**  
-Mais ouais, donc j'ai eu la chance
+**[01:02:05 - 01:02:11] 1-redsun**  
+ce panneau là parce que c'est pour moi c'est catastrophique en fait tu vas dans le chat j'aimerais
 
-**[00:22:13 - 00:22:15] _speaker**  
-de faire un tour de la japon.
+**[01:02:11 - 01:02:17] 1-redsun**  
+créer un nouvel agent tac et lui il va le créer en fait il comprend ce que tu veux en fait après
 
-**[00:22:15 - 00:22:17] _speaker**  
-J'ai fait Tokyo Kyoto,
+**[01:02:17 - 01:02:25] 1-redsun**  
+il s'affiche là ouais c'est juste c'est juste que l'interface là c'est rigolo en fait tu peux
 
-**[00:22:17 - 00:22:19] _speaker**  
-Oyuso,
+**[01:02:25 - 01:02:29] 1-redsun**  
+tout passer par l'autre chat d'ailleurs je vous recommande de passer par l'autre chat donc
 
-**[00:22:19 - 00:22:21] _speaker**  
-et après j'ai fait deux jours à Shanghai,
+**[01:02:29 - 01:02:32] 1-redsun**  
+les comptes job on peut les ajouter comme ça puis taper ce qu'on veut mais ça revient en
 
-**[00:22:21 - 00:22:23] _speaker**  
-donc c'est clair que tu prends
+**[01:02:32 - 01:02:35] 1-redsun**  
+même que d'aller dans le chat puis dit créer un compte job pour qu'elle n'a pas trop la
 
-**[00:22:23 - 00:22:25] _speaker**  
-une énorme claque.
+**[01:02:35 - 01:02:41] 1-redsun**  
+différence quoi c'est juste une nuit en fait pour plusieurs interfaces pour essayer de faire ça
 
-**[00:22:25 - 00:22:27] _speaker**  
-Et je voulais faire un peu aussi
+**[01:02:41 - 01:02:47] 1-redsun**  
+quoi après les différents agents les skills alors là il y a tous les skills là vous pouvez les
 
-**[00:22:27 - 00:22:29] _speaker**  
-prendre la température tech
+**[01:02:47 - 01:02:52] 1-redsun**  
+créer à la volée moi je vous conseille de pas les bon il y a des trucs spéciaux pour obsidian
 
-**[00:22:29 - 00:22:31] _speaker**  
-pour savoir où ils en sont.
+**[01:02:52 - 01:02:56] 1-redsun**  
+ou les trucs comme ça mais ils sont déjà inclus donc pourquoi pas mais à part vous pourriez
 
-**[00:22:31 - 00:22:33] _speaker**  
-Et franchement, juste un petit mot comme ça,
+**[01:02:56 - 01:03:01] 1-redsun**  
+aussi dire utilise obsidian enfin c'est à dire ça change rien et créer un skill spécial pour obsidian
 
-**[00:22:33 - 00:22:35] _speaker**  
-parce que c'est un sujet qui nous regroupe
+**[01:03:01 - 01:03:07] 1-redsun**  
+croit pas il n'y a pas pour moi il n'y a pas besoin en fait de passer par là moi je passe tout par le
 
-**[00:22:35 - 00:22:37] _speaker**  
-tous la tech, pauvre que le Japon,
+**[01:03:07 - 01:03:13] 1-redsun**  
+chat mais après les deux sont juste on peut faire là puis je pense qu'on peut je crois même pas
 
-**[00:22:37 - 00:22:39] _speaker**  
-ils ne sont pas à temps en avance que ça, quoi.
+**[01:03:13 - 01:03:18] 1-redsun**  
+qu'on peut les ajouter à l'interface non il y a ceux de base c'est tout quoi en fait tu peux aller
 
-**[00:22:39 - 00:22:41] _speaker**  
-J'ai l'impression que ça me rend un peu à la bourre,
+**[01:03:18 - 01:03:24] 1-redsun**  
+chercher sur clou hub tellement merdier souvent c'est mieux de les faire soi-même en fait créer
 
-**[00:22:41 - 00:22:43] _speaker**  
-mais je ne sais pas trouver ça au top
+**[01:03:24 - 01:03:31] 1-redsun**  
+moins skill pour faire ça terminer quoi après les nodes ça c'est pour faire du pairing de
 
-**[00:22:43 - 00:22:45] _speaker**  
-de la
+**[01:03:31 - 01:03:35] 1-redsun**  
+device donc c'est un peu le bordel le dreaming franchement ça c'est le truc j'aurais aimé qu'il
 
-**[00:22:45 - 00:22:47] _speaker**  
-nouvelle technologie.
+**[01:03:35 - 01:03:39] 1-redsun**  
+l'ajoute pas c'est censé être un truc que quand tu l'utilises pas il va faire des trucs je sais pas
 
-**[00:22:47 - 00:22:49] _speaker**  
-Par contre, évidemment, vous vous en doutez,
+**[01:03:39 - 01:03:49] 1-redsun**  
+quoi oui justement alors si tu veux cramer tes tokens là ça rate et dans le top du top pour
 
-**[00:22:49 - 00:22:51] _speaker**  
-la Chine, c'est un truc de fou, quoi.
+**[01:03:49 - 01:03:54] 1-redsun**  
+tout brûler ton amour quoi là tu vas rêver la nuit pendant quoi je fais rien ouais bon super
 
-**[00:22:51 - 00:22:53] _speaker**  
-Là, tu sens bien,
+**[01:03:54 - 01:04:03] 1-redsun**  
+il va cramer tout en fait en gros il est censé fixer le savoir de en fait que quand tu rêves c'est
 
-**[00:22:53 - 00:22:55] _speaker**  
-par contre, à Shanghai,
+**[01:04:03 - 01:04:09] 1-redsun**  
+la même chose il est censé fixer figer la mémoire etc faire certaines actions mais du coup
 
-**[00:22:55 - 00:22:57] _speaker**  
-c'est impressionnant, quoi.
+**[01:04:09 - 01:04:15] 1-redsun**  
+t'as pas tellement de contrôle là dessus bah moi c'est un truc que j'utilise pas mais encore une
 
-**[00:22:57 - 00:22:59] _speaker**  
-Je ne sais pas, il y a une ambiance électrique,
+**[01:04:15 - 01:04:25] 1-redsun**  
+fois tout dépend des usages peut-être des gens qui ont besoin de ça je sais pas de quoi j'ai pas
 
-**[00:22:59 - 00:23:01] _speaker**  
-quoi, c'est
+**[01:04:25 - 01:04:35] 1-redsun**  
+compris on va dire ouais bien sûr alors en gros c'est de dire tous les quand je vais me coucher tu
 
-**[00:23:01 - 00:23:03] _speaker**  
-vachement vivant.
+**[01:04:35 - 01:04:41] 1-redsun**  
+vas faire telles actions tu vas faire si tu vas faire ça puis lui aussi c'est figé la mémoire mais
 
-**[00:23:03 - 00:23:05] _speaker**  
-Et puis, je suis allé voir un robot, d'ailleurs,
+**[01:04:41 - 01:04:47] 1-redsun**  
+c'est un truc en fait c'est sympa c'est rigolo mais il y a plein de trucs qui sont comme ça et en
 
-**[00:23:05 - 00:23:07] _speaker**  
-j'ai mis dans le discord,
+**[01:04:47 - 01:04:51] 1-redsun**  
+fait souvent c'est tout mach si vous êtes dans le pragmatique je sais pas si vraiment vous avez
 
-**[00:23:07 - 00:23:09] _speaker**  
-je suis allé voir Galbot, je n'ai pas pu voir
+**[01:04:51 - 01:04:59] 1-redsun**  
+besoin de faire ça quoi bah enfin normalement en fait c'est ça c'est bien
 
-**[00:23:09 - 00:23:11] _speaker**  
-le robot humanoid, j'aurais bien voulu.
+**[01:05:06 - 01:05:13] 1-redsun**  
+en fait moi je n'ai même pas essayé quand j'ai vu le truc moi j'ai pas compris
 
-**[00:23:11 - 00:23:13] _speaker**  
-Mais ils ne sont pas si faciles
+**[01:05:13 - 01:05:17] 1-redsun**  
+non plus parce qu'en plus la mémoire elle est gérée dans les dans les markdowns je vous dis
 
-**[00:23:13 - 00:23:15] _speaker**  
-à voir que ça.
+**[01:05:17 - 01:05:23] 1-redsun**  
+mais à quoi ça sert enfin je suis pas bien figé je suis pas le seul on n'est pas les seuls à
 
-**[00:23:15 - 00:23:17] _speaker**  
-Je voulais aller les voir,
+**[01:05:23 - 01:05:28] 1-redsun**  
+pas comprendre exactement pourquoi comment et à quoi ça sert exactement mais tu vois daily log
 
-**[00:23:17 - 00:23:19] _speaker**  
-ils sont beaucoup à Shanghai, j'ai l'impression,
+**[01:05:28 - 01:05:36] 1-redsun**  
+bon ok waiting for promotion il y a peut-être des cas où peut-être voilà il y a des cas où
 
-**[00:23:19 - 00:23:21] _speaker**  
-ça, Blaine, tu pourras nous dire, si tu en as à Shanghai.
+**[01:05:36 - 01:05:41] 1-redsun**  
+c'est utile je peux pas dire mais en tout cas moi j'ai jamais eu besoin de faire ça quoi il y a
 
-**[00:23:21 - 00:23:23] _speaker**  
-J'en ai pas vu dans la rue, en tout cas.
+**[01:05:41 - 01:05:46] 1-redsun**  
+juste une partie je voudrais montrer qui est peut-être la plus importante mais c'est plus la même
 
-**[00:23:23 - 00:23:25] _speaker**  
-Shanghai,
+**[01:05:46 - 01:05:53] 1-redsun**  
+interface soit que c'est dans configuration je cherche les fichiers md ils sont dans ce
 
-**[00:23:25 - 00:23:27] _speaker**  
-ce n'est pas le coeur,
+**[01:05:53 - 01:06:05] 1-redsun**  
+plus d'encohétons session non alors ça channel instance overview normalement on voit ce qu'il
 
-**[00:23:27 - 00:23:29] _speaker**  
-ce n'est pas le QG de la tech, en Chine.
+**[01:06:05 - 01:06:11] 1-redsun**  
+y a dans le fichier markdown ça c'est intéressant mais c'est là voilà tout le skill channel
 
-**[00:23:29 - 00:23:31] _speaker**  
-Le QG de la tech,
+**[01:06:11 - 01:06:18] 1-redsun**  
+con et puis là on a le fameux agent pour un sable voilà je peux vous le montrer ça c'est le plus
 
-**[00:23:31 - 00:23:33] _speaker**  
-c'est le berceau
+**[01:06:18 - 01:06:24] 1-redsun**  
+important des trucs les plus important c'est donc en fait c'est des fichiers principaux donc il
 
-**[00:23:33 - 00:23:35] _speaker**  
-de la tech, c'est vraiment à Shanghai.
+**[01:06:24 - 01:06:30] 1-redsun**  
+y a l'âme de votre openclos il y a le user c'est vous qui vous êtes qu'est ce que vous voulez
 
-**[00:23:35 - 00:23:37] _speaker**  
-Parce qu'il
+**[01:06:30 - 01:06:35] 1-redsun**  
+etc et ces fichiers markdown là c'est vraiment super super important de bien les configurer mais de
 
-**[00:23:37 - 00:23:39] _speaker**  
-bénéficie le
+**[01:06:35 - 01:06:39] 1-redsun**  
+toute façon au début je vous demande de les configurer donc vous êtes obligé de les configurer
 
-**[00:23:39 - 00:23:41] _speaker**  
-financement
+**[01:06:39 - 01:06:46] 1-redsun**  
+normalement donc il y a le fichier sale agent tools donc ça c'est les skills l'identité voilà on
 
-**[00:23:41 - 00:23:43] _speaker**  
-de Haute Manie de Hong Kong,
+**[01:06:46 - 01:06:51] 1-redsun**  
+peut voir moi j'ai rien fait donc là il s'appelle clos ça c'est de trucs par défaut les modis c'est
 
-**[00:23:43 - 00:23:45] _speaker**  
-parce que c'est tout près de Hong Kong,
+**[01:06:51 - 01:06:57] 1-redsun**  
+ça etc tout ça vous pouvez paramétrer le orbit c'est tous les événements qu'il va faire par
 
-**[00:23:45 - 00:23:47] _speaker**  
-le listing sur Hong Kong, etc.
+**[01:06:57 - 01:07:01] 1-redsun**  
+exemple toutes les 10 minutes il peut faire quelque chose c'est le battement de coeur vous pouvez
 
-**[00:23:47 - 00:23:49] _speaker**  
-Il y a une tradition
+**[01:07:01 - 01:07:13] 1-redsun**  
+faire des trucs spécifiques après il y a même envie ouais normalement parce que là j'ai rien foutu
 
-**[00:23:49 - 00:23:51] _speaker**  
-de développement de tech
+**[01:07:13 - 01:07:21] 1-redsun**  
+avec un donc là je pourrais aussi l'écrire en dur non non non justement bah j'utilise pour les
 
-**[00:23:51 - 00:23:53] _speaker**  
-à Shenzhen,
+**[01:07:21 - 01:07:27] 1-redsun**  
+demos donc pour faire des essais parce que sinon si je bricole le truc que je code ça peut foutre
 
-**[00:23:53 - 00:23:55] _speaker**  
-juste à citer quelqu'un non,
+**[01:07:27 - 01:07:33] 1-redsun**  
+la merde pas possible quoi donc là tu peux écrire le contenu à la main mais je conseille pas non
 
-**[00:23:55 - 00:23:57] _speaker**  
-les nouveaux, ils sont à Shenzhen,
+**[01:07:33 - 01:07:38] 1-redsun**  
+plus ce que je fais moi c'est simplement d'avoir mémoré je dis sauve sauve mon nom ou sauve cette
 
-**[00:23:57 - 00:23:59] _speaker**  
-ils ont un énorme bâtiment,
+**[01:07:38 - 01:07:44] 1-redsun**  
+data etc en fait je parle tout simplement enfin c'est le but aussi quoi c'est d'avoir un usage courant
 
-**[00:23:59 - 00:24:01] _speaker**  
-genre la taille de la défense.
+**[01:07:44 - 01:07:57] 1-redsun**  
+ça devrait pas être plus de ça non alors j'utilise les deux je sais pas pourquoi peut-être ça c'est
 
-**[00:24:01 - 00:24:03] _speaker**  
-Djioyi.
+**[01:07:57 - 01:08:03] 1-redsun**  
+moi qui suis bizarre mais il y a un moment où les réponses étaient meilleures sur le le contrôle
 
-**[00:24:03 - 00:24:05] _speaker**  
-Djioyi aussi,
+**[01:08:03 - 01:08:08] 1-redsun**  
+ici alors pour coder je connais là je sais pas pourquoi vraiment j'ai fait des tests et je
 
-**[00:24:05 - 00:24:07] _speaker**  
-ils ont
+**[01:08:08 - 01:08:12] 1-redsun**  
+trouvais que les réponses sur discord parce qu'ils étaient connectés à discord sont moins bonnes
 
-**[00:24:07 - 00:24:09] _speaker**  
-Djioyi, ils ont carrément pris
+**[01:08:12 - 01:08:21] 1-redsun**  
+que les réponses sur le dashboard et je crois que c'est fini maintenant c'est fini en fait ça
 
-**[00:24:09 - 00:24:11] _speaker**  
-le designer,
+**[01:08:21 - 01:08:38] 1-redsun**  
+marche maintenant ou à priori oui mais là justement c'est ce qui conseille les gens
 
-**[00:24:11 - 00:24:13] _speaker**  
-l'architecte, qui a fait
+**[01:08:38 - 01:08:44] 1-redsun**  
+c'est que tu peux faire plusieurs agents en fait c'est pour faire plusieurs tâches séparées mais
 
-**[00:24:13 - 00:24:15] _speaker**  
-Apple Park.
+**[01:08:44 - 01:08:48] 1-redsun**  
+honnêtement il faut vraiment faire attention à ces trucs là parce que il y a beaucoup de gens qui
 
-**[00:24:15 - 00:24:17] _speaker**  
-Ah oui.
+**[01:08:48 - 01:08:52] 1-redsun**  
+se lancent à dedans ils font 10 agents et dire j'ai 10 agents qui travaillent pour moi c'est cool
 
-**[00:24:17 - 00:24:19] _speaker**  
-C'est le même architecte,
+**[01:08:52 - 01:08:58] 1-redsun**  
+à dire sur le papier mais à gérer ça devient vite un bordel quoi c'est déjà d'en faire un
 
-**[00:24:19 - 00:24:21] _speaker**  
-donc le bâtiment, il est
+**[01:08:58 - 01:09:03] 1-redsun**  
+propre qui vous sert à quelque chose et si ça vous suffit bah gardez-le comme ça mais encore une
 
-**[00:24:21 - 00:24:23] _speaker**  
-juste ouf, il est tellement futuriste.
+**[01:09:03 - 01:09:07] 1-redsun**  
+fois ça dépend de votre usage il y a des mecs ils ont besoin d'avoir plusieurs agents donc en fait
 
-**[00:24:23 - 00:24:25] _speaker**  
-Xiaomi,
+**[01:09:07 - 01:09:13] 1-redsun**  
+ce truc là il convient à une multitude d'usages et en fait 90% des gens ils vont avoir un usage
 
-**[00:24:25 - 00:24:27] _speaker**  
-Huawei,
+**[01:09:13 - 01:09:20] 1-redsun**  
+simple en fait quoi donc voilà ça c'est pour le petit tour d'horizon il y a plein de choses
 
-**[00:24:27 - 00:24:29] _speaker**  
-vraiment tous les noms qu'on connaît
+**[01:09:20 - 01:09:26] 1-redsun**  
+je sais pas s'il y a encore des questions ou pas ça va je regarde ici je vois quelque chose là dans le
 
-**[00:24:29 - 00:24:31] _speaker**  
-ici depuis l'Europe,
+**[01:09:26 - 01:09:35] 1-redsun**  
+chat ça va un peu pour pour vous comprendre un peu openclos bah je sais pas Paul tu l'avais jamais
 
-**[00:24:31 - 00:24:33] _speaker**  
-ils ont leur QG, en tout cas,
+**[01:09:35 - 01:09:55] 1-redsun**  
+ouvert non mais n'est pas tant peur que ça parce que tu vois moi je l'ai mis sur celui-là il est
 
-**[00:24:33 - 00:24:35] _speaker**  
-ils ont une grande partie de leur fabrication
+**[01:09:55 - 01:10:00] 1-redsun**  
+sûrement l'ordinateur principal donc en fait ça dépend ce que tu fais mais je vais pas lui demander
 
-**[00:24:35 - 00:24:37] _speaker**  
-de R&D
+**[01:10:00 - 01:10:04] 1-redsun**  
+de faire des bricolages si je lui demande une spéciale il va pas non plus faire des conneries tout
 
-**[00:24:37 - 00:24:39] _speaker**  
-à Shenzhen.
+**[01:10:04 - 01:10:18] 1-redsun**  
+seul alors justement ça c'est intéressant que t'en parles parce que d'après ce que j'ai compris
 
-**[00:24:39 - 00:24:41] _speaker**  
-Et après, ils ont forcément aussi un bureau
+**[01:10:18 - 01:10:23] 1-redsun**  
+mais ça a vérifié tout ce que je vais dire là les mecs aussi ont une très très forte sécurité
 
-**[00:24:41 - 00:24:43] _speaker**  
-quelque part à Pékin,
+**[01:10:23 - 01:10:28] 1-redsun**  
+de base c'est à dire dans la machine donc pour prendre le contrôle de la machine à distance
 
-**[00:24:43 - 00:24:45] _speaker**  
-parce que c'est le pouvoir central,
+**[01:10:28 - 01:10:34] 1-redsun**  
+tu peux toujours il y a toujours moyen de moyenne mais il faut se rêver de bonheur ça c'est difficile
 
-**[00:24:45 - 00:24:47] _speaker**  
-c'est là que les décisions
+**[01:10:34 - 01:10:44] 1-redsun**  
+donc s'il n'y a pas de de fuite surtout de la gateway qui est la clé de contrôle de ça en fait
 
-**[00:24:47 - 00:24:49] _speaker**  
-sont prises.
+**[01:10:44 - 01:10:51] 1-redsun**  
+normalement t'es assez tranquille et justement là il y a pas mal d'avantage aussi à utiliser les
 
-**[00:24:49 - 00:24:51] _speaker**  
-Shanghase, il y a une tradition,
+**[01:10:51 - 01:10:57] 1-redsun**  
+mecs il n'y a pas que la puissance il y a vraiment plusieurs critères qui font que parce
 
-**[00:24:51 - 00:24:53] _speaker**  
-moi je connais très bien Shanghase, même si je suis pas de là-bas,
+**[01:10:57 - 01:11:02] 1-redsun**  
+qu'un mac studio aussi ou un mac mini ça fait pas de bruit ça consomme très peu en standby
 
-**[00:24:53 - 00:24:55] _speaker**  
-parce que moi j'ai travaillé dans Lux.
+**[01:11:03 - 01:11:08] 1-redsun**  
+ça s'arrête jamais ça peut tourner comme un serveur tu vois il y a plein de petits trucs
 
-**[00:24:55 - 00:24:57] _speaker**  
-Shanghase, c'est vraiment le pôle
+**[01:11:09 - 01:11:16] 1-redsun**  
+après il y a d'autres pour ceux qui ont vraiment anti mac il y a il y a aussi les merde spark
 
-**[00:24:57 - 00:24:59] _speaker**  
-de Lux, de tout ce qui est
+**[01:11:17 - 01:11:19] 1-redsun**  
+voilà il y a ça si vous voulez vous amuser
 
-**[00:24:59 - 00:25:01] _speaker**  
-fashion, etc.
+**[01:11:22 - 01:11:29] 1-redsun**  
+mais donc là on est sur du lourd mais par contre là on peut faire tourner des lm
 
-**[00:25:01 - 00:25:03] _speaker**  
-Là, toutes les sièges,
+**[01:11:30 - 01:11:35] 1-redsun**  
+puissant là on peut y aller quoi 128 7
 
-**[00:25:03 - 00:25:05] _speaker**  
-les multinationales,
+**[01:11:35 - 01:11:46] 1-redsun**  
+non alors d'après les blanches et tout non parce que là il n'y a pas de question
 
-**[00:25:05 - 00:25:07] _speaker**  
-on leur siège à Shanghai,
+**[01:11:46 - 01:11:51] 1-redsun**  
+de maraignifier et donc ça serait pas mais alors on n'est pas loin non plus attention
 
-**[00:25:07 - 00:25:09] _speaker**  
-comme Richement, comme Swatch,
+**[01:11:51 - 01:11:56] 1-redsun**  
+je n'ai pas que ça c'est de la dope c'est une video non c'est pas pas de la merde mais
 
-**[00:25:09 - 00:25:11] _speaker**  
-comme LVMH, etc.
+**[01:11:57 - 01:11:59] 1-redsun**  
+t'as des qualités qui sont
 
-**[00:25:11 - 00:25:13] _speaker**  
-Tout ce qui est Lux, ils sont là-bas.
+**[01:12:01 - 01:12:05] 1-redsun**  
+t'as quand même c'est quand même mieux c'est quand même toujours mieux sur un mac studio
 
-**[00:25:13 - 00:25:15] _speaker**  
-Shanghase, c'est pas le
+**[01:12:08 - 01:12:13] 1-redsun**  
+après moi je suis super forcément bah si j'aime bien les appels depuis toujours mais quand même
 
-**[00:25:15 - 00:25:17] _speaker**  
-c'est pas le comment dire
+**[01:12:13 - 01:12:17] 1-redsun**  
+bah il faut se rendre tu vois c'est pas qu'une question de j'aime ou j'aime pas quoi
 
-**[00:25:17 - 00:25:19] _speaker**  
-ouais, c'est pas le
+**[01:12:19 - 01:12:22] 1-redsun**  
+voilà les mac studio là il y a celui là qui était très très intéressant
 
-**[00:25:19 - 00:25:21] _speaker**  
-le fief, c'est pas la tech,
+**[01:12:23 - 01:12:30] 1-redsun**  
+là t'as 128 et là tu peux faire tourner des gros modèles là ça c'est pas mal
 
-**[00:25:21 - 00:25:23] _speaker**  
-non, non, non.
+**[01:12:38 - 01:12:44] 1-redsun**  
+ouais j'en ai aussi alors moi j'en ai fait plusieurs
 
-**[00:25:25 - 00:25:27] _speaker**  
-Et après, j'aime juste
+**[01:12:47 - 01:12:49] 1-redsun**  
+ouais ouais bah je concède pas
 
-**[00:25:27 - 00:25:29] _speaker**  
-rebondir sur le Japon, parce que moi je connais
+**[01:12:53 - 01:12:56] 1-redsun**  
+moi j'aime pas du tout
 
-**[00:25:29 - 00:25:31] _speaker**  
-très bien LVMH
+**[01:12:57 - 01:13:03] 1-redsun**  
+parce que alors je vais essayer d'expliquer pourquoi parce que alors effectivement c'est hyper
 
-**[00:25:31 - 00:25:33] _speaker**  
-régulièrement,
+**[01:13:03 - 01:13:09] 1-redsun**  
+simple hein tu fais one click t'es bon tout mon deux secondes t'as cet opte en penclos
 
-**[00:25:33 - 00:25:35] _speaker**  
-deux fois au moins par année.
+**[01:13:09 - 01:13:17] 1-redsun**  
+tu dis génial et tout en fait tu sors complètement de l'intérêt de penclos parce que autant tu vas
 
-**[00:25:35 - 00:25:37] _speaker**  
-Ils sont pas
+**[01:13:17 - 01:13:22] 1-redsun**  
+prendre une clôte code alors dans ce cas là je crois pas le truc quoi qui t'est hosté sur
 
-**[00:25:37 - 00:25:39] _speaker**  
-aussi chauds,
+**[01:13:22 - 01:13:30] 1-redsun**  
+une machine qui t'appartient pas que les data transitent par eux tu vois tu perds tout plein d'avantage
 
-**[00:25:39 - 00:25:41] _speaker**  
-après c'est une question de culture
+**[01:13:38 - 01:13:44] 1-redsun**  
+alors justement c'est ce que c'est ce que je conseille d'abord comme ça coûte pas cher
 
-**[00:25:41 - 00:25:43] _speaker**  
-aussi, c'est-à-dire les Japonais,
+**[01:13:44 - 01:13:48] 1-redsun**  
+prenez une clôte ou un click c'est cinq balles par mois tu fais un mois
 
-**[00:25:43 - 00:25:45] _speaker**  
-ils sont assez réservés
+**[01:13:48 - 01:13:52] 1-redsun**  
+tu regardes un peu comment ça marche mais déjà tu as une expérience qui n'est pas géniale moi je
 
-**[00:25:45 - 00:25:47] _speaker**  
-et surtout
+**[01:13:52 - 01:13:57] 1-redsun**  
+trouve parce que bon au moins tu peux tester pas cher on va dire et puis ensuite tu peux
 
-**[00:25:47 - 00:25:49] _speaker**  
-depuis
+**[01:13:58 - 01:14:06] 1-redsun**  
+décider si tu te sens à l'aise après de passer à l'étape suivante et puis voilà
 
-**[00:25:49 - 00:25:51] _speaker**  
-20 ans, déjà, ils
+**[01:14:06 - 01:14:20] 1-redsun**  
+ah c'est le c'est le sain graal quoi mais c'est pas fortement facile non plus et il y a des gens
 
-**[00:25:51 - 00:25:53] _speaker**  
-perdent leurs ingénieurs
+**[01:14:20 - 01:14:26] 1-redsun**  
+ils s'en foutent en va dire juste un truc tout le qui marche effectivement après
 
-**[00:25:53 - 00:25:55] _speaker**  
-ingénieries
+**[01:14:28 - 01:14:33] 1-redsun**  
+ça se défend moi je peux pas dire mais au terme d'expérience moi j'ai une expérience radicalement
 
-**[00:25:55 - 00:25:57] _speaker**  
-face à la concurrence de la Corée,
+**[01:14:33 - 01:14:40] 1-redsun**  
+différente depuis que j'ai eu sur mac mini tu vois mais pourquoi pas testé déjà comme ça
 
-**[00:25:57 - 00:25:59] _speaker**  
-c'est-à-dire que Samsung
+**[01:14:40 - 01:14:48] 1-redsun**  
+il y avait aussi tencent de notre ami de notre ami ben qui proposait lors du dernier avènement
 
-**[00:25:59 - 00:26:01] _speaker**  
-Samsung a pioché énormément
+**[01:14:48 - 01:14:54] 1-redsun**  
+50 dollars pour tester eux ils font aussi ça peut même être faire une première approche puis de voir
 
-**[00:26:01 - 00:26:03] _speaker**  
-de grosses têtes
+**[01:14:54 - 01:14:58] 1-redsun**  
+si ça te plaît ou pas quoi un peu le clou parce que
 
-**[00:26:03 - 00:26:05] _speaker**  
-de Sony, de
+**[01:15:00 - 01:15:06] 1-redsun**  
+c'est en chine normalement c'est là il faut peut-être ben il a plus d'info mais a priori c'est plutôt en
 
-**[00:26:05 - 00:26:07] _speaker**  
-Toshiba, de toutes les
+**[01:15:06 - 01:15:17] 1-redsun**  
+chine ah ouais ok donc on n'a pas du coup on revêt ça change rien parce que stinger ils sont
 
-**[00:26:07 - 00:26:09] _speaker**  
-voilà, tous les ingénieurs
+**[01:15:17 - 01:15:25] 1-redsun**  
+c'est à francfort donc ça change que dalle quoi par contre faut savoir un truc c'est que la chine
 
-**[00:26:09 - 00:26:11] _speaker**  
-japonais, parce qu'ils payent mieux
+**[01:15:25 - 01:15:35] 1-redsun**  
+donc si je vais sur github open claw c'est que j'ai vu aujourd'hui il faut savoir que là ça c'est
 
-**[00:26:11 - 00:26:13] _speaker**  
-et Samsung est vraiment, si on parle
+**[01:15:35 - 01:15:39] 1-redsun**  
+le github open claw officiel donc vous avez tout le code source d'open claw et si vous regardez moi
 
-**[00:26:13 - 00:26:15] _speaker**  
-de Corée et Japon, Samsung est vraiment
+**[01:15:39 - 01:15:45] 1-redsun**  
+ce qui était intéressant c'était les contributeurs c'est qui bosse là dessus en fait déjà vous avez
 
-**[00:26:15 - 00:26:17] _speaker**  
-un géant tech
+**[01:15:45 - 01:15:50] 1-redsun**  
+des milliers de codeurs qui bosse là dessus ça c'est clair et net mais surtout ce que j'ai
 
-**[00:26:17 - 00:26:19] _speaker**  
-les entreprises
+**[01:15:50 - 01:15:58] 1-redsun**  
+découvert un peu plus en grattant c'est que les sponsors de ça ce qui code le plus là dessus
 
-**[00:26:19 - 00:26:21] _speaker**  
-japonaises traditionnellement
+**[01:15:58 - 01:16:06] 1-redsun**  
+c'est les mecs de tencent et de nvidia à priori à beaucoup quoi je suis plus j'ai eu ça sponsor
 
-**[00:26:21 - 00:26:23] _speaker**  
-fortes sont plus
+**[01:16:06 - 01:16:14] 1-redsun**  
+du project c'est plus voilà c'est là donc les gars qui eux ils bossent là dessus quoi
 
-**[00:26:23 - 00:26:25] _speaker**  
-trop dans la course, quoi
+**[01:16:14 - 01:16:22] 1-redsun**  
+il y a aussi open air et donc il n'y a pas des gogo le vrai c'est vraiment des 4 très bons
 
-**[00:26:25 - 00:26:27] _speaker**  
-ça vraiment...
+**[01:16:22 - 01:16:29] 1-redsun**  
+cruders qui bossent là dessus il y a le stinger aussi là on voit qui sponsor un peu le truc
 
-**[00:26:27 - 00:26:29] _speaker**  
-On voit, pourtant, ils étaient bon robotique
+**[01:16:29 - 01:16:34] 1-redsun**  
+mais après ils se font de saut mais ils code aussi forcément parce que ils apportent ils apportent
 
-**[00:26:29 - 00:26:31] _speaker**  
-ils ont l'impression que ça a un peu
+**[01:16:34 - 01:16:38] 1-redsun**  
+d'études mais ils apportent pas que ça ils apportent aussi des connaissances puis des développeurs
 
-**[00:26:31 - 00:26:33] _speaker**  
-de lâcher, enfin ils retardent
+**[01:16:38 - 01:16:47] 1-redsun**  
+donc voilà pour le tour d'horizon n'hésitez pas à se faire des questions au fur et à mesure si
 
-**[00:26:33 - 00:26:35] _speaker**  
-parce qu'ils n'ont pas su s'adapter
+**[01:16:47 - 01:16:49] 1-redsun**  
+je peux répondre ou si quelqu'un d'autre va répondre
 
-**[00:26:35 - 00:26:37] _speaker**  
-à un
-
-**[00:26:37 - 00:26:39] _speaker**  
-rythme industriel
-
-**[00:26:39 - 00:26:41] _speaker**  
-d'aujourd'hui, c'est-à-dire que les Japonais
-
-**[00:26:41 - 00:26:43] _speaker**  
-ils font des choses tellement de bonne qualité
-
-**[00:26:43 - 00:26:45] _speaker**  
-les appareils, tu les remplaces jamais
-
-**[00:26:45 - 00:26:47] _speaker**  
-ils peuvent
-
-**[00:26:47 - 00:26:49] _speaker**  
-fonctionner depuis 10 ans et 20 ans
-
-**[00:26:49 - 00:26:51] _speaker**  
-sans tomber en panne
-
-**[00:26:51 - 00:26:53] _speaker**  
-mais
-
-**[00:26:53 - 00:26:55] _speaker**  
-malheureusement, ça
-
-**[00:26:55 - 00:26:57] _speaker**  
-complue en fait
-
-**[00:26:57 - 00:26:59] _speaker**  
-il faut que ça tombe en panne, il faut que ça soit
-
-**[00:26:59 - 00:27:01] _speaker**  
-programmé, ça soit remplacé au bout de 3 ans
-
-**[00:27:01 - 00:27:03] _speaker**  
-5 ans, voilà
-
-**[00:27:03 - 00:27:05] _speaker**  
-c'est comme ça, voilà, malheureusement
-
-**[00:27:05 - 00:27:07] _speaker**  
-malheureusement, voilà, mais businessment parlant
-
-**[00:27:07 - 00:27:09] _speaker**  
-ils
-
-**[00:27:09 - 00:27:11] _speaker**  
-n'arrivent pas à suivre
-
-**[00:27:11 - 00:27:13] _speaker**  
-c'est pour ça que
-
-**[00:27:13 - 00:27:15] _speaker**  
-demander
-
-**[00:27:15 - 00:27:17] _speaker**  
-à un japonais de faire un truc
-
-**[00:27:17 - 00:27:19] _speaker**  
-de moins bonne qualité, ils savent pas faire
-
-**[00:27:19 - 00:27:21] _speaker**  
-et du coup
-
-**[00:27:21 - 00:27:23] _speaker**  
-ils sont un peu lâchés
-
-**[00:27:23 - 00:27:25] _speaker**  
-par le rythme
-
-**[00:27:25 - 00:27:27] _speaker**  
-aussi rapide
-
-**[00:27:27 - 00:27:29] _speaker**  
-de développement
-
-**[00:27:29 - 00:27:31] _speaker**  
-industriel
-
-**[00:27:31 - 00:27:33] _speaker**  
-ce qui fait que maintenant
-
-**[00:27:33 - 00:27:35] _speaker**  
-ils sont pas aussi
-
-**[00:27:35 - 00:27:37] _speaker**  
-un peu lâchés
-
-**[00:27:37 - 00:27:39] _speaker**  
-tu vois
-
-**[00:27:39 - 00:27:41] _speaker**  
-il est typique qui arrive
-
-**[00:27:41 - 00:27:43] _speaker**  
-j'ai l'impression que ça arrive un petit peu
-
-**[00:27:43 - 00:27:45] _speaker**  
-je pense qu'on va commencer tranquillement
-
-**[00:27:45 - 00:27:47] _speaker**  
-parce que
-
-**[00:27:47 - 00:27:49] _speaker**  
-les gens ils prendront en cours de route
-
-**[00:27:49 - 00:27:51] _speaker**  
-comme ça on fait une heure et après
-
-**[00:27:51 - 00:27:53] _speaker**  
-j'ai même prévu une partie
-
-**[00:27:53 - 00:27:55] _speaker**  
-Ben
-
-**[00:27:55 - 00:27:57] _speaker**  
-pas ma show
-
-**[00:27:57 - 00:27:59] _speaker**  
-non mais
-
-**[00:27:59 - 00:28:01] _speaker**  
-pas ma show mais la fin
-
-**[00:28:01 - 00:28:03] _speaker**  
-pour ceux qui veulent discuter un peu plus librement
-
-**[00:28:03 - 00:28:05] _speaker**  
-après l'heure de meetup
-
-**[00:28:05 - 00:28:07] _speaker**  
-officielle, après on continue
-
-**[00:28:07 - 00:28:09] _speaker**  
-c'est lafteur
-
-**[00:28:09 - 00:28:11] _speaker**  
-moi je vous propose, pour ceux qui sont nouveaux
-
-**[00:28:11 - 00:28:13] _speaker**  
-ici, alors il y en a quelques-uns
-
-**[00:28:13 - 00:28:15] _speaker**  
-qu'on a beaucoup que je connais mais quelques-uns
-
-**[00:28:15 - 00:28:17] _speaker**  
-que je connais pas
-
-**[00:28:17 - 00:28:19] _speaker**  
-donc bienvenue à vous
-
-**[00:28:19 - 00:28:21] _speaker**  
-déjà, bienvenue dans ce meetup
-
-**[00:28:21 - 00:28:23] _speaker**  
-c'est un meetup comme vous voyez qu'il y a un peu informel
-
-**[00:28:23 - 00:28:25] _speaker**  
-puisque c'est le weekly club de Geneva
-
-**[00:28:25 - 00:28:27] _speaker**  
-l'idée c'est vraiment qu'on discute
-
-**[00:28:27 - 00:28:29] _speaker**  
-ensemble, on échange
-
-**[00:28:29 - 00:28:31] _speaker**  
-sans jargon inutile, sans pression
-
-**[00:28:31 - 00:28:33] _speaker**  
-on partage un peu ce qu'on fait
-
-**[00:28:33 - 00:28:35] _speaker**  
-et puis voilà d'ailleurs
-
-**[00:28:35 - 00:28:37] _speaker**  
-juste pour la petite histoire, vous voyez ce petit
-
-**[00:28:37 - 00:28:39] _speaker**  
-site web, là je l'ai créé avec OpenClo
-
-**[00:28:39 - 00:28:41] _speaker**  
-donc on en parlait avec
-
-**[00:28:41 - 00:28:43] _speaker**  
-Nano l'autre jour
-
-**[00:28:43 - 00:28:45] _speaker**  
-c'est quoi les use cases de OpenClo
-
-**[00:28:45 - 00:28:47] _speaker**  
-ça m'a permis de faire une petite présentation
-
-**[00:28:47 - 00:28:49] _speaker**  
-alors je voulais pas faire présentation
-
-**[00:28:49 - 00:28:51] _speaker**  
-parce que j'ai dit que je voulais pas faire de slide
-
-**[00:28:51 - 00:28:53] _speaker**  
-mais finalement j'ai fait des petites cartes
-
-**[00:28:53 - 00:28:55] _speaker**  
-en fait un petit peu pour organiser
-
-**[00:28:55 - 00:28:57] _speaker**  
-tout ça, puis pas si vous voyez là haut
-
-**[00:28:57 - 00:28:59] _speaker**  
-en haut à droite c'est le retard aussi sur le timer
-
-**[00:28:59 - 00:29:01] _speaker**  
-comme ça ça me permet
-
-**[00:29:01 - 00:29:03] _speaker**  
-aussi de garder le fil du temps
-
-**[00:29:03 - 00:29:05] _speaker**  
-c'est juste pour avoir un peu une petite idée
-
-**[00:29:05 - 00:29:07] _speaker**  
-de comment on va organiser ça
-
-**[00:29:07 - 00:29:09] _speaker**  
-et puis au niveau du timing
-
-**[00:29:09 - 00:29:11] _speaker**  
-aussi quoi
-
-**[00:29:11 - 00:29:13] _speaker**  
-donc voilà
-
-**[00:29:13 - 00:29:15] _speaker**  
-je propose
-
-**[00:29:15 - 00:29:17] _speaker**  
-justement il y a un truc qui m'intéressait
-
-**[00:29:17 - 00:29:19] _speaker**  
-donc ce soir on va parler
-
-**[00:29:19 - 00:29:21] _speaker**  
-des modèles qu'on va utiliser
-
-**[00:29:21 - 00:29:23] _speaker**  
-pour quel usage à quel prix
-
-**[00:29:23 - 00:29:25] _speaker**  
-et puis moi il y a une chose qui m'intéressait
-
-**[00:29:25 - 00:29:27] _speaker**  
-surtout c'était que je voulais qu'on fasse
-
-**[00:29:27 - 00:29:29] _speaker**  
-un petit peu 30 secondes pour se présenter
-
-**[00:29:29 - 00:29:31] _speaker**  
-donc chacun
-
-**[00:29:31 - 00:29:33] _speaker**  
-qui est parmi là, puis en fait c'est juste pour savoir un peu
-
-**[00:29:33 - 00:29:35] _speaker**  
-qui vous êtes, parce qu'il y en a on se connaît déjà
-
-**[00:29:35 - 00:29:37] _speaker**  
-et puis il y en a ils se connaissent pas du tout
-
-**[00:29:37 - 00:29:39] _speaker**  
-donc comme ça ça permet
-
-**[00:29:39 - 00:29:41] _speaker**  
-juste de savoir qui fait quoi
-
-**[00:29:41 - 00:29:43] _speaker**  
-quels y a vous utiliser
-
-**[00:29:43 - 00:29:45] _speaker**  
-et qu'est ce que vous venez chercher en fait
-
-**[00:29:45 - 00:29:47] _speaker**  
-en venant ici, qu'est ce que
-
-**[00:29:47 - 00:29:49] _speaker**  
-pourquoi vous êtes là
-
-**[00:29:49 - 00:29:51] _speaker**  
-qu'est ce que vous voulez faire ici en fait
-
-**[00:29:51 - 00:29:53] _speaker**  
-qu'est ce que vous venez chercher
-
-**[00:29:53 - 00:29:55] _speaker**  
-pour ma formation
-
-**[00:29:55 - 00:29:57] _speaker**  
-donc voilà, donc je commence
-
-**[00:29:57 - 00:29:59] _speaker**  
-par me présenter pour ceux qui ne me connaissent pas
-
-**[00:29:59 - 00:30:01] _speaker**  
-puis après je vous laisserai parler en fait
-
-**[00:30:01 - 00:30:03] _speaker**  
-au fur et à mesure comme ça ça permettra
-
-**[00:30:03 - 00:30:05] _speaker**  
-de connaître chacun d'entre vous
-
-**[00:30:05 - 00:30:07] _speaker**  
-donc par contre le challenge
-
-**[00:30:07 - 00:30:09] _speaker**  
-c'est de le faire en 30 secondes on essaie de faire vite
-
-**[00:30:09 - 00:30:11] _speaker**  
-pas trop de retraines là dessus donc
-
-**[00:30:11 - 00:30:13] _speaker**  
-moi je m'appelle Cyril Diomgar
-
-**[00:30:13 - 00:30:15] _speaker**  
-c'est moi qui organise OpenClo de Geneva
-
-**[00:30:15 - 00:30:17] _speaker**  
-moi j'utilise OpenClo pour faire du développement
-
-**[00:30:17 - 00:30:19] _speaker**  
-et surtout
-
-**[00:30:19 - 00:30:21] _speaker**  
-un projet que s'appelle LocalClo
-
-**[00:30:21 - 00:30:23] _speaker**  
-permet de gérer son IA
-
-**[00:30:23 - 00:30:25] _speaker**  
-directement
-
-**[00:30:25 - 00:30:27] _speaker**  
-sur un logiciel en fait qui permet
-
-**[00:30:27 - 00:30:29] _speaker**  
-de gérer en fait l'installation
-
-**[00:30:29 - 00:30:31] _speaker**  
-et l'utilisation de OpenClo
-
-**[00:30:31 - 00:30:33] _speaker**  
-donc je le code 100% avec ça
-
-**[00:30:33 - 00:30:35] _speaker**  
-en ce moment
-
-**[00:30:35 - 00:30:37] _speaker**  
-moi j'utilise quel IA
-
-**[00:30:37 - 00:30:39] _speaker**  
-et j'utilise surtout
-
-**[00:30:39 - 00:30:41] _speaker**  
-ChargePT 5.5
-
-**[00:30:41 - 00:30:43] _speaker**  
-qui est génial
-
-**[00:30:43 - 00:30:45] _speaker**  
-et j'utilise ça avec la fonction haute
-
-**[00:30:45 - 00:30:47] _speaker**  
-qui permet de faire beaucoup de développement
-
-**[00:30:47 - 00:30:49] _speaker**  
-avec un abonement à 20$
-
-**[00:30:49 - 00:30:51] _speaker**  
-c'est vraiment cool
-
-**[00:30:51 - 00:30:53] _speaker**  
-et puis qu'est ce que je viens chercher ce soir
-
-**[00:30:53 - 00:30:55] _speaker**  
-ça permet de créer la communauté
-
-**[00:30:55 - 00:30:57] _speaker**  
-de partager ce que je fais
-
-**[00:30:57 - 00:30:59] _speaker**  
-de voir aussi ce que vous faites
-
-**[00:30:59 - 00:31:01] _speaker**  
-comment vous utilisez tout ça
-
-**[00:31:01 - 00:31:03] _speaker**  
-on est sur OpenClo mais on peut aussi parler
-
-**[00:31:03 - 00:31:05] _speaker**  
-d'autres choses
-
-**[00:31:05 - 00:31:07] _speaker**  
-et d'utiliser comment vous faites
-
-**[00:31:07 - 00:31:09] _speaker**  
-voilà
-
-**[00:31:09 - 00:31:11] _speaker**  
-Ben je te laisse commencer
-
-**[00:31:11 - 00:31:13] _speaker**  
-alors vas-y
-
-**[00:31:13 - 00:31:15] _speaker**  
-Super merci
-
-**[00:31:15 - 00:31:17] _speaker**  
-moi c'est Ben
-
-**[00:31:17 - 00:31:19] _speaker**  
-moi j'utilise OpenClo
-
-**[00:31:19 - 00:31:21] _speaker**  
-surtout pour m'aider
-
-**[00:31:21 - 00:31:23] _speaker**  
-à gérer les différents plateformes
-
-**[00:31:23 - 00:31:25] _speaker**  
-réseaux sociaux
-
-**[00:31:25 - 00:31:27] _speaker**  
-que ce soit Twitter, Youtube
-
-**[00:31:27 - 00:31:29] _speaker**  
-vraiment tous les réseaux sociaux
-
-**[00:31:29 - 00:31:31] _speaker**  
-majeurs
-
-**[00:31:31 - 00:31:33] _speaker**  
-j'aimerais vraiment arriver à un point
-
-**[00:31:33 - 00:31:35] _speaker**  
-de traumatisation très efficace
-
-**[00:31:35 - 00:31:37] _speaker**  
-et création de contenu
-
-**[00:31:37 - 00:31:39] _speaker**  
-gestion de tous mes réseaux
-
-**[00:31:39 - 00:31:41] _speaker**  
-100% par les agents
-
-**[00:31:41 - 00:31:43] _speaker**  
-il y a
-
-**[00:31:43 - 00:31:45] _speaker**  
-notamment OpenClo
-
-**[00:31:45 - 00:31:47] _speaker**  
-que je trouve vraiment génial
-
-**[00:31:47 - 00:31:49] _speaker**  
-et après moi j'ai
-
-**[00:31:49 - 00:31:51] _speaker**  
-découvert et que j'ai rejoint la communauté
-
-**[00:31:51 - 00:31:53] _speaker**  
-il y a un mois et quelques
-
-**[00:31:53 - 00:31:55] _speaker**  
-donc je suis la chance
-
-**[00:31:55 - 00:31:57] _speaker**  
-de pouvoir participer
-
-**[00:31:57 - 00:31:59] _speaker**  
-et donner un coup de main
-
-**[00:31:59 - 00:32:01] _speaker**  
-à notre premier meetup
-
-**[00:32:01 - 00:32:03] _speaker**  
-présentiel
-
-**[00:32:03 - 00:32:05] _speaker**  
-avec
-
-**[00:32:05 - 00:32:07] _speaker**  
-Siri
-
-**[00:32:07 - 00:32:09] _speaker**  
-et les autres
-
-**[00:32:09 - 00:32:11] _speaker**  
-donc le mois passé
-
-**[00:32:11 - 00:32:13] _speaker**  
-donc une super bonne ambiance
-
-**[00:32:13 - 00:32:15] _speaker**  
-là on continue de creuser
-
-**[00:32:15 - 00:32:17] _speaker**  
-les différents choses
-
-**[00:32:17 - 00:32:19] _speaker**  
-notamment les modèles
-
-**[00:32:19 - 00:32:21] _speaker**  
-moi j'utilise les modèles à tous les principaux
-
-**[00:32:21 - 00:32:23] _speaker**  
-donc les 3
-
-**[00:32:23 - 00:32:25] _speaker**  
-les 3 en tête du classement
-
-**[00:32:25 - 00:32:27] _speaker**  
-qui sont américains
-
-**[00:32:27 - 00:32:29] _speaker**  
-donc
-
-**[00:32:29 - 00:32:31] _speaker**  
-KDP
-
-**[00:32:31 - 00:32:33] _speaker**  
-5.5
-
-**[00:32:33 - 00:32:35] _speaker**  
-Gemini
-
-**[00:32:35 - 00:32:37] _speaker**  
-et puis évidemment le top du top
-
-**[00:32:37 - 00:32:39] _speaker**  
-c'est Claude
-
-**[00:32:39 - 00:32:41] _speaker**  
-et après j'utilise pas mal aussi
-
-**[00:32:41 - 00:32:43] _speaker**  
-les modèles chinois qui sont vraiment
-
-**[00:32:43 - 00:32:45] _speaker**  
-très bons rapports de qualité
-
-**[00:32:45 - 00:32:47] _speaker**  
-prix donc
-
-**[00:32:47 - 00:32:49] _speaker**  
-là il y a QIN
-
-**[00:32:49 - 00:32:51] _speaker**  
-il y a Aminimax
-
-**[00:32:51 - 00:32:53] _speaker**  
-donc ils sont vraiment topism aussi
-
-**[00:32:53 - 00:32:55] _speaker**  
-donc voilà voilà
-
-**[00:32:55 - 00:32:57] _speaker**  
-j'apprends et j'aimerais aussi partager
-
-**[00:32:57 - 00:32:59] _speaker**  
-avec tout le monde ici
-
-**[00:32:59 - 00:33:01] _speaker**  
-super
-
-**[00:33:01 - 00:33:03] _speaker**  
-merci Ben
-
-**[00:33:03 - 00:33:05] _speaker**  
-vas-y Bourratt alors je te laisse
-
-**[00:33:05 - 00:33:07] _speaker**  
-à ta petite présentation rapide
-
-**[00:33:07 - 00:33:09] _speaker**  
-130 secondes en répondant aux questions
-
-**[00:33:09 - 00:33:11] _speaker**  
-donc
-
-**[00:33:11 - 00:33:13] _speaker**  
-non, projet, activité
-
-**[00:33:13 - 00:33:15] _speaker**  
-puis
-
-**[00:33:15 - 00:33:17] _speaker**  
-quel y a tu utilises et qu'est-ce que tu viens chercher
-
-**[00:33:19 - 00:33:21] _speaker**  
-moi nous on se connait mais c'est pour les autres
-
-**[00:33:21 - 00:33:23] _speaker**  
-Bourratt
-
-**[00:33:23 - 00:33:25] _speaker**  
-salut la team désolé
-
-**[00:33:25 - 00:33:27] _speaker**  
-j'ai acheté un peu la bourre
-
-**[00:33:27 - 00:33:29] _speaker**  
-j'ai été
-
-**[00:33:29 - 00:33:31] _speaker**  
-un petit entrepreneur
-
-**[00:33:31 - 00:33:33] _speaker**  
-dans le pays avec une société
-
-**[00:33:33 - 00:33:35] _speaker**  
-présente dans 3 emplacements
-
-**[00:33:35 - 00:33:37] _speaker**  
-dans la sécurité
-
-**[00:33:37 - 00:33:39] _speaker**  
-une brillance rapprochée
-
-**[00:33:39 - 00:33:41] _speaker**  
-j'ai fait un peu d'alarme avec la caméra
-
-**[00:33:41 - 00:33:43] _speaker**  
-voilà, elle a du l'année passée
-
-**[00:33:43 - 00:33:45] _speaker**  
-du coup là je profite
-
-**[00:33:45 - 00:33:47] _speaker**  
-je suis là
-
-**[00:33:47 - 00:33:49] _speaker**  
-pour essayer de comprendre ce que c'est
-
-**[00:33:49 - 00:33:51] _speaker**  
-pas louper le train
-
-**[00:33:51 - 00:33:53] _speaker**  
-pas louper la coche, je suis utilisé
-
-**[00:33:53 - 00:33:55] _speaker**  
-je réalise le potentiel
-
-**[00:33:55 - 00:33:57] _speaker**  
-je me dis si j'avais eu ça à l'époque
-
-**[00:33:57 - 00:33:59] _speaker**  
-quand j'avais créé ma boîte il y a 17 ans
-
-**[00:33:59 - 00:34:01] _speaker**  
-18 ans, bah pfff
-
-**[00:34:01 - 00:34:03] _speaker**  
-je serais fait genre 1000 fois moins chier
-
-**[00:34:03 - 00:34:05] _speaker**  
-je serais gagné plus vite de l'argent
-
-**[00:34:05 - 00:34:07] _speaker**  
-et
-
-**[00:34:07 - 00:34:09] _speaker**  
-je me serais fait beaucoup plus vite
-
-**[00:34:09 - 00:34:11] _speaker**  
-plaisir, voilà
-
-**[00:34:11 - 00:34:13] _speaker**  
-du coup je me souviens
-
-**[00:34:13 - 00:34:15] _speaker**  
-de ce que ça avait expliqué
-
-**[00:34:15 - 00:34:17] _speaker**  
-et pas qui galéreront moi à utiliser
-
-**[00:34:17 - 00:34:19] _speaker**  
-ok, parfait merci
-
-**[00:34:19 - 00:34:21] _speaker**  
-Gilles
-
-**[00:34:23 - 00:34:25] _speaker**  
-je sais pas si t'as ton visage là
-
-**[00:34:25 - 00:34:27] _speaker**  
-bonsoir tout le monde
-
-**[00:34:27 - 00:34:29] _speaker**  
-donc moi je suis un des seigneurs de la bande
-
-**[00:34:29 - 00:34:31] _speaker**  
-je suis heureux d'être
-
-**[00:34:31 - 00:34:33] _speaker**  
-parmi vous
-
-**[00:34:33 - 00:34:35] _speaker**  
-par
-
-**[00:34:35 - 00:34:37] _speaker**  
-Coutbol, connaissant des collègues
-
-**[00:34:37 - 00:34:39] _speaker**  
-de formation de Cyril
-
-**[00:34:39 - 00:34:41] _speaker**  
-je ne pense pas qu'il soit là ce soir
-
-**[00:34:41 - 00:34:43] _speaker**  
-j'ai été
-
-**[00:34:43 - 00:34:45] _speaker**  
-effectivement
-
-**[00:34:45 - 00:34:47] _speaker**  
-informé de ce club
-
-**[00:34:47 - 00:34:49] _speaker**  
-et je pense que effectivement ces technologies c'est simple
-
-**[00:34:49 - 00:34:51] _speaker**  
+**[01:18:04 - 01:18:21] 1-redsun**  
 c'est
 
-**[00:34:51 - 00:34:53] _speaker**  
-pour plus révolutionnaire
+**[01:18:34 - 01:19:04] 1-redsun**  
+C'est la première fois qu'il y a des gens qui sont en train de faire la même chose qu'il y a des gens qui sont en train de faire la même chose qu'il y a des gens qui sont en train de faire la même chose que il y a des gens qui sont en train de faire la même chose que il y a des gens qui sont en train de faire la même chose que il y a des gens qui sont en train de faire la même chose que il y a des gens qui sont en train de faire la même chose que il y a des gens qui sont en train de faire la même chose que il y a des gens qui sont en train de faire la même chose que il y a des gens qui sont en train de faire la même chose que il y a des gens qui sont en train de faire la même chose que il y a des gens qui sont en train de faire la même chose que il y a des gens qui sont en train de faire la même chose que il y a des gens qui sont en train de faire la même chose que il y a
 
-**[00:34:53 - 00:34:55] _speaker**  
-que la rivière internet dans les entreprises
+**[01:19:04 - 01:19:17] 1-redsun**  
+des gens qui sont en train de faire la même chose que il y a des gens qui sont en train de faire la même chose que il yaosc
 
-**[00:34:55 - 00:34:57] _speaker**  
-il y a 20 ans pour avoir connu cette époque
+**[01:19:17 - 01:19:17] 1-redsun**  
+Ça va
 
-**[00:34:57 - 00:34:59] _speaker**  
-je suis un peu néofe
+**[01:19:17 - 01:19:18] 1-redsun**  
+En fait
 
-**[00:34:59 - 00:35:01] _speaker**  
-j'ai toujours adoré la IT
+**[01:19:18 - 01:19:35] 1-redsun**  
+Alors, il y a juste une question, j'en profite de Rien, parce que j'avais pas vu là, et
 
-**[00:35:01 - 00:35:03] _speaker**  
-je ne sais pas programmer en piton
+**[01:19:35 - 01:19:40] 1-redsun**  
+une VM virtual machine sur un petit home server sous Proxmox, si t'arrives à faire
 
-**[00:35:03 - 00:35:05] _speaker**  
-je suis pas
+**[01:19:40 - 01:19:45] 1-redsun**  
+ça, Rien, fais-le tout de suite, c'est pour moi le top, ça t'est tranquille, c'est
 
-**[00:35:05 - 00:35:07] _speaker**  
-j'ai conduit des projets informatiques
+**[01:19:45 - 01:19:49] 1-redsun**  
+compliqué à faire, par contre c'est pas pour tout le monde, tu vois, tu as l'air de
 
-**[00:35:07 - 00:35:09] _speaker**  
-mais je suis pas du tout un técos
+**[01:19:49 - 01:19:54] 1-redsun**  
+toucher un peu, donc tu peux t'amuser un peu, Raspberry Pi très bien aussi, pourquoi pas,
 
-**[00:35:09 - 00:35:11] _speaker**  
-pour situer mon niveau
+**[01:19:54 - 01:19:59] 1-redsun**  
+mais tu ne ferais rien de local, par contre, quelle sera la configuration minimale en
 
-**[00:35:11 - 00:35:13] _speaker**  
-par contre je suis très curieux et je pense que effectivement
+**[01:19:59 - 01:20:03] 1-redsun**  
+RAM Core, de toute façon, j'ai marre, si t'as moins de 16GB, tu vas quand même bien
 
-**[00:35:13 - 00:35:15] _speaker**  
-le virage de l'IA se fait
+**[01:20:03 - 01:20:09] 1-redsun**  
+galérer, ou même Nemotron, qui est excellent aussi, d'ailleurs celui de Nvidia, c'est
 
-**[00:35:15 - 00:35:17] _speaker**  
-aussi à travers l'opencloth
+**[01:20:09 - 01:20:16] 1-redsun**  
+un petit modèle local, Open Source, qui est très très bon aussi, et en dessous de 16GB,
 
-**[00:35:17 - 00:35:19] _speaker**  
-qui est une technologie qui va révolutionner quand même pas mal de choses
+**[01:20:16 - 01:20:20] 1-redsun**  
+donc sur le Raspberry Pi, je ne sais pas comment il a, mais à mon avis c'est moins de 16GB
 
-**[00:35:19 - 00:35:21] _speaker**  
-je pense donc
+**[01:20:20 - 01:20:25] 1-redsun**  
+en même sens, enfin, de ce que je me rappelle des Raspberry Pi, on s'adapte d'un petit
 
-**[00:35:21 - 00:35:23] _speaker**  
-j'ai une entreprise de conseil
+**[01:20:25 - 01:20:33] 1-redsun**  
+moment, juste pour la petite histoire, ça c'est Peter, pour ceux qui ne connaissent
 
-**[00:35:23 - 00:35:25] _speaker**  
-en termes de gouvernance
+**[01:20:33 - 01:20:38] 1-redsun**  
+pas, c'est le Core Developer d'OpenClo, juste regarder le nombre de trucs qu'il a
 
-**[00:35:25 - 00:35:27] _speaker**  
-auprès des différents PME
+**[01:20:38 - 01:20:43] 1-redsun**  
+fait avant de faire OpenClo, qui était déjà multimillionnaire avant de faire OpenClo,
 
-**[00:35:27 - 00:35:29] _speaker**  
-Suisse et ailleurs
+**[01:20:43 - 01:20:49] 1-redsun**  
+il a fait tous ces trucs-là avant de coder OpenClo, donc ça ne vient pas nulle part,
 
-**[00:35:29 - 00:35:31] _speaker**  
-et je m'aperçois
+**[01:20:49 - 01:20:56] 1-redsun**  
+c'est un aboutissement de gros trucs, et puis maintenant, il a des très très gros supports,
 
-**[00:35:31 - 00:35:33] _speaker**  
-que les agents IA
+**[01:20:56 - 01:21:02] 1-redsun**  
+et ce qui est très intéressant aussi, c'est que c'est une fondation OpenClo, donc c'est
 
-**[00:35:33 - 00:35:35] _speaker**  
-c'est tout simplement l'avenir
+**[01:21:02 - 01:21:11] 1-redsun**  
+complètement une fondation, ça ne va pas se transformer en OpenAI V2, et normalement ça va
 
-**[00:35:35 - 00:35:37] _speaker**  
-je vois dans le terrain
+**[01:21:11 - 01:21:20] 1-redsun**  
+rester, enfin, j'espère que je ne suis pas en train de porter là, mais lui il s'est
 
-**[00:35:37 - 00:35:39] _speaker**  
-concrètement que
+**[01:21:20 - 01:21:27] 1-redsun**  
+fait racheter, lui il s'est fait racheter, il ont fait un milliard a priori parce qu'on a compris
 
-**[00:35:39 - 00:35:41] _speaker**  
-nous sommes
+**[01:21:27 - 01:21:33] 1-redsun**  
+des trucs délirants, mais lui son deal c'était que ça reste Open Source et de créer une
 
-**[00:35:41 - 00:35:43] _speaker**  
-tous ceux qui connaissent les agents IA
+**[01:21:33 - 01:21:38] 1-redsun**  
+fondation, et a priori, c'est aussi un truc très très important aujourd'hui, parce que si autant
 
-**[00:35:43 - 00:35:45] _speaker**  
-et plus particulièrement l'opencloth
+**[01:21:38 - 01:21:43] 1-redsun**  
+de développeurs chinois notamment qui adore Open Source et qui sont à fond là-dedans,
 
-**[00:35:45 - 00:35:47] _speaker**  
-à des années-lumière de ce qu'on peut voir
+**[01:21:43 - 01:21:47] 1-redsun**  
+et ils participent à ça, ce n'est pas pour rien, c'est parce que justement tout le monde peut
 
-**[00:35:47 - 00:35:49] _speaker**  
-dans les entreprises d'aujourd'hui
+**[01:21:47 - 01:21:56] 1-redsun**  
+en profiter, et puis il y a des très bons codeurs aussi, tout le monde entier peut le faire. Alors
 
-**[00:35:49 - 00:35:51] _speaker**  
-dans le commun des mortels si je peux dire
+**[01:21:56 - 01:22:01] 1-redsun**  
+attends, j'ai déjà des VM qui tournent, je ferai ça ce soir, pour l'instant je fais le compromis sur
 
-**[00:35:51 - 00:35:53] _speaker**  
-et je pense que cette avance-là
+**[01:22:01 - 01:22:05] 1-redsun**  
+les modèles locaux, le temps de tester et prendre en main au pire, j'ai aussi des modèles frites
 
-**[00:35:53 - 00:35:55] _speaker**  
-il faut la conserver, il faut l'utiliser
+**[01:22:05 - 01:22:11] 1-redsun**  
+sur OpenRouter, ouais voilà, c'est une très bonne idée, ça ce qui dit Marianne, je peux vous montrer
 
-**[00:35:55 - 00:35:57] _speaker**  
-pour nos business
+**[01:22:11 - 01:22:18] 1-redsun**  
+OpenRouter, alors moi j'ai un petit compte OpenRouter que j'utilise de temps en temps pour faire des
 
-**[00:35:57 - 00:35:59] _speaker**  
-parce qu'effectivement comme disait mon prédécesseur
+**[01:22:18 - 01:22:25] 1-redsun**  
+tests, et là vous avez des modèles frites en fait, ah bah Baidu, Kiffan, voilà, celui là il est gratos,
 
-**[00:35:59 - 00:36:01] _speaker**  
-si on a vu ça il y a
+**[01:22:25 - 01:22:29] 1-redsun**  
+alors il y a beaucoup de restrictions, mais au moins ça vous permet de tester OpenClo,
 
-**[00:36:01 - 00:36:03] _speaker**  
-10-20 ans
+**[01:22:29 - 01:22:38] 1-redsun**  
+de plugger ce genre de trucs, et puis ensuite de tester OpenClo d'ailleurs, si on tape OpenClo sur
 
-**[00:36:03 - 00:36:05] _speaker**  
-ce serait loin d'être la même chose
+**[01:22:38 - 01:22:47] 1-redsun**  
+OpenRouter, Clo, il me semblait, alors ils ont encore changé l'interface, il y a Hermès,
 
-**[00:36:05 - 00:36:07] _speaker**  
-et
+**[01:22:47 - 01:22:57] 1-redsun**  
+un concurrent qui est très très en vogue en ce moment aussi d'ailleurs, j'ai juste idée de retrouver
 
-**[00:36:07 - 00:36:09] _speaker**  
-là c'est un levier énorme
+**[01:22:57 - 01:23:05] 1-redsun**  
+ce qu'il y avait, on voyait les modèles les plus utilisés en fonction, ah bah voilà c'est ça,
 
-**[00:36:09 - 00:36:11] _speaker**  
-donc très curieux
+**[01:23:05 - 01:23:10] 1-redsun**  
+donc les deux, la Hermès agent, il commence à prendre du poids, le truc qui est très bien aussi,
 
-**[00:36:11 - 00:36:13] _speaker**  
-je fais
+**[01:23:10 - 01:23:17] 1-redsun**  
+donc là vous avez les modèles les plus utilisés, donc sur OpenRouter c'est JLM5 Turbo,
 
-**[00:36:13 - 00:36:15] _speaker**  
-mais j'ai mon mac mini
+**[01:23:17 - 01:23:24] 1-redsun**  
+minimax 2.7, Clo de Sonet K6 et Nemo Tron, super, donc c'est ce qu'on a parlé,
 
-**[00:36:15 - 00:36:17] _speaker**  
-j'ai pas choqué avant qu'elle ait plu
+**[01:23:24 - 01:23:30] 1-redsun**  
+et donc là c'est intéressant de voir ce que les autres utilisent, que modèles en fonction des
 
-**[00:36:17 - 00:36:19] _speaker**  
-j'ai installé mon opencloth
+**[01:23:30 - 01:23:34] 1-redsun**  
+modes, ils changent le modèle, ils utilisent plutôt autre chose, et je crois qu'il y avait
 
-**[00:36:19 - 00:36:21] _speaker**  
-j'y vais tranquillement
+**[01:23:34 - 01:23:42] 1-redsun**  
+Nemo Tron free sur OpenRouter, je sais pas s'il est toujours free, ouais il est là, on peut utiliser
 
-**[00:36:21 - 00:36:23] _speaker**  
-mais à chaque fois que je fais un petit progrès
+**[01:23:42 - 01:23:50] 1-redsun**  
+celui là, tu installes ton OpenClo, tu mets Nemo Tron mini free, tu plugs, tu dis OpenRouter de faire
 
-**[00:36:23 - 00:36:25] _speaker**  
-je suis époustouflé
+**[01:23:50 - 01:23:59] 1-redsun**  
+la connexion et c'est parti quoi, OpenRouter, OpenClo, voilà un petit peu, attend je regarde
 
-**[00:36:25 - 00:36:27] _speaker**  
-donc vivement des prochains progrès
+**[01:23:59 - 01:24:03] 1-redsun**  
+juste, gros conseil OpenRouter, ajouter 10$ de crédit, même si vous utilisez que les modèles
 
-**[00:36:27 - 00:36:29] _speaker**  
-voilà je vous laisse la parole
+**[01:24:03 - 01:24:07] 1-redsun**  
+gratuits, ça fait passer les quotas, de voir enquête par jour à 1000A, ça je savais pas,
 
-**[00:36:29 - 00:36:31] _speaker**  
-merci Gilles
+**[01:24:07 - 01:24:15] 1-redsun**  
+ok, et on a moins d'évoire 429, il faut voir comme OpenRouter qui vérifie que c'est pas du free
 
-**[00:36:31 - 00:36:33] _speaker**  
-j'ai pas si t'as un micro
+**[01:24:15 - 01:24:20] 1-redsun**  
+loader, ah ouais, pas con ça, ça c'est intéressant, rien, ils le disent en gros, même si vous
 
-**[00:36:33 - 00:36:35] _speaker**  
-j'ai des...
+**[01:24:20 - 01:24:24] 1-redsun**  
+utilisez les versions gratuits, il faut mettre 10 balles sur OpenRouter, comme ça vous êtes tranquille
 
-**[00:36:35 - 00:36:37] _speaker**  
-pas si il est là
+**[01:24:24 - 01:24:31] 1-redsun**  
+par rapport à l'utilisation des modèles free quoi, donc je sais pas si on a parlé un peu de
 
-**[00:36:37 - 00:36:39] _speaker**  
-ici je suis là
+**[01:24:31 - 01:24:38] 1-redsun**  
+Gemma ou là c'est déjà 21h12, on a déjà, donc voilà on a fait déjà la démo en live en fait,
 
-**[00:36:39 - 00:36:41] _speaker**  
-oui donc ce que vous m'entendez
+**[01:24:38 - 01:24:44] 1-redsun**  
+ah oui je voulais vous parler d'un autre truc, mais bon normalement ça fait jusqu'à 21h,
 
-**[00:36:41 - 00:36:43] _speaker**  
-bonjour à tous
+**[01:24:44 - 01:24:48] 1-redsun**  
+mais souvent on déborde un petit peu, donc si vous voulez partir, vous pouvez partir,
 
-**[00:36:43 - 00:36:45] _speaker**  
-bonjour
+**[01:24:48 - 01:24:52] 1-redsun**  
+pas de soucis, ce qui veut le rester, je peux montrer un peu de trois trucs, moi je vais montrer
 
-**[00:36:45 - 00:36:47] _speaker**  
-donc Jean-David
+**[01:24:52 - 01:24:56] 1-redsun**  
+un petit truc intéressant tant que j'ai l'écran, puis si vous avez des trucs à montrer,
 
-**[00:36:47 - 00:36:49] _speaker**  
-j'ai aussi une cinquantaine d'années
+**[01:24:56 - 01:24:59] 1-redsun**  
+hésitez pas à me demander, moi je vous passe l'écran et vous pouvez montrer,
 
-**[00:36:49 - 00:36:51] _speaker**  
-donc un peu senior
+**[01:24:59 - 01:25:05] 1-redsun**  
+donc juste un petit peu de contexte, comme ça vous allez voir un peu ce que moi j'ai essayé de faire,
 
-**[00:36:51 - 00:36:53] _speaker**  
-sur la technologie
+**[01:25:05 - 01:25:12] 1-redsun**  
+donc là c'est des mechis, et mechis c'est un logiciel qui permet avec des promes de créer des
 
-**[00:36:53 - 00:36:55] _speaker**  
-très junior
+**[01:25:12 - 01:25:17] 1-redsun**  
+modèles 3D, autant vous dire que les modèles 3D sont ultra bonnes qualités, c'est dingot quoi,
 
-**[00:36:55 - 00:36:57] _speaker**  
-moi j'ai
+**[01:25:18 - 01:25:23] 1-redsun**  
+maintenant on arrive à avoir un truc, ouais tu peux les imprimer en 3D,
 
-**[00:36:57 - 00:36:59] _speaker**  
-l'idée d'opencloth
+**[01:25:23 - 01:25:28] 1-redsun**  
+il y a tout le process de création, tu peux même les animer,
 
-**[00:36:59 - 00:37:01] _speaker**  
-il semble que ce soit la révolution
+**[01:25:28 - 01:25:35] 1-redsun**  
+là j'ai fait récemment un cours là dessus, alors attend c'est là où c'est intéressant,
 
-**[00:37:01 - 00:37:03] _speaker**  
-donc il faut prendre la vague
+**[01:25:35 - 01:25:40] 1-redsun**  
+en fait c'est un site qui permet de faire des modèles 3D, donc là j'ai fait un astronaute,
 
-**[00:37:03 - 00:37:05] _speaker**  
-au moment
+**[01:25:40 - 01:25:49] 1-redsun**  
+j'ai fait plein de trucs, voilà comme ça pour me marrer, et ce qui est super intéressant c'est
 
-**[00:37:05 - 00:37:07] _speaker**  
-l'idée c'est
+**[01:25:49 - 01:25:52] 1-redsun**  
+que tu peux les animer également, donc là j'ai fait une version animée,
 
-**[00:37:07 - 00:37:09] _speaker**  
-de connaître la technologie
+**[01:25:52 - 01:25:58] 1-redsun**  
+donc tu peux les intégrer dans les moteurs de jeu aussi, donc tu peux faire des exportations et tu
 
-**[00:37:09 - 00:37:11] _speaker**  
-donc moi j'utilise bien installé opencloth
+**[01:25:58 - 01:26:04] 1-redsun**  
+peux les exporter avec Blender, Godot, Unity, Unreal, Maya ou 3DS, Roblox aussi,
 
-**[00:37:11 - 00:37:13] _speaker**  
-sur Roastinger, VPS
+**[01:26:05 - 01:26:13] 1-redsun**  
+donc tu peux créer en imprimant avec des images, là j'ai fait ça aussi avec une image GPT2 et là
 
-**[00:37:13 - 00:37:15] _speaker**  
-et puis les modèles que j'utilise
+**[01:26:13 - 01:26:21] 1-redsun**  
+je monte l'image, ça c'est ce que j'ai fait comme image sur GPT2, image GPT2, image, voilà,
 
-**[00:37:15 - 00:37:17] _speaker**  
-c'est essentiellement
+**[01:26:21 - 01:26:27] 1-redsun**  
+et le résultat il est là quoi, c'est assez barge quand même, franchement, moi j'ai fait de la 3D
 
-**[00:37:17 - 00:37:19] _speaker**  
-OpenAI
+**[01:26:27 - 01:26:32] 1-redsun**  
+pendant 15 ans et franchement je suis un peu sur le cul là, il y a plein qui vont perdre leur boulot,
 
-**[00:37:19 - 00:37:21] _speaker**  
-ChargeBT 5.5
+**[01:26:33 - 01:26:42] 1-redsun**  
+c'est ça que je comprends, mais ce qui est assez fou, en fait c'est fait pour ça,
 
-**[00:37:21 - 00:37:23] _speaker**  
-ou 5.4 mini
+**[01:26:42 - 01:26:47] 1-redsun**  
+c'est à dire tu peux faire ton pont et puis tu peux l'envoyer sur Unity qui a un moteur de création
 
-**[00:37:23 - 00:37:25] _speaker**  
-parce que peut-être on pourra en discuter
+**[01:26:47 - 01:26:51] 1-redsun**  
+de jeu vidéo ou Unreal Engine qui est aussi un moteur et puis là en fait tu envoies ton modèle
 
-**[00:37:25 - 00:37:27] _speaker**  
-j'en parle quand même pas mal de token
+**[01:26:51 - 01:26:58] 1-redsun**  
+là-bas, le setup en rigging c'est à dire tu vas le paramétrer tout son squelette et ensuite tu
 
-**[00:37:27 - 00:37:29] _speaker**  
-pourtant je suis en haute
+**[01:26:58 - 01:27:05] 1-redsun**  
+balance dans ton moteur de jeu puis t'as un PNG ou un personnage joueur, mais laisse tomber,
 
-**[00:37:29 - 00:37:31] _speaker**  
-mais ça va vite
+**[01:27:05 - 01:27:15] 1-redsun**  
+tu pètes les blonds, parce que là il suffit maintenant de tâffer un peu puis tu peux faire des
 
-**[00:37:31 - 00:37:33] _speaker**  
-arrive à faire mes abonnements
+**[01:27:15 - 01:27:20] 1-redsun**  
+trucs de fou et puis c'est pas tout parce que là moi je me suis dit bah avec mes élèves on a
 
-**[00:37:33 - 00:37:35] _speaker**  
-arrive à faire des vendeurs
+**[01:27:20 - 01:27:26] 1-redsun**  
+fait ça je dis bah attend on va se marrer un peu et bah en fait il y a une autre chose là dedans
 
-**[00:37:35 - 00:37:37] _speaker**  
-20$ en un mois
+**[01:27:26 - 01:27:29] 1-redsun**  
+c'est que tu peux plugger ça et d'ailleurs c'est disponible aussi dans la pays, tu peux le
 
-**[00:37:37 - 00:37:39] _speaker**  
-je n'aime pas en un mois
+**[01:27:29 - 01:27:33] 1-redsun**  
+mettre en scène, c'est à dire tu peux mettre ton modèle 3D, tu vas le mettre en scène,
 
-**[00:37:39 - 00:37:41] _speaker**  
-voilà
+**[01:27:33 - 01:27:41] 1-redsun**  
+tu peux utiliser nano banana où j'ai pété image, ok et en fait donc là tu mets en scène,
 
-**[00:37:41 - 00:37:43] _speaker**  
-c'est pour ça que ce n'est pas des trucs très
+**[01:27:41 - 01:27:45] 1-redsun**  
+tu tape le prompt de ce que tu veux comme background, je vous la fais vite pour pas prendre trop de
 
-**[00:37:43 - 00:37:45] _speaker**  
-c'était envoyer un petit e-mail
+**[01:27:45 - 01:27:54] 1-redsun**  
+temps, tu génères, tac voilà et ensuite là où c'est trop trop incroyable c'est que eux ils ont
 
-**[00:37:45 - 00:37:47] _speaker**  
-via agent mail
+**[01:27:54 - 01:28:02] 1-redsun**  
+intégré Seedance 2 donc ce qui parlait avant et moi j'ai amusé à faire des vidéos avec mes
 
-**[00:37:47 - 00:37:49] _speaker**  
-enfin bref
+**[01:28:02 - 01:28:07] 1-redsun**  
+objets 3D donc là c'est une vidéo que j'ai réalisée à partir de l'astronaute que vous avez
 
-**[00:37:49 - 00:37:51] _speaker**  
-des choses relativement simples
+**[01:28:07 - 01:28:14] 1-redsun**  
+vu en 3D donc le contexte est complètement conservé, je sais pas si vous avez le son je pense pas
 
-**[00:37:51 - 00:37:53] _speaker**  
-les tokens je les crains
+**[01:28:14 - 01:28:29] 1-redsun**  
+on s'en fout c'est sur Mars, ok et puis il y a un de mes élèves
 
-**[00:37:53 - 00:37:55] _speaker**  
-donc peut-être que je fais quelque chose
+**[01:28:29 - 01:28:38] 1-redsun**  
+franchement c'est pas plus que ça et puis quand ils nous disaient Seedance c'est la révolution
 
-**[00:37:55 - 00:37:57] _speaker**  
-qu'il ne faudrait pas
+**[01:28:38 - 01:28:43] 1-redsun**  
+Ben il a complètement raison c'est un modèle là on les voit Seedance 2, Seedance 2 Fast,
 
-**[00:37:57 - 00:37:59] _speaker**  
-j'ai aussi
+**[01:28:43 - 01:28:48] 1-redsun**  
+VO3, Kling et Kling est très bien aussi et beaucoup moins cher parce que ça coûte une
 
-**[00:38:01 - 00:38:03] _speaker**  
-j'ai essayé de modéliser quelques agents
+**[01:28:48 - 01:28:55] 1-redsun**  
+blindasse, c'est 5 balles la plus vidéo là, voilà tu veux,
 
-**[00:38:03 - 00:38:05] _speaker**  
-plusieurs agents d'essayer d'avoir
+**[01:29:00 - 01:29:06] 1-redsun**  
+alors la vidéo là coûte environ, je sais pas comment quantifier ça, c'est difficile c'est
 
-**[00:38:05 - 00:38:07] _speaker**  
-comme on voit un peu partout des teams
+**[01:29:06 - 01:29:15] 1-redsun**  
+des tokens mais en gros entre 3 et 5 quoi et puis un café et là il y a mes élèves ils
 
-**[00:38:07 - 00:38:09] _speaker**  
-où il y a plusieurs agents qui font
+**[01:29:15 - 01:29:21] 1-redsun**  
+travaillent sur une marque avec un crocodile donc création de tu vois de trucs et voilà il
 
-**[00:38:09 - 00:38:11] _speaker**  
-différentes tâches
+**[01:29:21 - 01:29:25] 1-redsun**  
+est juste là pas qui vole au début mais ça on n'a pas pu corriger et puis en gros il veut
 
-**[00:38:11 - 00:38:13] _speaker**  
-j'ai mis en place
+**[01:29:25 - 01:29:30] 1-redsun**  
+l'utiliser pour sa marque de vêtements qui est un crocodile spécial qui est gentil je sais pas quoi
 
-**[00:38:13 - 00:38:15] _speaker**  
-Mission Control
+**[01:29:30 - 01:29:41] 1-redsun**  
+il y en a déjà qu'on a déjà essayé et puis là il y a un gars qui faisait des bijoux et puis on
 
-**[00:38:15 - 00:38:17] _speaker**  
-j'ai vu que ce truc-là
+**[01:29:41 - 01:29:46] 1-redsun**  
+a fait ça ensemble donc là franchement la qualité moi je pète un plomb quoi, ceux qui ont fait de la
 
-**[00:38:17 - 00:38:19] _speaker**  
-ça pompe régulièrement
+**[01:29:46 - 01:29:51] 1-redsun**  
+vidéo qui savent un peu combien ça coûte ce genre de trucs, ça ça coûte cher
 
-**[00:38:19 - 00:38:21] _speaker**  
-du token
+**[01:29:51 - 01:30:02] 1-redsun**  
+là, ouais c'est ça
 
-**[00:38:21 - 00:38:23] _speaker**  
-je ne sais pas où la fuite vient
+**[01:30:12 - 01:30:15] 1-redsun**  
+exactement, là t'as tout complété c'est bon
 
-**[00:38:23 - 00:38:25] _speaker**  
-mais voilà
+**[01:30:15 - 01:30:25] 1-redsun**  
+exactement mais tu peux garder le contexte et conserver aussi ton personnage tu vas tu
 
-**[00:38:25 - 00:38:27] _speaker**  
-il y a une fuite quelque part
+**[01:30:25 - 01:30:31] 1-redsun**  
+créer ton perso et du coup tu es dans tous les angles peu importe il est en haut en bas à gauche à
 
-**[00:38:27 - 00:38:29] _speaker**  
-je pense
+**[01:30:31 - 01:30:38] 1-redsun**  
+droite tout sera cohérent pour la vidéo tu vois donc là je me suis... alors attend je viens je
 
-**[00:38:29 - 00:38:31] _speaker**  
-la revise est cool
+**[01:30:38 - 01:30:39] 1-redsun**  
+m'enjouis celui là parce que c'est démarrant
 
-**[00:38:31 - 00:38:33] _speaker**  
-voilà c'est pour ça que
+**[01:30:44 - 01:30:49] 1-redsun**  
+donc là je me suis marré à faire ça et après je s'explique pourquoi c'est un dernier copainclaw
 
-**[00:38:33 - 00:38:35] _speaker**  
-donc super content de faire partie
+**[01:31:00 - 01:31:07] 1-redsun**  
+bah tu fais ce que tu veux en fait là je me suis amusé à faire un petit perso en 3D pour c'est
 
-**[00:38:35 - 00:38:37] _speaker**  
-aussi du groupe
+**[01:31:07 - 01:31:10] 1-redsun**  
+une démo en fait c'est rien de plus qu'une démo mais ce qui est incroyable c'est que là dedans
 
-**[00:38:37 - 00:38:39] _speaker**  
-et puis en plus
+**[01:31:10 - 01:31:15] 1-redsun**  
+il y a un petit truc qui s'appelle l'API vous savez ce que c'est une API c'est donc là en fait
 
-**[00:38:39 - 00:38:41] _speaker**  
-au lieu de
+**[01:31:15 - 01:31:23] 1-redsun**  
+alors et justement tu peux moi ce que j'ai fait j'ai généré une clé API je l'ai balancé sur
 
-**[00:38:41 - 00:38:43] _speaker**  
-voir les tutoriels
+**[01:31:23 - 01:31:28] 1-redsun**  
+openclaw et du coup cette vidéo que vous avez vu là elle est 100% créée par openclaw
 
-**[00:38:43 - 00:38:45] _speaker**  
-sur youtube et puis essayer de les mettre
+**[01:31:28 - 01:31:40] 1-redsun**  
+là vous me suivez là où je me dis donc du coup tu peux créer de la vidéo à la demande et du
 
-**[00:38:45 - 00:38:47] _speaker**  
-en place
+**[01:31:40 - 01:31:47] 1-redsun**  
+coup tu peux créer des moi j'ai utilisé ça pour faire un truc sur mon LinkedIn pour faire de voilà
 
-**[00:38:47 - 00:38:49] _speaker**  
-de voir aussi des vraies personnes dans la vraie vie
+**[01:31:47 - 01:31:52] 1-redsun**  
+tu peux faire le promo tu peux faire des trucs enfin moi je fais ça pour tester mais en fait
 
-**[00:38:49 - 00:38:51] _speaker**  
-avec des vrais cas
+**[01:31:52 - 01:31:57] 1-redsun**  
+t'as mille mille possibilités si tu fais de la vente de produits tu peux te faire des trucs super
 
-**[00:38:51 - 00:38:53] _speaker**  
-c'est aussi super
+**[01:31:57 - 01:32:04] 1-redsun**  
+intéressants quoi donc voilà use case qu'on crée
 
-**[00:38:53 - 00:38:55] _speaker**  
-super
+**[01:32:04 - 01:32:06] 1-redsun**  
+3
 
-**[00:38:55 - 00:38:57] _speaker**  
-valorisant
+**[01:32:19 - 01:32:22] 1-redsun**  
+j'ai l'air obligée
 
-**[00:38:57 - 00:38:59] _speaker**  
-enfin épanouissant
+**[01:32:22 - 01:32:42] 1-redsun**  
+Ouais mais le problème c'est que ça va jamais être la même qualité quoi, crée moi une
 
-**[00:38:59 - 00:39:01] _speaker**  
-super d'être faire partie de ce groupe
+**[01:32:42 - 01:32:47] 1-redsun**  
+roll extère, on va faire vraiment le prompt qu'il faut jamais faire et puis j'ai dit les méchissistes.
 
-**[00:39:01 - 00:39:03] _speaker**  
-et puis de se voir de temps en temps
+**[01:32:47 - 01:32:59] 1-redsun**  
+Ouais mais déjà on va voir, tu vas comprendre pourquoi on n'est pas encore là mais on va y arriver
 
-**[00:39:03 - 00:39:05] _speaker**  
-le vrai
+**[01:32:59 - 01:33:04] 1-redsun**  
+gentiment, c'est qu'après tu peux aussi, parce qu'en impression 3D aussi tu vas avoir des pertes
 
-**[00:39:05 - 00:39:07] _speaker**  
-ok
+**[01:33:04 - 01:33:10] 1-redsun**  
+de qualité importante aussi et puis lui il va générer un mesh qui est très bien franchement
 
-**[00:39:07 - 00:39:09] _speaker**  
-merci
+**[01:33:10 - 01:33:11] 1-redsun**  
+mais qui n'est pas parfait.
 
-**[00:39:09 - 00:39:11] _speaker**  
-en fait aussi
+**[01:34:10 - 01:34:27] 1-redsun**  
+Alors si ça vous intéresse là en ce moment c'est un dollar l'abonnement, si vous voulez tester pour
 
-**[00:39:11 - 00:39:13] _speaker**  
-juste un petit parentage
+**[01:34:27 - 01:34:34] 1-redsun**  
+vous marrer, c'est pas du tout une obligation, je peux vous le partager comme ça parce que là
 
-**[00:39:13 - 00:39:15] _speaker**  
-parce que comme je fais le transcript
+**[01:34:34 - 01:34:39] 1-redsun**  
+en ce moment il y a les trois ans et ça coûte un dollar mais je n'ai pas du tout obligé de tester
 
-**[00:39:15 - 00:39:17] _speaker**  
-après j'aurai une petite fille sur chacun d'entre vous
+**[01:34:39 - 01:34:45] 1-redsun**  
+ou quoi mais c'est ceux qui s'intéressent et là on va pouvoir regarder ton résultat de montre et tu
 
-**[00:39:17 - 00:39:19] _speaker**  
-je saurais qu'il fait quoi
+**[01:34:45 - 01:35:06] 1-redsun**  
+vas comprendre. C'est qu'un seconde, c'est très léger, c'est du MP4, c'est généré après
 
-**[00:39:19 - 00:39:21] _speaker**  
-et c'est vachement utile dans la comune
+**[01:35:06 - 01:35:13] 1-redsun**  
+l'emploi, on n'a rien de spécial, tu vas lui demander d'exécuter, l'exécute termine. C'est juste que
 
-**[00:39:21 - 00:39:23] _speaker**  
-si jamais il y a quelqu'un qui cherche
+**[01:35:13 - 01:35:18] 1-redsun**  
+je trouve ça cool de pouvoir, en fait c'est comme rajouter une corde à l'arc d'opencloth,
 
-**[00:39:23 - 00:39:25] _speaker**  
-quelque chose je peux dire
+**[01:35:18 - 01:35:22] 1-redsun**  
+qui peut faire des siqwabs, ça il peut le faire, il peut faire des documents, ça il peut le faire.
 
-**[00:39:25 - 00:39:27] _speaker**  
-il y a Gilly il fait ça
+**[01:35:22 - 01:35:37] 1-redsun**  
+D'ailleurs ce document là que vous voyez là, qui nous dit qu'on a repèrement serré,
 
-**[00:39:27 - 00:39:29] _speaker**  
-il y a Ben il fait ça
+**[01:35:37 - 01:35:47] 1-redsun**  
+exactement c'est tout généré, tout ça c'est généré par opencloth et puis là après à la
 
-**[00:39:29 - 00:39:31] _speaker**  
-c'est un peu l'idée
+**[01:35:47 - 01:35:51] 1-redsun**  
+fin de la session, là vous avez les participants qui étaient là la dernière fois, vous saurez
 
-**[00:39:31 - 00:39:33] _speaker**  
-là c'est la parole 30 secondes pour présenter
+**[01:35:51 - 01:35:59] 1-redsun**  
+qui ils sont et le transcript est fait via notre ami l'ours là qui s'appelle je ne sais plus comment
 
-**[00:39:33 - 00:39:35] _speaker**  
-vas-y
+**[01:35:59 - 01:36:04] 1-redsun**  
+il s'appelle, Craig qui est là et qui nous écoute et en fait il a un train d'écouter tout ce qu'on
 
-**[00:39:35 - 00:39:37] _speaker**  
-oui
+**[01:36:04 - 01:36:11] 1-redsun**  
+dit et ensuite je ferai un transcript de tout ça et vous vous allez voir les logiciels qu'on a été
 
-**[00:39:37 - 00:39:39] _speaker**  
-moi je viens du
+**[01:36:11 - 01:36:14] 1-redsun**  
+utilisé et tout et c'est tout lui qui va se démerder avec ça, moi je ne fais rien.
 
-**[00:39:39 - 00:39:41] _speaker**  
-régulier du meetup
+**[01:36:21 - 01:36:26] 1-redsun**  
+Alors après c'est vrai que je n'ai pas pensé à ça, il ne voulait pas que je vous mette vos noms,
 
-**[00:39:41 - 00:39:43] _speaker**  
-le bitcoin meetup de Genevre
+**[01:36:26 - 01:36:31] 1-redsun**  
+il faut me dire que ça je ne vous met pas, mais c'est pas mal quand même de savoir qui fait quoi,
 
-**[00:39:43 - 00:39:45] _speaker**  
-et
+**[01:36:31 - 01:36:37] 1-redsun**  
+justement pour savoir là je sais qu'ébrius lui c'est un spécialiste dans la vidéo,
 
-**[00:39:45 - 00:39:47] _speaker**  
-alors
+**[01:36:37 - 01:36:42] 1-redsun**  
+donc si j'ai une question vidéo ou que j'ai un client qui a besoin de faire un truc vidéo,
 
-**[00:39:47 - 00:39:49] _speaker**  
-j'ai l'informatique dans la tech depuis 20 ans
+**[01:36:42 - 01:36:51] 1-redsun**  
+je peux le réunir sur ébrius, c'est ça l'idée, et là on a le résumé de ce qu'on l'a dit la
 
-**[00:39:49 - 00:39:51] _speaker**  
-avant j'étais plus dans le
+**[01:36:51 - 01:36:58] 1-redsun**  
+dernière fois aussi, donc comme ça ça permet de garder une trace, mais je sais vrai que la
 
-**[00:39:51 - 00:39:53] _speaker**  
-côté développement web
+**[01:36:58 - 01:37:06] 1-redsun**  
+prévisse, si tu ne veux pas que je te cite ou quoi, dis et je te vires quoi du tranquille.
 
-**[00:39:53 - 00:39:55] _speaker**  
-4.6 internet et tout ça du WordPress
+**[01:37:06 - 01:37:17] 1-redsun**  
+Ouais voilà, c'est ça, c'est ce que je me suis dit quoi, donc voilà c'est un new
 
-**[00:39:55 - 00:39:57] _speaker**  
-et là je me réoriente
+**[01:37:17 - 01:37:26] 1-redsun**  
+case de Penclaw qui est sympa, ça vous voyez un peu le logiciel, ah oui on l'entend,
 
-**[00:39:57 - 00:39:59] _speaker**  
-plus dans l'infogérance
+**[01:37:26 - 01:37:34] 1-redsun**  
+bah là en fait j'ai fait une texture, tu vas pleurer à mon avis, donc il manque,
 
-**[00:39:59 - 00:40:01] _speaker**  
-et je vais être accompagné
+**[01:37:34 - 01:37:36] 1-redsun**  
+je ne sais pas pourquoi d'ailleurs, il manque une partie de brasse là,
 
-**[00:40:01 - 00:40:03] _speaker**  
-les épisodes en proprise à passer
+**[01:37:36 - 01:37:49] 1-redsun**  
+mais tu vois il y a le mesh, si tu regardes le, je sais pas si on ne le voit pas, ah oui on
 
-**[00:40:03 - 00:40:05] _speaker**  
-de Windows à Linux, à passer à du logiciel libre
+**[01:37:49 - 01:38:00] 1-redsun**  
+voit là, alors attends j'en veux la texture, ça c'est rigolo mais tu ne peux pas travailler avec,
 
-**[00:40:05 - 00:40:07] _speaker**  
-aussi
+**[01:38:00 - 01:38:11] 1-redsun**  
+mais ouais bon pour 15 secondes, tu vois par contre ce qui est intéressant c'est pour voir
 
-**[00:40:07 - 00:40:09] _speaker**  
-Next Cloud pour qu'ils aient la
+**[01:38:11 - 01:38:17] 1-redsun**  
+faire une démo à Proto ou un truc ou une idée tu vois, figer ton idée, la faire tourner en 3D,
 
-**[00:40:09 - 00:40:11] _speaker**  
-sovereignty de leur donner
+**[01:38:17 - 01:38:25] 1-redsun**  
+essayer de conceptualiser en fait, ça montre, là c'est excellent par contre, pour ça, mais pas pour la réalisation.
 
-**[00:40:11 - 00:40:13] _speaker**  
-pour l'IA
+**[01:38:25 - 01:38:45] 1-redsun**  
+Ouais alors là on peut s'amuser à Prado.
 
-**[00:40:13 - 00:40:15] _speaker**  
-j'utilise depuis 6 mois
+**[01:38:45 - 01:38:57] 1-redsun**  
+Ah là c'est très très très real.
 
-**[00:40:15 - 00:40:17] _speaker**  
-Quen, régulièrement
+**[01:39:15 - 01:39:27] 1-redsun**  
+Exactement, ça c'est tout à fait juste, j'ai juste m'amuser à le faire tourner, mais c'est pour l'exemple parce que là il
 
-**[00:40:17 - 00:40:19] _speaker**  
-un petit peu Claude
+**[01:39:27 - 01:39:33] 1-redsun**  
+n'est pas très joli, mais juste pour essayer de s'imaginer les use cases, parce que ça par contre je
 
-**[00:40:19 - 00:40:21] _speaker**  
-de temps en temps
+**[01:39:33 - 01:39:37] 1-redsun**  
+peux vous dire un truc, moi ce qui m'intéresse c'est la création de contenu pour les réseaux sociaux,
 
-**[00:40:21 - 00:40:23] _speaker**  
-mais je suis principalement sur du Quen
+**[01:39:37 - 01:39:41] 1-redsun**  
+que ce soit pour vos personal branding, pour vous montrer ce que vous savez faire,
 
-**[00:40:23 - 00:40:25] _speaker**  
-pour
+**[01:39:41 - 01:39:45] 1-redsun**  
+ou simplement pour générer du clic ou pour que les gens ils se disent ah c'est cool et tout,
 
-**[00:40:25 - 00:40:27] _speaker**  
-des trucs
+**[01:39:45 - 01:39:50] 1-redsun**  
+là franchement tu peux faire des trucs super cool quoi, pour ça en tout cas je trouve ça un vrai,
 
-**[00:40:27 - 00:40:29] _speaker**  
-et en fait moi ce que je cherche
+**[01:39:50 - 01:39:58] 1-redsun**  
+parce que voilà si tu fais un truc joli qui donne envie ou un truc marron, voilà, et ben t'auras
 
-**[00:40:29 - 00:40:31] _speaker**  
-c'est pas déjà la communauté
+**[01:39:58 - 01:40:04] 1-redsun**  
+forcément un taux de clic ou de vue qui sera vachement plus élevé en faisant une petite vidéo en 3 secondes
 
-**[00:40:31 - 00:40:33] _speaker**  
-ça c'est super cool de créer ça
+**[01:40:04 - 01:40:10] 1-redsun**  
+avec mes chiis ou autres, si il arrive à nous avoir des jolis trucs ben ça pourrait être intéressant
 
-**[00:40:33 - 00:40:35] _speaker**  
-c'était long
+**[01:40:10 - 01:40:15] 1-redsun**  
+de voir, parce que là ça reste quand même cher mais après tu n'es pas obligé d'utiliser
 
-**[00:40:35 - 00:40:37] _speaker**  
-moi je suis pris le crédit
+**[01:40:15 - 01:40:19] 1-redsun**  
+ces dents non plus quoi, là je peux récupérer la photo qu'on l'a fait donc là il a vécu
 
-**[00:40:37 - 00:40:39] _speaker**  
-comme tu l'avais la rencontre
+**[01:40:19 - 01:40:26] 1-redsun**  
+juste un fond blanc propre, puis là je peux dire tu peux me faire un éclaté de montre,
 
-**[00:40:39 - 00:40:41] _speaker**  
-6-8 à l'île
+**[01:40:26 - 01:40:34] 1-redsun**  
+je ne sais pas, je dis n'importe quoi là, je fais ça à la rage, de faire un éclaté de
 
-**[00:40:41 - 00:40:43] _speaker**  
-les 50$ sur Internet
+**[01:40:34 - 01:40:46] 1-redsun**  
+mouvement ou de montre, il va comprendre tu crois, ok, moi je vais faire 10 secondes pas plus,
 
-**[00:40:43 - 00:40:45] _speaker**  
-ah cool, voilà
+**[01:40:46 - 01:40:55] 1-redsun**  
+je le gêne alors, ah oui parce que c'est un peu con il faut faire, non, merde.
 
-**[00:40:45 - 00:40:47] _speaker**  
-mais je suis pas allé plus loin et j'ai mon âge
+**[01:41:04 - 01:41:26] 1-redsun**  
+Et ce que tu peux faire là aussi c'est tout simplement prendre le vrai modèle 3D de la marque
 
-**[00:40:47 - 00:40:49] _speaker**  
-Bordby, je me suis pas connecté depuis
+**[01:41:26 - 01:41:34] 1-redsun**  
+et puis faire ça directement, là ça marche très très bien parce que les pièces sont bien
 
-**[00:40:49 - 00:40:51] _speaker**  
-j'ai pas pris le temps de
+**[01:41:34 - 01:41:38] 1-redsun**  
+définies par le modèle et du coup il pourra comprendre la structure de la montre complètement.
 
-**[00:40:51 - 00:40:53] _speaker**  
-mettre quoi
+**[01:41:38 - 01:41:48] 1-redsun**  
+Mais bon on va voir, là ça tourne, on va voir en live, là je vous prends live, ça peut donner
 
-**[00:40:53 - 00:40:55] _speaker**  
-ce que je fais c'est vraiment
+**[01:41:48 - 01:41:53] 1-redsun**  
+un truc d'égalasse, je ne sais pas du tout ce que ça va faire, c'est juste que j'ai pris
 
-**[00:40:55 - 00:40:57] _speaker**  
-un business et tout ça à développer
+**[01:41:53 - 01:41:57] 1-redsun**  
+6 dance 2 en 10 secondes, là j'aurais dû faire l'audio, c'est pas grave, mais bon c'est pas très
 
-**[00:40:57 - 00:40:59] _speaker**  
-c'est de l'automatisation
+**[01:41:57 - 01:42:05] 1-redsun**  
+important l'audio, mais juste voir ce que ça fait, on devait s'en crédit, j'ai du mal à me rendre
 
-**[00:40:59 - 00:41:01] _speaker**  
-pour créer des contenus
+**[01:42:05 - 01:42:19] 1-redsun**  
+compte combien ça fait, je sais que, oh ouais, moi je m'en fous, mais ça m'intéresse de voir,
 
-**[00:41:01 - 00:41:03] _speaker**  
-Instagram
+**[01:42:20 - 01:42:25] 1-redsun**  
+là c'est un test, on est bien d'accord, mais ça m'intéresse de voir qu'est-ce qui est possible de faire.
 
-**[00:41:03 - 00:41:05] _speaker**  
-Internet, c'est la réseau social
+**[01:42:33 - 01:42:39] 1-redsun**  
+Ouais, je l'ai mis et puis surtout, ce qui est intéressant c'est que c'est un dollar le premier
 
-**[00:41:05 - 00:41:07] _speaker**  
-et mettre ça avec une page de vente
+**[01:42:39 - 01:42:44] 1-redsun**  
+mois, donc franchement, je sais pas comment ils font pour gagner leur vie, j'ai pas compris.
 
-**[00:41:07 - 00:41:09] _speaker**  
-pour des
+**[01:42:45 - 01:42:53] 1-redsun**  
+Bah là c'est un beau croquet.
 
-**[00:41:09 - 00:41:11] _speaker**  
-des produits ou des services
+**[01:43:01 - 01:43:04] 1-redsun**  
+Après, idéalement, ce qui a été malin justement, c'est que tu me donnes la photo de la montre,
 
-**[00:41:11 - 00:41:13] _speaker**  
-et en fait un petit peu là ce qui m'a bluffé
+**[01:43:05 - 01:43:15] 1-redsun**  
+et là je sors plus, voilà, je suis dans la maîtrise ça,
 
-**[00:41:13 - 00:41:15] _speaker**  
-c'est sur Youtube
+**[01:43:15 - 01:43:24] 1-redsun**  
+parce que c'est beau, mais est-ce que je regarde le direct ? Non,
 
-**[00:41:15 - 00:41:17] _speaker**  
-j'ai vu des gars qui lancent des boîtes
+**[01:43:24 - 01:43:30] 1-redsun**  
+moi je vois rien en tout cas, je sais pas si les autres y voyent.
 
-**[00:41:17 - 00:41:19] _speaker**  
-en entièrement IA
+**[01:43:35 - 01:43:42] 1-redsun**  
+Ah, attends, juste j'ai la vidéo, on regarde vous, vous voyez mon stream.
 
-**[00:41:19 - 00:41:21] _speaker**  
-qui fait la recherche, par exemple une boîte d'automobiles
+**[01:43:45 - 01:43:56] 1-redsun**  
+Oh là là, oh putain, oh putain, c'est pas mal, pas mal, franchement, j'ai toujours
 
-**[00:41:21 - 00:41:23] _speaker**  
-créer le site
+**[01:43:56 - 01:44:02] 1-redsun**  
+sur le cube, parce que ça c'est beau quoi, alors si tu as des belles photos,
 
-**[00:41:23 - 00:41:25] _speaker**  
-qui cherche les clients et tout
+**[01:44:02 - 01:44:09] 1-redsun**  
+je pense que c'est parfait, il faut des belles photos de la montre réelle sur plusieurs angles,
 
-**[00:41:25 - 00:41:27] _speaker**  
-je vais rien faire que ça
+**[01:44:09 - 01:44:10] 1-redsun**  
+et là tu t'éclates.
 
-**[00:41:27 - 00:41:29] _speaker**  
-en automatique
+**[01:44:15 - 01:44:18] 1-redsun**  
+Ça c'est stylé, je ne vais pas demander ça, de faire le petit mouvement.
 
-**[00:41:29 - 00:41:31] _speaker**  
-ok, on va à tout le bon endroit
+**[01:44:20 - 01:44:21] 1-redsun**  
+C'est rigolo.
 
-**[00:41:31 - 00:41:33] _speaker**  
-je pense, ouais
+**[01:44:25 - 01:44:28] 1-redsun**  
+Ouais bah c'est dégueulasse, tu veux ça ?
 
-**[00:41:33 - 00:41:35] _speaker**  
-c'est cool, intéressant cette histoire de Linux
+**[01:44:32 - 01:44:40] 1-redsun**  
+Ah, attendez, n'est-ce pas ?
 
-**[00:41:35 - 00:41:37] _speaker**  
-c'est dans l'open source
+**[01:44:57 - 01:45:00] 1-redsun**  
+En fait justement, c'est ça qui est super intéressant,
 
-**[00:41:37 - 00:41:39] _speaker**  
-on pourra peut-être avoir plus tard
+**[01:45:00 - 01:45:04] 1-redsun**  
+moi j'adore les trucs qui sont un peu multiples, tu peux le faire avec d'autres tools,
 
-**[00:41:39 - 00:41:41] _speaker**  
-ton retour sur Quen
+**[01:45:04 - 01:45:08] 1-redsun**  
+mais bizarrement par exemple j'utilise Jens Park et Jens Park, le coût de la vidéo est plus élevé
 
-**[00:41:41 - 00:41:43] _speaker**  
-ça nous intéresse, je pense un peu
+**[01:45:08 - 01:45:12] 1-redsun**  
+que chez Messi, alors je sais pas pourquoi, j'ai pas compris, mais c'est plus élevé,
 
-**[00:41:43 - 00:41:45] _speaker**  
-moi ça m'intéresse en tout cas
+**[01:45:12 - 01:45:17] 1-redsun**  
+donc du coup je passe par Messi pour générer la vidéo, tu vois, bon c'est une astuce.
 
-**[00:41:45 - 00:41:47] _speaker**  
-merci pour la présentation et puis on va passer
+**[01:45:17 - 01:45:29] 1-redsun**  
+Non, parce que là toi tu as un train de vouloir des trucs,
 
-**[00:41:47 - 00:41:49] _speaker**  
-à Nano
+**[01:45:31 - 01:45:41] 1-redsun**  
+mais en fait si tu veux faire ça, tu as Xfield, qui est en fait une plateforme spéciale pour
 
-**[00:41:49 - 00:41:51] _speaker**  
-Yes
+**[01:45:41 - 01:45:45] 1-redsun**  
+faire de la vidéo, et là tu as des templates TikTok, alors ça c'est de la bombe, la dingue,
 
-**[00:41:51 - 00:41:53] _speaker**  
-je m'appelle Arnaud
+**[01:45:46 - 01:45:51] 1-redsun**  
+c'est génial pour faire la création vidéo, par contre les gars ils se régalent sur les prières,
 
-**[00:41:53 - 00:41:55] _speaker**  
-j'ai 34 ans
+**[01:45:51 - 01:45:57] 1-redsun**  
+ça coûte une blinde, mais c'est un truc de fou quoi, mais c'est beaucoup,
 
-**[00:41:55 - 00:41:57] _speaker**  
-j'en suis ici
+**[01:45:59 - 01:46:03] 1-redsun**  
+imagine un prix élevé, moi multiplie le part de, je sais pas.
 
-**[00:41:57 - 00:41:59] _speaker**  
-parce que j'ai rencontré Cyril
+**[01:46:10 - 01:46:13] 1-redsun**  
+Pour te dire, moi j'ai fait une vidéo avec, que je peux vous la montrer,
 
-**[00:41:59 - 00:42:01] _speaker**  
-il y a l'année passée dans une formation
+**[01:46:14 - 01:46:19] 1-redsun**  
+je suis dépressif dessus, donc je voulais tester un truc, j'ai pris un abonnement un mois,
 
-**[00:42:01 - 00:42:03] _speaker**  
-Digitalizers
+**[01:46:19 - 01:46:25] 1-redsun**  
+j'ai dit je teste, allez, moi j'aime bien regarder ce que ça donne, et puis d'ailleurs
 
-**[00:42:03 - 00:42:05] _speaker**  
-à Genève
+**[01:46:25 - 01:46:31] 1-redsun**  
+je pense qu'ils ont une API aussi, je pense qu'ils ont une API, à vérifier,
 
-**[00:42:05 - 00:42:07] _speaker**  
-moi je viens
+**[01:46:33 - 01:46:38] 1-redsun**  
+et là je suis allé dans le vidéo, bon déjà l'interface, c'est vraiment bordel quoi,
 
-**[00:42:07 - 00:42:09] _speaker**  
-j'ai travaillé
+**[01:46:38 - 01:46:46] 1-redsun**  
+j'en trouve même pas mes vidéos quoi, c'est quand même, pourquoi j'ai pas de vidéo alors.
 
-**[00:42:09 - 00:42:11] _speaker**  
-comme chef de projet
+**[01:46:56 - 01:46:57] 1-redsun**  
+Ouais mais là aussi.
 
-**[00:42:11 - 00:42:13] _speaker**  
-dans une boîte qui est un fabriqueur
+**[01:47:09 - 01:47:14] 1-redsun**  
+Oui, exactement, mais attention, méchi, l'intérêt c'est de passer de la 3D,
 
-**[00:42:13 - 00:42:15] _speaker**  
-de machines d'emballage, donc de l'industrie
+**[01:47:15 - 01:47:20] 1-redsun**  
+mais moi je trouve ça intéressant, tu vois, de façon de dire je passe de la 3D à la vidéo,
 
-**[00:42:15 - 00:42:17] _speaker**  
-j'ai quitté l'année passée
+**[01:47:20 - 01:47:25] 1-redsun**  
+que du coup tu as un truc qui, tu peux faire un personnage qui suit des histoires,
 
-**[00:42:17 - 00:42:19] _speaker**  
-pour me lancer comme allait pendant
+**[01:47:27 - 01:47:32] 1-redsun**  
+et tu vois, il y a MCP, là il y a MCP pour eux, voilà, il y a un CLI, ah bah voilà,
 
-**[00:42:19 - 00:42:21] _speaker**  
-et j'ai débuté depuis
+**[01:47:32 - 01:47:37] 1-redsun**  
+Turn Air Message en Open Claw, bah voilà, ça même pas, Nemo Claw,
 
-**[00:42:21 - 00:42:23] _speaker**  
-le début de l'année
+**[01:47:37 - 01:47:43] 1-redsun**  
+parce qu'il y a, donc en fait, tu peux passer par Xfield pour générer de la vidéo
 
-**[00:42:23 - 00:42:25] _speaker**  
-pour aider les PME
+**[01:47:43 - 01:47:47] 1-redsun**  
+à la volée avec ton Open Claw, et faire des trucs aussi dedans,
 
-**[00:42:25 - 00:42:27] _speaker**  
-de la région
+**[01:47:47 - 01:47:52] 1-redsun**  
+alors là attention, ça bombarde le prix, franchement, moi j'étais vachement déçu,
 
-**[00:42:27 - 00:42:29] _speaker**  
-à optimiser leur process
+**[01:47:52 - 01:47:56] 1-redsun**  
+parce que je sais que mon pote qui fait de la vidéo pro, il travaille pour, je crois,
 
-**[00:42:29 - 00:42:31] _speaker**  
-avec ou sans lia
+**[01:47:56 - 01:48:02] 1-redsun**  
+c'est Japan Tabako, un truc comme ça, une grosse boîte, lui, il utilise ça pour,
 
-**[00:42:31 - 00:42:33] _speaker**  
-grâce à des automatisations
+**[01:48:03 - 01:48:09] 1-redsun**  
+ce qui est vachement, vachement bon, par contre, bon, pour les prix, pour se marrer,
 
-**[00:42:33 - 00:42:35] _speaker**  
-donc en faisant des développements
+**[01:48:09 - 01:48:10] 1-redsun**  
+c'est trop cher pour rigoler, quoi.
 
-**[00:42:35 - 00:42:37] _speaker**  
-sur mesure
+**[01:48:13 - 01:48:17] 1-redsun**  
+Après, je sais pas, Ben, t'arrives à avoir combien de noeuds moins sur Seedance 2 toi,
 
-**[00:42:37 - 00:42:39] _speaker**  
-pour éliminer toute la friction
+**[01:48:17 - 01:48:19] 1-redsun**  
+tu sais déjà ou t'as aucune d'eux ?
 
-**[00:42:39 - 00:42:41] _speaker**  
-essentiellement administrative
+**[01:48:22 - 01:48:23] 1-redsun**  
+Ah, il est parti, Ben.
 
-**[00:42:41 - 00:42:43] _speaker**  
-j'utilise essentiellement
+**[01:48:27 - 01:48:34] 1-redsun**  
+Qu'eux quoi, oui, oui.
 
-**[00:42:43 - 00:42:45] _speaker**  
-que Cloudcode
+**[01:48:41 - 01:48:45] 1-redsun**  
+Parce que là, aujourd'hui, vous avez Seedance et les autres, d'ailleurs,
 
-**[00:42:45 - 00:42:47] _speaker**  
-et
+**[01:48:45 - 01:48:48] 1-redsun**  
+Happy Horse, j'ai testé, c'est nul, hein, par rapport à,
 
-**[00:42:47 - 00:42:49] _speaker**  
-je n'utilise pas direct
+**[01:48:49 - 01:48:52] 1-redsun**  
+je crois que j'ai des vidéos, là, je peux le montrer, peut-être.
 
-**[00:42:49 - 00:42:51] _speaker**  
-j'ai fait des essais avec OpenClo
+**[01:48:57 - 01:48:57] 1-redsun**  
+Ah ouais ?
 
-**[00:42:51 - 00:42:53] _speaker**  
-mais je suis parti
+**[01:48:59 - 01:49:00] 1-redsun**  
+Bon.
 
-**[00:42:53 - 00:42:55] _speaker**  
-sur un système un peu différent
+**[01:49:00 - 01:49:06] 1-redsun**  
+Oh !
 
-**[00:42:55 - 00:42:57] _speaker**  
-qui se rejoint au final
+**[01:49:18 - 01:49:29] 1-redsun**  
+Midos, toi.
 
-**[00:42:57 - 00:42:59] _speaker**  
-qui permet aussi de faire du contexte engineering
+**[01:49:30 - 01:49:44] 1-redsun**  
+Là je peux vous montrer Happy Horse, c'est une autre, y'a d'ailleurs, vachement déçu de Happy Horse par rapport à Seedance, aussi chinoise, aussi un générateur vidéo, et voilà ce que ça donne.
 
-**[00:42:59 - 00:43:01] _speaker**  
-sauf que j'utilise
+**[01:49:44 - 01:49:58] 1-redsun**  
+C'est sympa, c'est fun, c'est pas mal, mais Seedance est largement déçu moi je trouve.
 
-**[00:43:01 - 00:43:03] _speaker**  
-comme interface obsidian
+**[01:50:14 - 01:50:24] 1-redsun**  
+C'est pas mal, c'est pas mal, c'est pas mal, c'est pas mal, c'est pas mal, c'est pas mal.
 
-**[00:43:03 - 00:43:05] _speaker**  
-pour ceux qui connaissent
+**[01:50:44 - 01:50:50] 1-redsun**  
+C'est sympa.
 
-**[00:43:05 - 00:43:07] _speaker**  
-un logiciel de prise de note
+**[01:51:14 - 01:51:35] 1-redsun**  
+Ok, bah là je pourrais vous montrer, j'ai fait une petite vidéo avec Xfield et puis Seedance, je voulais faire une vidéo pour les 5000 abonnés que j'ai sur LinkedIn,
 
-**[00:43:07 - 00:43:09] _speaker**  
-qui permet de gérer des fichiers en markdown
+**[01:51:35 - 01:51:55] 1-redsun**  
+et je voulais faire un truc qu'on voyait sur plusieurs axes, enfin il a fait un truc mais je suis sûr qu'il y avait une pub pour la dépression, mais ce qui est vachement bien fait c'est qu'il a fait les seins, il a organisé tout ça, et tout ça c'est de dire, franchement on voit pas tellement, c'est du Seedance justement.
 
-**[00:43:09 - 00:43:11] _speaker**  
-avec
+**[01:51:55 - 01:52:01] 1-redsun**  
+C'est pas ce qu'il a fait mais on dirait que je suis triste ou je sais pas, c'est bizarre quoi.
 
-**[00:43:11 - 00:43:13] _speaker**  
-une structure assez précise
+**[01:52:06 - 01:52:17] 1-redsun**  
+C'était bien foutu, par contre les plans séquences, alors j'ai montré 4 photos, je fais des storyboards, c'est ça les 4 photos je peux...
 
-**[00:43:13 - 00:43:15] _speaker**  
-pour gérer mon contexte de projet
+**[01:52:18 - 01:52:31] 1-redsun**  
+Moi je m'amuse un peu, je fais des trucs comme ça pour tester un peu, je sais plus où sont les photos, tu les avais, bah moi je les avais.
 
-**[00:43:15 - 00:43:17] _speaker**  
-via mon terminal
+**[01:52:34 - 01:52:45] 1-redsun**  
+J'ai pris ces photos là, j'ai balancé ça, et je lui ai dit bah fait 2 meurtures quoi, je fais moi un truc, et en fait si on regarde bien, elles sont quand même conservées.
 
-**[00:43:17 - 00:43:19] _speaker**  
-dans Cloudcode
+**[01:52:46 - 01:53:03] 1-redsun**  
+Donc c'est juste pour dire qu'en fait OpenClo comme orchestrateur, vous pouvez lui pluguer ça et faire des trucs dedans, parce que là il y a un MCPCLE qui est fait pour OpenClo, d'ailleurs Claude aussi, Hermès aussi, et comme ça vous avez OpenClo, et comme ça vous pouvez faire des vidéos à la volée.
 
-**[00:43:19 - 00:43:21] _speaker**  
-et puis après à partir de Cloudcode
+**[01:53:04 - 01:53:18] 1-redsun**  
+Donc ça fait qu'un Yusuke sans plus, parce que là on peut faire des sites, on peut faire des applications, on peut faire des vidéos, on peut faire de la 3D, après moi je sais plus ce qui manque, pas grand chose hein.
 
-**[00:43:21 - 00:43:23] _speaker**  
-ça ressemble beaucoup à OpenClo
+**[01:53:20 - 01:53:22] 1-redsun**  
+Allez sur Mars on va attendre un petit peu.
 
-**[00:43:23 - 00:43:25] _speaker**  
-en fait on a les skills
+**[01:53:23 - 01:53:35] 1-redsun**  
+Ah et moi que le budget, attends, qu'est ce qu'il peut faire là, je fais vraiment la rache hein, je vais juste essayer avec l'image qui nous affronte nipole là.
 
-**[00:43:25 - 00:43:27] _speaker**  
-les plugins
+**[01:53:36 - 01:53:46] 1-redsun**  
+Alors tu vois, ça c'est ça qu'il faudrait faire avec la montre, c'est le multivu, comme t'as plusieurs photos, là je le fais vraiment vite fait quoi.
 
-**[00:43:27 - 00:43:29] _speaker**  
-ça rejoint
+**[01:53:47 - 01:53:57] 1-redsun**  
+Normalement, idéalement tu fais multivu comme ça, t'as le derrière devant, parce qu'il va imaginer derrière, il n'est pas encore assez magique pour créer des trucs comme ça.
 
-**[00:43:29 - 00:43:31] _speaker**  
-un peu le même framework
+**[01:53:58 - 01:54:07] 1-redsun**  
+Tu vois, il a reconnu que c'est un copper dragon, timepiece, c'est fou quoi, il comprend tout sur l'image, il comprend la structure, il comprend tout quoi.
 
-**[00:43:31 - 00:43:33] _speaker**  
-puisque ça lia et directement
+**[01:54:08 - 01:54:27] 1-redsun**  
+Puis on va voir, mais voilà donc c'est parce que Arnaud on en a parlé de la dernière fois avec Arnaud, on disait ouais tu devrais montrer l'Euské c'est un peu de punclot, et je me suis dit voilà là peut-être qu'on crée quoi,
 
-**[00:43:33 - 00:43:35] _speaker**  
-dans le terminal
+**[01:54:27 - 01:54:34] 1-redsun**  
+voilà peut-être qu'on crée et puis ça vous voyez un peu, ça peut devenir des idées quoi, ça va aussi être but quoi.
 
-**[00:43:35 - 00:43:37] _speaker**  
-voilà par contre
+**[01:54:35 - 01:54:42] 1-redsun**  
+Alors on va juste attendre un petit peu et je vais regarder juste, il y en a bien tout, mais je crois qu'on a tous les, ouais.
 
-**[00:43:37 - 00:43:39] _speaker**  
-moi je passe tout depuis ma machine de travail directement
+**[01:54:44 - 01:54:46] 1-redsun**  
+Ah ouais, là t'as des vidéos carrément.
 
-**[00:43:39 - 00:43:41] _speaker**  
-j'ai pas une machine dédiée
+**[01:54:48 - 01:54:55] 1-redsun**  
+Alors les vidéos ça marche pas encore, les vidéos tout 3D, elles sont belles hein, c'est chinois ça merde.
 
-**[00:43:41 - 00:43:43] _speaker**  
-comme un Mac mini
+**[01:54:58 - 01:55:05] 1-redsun**  
+Ah, ok, mais c'est pour le marché chinois ou non, c'est pour tout le monde ?
 
-**[00:43:43 - 00:43:45] _speaker**  
-pour ça
+**[01:55:07 - 01:55:09] 1-redsun**  
+Ah bah c'est quand même des dragons chinois quoi, bouddhamon.
 
-**[00:43:45 - 00:43:47] _speaker**  
-sinon après ici je viens résoter
+**[01:55:28 - 01:55:31] 1-redsun**  
+Mais ça c'est hype en ce moment un peu,
 
-**[00:43:47 - 00:43:49] _speaker**  
-découvrir un peu les cas d'usage
+**[01:55:43 - 01:55:45] 1-redsun**  
+Ah ouais, d'accord.
 
-**[00:43:49 - 00:43:51] _speaker**  
-effectivement OpenClo
+**[01:55:45 - 01:56:02] 1-redsun**  
+Ok, alors là c'est du lourd, tu vois par exemple je pense l'Euské ça pourrait être imaginer une montre qui existe pas,
 
-**[00:43:51 - 00:43:53] _speaker**  
-c'est révolutionnaire
+**[01:56:16 - 01:56:25] 1-redsun**  
+Ouais mais tu peux créer un design intéressant, puis après justement c'est marrant, tu vas faire un poste sur les réseaux sociaux, tu dis,
 
-**[00:43:55 - 00:43:57] _speaker**  
-vu que ça permet de gérer
+**[01:56:26 - 01:56:34] 1-redsun**  
+voici ma version d'une Jacob où j'ai essayé de créer, puis là tu peux chatter avec GPT2 et puis faire des images de ce que t'aimerais dans ton rêve,
 
-**[00:43:57 - 00:43:59] _speaker**  
-ce contexte de manière autonome
+**[01:56:35 - 01:56:39] 1-redsun**  
+puis ensuite la réaliser quoi, mais il ne sera pas fabriqué hein, d'accord.
 
-**[00:43:59 - 00:44:01] _speaker**  
-avec une mémoire
+**[01:56:40 - 01:56:59] 1-redsun**  
+Alors regardons là, ok, c'est pas si mal, alors on va texturer en fonction de l'image, alors après tu vois, comme c'est du modeling encore,
 
-**[00:44:01 - 00:44:03] _speaker**  
-avec des crônes, des automatisations
+**[01:56:59 - 01:57:07] 1-redsun**  
+mais moi je pense que là on est dans une histoire, on est dans une histoire de une année,
 
-**[00:44:03 - 00:44:05] _speaker**  
-des déclenchements
+**[01:57:11 - 01:57:20] 1-redsun**  
+mais là tu mets 3-4 images, t'as un truc de fou, c'est-à-dire t'as exactement, mais moi ce que j'imagine c'est toujours dans une année, tu vois,
 
-**[00:44:05 - 00:44:07] _speaker**  
-que ce soit automatique ou manuel
+**[01:57:20 - 01:57:29] 1-redsun**  
+je me projette un peu, putain, on est là aujourd'hui, on est où dans une année ?
 
-**[00:44:07 - 00:44:09] _speaker**  
-via les skills
+**[01:57:39 - 01:57:45] 1-redsun**  
+Alors juste, moi j'ai découvert mes chi, première version, je dis en beta test, j'en ai parlé à mes élèves,
 
-**[00:44:09 - 00:44:11] _speaker**  
-ou via ce qu'on veut paramétrer
+**[01:57:45 - 01:57:51] 1-redsun**  
+elle est toute première version, et juste pour vous donner une idée, c'est la version 5, donc celle-là vous allez comprendre un peu ce que je veux dire,
 
-**[00:44:11 - 00:44:13] _speaker**  
-donc ouais
+**[01:57:52 - 01:58:02] 1-redsun**  
+cette version-là, vous voyez la différence avec le dragon qu'on avait avant, cette version-là elle a 6 mois, donc en 6 mois on a passé de ça à ça,
 
-**[00:44:13 - 00:44:15] _speaker**  
-le but c'est
+**[01:58:05 - 01:58:11] 1-redsun**  
+donc dans 6 mois on est où quoi ? C'est toujours un peu,
 
-**[00:44:15 - 00:44:17] _speaker**  
-d'être ici
+**[01:58:16 - 01:58:23] 1-redsun**  
+après tu fais un export, la qualité des textures est quand même vraiment pas mal, et là tu peux faire du rematching aussi,
 
-**[00:44:17 - 00:44:19] _speaker**  
-une phase d'exploration
+**[01:58:24 - 01:58:33] 1-redsun**  
+et tu peux l'imprimer en 3D, ça c'est assez cool aussi, donc tu peux faire un socle, tu peux mettre un socle, faire la rotation, gérer les échelles,
 
-**[00:44:19 - 00:44:21] _speaker**  
-et rencontrer du monde
+**[01:58:34 - 01:58:43] 1-redsun**  
+puis en plus tu peux l'envoyer directement à Form Now qui te permet d'imprimer, ou de l'Ustice et toi-même, si tu veux le faire à la maison c'était une machine,
 
-**[00:44:21 - 00:44:23] _speaker**  
-ok bah par contre
+**[01:58:44 - 01:58:51] 1-redsun**  
+ça c'est cool, franchement tu as un peu un outil tournant, c'est sympa, je vais juste regarder ce que ça donne pour ça,
 
-**[00:44:23 - 00:44:25] _speaker**  
-c'est très clair pour ceux qui connaissent pas Cloudcode
+**[01:58:52 - 01:58:59] 1-redsun**  
+ça aurait truc à tester quoi, après il faut aller plus loin pour pas faire ça en 2 secondes à la rache,
 
-**[00:44:25 - 00:44:27] _speaker**  
-c'est extrêmement proche de OpenClo
+**[01:59:00 - 01:59:04] 1-redsun**  
+puis faire ça un peu propre avec plusieurs images et tout, mais au moins tout,
 
-**[00:44:27 - 00:44:29] _speaker**  
-c'est juste une version Open Source
+**[01:59:14 - 01:59:15] 1-redsun**  
+ouais,
 
-**[00:44:29 - 00:44:31] _speaker**  
-il y a énormément de similitudes
+**[01:59:22 - 01:59:23] 1-redsun**  
+ouais elles sont belles,
 
-**[00:44:31 - 00:44:33] _speaker**  
-bon c'est pas
+**[01:59:24 - 01:59:28] 1-redsun**  
+mais il y a beaucoup de détails, donc il faudrait beaucoup beaucoup d'images en fait,
 
-**[00:44:33 - 00:44:35] _speaker**  
-je pense pas que c'est vraiment
+**[01:59:29 - 01:59:31] 1-redsun**  
+tu as moyen de les avoir dans les mains ou c'est un touchable, c'est machin là,
 
-**[00:44:35 - 00:44:37] _speaker**  
-comparable parce que OpenClo
+**[01:59:32 - 01:59:33] 1-redsun**  
+c'est la touche,
 
-**[00:44:37 - 00:44:39] _speaker**  
-c'est un framework
+**[01:59:35 - 01:59:37] 1-redsun**  
+il va pas te remettre qu'est ce qu'il fait,
 
-**[00:44:39 - 00:44:41] _speaker**  
-qui en fait
+**[01:59:38 - 01:59:39] 1-redsun**  
+il va te remettre,
 
-**[00:44:41 - 00:44:43] _speaker**  
-Cloudcode c'est uniquement l'accès
+**[01:59:43 - 01:59:44] 1-redsun**  
+bon c'est marrant,
 
-**[00:44:43 - 00:44:45] _speaker**  
-à Cloud dans le terminal
+**[01:59:50 - 01:59:55] 1-redsun**  
+c'est là tu peux attendre, je regarde juste parce que là tu as les types d'éclairage qui changent beaucoup ici en fonction des,
 
-**[00:44:47 - 00:44:49] _speaker**  
-mais OpenClo c'est un petit peu différent
+**[01:59:55 - 01:59:56] 1-redsun**  
+là c'est un peu mieux,
 
-**[00:44:49 - 00:44:51] _speaker**  
-parce que c'est le
+**[01:59:58 - 01:59:59] 1-redsun**  
+et ouais bah,
 
-**[00:44:51 - 00:44:53] _speaker**  
-framework
+**[02:00:25 - 02:00:27] 1-redsun**  
+attaqué t'en as pas les moyens,
 
-**[00:44:53 - 00:44:55] _speaker**  
-le projet qui permet de
+**[02:00:28 - 02:00:29] 1-redsun**  
+t'en as pas les sous,
 
-**[00:44:55 - 00:44:57] _speaker**  
-gérer les fichiers de contexte etc
+**[02:00:30 - 02:00:31] 1-redsun**  
+t'en as pas les sous,
 
-**[00:44:57 - 00:44:59] _speaker**  
-à quoi
+**[02:00:32 - 02:00:34] 1-redsun**  
+si elles sont 16 millions tu peux faire la première,
 
-**[00:44:59 - 00:45:01] _speaker**  
-ok parfaite un eau
+**[02:00:48 - 02:00:49] 1-redsun**  
+ah bon ça va,
 
-**[00:45:01 - 00:45:03] _speaker**  
-alors péchage toi dont c'est Philippe
+**[02:00:55 - 02:00:56] 1-redsun**  
+c'est bon,
 
-**[00:45:03 - 00:45:05] _speaker**  
-ouais c'est Philippe
+**[02:01:15 - 02:01:16] 1-redsun**  
+en compte,
 
-**[00:45:05 - 00:45:07] _speaker**  
-vous m'entendez bien ?
+**[02:01:17 - 02:01:18] 1-redsun**  
+le poste que tu peux faire là en disant,
 
-**[00:45:07 - 00:45:09] _speaker**  
-super
+**[02:01:19 - 02:01:21] 1-redsun**  
+j'ai installé une clothes on Mac mini,
 
-**[00:45:09 - 00:45:11] _speaker**  
-bonsoir à tous ouais
+**[02:01:22 - 02:01:24] 1-redsun**  
+je vais demander de créer le monde, je vais envoyer les photos, voilà ce qu'il m'a fait,
 
-**[00:45:11 - 00:45:13] _speaker**  
-je suis arrivé
+**[02:01:25 - 02:01:28] 1-redsun**  
+ça va, putain, t'as tout le process en fait de création,
 
-**[00:45:13 - 00:45:15] _speaker**  
-sur Genève
+**[02:01:30 - 02:01:31] 1-redsun**  
+moi je trouve ça, en fait,
 
-**[00:45:15 - 00:45:17] _speaker**  
-je suis en mix entre Genève
+**[02:01:32 - 02:01:36] 1-redsun**  
+si tu veux faire la promo sur les réseaux, moi je n'églige pas du tout la communication, quelle que soit votre boulot,
 
-**[00:45:17 - 00:45:19] _speaker**  
-et la France
+**[02:01:37 - 02:01:38] 1-redsun**  
+que ça soit,
 
-**[00:45:19 - 00:45:21] _speaker**  
-depuis le mois de septembre octobre
+**[02:01:40 - 02:01:42] 1-redsun**  
+ah c'est pas sûr, ah ou tu peux les tagger,
 
-**[00:45:21 - 00:45:23] _speaker**  
-j'ai rencontré
+**[02:01:43 - 02:01:44] 1-redsun**  
+je veux dire,
 
-**[00:45:23 - 00:45:25] _speaker**  
-Cyril en fait
+**[02:01:45 - 02:01:46] 1-redsun**  
+tu peux les tagger,
 
-**[00:45:25 - 00:45:27] _speaker**  
-à Generative AI Genève
+**[02:01:51 - 02:01:52] 1-redsun**  
+non non non pas du tout,
 
-**[00:45:27 - 00:45:29] _speaker**  
-qui est un groupe Meetup
+**[02:01:53 - 02:01:54] 1-redsun**  
+pas du tout pas du tout,
 
-**[00:45:29 - 00:45:31] _speaker**  
-que j'ai monté
+**[02:01:56 - 02:01:57] 1-redsun**  
+c'est exactement ça,
 
-**[00:45:31 - 00:45:33] _speaker**  
-l'année dernière
+**[02:01:58 - 02:02:01] 1-redsun**  
+parce que Jacob il va rigoler quand tu vas voir la qualité du match ou les trucs comme ça,
 
-**[00:45:33 - 00:45:35] _speaker**  
-organisé notre quatrième Meetup
+**[02:02:05 - 02:02:06] 1-redsun**  
+non non il va pas du tout apprécier,
 
-**[00:45:35 - 00:45:37] _speaker**  
-au mois de juin
+**[02:02:08 - 02:02:09] 1-redsun**  
+c'est pas du tout pour lui,
 
-**[00:45:37 - 00:45:39] _speaker**  
-donc voilà pour ceux qui veulent s'inscrire
+**[02:02:10 - 02:02:12] 1-redsun**  
+c'est pas ça, mais c'est pour faire de la come sur les réseaux,
 
-**[00:45:39 - 00:45:41] _speaker**  
-ça s'appelle Generative AI
+**[02:02:13 - 02:02:14] 1-redsun**  
+parce que là tu vois,
 
-**[00:45:41 - 00:45:43] _speaker**  
-allez-y c'était cool
+**[02:02:16 - 02:02:17] 1-redsun**  
+pour s'amuser,
 
-**[00:45:43 - 00:45:45] _speaker**  
-c'était plutôt sympa
+**[02:02:18 - 02:02:19] 1-redsun**  
+c'est vrai que les montres c'est tellement précis,
 
-**[00:45:45 - 00:45:47] _speaker**  
-bonne ambiance effectivement
+**[02:02:20 - 02:02:21] 1-redsun**  
+par contre il y a quelqu'un aussi,
 
-**[00:45:47 - 00:45:49] _speaker**  
-donc voilà
+**[02:02:22 - 02:02:23] 1-redsun**  
+il avait fait son visage,
 
-**[00:45:49 - 00:45:51] _speaker**  
-moi personnellement
+**[02:02:23 - 02:02:24] 1-redsun**  
+en 3D pendant le cours,
 
-**[00:45:51 - 00:45:53] _speaker**  
-sur l'utilisation
+**[02:02:25 - 02:02:27] 1-redsun**  
+et franchement ça va super super bien,
 
-**[00:45:53 - 00:45:55] _speaker**  
-je fais beaucoup de
+**[02:02:28 - 02:02:29] 1-redsun**  
+faire une personne,
 
-**[00:45:55 - 00:45:57] _speaker**  
-j'ai un profil un peu projet produit
+**[02:02:30 - 02:02:32] 1-redsun**  
+soit toi même, soit une personne connue,
 
-**[00:45:57 - 00:45:59] _speaker**  
-je fais en ce moment pas mal
+**[02:02:33 - 02:02:34] 1-redsun**  
+tu te fais tourner en 3D,
 
-**[00:45:59 - 00:46:01] _speaker**  
-de vibe code
+**[02:02:35 - 02:02:36] 1-redsun**  
+tu fais un truc sympa,
 
-**[00:46:01 - 00:46:03] _speaker**  
-avec un outil
+**[02:02:36 - 02:02:37] 1-redsun**  
+je sais pas,
 
-**[00:46:03 - 00:46:05] _speaker**  
-c'est Malt
+**[02:02:38 - 02:02:39] 1-redsun**  
+il y a mille façons de le dire,
 
-**[00:46:05 - 00:46:07] _speaker**  
-ouais et qui en fait
+**[02:02:50 - 02:02:51] 1-redsun**  
+ça fait un peu comme de la sculpture,
 
-**[00:46:07 - 00:46:09] _speaker**  
-a l'avantage de se baser
+**[02:02:51 - 02:02:52] 1-redsun**  
+ça fait un peu comme de la sculpture,
 
-**[00:46:09 - 00:46:11] _speaker**  
-en code
+**[02:03:02 - 02:03:04] 1-redsun**  
+voilà il a pas vraiment éclaté dans la vidéo,
 
-**[00:46:11 - 00:46:13] _speaker**  
-il y a pas mal de token
+**[02:03:05 - 02:03:06] 1-redsun**  
+il a plutôt tourné,
 
-**[00:46:13 - 00:46:15] _speaker**  
-c'était basé sur Claude
+**[02:03:09 - 02:03:10] 1-redsun**  
+regarde ça,
 
-**[00:46:15 - 00:46:17] _speaker**  
-ils vont bientôt aussi
+**[02:03:11 - 02:03:12] 1-redsun**  
+c'est un peu bizarre ce que là il fait ça,
 
-**[00:46:17 - 00:46:19] _speaker**  
-a priori se plugger
+**[02:03:15 - 02:03:17] 1-redsun**  
+je faudrais vraiment essayer de le faire un peu sérieusement,
 
-**[00:46:19 - 00:46:21] _speaker**  
-sur Codex
+**[02:03:18 - 02:03:19] 1-redsun**  
+prendre un petit moment pour le faire,
 
-**[00:46:21 - 00:46:23] _speaker**  
-c'est plutôt intéressant
+**[02:03:19 - 02:03:21] 1-redsun**  
+et puis tester quoi, plus en profondeur,
 
-**[00:46:23 - 00:46:25] _speaker**  
-ça permet d'avoir une variété
+**[02:03:32 - 02:03:33] 1-redsun**  
+ah c'est magnifique ça,
 
-**[00:46:25 - 00:46:27] _speaker**  
-c'est plutôt intéressant de voir ça
+**[02:03:50 - 02:03:51] 1-redsun**  
+elle fait 3 kilos là,
 
-**[00:46:27 - 00:46:29] _speaker**  
-donc je fais beaucoup d'ideation
+**[02:03:55 - 02:03:56] 1-redsun**  
+ok ok,
 
-**[00:46:29 - 00:46:31] _speaker**  
-je fais beaucoup de prototype
+**[02:03:57 - 02:03:58] 1-redsun**  
+il est,
 
-**[00:46:31 - 00:46:33] _speaker**  
-et en fait je suis très bouillie
+**[02:04:00 - 02:04:01] 1-redsun**  
+voilà c'est,
 
-**[00:46:33 - 00:46:35] _speaker**  
-sur LIA local
+**[02:04:02 - 02:04:04] 1-redsun**  
+si on remonte le poignet c'est bon, ça suffit,
 
-**[00:46:35 - 00:46:37] _speaker**  
-pour éviter
+**[02:04:07 - 02:04:08] 1-redsun**  
+donc voilà monsieur,
 
-**[00:46:37 - 00:46:39] _speaker**  
-ces problématiques effectivement
+**[02:04:08 - 02:04:10] 1-redsun**  
+est-ce qu'il y a encore des questions par rapport à ce soir,
 
-**[00:46:39 - 00:46:41] _speaker**  
-de token parce que je pense
+**[02:04:10 - 02:04:12] 1-redsun**  
+est-ce que vous voulez encore poser quelque chose,
 
-**[00:46:41 - 00:46:43] _speaker**  
-qu'on arrive à un bottleneck sur cette partie là
+**[02:04:12 - 02:04:13] 1-redsun**  
+tant qu'on est encore là,
 
-**[00:46:43 - 00:46:45] _speaker**  
-parce qu'on est légèrement
+**[02:04:13 - 02:04:15] 1-redsun**  
+ou est-ce qu'on a fait un peu le tour,
 
-**[00:46:45 - 00:46:47] _speaker**  
-bloqué pour bosser c'est infernal
+**[02:04:15 - 02:04:16] 1-redsun**  
+et on se revoit,
 
-**[00:46:47 - 00:46:49] _speaker**  
-donc voilà j'utilise vraiment
+**[02:04:16 - 02:04:18] 1-redsun**  
+ou est-ce qu'on a fait un peu le tour, et on se revoit,
 
-**[00:46:49 - 00:46:51] _speaker**  
-un mix en fait des fois je fais
+**[02:04:20 - 02:04:21] 1-redsun**  
+ouais,
 
-**[00:46:51 - 00:46:53] _speaker**  
-la partie produit un peu
+**[02:04:43 - 02:04:45] 1-redsun**  
+arrête, tu vois mon écran là ou pas,
 
-**[00:46:53 - 00:46:55] _speaker**  
-les use cases, les user stories
+**[02:04:47 - 02:04:48] 1-redsun**  
+bah en fait c'est tout ça,
 
-**[00:46:55 - 00:46:57] _speaker**  
-sur un abonnement
+**[02:04:52 - 02:04:53] 1-redsun**  
+c'est sur le max studio,
 
-**[00:46:57 - 00:46:59] _speaker**  
-un abonnement à 20$
+**[02:04:53 - 02:04:54] 1-redsun**  
+mais c'est égal,
 
-**[00:46:59 - 00:47:01] _speaker**  
-pareil sur Open AI
+**[02:04:54 - 02:04:55] 1-redsun**  
+t'as GPT 5.4
 
-**[00:47:01 - 00:47:03] _speaker**  
-et puis après je remets tout ça
+**[02:04:56 - 02:04:57] 1-redsun**  
+via haute,
 
-**[00:47:03 - 00:47:05] _speaker**  
-dans Claude, dans Bolt
+**[02:04:58 - 02:04:59] 1-redsun**  
+connexion haute,
 
-**[00:47:05 - 00:47:07] _speaker**  
-j'essaye de me débrouiller pour l'unité
+**[02:04:59 - 02:05:00] 1-redsun**  
+et t'as GMA 4.2
 
-**[00:47:07 - 00:47:09] _speaker**  
-au maximum les tokens mais c'est pas
+**[02:05:01 - 02:05:02] 1-redsun**  
+qui est via RM Studio,
 
-**[00:47:09 - 00:47:11] _speaker**  
-c'est pour ça que je suis là aussi
+**[02:05:03 - 02:05:04] 1-redsun**  
+donc il y a besoin d'RM Studio,
 
-**[00:47:11 - 00:47:13] _speaker**  
-parce qu'Open Cloud c'est des choses super intéressantes
+**[02:05:05 - 02:05:06] 1-redsun**  
+de l'avoir installé,
 
-**[00:47:13 - 00:47:15] _speaker**  
-et j'y avais une petite question pour les spécialistes
+**[02:05:10 - 02:05:11] 1-redsun**  
+si si si si,
 
-**[00:47:15 - 00:47:17] _speaker**  
-parce que l'idée aussi c'est de venir se connecter
+**[02:05:11 - 02:05:12] 1-redsun**  
+ben justement je le fais,
 
-**[00:47:17 - 00:47:19] _speaker**  
-avec une équipe
+**[02:05:13 - 02:05:14] 1-redsun**  
+GMA 4 E2B,
 
-**[00:47:19 - 00:47:21] _speaker**  
-avec des cerveaux
+**[02:05:14 - 02:05:15] 1-redsun**  
+la version 2,
 
-**[00:47:21 - 00:47:23] _speaker**  
-et des jambrillons
+**[02:05:15 - 02:05:17] 1-redsun**  
+elle tourne très très bien sur Mac mini,
 
-**[00:47:23 - 00:47:25] _speaker**  
-et j'ai entendu parler d'agents Hermès
+**[02:05:17 - 02:05:18] 1-redsun**  
+la même la 4,
 
-**[00:47:25 - 00:47:27] _speaker**  
-peut-être que toi tu connais
+**[02:05:19 - 02:05:21] 1-redsun**  
+4 c'est le milliard de paramètres en fait,
 
-**[00:47:27 - 00:47:29] _speaker**  
-tu peux te mettre une petite intro
+**[02:05:23 - 02:05:25] 1-redsun**  
+donc plus t'as de paramètres en même temps,
 
-**[00:47:29 - 00:47:31] _speaker**  
-sur Agents Hermès parce que
+**[02:05:25 - 02:05:27] 1-redsun**  
+et plus t'as des bonnes qualités de résultats,
 
-**[00:47:31 - 00:47:33] _speaker**  
-c'est un peu comme Open Cloud
+**[02:05:27 - 02:05:28] 1-redsun**  
+on veut pour simplifier quoi,
 
-**[00:47:33 - 00:47:35] _speaker**  
-ou pas c'est à la frontière
+**[02:05:29 - 02:05:30] 1-redsun**  
+en gros plus il est lourd,
 
-**[00:47:35 - 00:47:37] _speaker**  
-enfin voilà
+**[02:05:30 - 02:05:31] 1-redsun**  
+plus il est balèze,
 
-**[00:47:37 - 00:47:39] _speaker**  
-c'est un peu pour savoir
+**[02:05:31 - 02:05:32] 1-redsun**  
+on va dire ça comme ça,
 
-**[00:47:39 - 00:47:41] _speaker**  
-j'ai vu ça cette semaine
+**[02:05:37 - 02:05:38] 1-redsun**  
+ah ouais,
 
-**[00:47:41 - 00:47:43] _speaker**  
-pour répondre rapidement
+**[02:05:39 - 02:05:40] 1-redsun**  
+nickel,
 
-**[00:47:43 - 00:47:45] _speaker**  
-c'est une allende pour ça la même chose
+**[02:05:40 - 02:05:42] 1-redsun**  
+4B, 2B, nickel,
 
-**[00:47:45 - 00:47:47] _speaker**  
-sauf qu'il y a une gestion de la marque
+**[02:05:42 - 02:05:44] 1-redsun**  
+et tu peux faire Nemotron aussi,
 
-**[00:47:47 - 00:47:49] _speaker**  
-assez intéressante
+**[02:05:45 - 02:05:46] 1-redsun**  
+Nemotron 4B qui est là,
 
-**[00:47:49 - 00:47:51] _speaker**  
-mais il y a des functionality
+**[02:05:47 - 02:05:48] 1-redsun**  
+excellent chez Nvidia,
 
-**[00:47:51 - 00:47:53] _speaker**  
-qui sont un peu particulières
+**[02:05:50 - 02:05:51] 1-redsun**  
+Coen,
 
-**[00:47:53 - 00:47:55] _speaker**  
-mais franchement pour moi
+**[02:05:51 - 02:05:52] 1-redsun**  
+alors pas 35B,
 
-**[00:47:55 - 00:47:57] _speaker**  
-ça ne change pas grand chose
+**[02:05:53 - 02:05:54] 1-redsun**  
+ça c'est pas bon,
 
-**[00:47:57 - 00:47:59] _speaker**  
-les deux sont open source
+**[02:05:54 - 02:05:55] 1-redsun**  
+9B ça marche pas non plus,
 
-**[00:47:59 - 00:48:01] _speaker**  
-les deux sont accessibles
+**[02:05:55 - 02:05:56] 1-redsun**  
+j'ai déjà essayé,
 
-**[00:48:01 - 00:48:03] _speaker**  
-vous utilisez les deux tout simplement
+**[02:05:56 - 02:05:57] 1-redsun**  
+c'est trop lourd en fait,
 
-**[00:48:03 - 00:48:05] _speaker**  
-après il faut vraiment que ça soit utile
+**[02:05:58 - 02:05:59] 1-redsun**  
+il y a le LFM 1,2B,
 
-**[00:48:05 - 00:48:07] _speaker**  
-moi ce que j'aime bien avec Open Cloud c'est la commune
+**[02:06:00 - 02:06:01] 1-redsun**  
+il fait n'importe quoi,
 
-**[00:48:07 - 00:48:09] _speaker**  
-elle est beaucoup plus grosse en fait
+**[02:06:01 - 02:06:02] 1-redsun**  
+mais il est rigolo,
 
-**[00:48:09 - 00:48:11] _speaker**  
-Hermès
+**[02:06:02 - 02:06:03] 1-redsun**  
+parce qu'il est ultra rapide,
 
-**[00:48:11 - 00:48:13] _speaker**  
-mais c'est vrai qu'il y a pas mal d'idées
+**[02:06:04 - 02:06:05] 1-redsun**  
+il y a Mistral,
 
-**[00:48:13 - 00:48:15] _speaker**  
-qu'Open Cloud devraient intérer de chez Hermès
+**[02:06:05 - 02:06:06] 1-redsun**  
+qui marche aussi,
 
-**[00:48:15 - 00:48:17] _speaker**  
-qui sont très très bonnes
+**[02:06:07 - 02:06:08] 1-redsun**  
+et puis il y a,
 
-**[00:48:17 - 00:48:19] _speaker**  
-on verra par la suite mais je suis persuadé
+**[02:06:09 - 02:06:10] 1-redsun**  
+il y a voilà,
 
-**[00:48:19 - 00:48:21] _speaker**  
-que dans pas longtemps toutes les bonnes idées
+**[02:06:10 - 02:06:11] 1-redsun**  
+il y a Coen 3,
 
-**[00:48:21 - 00:48:23] _speaker**  
-d'Hermès vont se retrouver dans Open Cloud
+**[02:06:11 - 02:06:12] 1-redsun**  
+4B,
 
-**[00:48:23 - 00:48:25] _speaker**  
-et on va essayer de comprendre Hermès
+**[02:06:13 - 02:06:14] 1-redsun**  
+que pas mal,
 
-**[00:48:25 - 00:48:27] _speaker**  
-ce qui est à mon avis
+**[02:06:15 - 02:06:16] 1-redsun**  
+mais l'idéal c'est 27B,
 
-**[00:48:27 - 00:48:29] _speaker**  
-mal à l'idée
+**[02:06:16 - 02:06:18] 1-redsun**  
+celui là c'est une tuerie,
 
-**[00:48:29 - 00:48:31] _speaker**  
-impossible de tout suivre
+**[02:06:18 - 02:06:20] 1-redsun**  
+le Coen 3.6, 27B,
 
-**[00:48:31 - 00:48:33] _speaker**  
-c'est foutu
+**[02:06:20 - 02:06:21] 1-redsun**  
+mais malheureusement celui là,
 
-**[00:48:33 - 00:48:35] _speaker**  
-ok parfait merci Philippe
+**[02:06:21 - 02:06:23] 1-redsun**  
+il tourne à partir de 64GB,
 
-**[00:48:35 - 00:48:37] _speaker**  
-alors Tana
+**[02:06:25 - 02:06:26] 1-redsun**  
+donc,
 
-**[00:48:39 - 00:48:41] _speaker**  
-oui c'est moi
+**[02:06:27 - 02:06:28] 1-redsun**  
+mais il va y avoir des trucs,
 
-**[00:48:41 - 00:48:43] _speaker**  
-bonsoir à tous
+**[02:06:28 - 02:06:29] 1-redsun**  
+il va se passer des délires,
 
-**[00:48:43 - 00:48:45] _speaker**  
-moi je m'appelle Alac
+**[02:06:29 - 02:06:30] 1-redsun**  
+je crois,
 
-**[00:48:45 - 00:48:47] _speaker**  
-et je viens de Lisbonne
+**[02:06:31 - 02:06:32] 1-redsun**  
+parce que,
 
-**[00:48:49 - 00:48:51] _speaker**  
-toujours je suis entrain d'améliorer mon français
+**[02:06:32 - 02:06:33] 1-redsun**  
+j'ai partagé,
 
-**[00:48:53 - 00:48:55] _speaker**  
-je suis plus à l'aise avec l'anglais
+**[02:06:33 - 02:06:34] 1-redsun**  
+alors moi j'ai partagé papier,
 
-**[00:48:55 - 00:48:57] _speaker**  
-et portugais
+**[02:06:34 - 02:06:35] 1-redsun**  
+d'ailleurs il faut me dire,
 
-**[00:48:57 - 00:48:59] _speaker**  
-je suis
+**[02:06:35 - 02:06:36] 1-redsun**  
+c'est trop compliqué,
 
-**[00:48:59 - 00:49:01] _speaker**  
-un ingénieur de DevOps
+**[02:06:36 - 02:06:38] 1-redsun**  
+j'ai partagé un papier de recherche,
 
-**[00:49:01 - 00:49:03] _speaker**  
-et Cloud
+**[02:06:39 - 02:06:40] 1-redsun**  
+de chez,
 
-**[00:49:03 - 00:49:05] _speaker**  
-aussi
+**[02:06:41 - 02:06:42] 1-redsun**  
+Google,
 
-**[00:49:05 - 00:49:07] _speaker**  
-j'ai déjà participé dans l'événement
+**[02:06:43 - 02:06:44] 1-redsun**  
+où ça parle
 
-**[00:49:07 - 00:49:09] _speaker**  
-physique
+**[02:06:46 - 02:06:48] 1-redsun**  
+de l'innovation technologique,
 
-**[00:49:09 - 00:49:11] _speaker**  
-et aussi j'ai déjà
+**[02:06:48 - 02:06:49] 1-redsun**  
+derrière,
 
-**[00:49:11 - 00:49:13] _speaker**  
-créé des
+**[02:06:49 - 02:06:50] 1-redsun**  
+comment ils appelaient ça,
 
-**[00:49:13 - 00:49:15] _speaker**  
-Institute Instances
+**[02:06:50 - 02:06:53] 1-redsun**  
+les Multi-Token Prediction Drafters,
 
-**[00:49:15 - 00:49:17] _speaker**  
-et testé avec Open Cloud
+**[02:06:53 - 02:06:54] 1-redsun**  
+MTP,
 
-**[00:49:19 - 00:49:21] _speaker**  
-connecté avec
+**[02:06:55 - 02:06:56] 1-redsun**  
+et en fait,
 
-**[00:49:21 - 00:49:23] _speaker**  
-OpenCouter
+**[02:06:56 - 02:06:58] 1-redsun**  
+j'ai ma carte qui est déjà rapide,
 
-**[00:49:23 - 00:49:25] _speaker**  
-et c'est moi aussi
+**[02:06:58 - 02:07:00] 1-redsun**  
+va faire 3 fois la vitesse,
 
-**[00:49:25 - 00:49:27] _speaker**  
-que vous avez envoyé
+**[02:07:02 - 02:07:03] 1-redsun**  
+3 fois,
 
-**[00:49:27 - 00:49:29] _speaker**  
-les messages
+**[02:07:04 - 02:07:05] 1-redsun**  
+donc,
 
-**[00:49:29 - 00:49:31] _speaker**  
-à LinkedIn
+**[02:07:05 - 02:07:07] 1-redsun**  
+et puis c'est Google qui est derrière,
 
-**[00:49:31 - 00:49:33] _speaker**  
-oui je me rappelle
+**[02:07:07 - 02:07:09] 1-redsun**  
+donc moi je m'intéresse au gros,
 
-**[00:49:33 - 00:49:35] _speaker**  
-justement je suis en train de revoir sur l'indine
+**[02:07:09 - 02:07:10] 1-redsun**  
+Alibaba,
 
-**[00:49:35 - 00:49:37] _speaker**  
-je sais pas
+**[02:07:10 - 02:07:11] 1-redsun**  
+Sequen,
 
-**[00:49:37 - 00:49:39] _speaker**  
-c'est moi que j'ai essayé de
+**[02:07:11 - 02:07:12] 1-redsun**  
+ils font des très bons modèles,
 
-**[00:49:39 - 00:49:41] _speaker**  
-tient
+**[02:07:13 - 02:07:15] 1-redsun**  
+je regarde NVIDIA,
 
-**[00:49:41 - 00:49:43] _speaker**  
-oui il a trouvé une faille
+**[02:07:15 - 02:07:16] 1-redsun**  
+parce qu'il y a Nemotron,
 
-**[00:49:43 - 00:49:45] _speaker**  
-dans un de mes produits
+**[02:07:16 - 02:07:17] 1-redsun**  
+NVIDIA,
 
-**[00:49:45 - 00:49:47] _speaker**  
-en fait je sais pas comment on dit
+**[02:07:17 - 02:07:19] 1-redsun**  
+puis j'ai ma carte,
 
-**[00:49:47 - 00:49:49] _speaker**  
-Tana c'est ça
+**[02:07:19 - 02:07:20] 1-redsun**  
+les autres ils sont cool aussi,
 
-**[00:49:49 - 00:49:51] _speaker**  
-Tana il m'a trouvé une faille
+**[02:07:20 - 02:07:22] 1-redsun**  
+mais ils n'ont pas les moyens
 
-**[00:49:51 - 00:49:53] _speaker**  
-il me la reporte et j'ai pu la corriger
+**[02:07:22 - 02:07:23] 1-redsun**  
+de faire de la compétition
 
-**[00:49:53 - 00:49:55] _speaker**  
-et comme quoi ça sert
+**[02:07:23 - 02:07:24] 1-redsun**  
+contre ces mecs là,
 
-**[00:49:55 - 00:49:57] _speaker**  
-d'avoir une commune
+**[02:07:25 - 02:07:26] 1-redsun**  
+simplement.
 
-**[00:49:57 - 00:49:59] _speaker**  
-j'avais pas vu le bug
+**[02:07:27 - 02:07:28] 1-redsun**  
+Alors Huawei,
 
-**[00:49:59 - 00:50:01] _speaker**  
-je savais mais bon il me la
+**[02:07:28 - 02:07:29] 1-redsun**  
+qu'est-ce qu'ils foutent,
 
-**[00:50:01 - 00:50:03] _speaker**  
-repouche et du coup j'ai corriger
+**[02:07:29 - 02:07:30] 1-redsun**  
+je sais pas si ils foutent,
 
-**[00:50:03 - 00:50:05] _speaker**  
-je me suis un peu forcé à le corriger
+**[02:07:30 - 02:07:32] 1-redsun**  
+ils sont ou Huawei,
 
-**[00:50:05 - 00:50:07] _speaker**  
-et c'est grâce à lui qu'on
+**[02:07:32 - 02:07:34] 1-redsun**  
+je sais pas si ils ont un modèle local,
 
-**[00:50:07 - 00:50:09] _speaker**  
-merci pour ça
+**[02:07:34 - 02:07:35] 1-redsun**  
+je crois pas,
 
-**[00:50:09 - 00:50:11] _speaker**  
-oui c'est ça moi je suis ici
+**[02:07:35 - 02:07:37] 1-redsun**  
+il y a Kimi qui a des très bons modèles locaux,
 
-**[00:50:11 - 00:50:13] _speaker**  
-pour apprendre et aussi
+**[02:07:37 - 02:07:39] 1-redsun**  
+mais ils sont très gros,
 
-**[00:50:13 - 00:50:15] _speaker**  
-pour regarder
+**[02:07:39 - 02:07:40] 1-redsun**  
+donc c'est pas pour nous,
 
-**[00:50:15 - 00:50:17] _speaker**  
-pour discuter des technologies
+**[02:07:41 - 02:07:43] 1-redsun**  
+ou à moins il y a une mécanique de guerre,
 
-**[00:50:17 - 00:50:19] _speaker**  
-la sécurité
+**[02:07:43 - 02:07:44] 1-redsun**  
+et puis autrement il y a,
 
-**[00:50:19 - 00:50:21] _speaker**  
-et aussi les modèles locaux
+**[02:07:45 - 02:07:46] 1-redsun**  
+je crois que mes minimacs
 
-**[00:50:21 - 00:50:23] _speaker**  
-ok
+**[02:07:46 - 02:07:47] 1-redsun**  
+qui font pas un modèle open source,
 
-**[00:50:23 - 00:50:25] _speaker**  
-ça marche
+**[02:07:47 - 02:07:48] 1-redsun**  
+et Huawei je crois pas
 
-**[00:50:25 - 00:50:27] _speaker**  
-ok
+**[02:07:48 - 02:07:49] 1-redsun**  
+qui font le modèle open source,
 
-**[00:50:27 - 00:50:29] _speaker**  
-je suis crypto
+**[02:07:49 - 02:07:50] 1-redsun**  
+ma connaissance.
 
-**[00:50:29 - 00:50:31] _speaker**  
-à toi
+**[02:07:52 - 02:07:53] 1-redsun**  
+Après,
 
-**[00:50:31 - 00:50:33] _speaker**  
-bonsoir à tous
+**[02:08:07 - 02:08:08] 1-redsun**  
+c'est tout,
 
-**[00:50:33 - 00:50:35] _speaker**  
-ce que j'ai pas encore vu
+**[02:08:08 - 02:08:09] 1-redsun**  
+c'est tout,
 
-**[00:50:35 - 00:50:37] _speaker**  
-enfin parlé
+**[02:08:09 - 02:08:10] 1-redsun**  
+c'est tout,
 
-**[00:50:37 - 00:50:39] _speaker**  
-moi je m'appelle Damien alors je suis principalement
+**[02:08:10 - 02:08:11] 1-redsun**  
+c'est tout,
 
-**[00:50:39 - 00:50:41] _speaker**  
-dans la crypto de base
+**[02:08:11 - 02:08:12] 1-redsun**  
+c'est tout,
 
-**[00:50:41 - 00:50:43] _speaker**  
-et bah là je suis sur plein de projets en même temps
+**[02:08:12 - 02:08:13] 1-redsun**  
+c'est tout,
 
-**[00:50:43 - 00:50:45] _speaker**  
-surtout du vibe coding
+**[02:08:13 - 02:08:14] 1-redsun**  
+c'est tout,
 
-**[00:50:45 - 00:50:47] _speaker**  
-j'utilise un mac mini
+**[02:08:14 - 02:08:15] 1-redsun**  
+c'est tout,
 
-**[00:50:47 - 00:50:49] _speaker**  
-avec
+**[02:08:15 - 02:08:16] 1-redsun**  
+c'est tout,
 
-**[00:50:49 - 00:50:51] _speaker**  
-j'ai tout le temps utilisé gpt
+**[02:08:16 - 02:08:17] 1-redsun**  
+c'est tout,
 
-**[00:50:51 - 00:50:53] _speaker**  
-toutes les versions maintenant
+**[02:08:17 - 02:08:18] 1-redsun**  
+c'est tout,
 
-**[00:50:53 - 00:50:55] _speaker**  
-je suis sur la 5.5 en codex
+**[02:08:18 - 02:08:19] 1-redsun**  
+c'est tout,
 
-**[00:50:55 - 00:50:57] _speaker**  
-par rapport à l'abonnement
+**[02:08:19 - 02:08:20] 1-redsun**  
+c'est tout,
 
-**[00:50:57 - 00:50:59] _speaker**  
-comme j'ai entendu avant effectivement celui
+**[02:08:20 - 02:08:21] 1-redsun**  
+c'est tout,
 
-**[00:50:59 - 00:51:01] _speaker**  
-à 20 francs en 2 heures je le sature
+**[02:08:21 - 02:08:22] 1-redsun**  
+c'est tout,
 
-**[00:51:01 - 00:51:03] _speaker**  
-du coup j'avais celui à 200
+**[02:08:22 - 02:08:23] 1-redsun**  
+c'est tout,
 
-**[00:51:03 - 00:51:05] _speaker**  
-mais depuis quelques jours maintenant il y a un nouvel abonnement
+**[02:08:23 - 02:08:24] 1-redsun**  
+c'est tout,
 
-**[00:51:05 - 00:51:07] _speaker**  
-à 88 francs
+**[02:08:24 - 02:08:25] 1-redsun**  
+c'est tout,
 
-**[00:51:07 - 00:51:09] _speaker**  
-donc ils ont coupé l'apport en 2 en fait
+**[02:08:25 - 02:08:26] 1-redsun**  
+c'est tout,
 
-**[00:51:09 - 00:51:11] _speaker**  
-avec un abonnement 5 fois plus puissant
+**[02:08:26 - 02:08:27] 1-redsun**  
+c'est tout,
 
-**[00:51:11 - 00:51:13] _speaker**  
-enfin il est 5 fois plus puissant
+**[02:08:27 - 02:08:28] 1-redsun**  
+c'est tout,
 
-**[00:51:13 - 00:51:15] _speaker**  
-que celui à 20 francs
+**[02:08:28 - 02:08:29] 1-redsun**  
+c'est tout,
 
-**[00:51:15 - 00:51:17] _speaker**  
-et celui à 200 francs si jamais il est
+**[02:08:29 - 02:08:30] 1-redsun**  
+c'est tout,
 
-**[00:51:17 - 00:51:19] _speaker**  
-20 fois plus puissant donc il y a beaucoup plus de token
+**[02:08:30 - 02:08:31] 1-redsun**  
+c'est tout,
 
-**[00:51:19 - 00:51:21] _speaker**  
-quoi
+**[02:08:31 - 02:08:32] 1-redsun**  
+c'est tout,
 
-**[00:51:21 - 00:51:23] _speaker**  
-et puis je viens ici principalement pour
+**[02:08:32 - 02:08:33] 1-redsun**  
+c'est tout,
 
-**[00:51:23 - 00:51:25] _speaker**  
-le partage quoi pas vraiment d'autres objectifs
+**[02:08:33 - 02:08:34] 1-redsun**  
+c'est tout,
 
-**[00:51:25 - 00:51:27] _speaker**  
-que partager
+**[02:08:34 - 02:08:35] 1-redsun**  
+c'est tout,
 
-**[00:51:27 - 00:51:29] _speaker**  
-ok
+**[02:08:36 - 02:08:37] 1-redsun**  
+c'est tout,
 
-**[00:51:29 - 00:51:31] _speaker**  
-on s'y précie on va reparler après
+**[02:08:37 - 02:08:38] 1-redsun**  
+c'est tout,
 
-**[00:51:31 - 00:51:33] _speaker**  
-de la consommation des tokens
+**[02:08:38 - 02:08:39] 1-redsun**  
+c'est tout,
 
-**[00:51:33 - 00:51:35] _speaker**  
-on va donner la parole à Hébrilus
+**[02:08:39 - 02:08:40] 1-redsun**  
+c'est tout,
 
-**[00:51:35 - 00:51:37] _speaker**  
-et puis après on va avancer un peu
+**[02:08:40 - 02:08:41] 1-redsun**  
+c'est tout,
 
-**[00:51:37 - 00:51:39] _speaker**  
-vas-y Hébrilus, à toi
+**[02:08:41 - 02:08:42] 1-redsun**  
+c'est tout,
 
-**[00:51:44 - 00:51:46] _speaker**  
-ah on n'entend pas
+**[02:08:42 - 02:08:43] 1-redsun**  
+c'est tout,
 
-**[00:51:51 - 00:51:53] _speaker**  
-c'est pas un micro
+**[02:08:43 - 02:08:44] 1-redsun**  
+c'est tout,
 
-**[00:51:55 - 00:51:57] _speaker**  
-en fait qu'il a pas de micro en fait
+**[02:08:44 - 02:08:45] 1-redsun**  
+c'est tout,
 
-**[00:52:05 - 00:52:07] _speaker**  
-non
+**[02:08:45 - 02:08:46] 1-redsun**  
+c'est tout,
 
-**[00:52:07 - 00:52:09] _speaker**  
-j'entends pas je sais pas si vous l'entendez
+**[02:08:46 - 02:08:47] 1-redsun**  
+c'est tout,
 
-**[00:52:09 - 00:52:11] _speaker**  
-ah non il a des quotes
+**[02:08:47 - 02:08:48] 1-redsun**  
+c'est tout,
 
-**[00:52:11 - 00:52:13] _speaker**  
-ou il va revenir je pense
+**[02:08:48 - 02:08:49] 1-redsun**  
+c'est tout,
 
-**[00:52:13 - 00:52:15] _speaker**  
-ah voilà
+**[02:08:49 - 02:08:50] 1-redsun**  
+c'est tout,
 
-**[00:52:15 - 00:52:17] _speaker**  
-Hébrilus, deuxième essai
+**[02:08:50 - 02:08:51] 1-redsun**  
+c'est tout,
 
-**[00:52:17 - 00:52:19] _speaker**  
-sinon c'est pas grave
+**[02:08:51 - 02:08:52] 1-redsun**  
+c'est tout,
 
-**[00:52:19 - 00:52:21] _speaker**  
-c'est juste pour l'envers
+**[02:08:52 - 02:08:53] 1-redsun**  
+c'est tout,
 
-**[00:52:21 - 00:52:23] _speaker**  
-vas-y allons t'écoutes
+**[02:08:53 - 02:08:54] 1-redsun**  
+c'est tout,
 
-**[00:52:23 - 00:52:25] _speaker**  
-bonsoir à tous je m'appelle Yvon
+**[02:08:54 - 02:08:55] 1-redsun**  
+c'est tout,
 
-**[00:52:25 - 00:52:27] _speaker**  
-j'ai 15 ans d'expérience
+**[02:08:55 - 02:08:56] 1-redsun**  
+c'est tout,
 
-**[00:52:27 - 00:52:29] _speaker**  
-dans la vidéo
+**[02:08:56 - 02:08:57] 1-redsun**  
+c'est tout,
 
-**[00:52:29 - 00:52:31] _speaker**  
-et je suis en train
+**[02:08:57 - 02:08:58] 1-redsun**  
+c'est tout,
 
-**[00:52:31 - 00:52:33] _speaker**  
-de développer maintenant mon nouveau studio
+**[02:08:58 - 02:08:59] 1-redsun**  
+c'est tout,
 
-**[00:52:33 - 00:52:35] _speaker**  
-qui s'appelle Vidya
+**[02:08:59 - 02:09:00] 1-redsun**  
+c'est tout,
 
-**[00:52:35 - 00:52:37] _speaker**  
-il va être relancé
+**[02:09:00 - 02:09:01] 1-redsun**  
+c'est tout,
 
-**[00:52:37 - 00:52:39] _speaker**  
-ça va être en fin de l'année
+**[02:09:01 - 02:09:02] 1-redsun**  
+c'est tout,
 
-**[00:52:39 - 00:52:41] _speaker**  
-je peux quand même déjà faire des travail
+**[02:09:02 - 02:09:03] 1-redsun**  
+c'est tout,
 
-**[00:52:41 - 00:52:43] _speaker**  
-ça va être plutôt des vidéos
+**[02:09:03 - 02:09:04] 1-redsun**  
+c'est tout,
 
-**[00:52:43 - 00:52:45] _speaker**  
-et des images faites en complètement en lien
+**[02:09:04 - 02:09:05] 1-redsun**  
+c'est tout,
 
-**[00:52:47 - 00:52:49] _speaker**  
-après je peux aussi faire de la vidéo
+**[02:09:05 - 02:09:06] 1-redsun**  
+c'est tout,
 
-**[00:52:49 - 00:52:51] _speaker**  
-normale, d'habitude
+**[02:09:06 - 02:09:07] 1-redsun**  
+c'est tout,
 
-**[00:52:51 - 00:52:53] _speaker**  
-de faire
+**[02:09:07 - 02:09:08] 1-redsun**  
+c'est tout,
 
-**[00:52:53 - 00:52:55] _speaker**  
-et oui je suis dans la communauté
+**[02:09:08 - 02:09:09] 1-redsun**  
+c'est tout,
 
-**[00:52:55 - 00:52:57] _speaker**  
-parce que j'ai déjà commandé mon Mac mini
+**[02:09:10 - 02:09:11] 1-redsun**  
+c'est tout,
 
-**[00:52:57 - 00:52:59] _speaker**  
-mais bon là je pense qu'il y a un petit
+**[02:09:11 - 02:09:12] 1-redsun**  
+c'est tout,
 
-**[00:52:59 - 00:53:01] _speaker**  
-j'ai pas encore
+**[02:09:12 - 02:09:13] 1-redsun**  
+c'est tout,
 
-**[00:53:01 - 00:53:03] _speaker**  
-non j'ai pas encore non
+**[02:09:13 - 02:09:14] 1-redsun**  
+c'est tout,
 
-**[00:53:03 - 00:53:05] _speaker**  
-c'est quoi ce délire tu l'as commandé chez Apple
+**[02:09:14 - 02:09:15] 1-redsun**  
+c'est tout,
 
-**[00:53:05 - 00:53:07] _speaker**  
-oui
+**[02:09:16 - 02:09:17] 1-redsun**  
+c'est tout,
 
-**[00:53:07 - 00:53:09] _speaker**  
-et j'ai reçu un mail
+**[02:09:17 - 02:09:18] 1-redsun**  
+c'est tout,
 
-**[00:53:09 - 00:53:11] _speaker**  
-il y a 2 semaines
+**[02:09:18 - 02:09:19] 1-redsun**  
+c'est tout,
 
-**[00:53:11 - 00:53:13] _speaker**  
-en disant qu'ils ont pas de date
+**[02:09:19 - 02:09:20] 1-redsun**  
+c'est tout,
 
-**[00:53:13 - 00:53:15] _speaker**  
-pour me donner en fait
+**[02:09:20 - 02:09:21] 1-redsun**  
+c'est tout,
 
-**[00:53:15 - 00:53:17] _speaker**  
-les vidéos de l'univers
+**[02:09:21 - 02:09:22] 1-redsun**  
+c'est tout,
 
-**[00:53:17 - 00:53:19] _speaker**  
-je pense que c'est intéressant ton cas
+**[02:09:22 - 02:09:23] 1-redsun**  
+c'est tout,
 
-**[00:53:19 - 00:53:21] _speaker**  
-parce que pour ceux qui s'intéressent il y en a plus
+**[02:09:23 - 02:09:24] 1-redsun**  
+c'est tout,
 
-**[00:53:21 - 00:53:23] _speaker**  
-c'est le bordel là pour en avoir
+**[02:09:24 - 02:09:25] 1-redsun**  
+c'est tout,
 
-**[00:53:23 - 00:53:25] _speaker**  
-ça commence à être un peu le cas ou quoi
+**[02:09:25 - 02:09:26] 1-redsun**  
+c'est tout,
 
-**[00:53:25 - 00:53:27] _speaker**  
-à l'époque je pouvais acheter quelque chose
+**[02:09:26 - 02:09:27] 1-redsun**  
+c'est tout,
 
-**[00:53:27 - 00:53:29] _speaker**  
-avec
+**[02:09:27 - 02:09:28] 1-redsun**  
+c'est tout.
 
-**[00:53:29 - 00:53:31] _speaker**  
-il y avait en stock
+**[02:09:29 - 02:09:30] 1-redsun**  
+Je vais voir,
 
-**[00:53:31 - 00:53:33] _speaker**  
-par exemple il y avait en stock
+**[02:09:30 - 02:09:32] 1-redsun**  
+il y a les plusbiautet,
 
-**[00:53:33 - 00:53:35] _speaker**  
-8 gigas
+**[02:09:32 - 02:09:33] 1-redsun**  
+qui vont arriver,
 
-**[00:53:35 - 00:53:37] _speaker**  
-mais bon après moi je voulais un truc
+**[02:09:33 - 02:09:38] 1-redsun**  
+être un gros sujet, mais moi je pense surtout qu'il va se passer un truc, c'est très spécifique,
 
-**[00:53:37 - 00:53:39] _speaker**  
-un peu plus sérieux avec le 32 gigas
+**[02:09:38 - 02:09:44] 1-redsun**  
+c'est que là les modèles vont réduire leur consommation de ce que s'appelle la fenêtre
 
-**[00:53:39 - 00:53:41] _speaker**  
-minimum
+**[02:09:44 - 02:09:50] 1-redsun**  
+de contexte grâce au KV Cache, c'est un peu compliqué mais c'est super crucial et ce que
 
-**[00:53:41 - 00:53:43] _speaker**  
-et avec un terabyte
+**[02:09:50 - 02:09:56] 1-redsun**  
+je vous ai partagé c'est le papier de recherche de Google, qui s'appelle TurboQuant, qui permet
 
-**[00:53:43 - 00:53:45] _speaker**  
-mais laisse tomber
+**[02:09:56 - 02:10:02] 1-redsun**  
+de compresser en fait le cache et donc d'utiliser beaucoup moins de tailles de contexte et c'est
 
-**[00:53:45 - 00:53:47] _speaker**  
-j'attends maintenant
+**[02:10:02 - 02:10:10] 1-redsun**  
+la clé pour faire des modèles justement de locaux et c'est un game changer quoi, il faut le
 
-**[00:53:47 - 00:53:49] _speaker**  
-bon bah j'espère que ça va bien se passer
+**[02:10:10 - 02:10:28] 1-redsun**  
+comprendre. Je sais que par exemple Deeppsych dans son dernier modèle a fait un truc très
 
-**[00:53:49 - 00:53:51] _speaker**  
-moi j'ai acheté dans le gros de la vague
+**[02:10:28 - 02:10:33] 1-redsun**  
+spécifique là dessus sur le KV Cache, alors ça porte des noms, il y a toujours des noms j'ai plus,
 
-**[00:53:51 - 00:53:53] _speaker**  
-effectivement là ça va devenir compliqué
+**[02:10:33 - 02:10:38] 1-redsun**  
+il y en a tellement, mais en gros c'est toujours la même idée quoi, c'est en fait et ce qui va
 
-**[00:53:53 - 00:53:55] _speaker**  
-d'ailleurs sachez qu'il y a les puces M5 qui arrivent
+**[02:10:38 - 02:10:44] 1-redsun**  
+se passer, bon après c'est ma thé, peut-être que je me gore, mais en gros je suis sûr qu'on va
 
-**[00:53:55 - 00:53:57] _speaker**  
-et je pense que Apple
+**[02:10:44 - 02:10:51] 1-redsun**  
+arriver dans un monde où tu vas faire tourner ton opus sur ta bacon à la maison, et à part
 
-**[00:53:57 - 00:53:59] _speaker**  
-est en train de fabriquer les puces M5
+**[02:10:51 - 02:10:57] 1-redsun**  
+de ce jour là il y a tout qui change, c'est à plus besoin des mecs qui vendent leur truc,
 
-**[00:53:59 - 00:54:01] _speaker**  
-pour les nouvelles versions des Mac mini
+**[02:10:57 - 02:11:04] 1-redsun**  
+une blinde et puis il n'était plus dépendant de personne, peut-être que je me gourme.
 
-**[00:54:01 - 00:54:03] _speaker**  
-et Mac Studio
+**[02:11:27 - 02:11:48] 1-redsun**  
+Ah mais parce que les chinois ils distillent en fait, il distillent à mort les modèles et c'est très
 
-**[00:54:03 - 00:54:05] _speaker**  
-qui va être extrêmement intéressant
+**[02:11:48 - 02:12:04] 1-redsun**  
+smart et franchement. J'ai toujours pas bien compris comment ça va se goupiller, mais en
 
-**[00:54:05 - 00:54:07] _speaker**  
-vu que c'est la même ordination
+**[02:12:04 - 02:12:11] 1-redsun**  
+tout cas ce que je vois c'est que même quenne 27B aujourd'hui, il y a 90% des usages à Genève,
 
-**[00:54:07 - 00:54:09] _speaker**  
-donc voilà
+**[02:12:11 - 02:12:14] 1-redsun**  
+je pense qu'ils peuvent être comblés par ce modèle là.
 
-**[00:54:09 - 00:54:11] _speaker**  
-mais bon en attendant c'est un peu la galère
+**[02:12:14 - 02:12:44] 1-redsun**  
+Je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je
 
-**[00:54:11 - 00:54:13] _speaker**  
-je j'espère qu'il me remplace
+**[02:12:44 - 02:12:55] 1-redsun**  
+je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas,95
 
-**[00:54:13 - 00:54:15] _speaker**  
-peut-être pour la nouvelle version
+**[02:12:55 - 02:12:58] 1-redsun**  
+Page avance
 
-**[00:54:15 - 00:54:17] _speaker**  
-c'est pas vrai
+**[02:12:58 - 02:13:01] 1-redsun**  
+cinquante
 
-**[00:54:17 - 00:54:19] _speaker**  
-tout le mal que je te souhaite
+**[02:13:01 - 02:13:05] 1-redsun**  
+Roland
 
-**[00:54:19 - 00:54:21] _speaker**  
-franchement
+**[02:13:05 - 02:13:07] 1-redsun**  
+Jean
 
-**[00:54:21 - 00:54:23] _speaker**  
-M5 c'est la bombe
+**[02:13:07 - 02:13:13] 1-redsun**  
+max
 
-**[00:54:23 - 00:54:25] _speaker**  
-ça envoie quoi
+**[02:13:14 - 02:13:22] 1-redsun**  
+Tout pas au putain, c'est incroyable, personne n'a entendu parler de ça ici quoi, enfin...
 
-**[00:54:25 - 00:54:27] _speaker**  
-après c'est la RAM la clé
+**[02:13:28 - 02:13:34] 1-redsun**  
+Ah mais c'est pas une clôt derrière, je comprends rien là, ou pas.
 
-**[00:54:27 - 00:54:29] _speaker**  
-pour ceux qui ne savent pas trop
+**[02:13:34 - 02:13:38] 1-redsun**  
+Ah ok.
 
-**[00:54:29 - 00:54:31] _speaker**  
-la clé
+**[02:13:44 - 02:14:00] 1-redsun**  
+Oui mais la boîte de Pandore est déjà ouverte, les Models Open Source sont déjà là, donc en fait...
 
-**[00:54:31 - 00:54:33] _speaker**  
-LLM c'est la RAM
+**[02:14:00 - 02:14:08] 1-redsun**  
+puis des améliorés maintenant, en fait pas de la nouvelle technologie mais de la nouvelle façon de structurer les LLM,
 
-**[00:54:33 - 00:54:35] _speaker**  
-c'est pour ça aussi que vous avez déflambé
+**[02:14:08 - 02:14:15] 1-redsun**  
+on essaie d'être plus malin en fait d'optimisant le KV Cache, la clé et tout ces trucs là,
 
-**[00:54:35 - 00:54:37] _speaker**  
-du prix de la RAM
+**[02:14:15 - 02:14:24] 1-redsun**  
+et en fait moi je vois pas ce qui va empêcher bientôt des Models de sortir, enfin tu prends une base quenne et puis tu commences à te marrer dessus,
 
-**[00:54:37 - 00:54:39] _speaker**  
-et ce qui est intéressant sur les Mac
+**[02:14:24 - 02:14:29] 1-redsun**  
+et puis tu commences à développer une autre IE dessus quoi.
 
-**[00:54:39 - 00:54:41] _speaker**  
-pour ceux qui ne savent pas c'est que tu as la même en unifié
+**[02:14:29 - 02:14:40] 1-redsun**  
+On verra, là on est un peu sur la prédiction mais moi je pense que les use cases ou les usages quand tu vois en Suisse,
 
-**[00:54:41 - 00:54:43] _speaker**  
-qui permet d'avoir une exploitation maximale
+**[02:14:40 - 02:14:48] 1-redsun**  
+en tout cas à Genève, ce que font les gens avec l'IA, c'est-à-dire mais un truc d'il y a deux ans, il y aurait pas la différence,
 
-**[00:54:43 - 00:54:45] _speaker**  
-de potentiel de ta RAM
+**[02:14:48 - 02:15:03] 1-redsun**  
+il y a les mecs, je vois qu'il y a des grosses entreprises, je sais qu'il y a des grosses entreprises, je vais pas dire les noms pour parler,
 
-**[00:54:45 - 00:54:47] _speaker**  
-et donc en fait c'est pour ça
+**[02:15:03 - 02:15:18] 1-redsun**  
+mais je sais qu'il y a des grosses entreprises qui utilisent la GPT 4ans quoi, non mais bon, ben justement, qu'est-ce qu'ils ont fait, alors justement.
 
-**[00:54:47 - 00:54:49] _speaker**  
-qu'il y a une telle hype sur les Mac mini
+**[02:15:18 - 02:15:32] 1-redsun**  
+Pas de commentaires, tu sais des prics, tu sais qu'il y en a un 2-3 qui utilise 5, je dis en fait un bon model open source peut faire le tard.
 
-**[00:54:49 - 00:54:51] _speaker**  
-les Mac Studio etc
+**[02:15:32 - 02:15:47] 1-redsun**  
+Et puis en plus, je suis pas du tout étonné que le nouveau patron d'Apple soit un spécialiste du hardware,
 
-**[00:54:51 - 00:54:53] _speaker**  
-mais il y a une vraie raison derrière
+**[02:15:48 - 02:15:58] 1-redsun**  
+parce qu'ils n'ont pas d'IA et à mon avis ils ont une idée derrière la tête là, je sais pas ce qu'ils vont nous pondre mais il y a un truc qui va sortir de chez eux je pense,
 
-**[00:54:53 - 00:54:55] _speaker**  
-quand tu as 128 giga de RAM
+**[02:15:58 - 02:16:11] 1-redsun**  
+qui va, ils pourraient squiser beaucoup de, enfin vendre énormément de Mac Mini ou Mac Studio ou autre en étant la numéro 1 fournisseur des IALOCAL.
 
-**[00:54:55 - 00:54:57] _speaker**  
-tu as 128 giga de RAM quoi
+**[02:16:11 - 02:16:13] 1-redsun**  
+Ça c'est pas un truc là.
 
-**[00:54:57 - 00:54:59] _speaker**  
-et ça ça change beaucoup de choses pour faire du local
+**[02:16:41 - 02:16:43] 1-redsun**  
+C'est pas un truc là.
 
-**[00:54:59 - 00:55:01] _speaker**  
-après j'avais une question
+**[02:17:11 - 02:17:30] 1-redsun**  
+Alors, c'est non, ça c'est vieux, bah ouais, alors là, moi je pense que ça, ça va être un...
 
-**[00:55:01 - 00:55:03] _speaker**  
-parce que je suis en train de penser d'acheter
+**[02:17:30 - 02:17:37] 1-redsun**  
+Est-ce que tu peux entraîner les modèles GPT et OPUS sur ces puces là, ou c'est que pour le marché chinois ?
 
-**[00:55:03 - 00:55:05] _speaker**  
-peut-être un Macbook pro
+**[02:17:37 - 02:17:40] 1-redsun**  
+Est-ce que l'inverse est compatible, tu vois ce que je veux dire ?
 
-**[00:55:05 - 00:55:07] _speaker**  
-avec 125 giga de RAM
+**[02:17:50 - 02:17:54] 1-redsun**  
+Mais comment ça on les utilise, toi tu les utilise ?
 
-**[00:55:07 - 00:55:09] _speaker**  
-est-ce que
+**[02:18:02 - 02:18:04] 1-redsun**  
+Ah ok.
 
-**[00:55:09 - 00:55:11] _speaker**  
-on peut quand même
+**[02:18:07 - 02:18:26] 1-redsun**  
+Ok, donc ils en ont là-bas, il y a du stack ou quoi ?
 
-**[00:55:11 - 00:55:13] _speaker**  
-avoir ça en local
+**[02:18:26 - 02:18:29] 1-redsun**  
+Ah, ok.
 
-**[00:55:13 - 00:55:15] _speaker**  
-ou on peut avoir des problèmes de sécurité
+**[02:18:38 - 02:18:46] 1-redsun**  
+Ok, bah écoute, si tu arrives à en chopper, je choppe besoin un maximum, mais à mon avis c'est un peu la clé de tout quoi, c'est histoire là.
 
-**[00:55:15 - 00:55:17] _speaker**  
-ce genre de choses
+**[02:18:46 - 02:18:50] 1-redsun**  
+Bon après, il faut entraîner les modèles, enfin c'est un peu le but.
 
-**[00:55:17 - 00:55:19] _speaker**  
-non franchement c'était super
+**[02:18:53 - 02:18:57] 1-redsun**  
+Mais ça va jouer là-dessus, celui qui aura les meilleures puces.
 
-**[00:55:19 - 00:55:21] _speaker**  
-les nouveaux M5
+**[02:18:57 - 02:19:00] 1-redsun**  
+Mais est-ce que ça va être la puissance brute ? Moi je suis pas certain de ça.
 
-**[00:55:21 - 00:55:23] _speaker**  
-Mac
+**[02:19:00 - 02:19:09] 1-redsun**  
+Moi je pense que la GPT, ils sont en train de se planter sur la stratégie de toujours plus de data center, c'est pas forcément la solution.
 
-**[00:55:23 - 00:55:25] _speaker**  
-Macbook qui sont géniaux
+**[02:19:09 - 02:19:13] 1-redsun**  
+Je pense qu'on peut beaucoup optimiser encore les modèles.
 
-**[00:55:25 - 00:55:27] _speaker**  
-pour faire du LLM local
+**[02:19:17 - 02:19:20] 1-redsun**  
+Ça on va voir avec le temps, franchement.
 
-**[00:55:27 - 00:55:29] _speaker**  
-ils ont une très grosse puissance
+**[02:19:24 - 02:19:27] 1-redsun**  
+Je trouve pas d'articles propres là-dessus.
 
-**[00:55:29 - 00:55:31] _speaker**  
-par contre la problématique c'est plutôt
+**[02:19:31 - 02:19:42] 1-redsun**  
+Ok, donc il est 22h, je propose qu'on arrête, sinon il y a 3h du mat, moi il y a encore 3 questions.
 
-**[00:55:31 - 00:55:33] _speaker**  
-que tu ne peux pas laisser tellement allumer
+**[02:19:42 - 02:19:49] 1-redsun**  
+Merci à tous d'être revenus, de toute façon on se voit la semaine prochaine.
 
-**[00:55:33 - 00:55:35] _speaker**  
-H24
+**[02:19:49 - 02:19:58] 1-redsun**  
+On se voit la semaine prochaine et puis voilà, on se refait un petit weekly claw, on fait un point sur ce qu'est avancé.
 
-**[00:55:35 - 00:55:37] _speaker**  
-ton Mac comme ça
+**[02:19:59 - 02:20:02] 1-redsun**  
+Et puis on se tient au courant si vous avez des questions, des trucs comme ça.
 
-**[00:55:37 - 00:55:39] _speaker**  
-parce que c'est pas fait pour être un server
+**[02:20:02 - 02:20:06] 1-redsun**  
+Et s'il y en a aussi qui veut faire une démo, il faut qu'il me demande.
 
-**[00:55:39 - 00:55:41] _speaker**  
-c'est pour ça qu'il faut quand même mieux
+**[02:20:06 - 02:20:10] 1-redsun**  
+Il me dit voilà, je vais juste montrer un truc, envoyez-moi un message privé.
 
-**[00:55:41 - 00:55:43] _speaker**  
-privilégier un Mac Studio
+**[02:20:10 - 02:20:15] 1-redsun**  
+Et puis comme ça, la prochaine fois je vous laisse montrer comment vous utilisez OpenClaw,
 
-**[00:55:43 - 00:55:45] _speaker**  
-ou un Mac Pro
+**[02:20:15 - 02:20:19] 1-redsun**  
+ou que ce soit toujours moi qui montre aussi un peu, si vous avez des trucs à montrer vous,
 
-**[00:55:45 - 00:55:47] _speaker**  
-pas de tes consommerins
+**[02:20:19 - 02:20:23] 1-redsun**  
+ça peut être sympa de voir que vous faites avec quoi.
 
-**[00:55:47 - 00:55:49] _speaker**  
-de quoi ?
+**[02:20:24 - 02:20:30] 1-redsun**  
+Voilà voilà monsieur, bonne soirée à tous et puis on...
 
-**[00:55:51 - 00:55:53] _speaker**  
-donc c'est pour ça qu'il faut privilégier
+**[02:20:32 - 02:20:38] 1-redsun**  
+Merci, tchao, tchao à tous.
 
-**[00:55:53 - 00:55:55] _speaker**  
-quand même les modèles Mac mini
-
-**[00:55:55 - 00:55:57] _speaker**  
-ou Mac Studio
-
-**[00:55:57 - 00:55:59] _speaker**  
-un peu tiré
-
-**[00:55:59 - 00:56:01] _speaker**  
-oui
-
-**[00:56:01 - 00:56:03] _speaker**  
-ça va être un gros sujet
-
-**[00:56:03 - 00:56:05] _speaker**  
-on va en parler justement
-
-**[00:56:05 - 00:56:07] _speaker**  
-normalement il devait y avoir des nouveaux
-
-**[00:56:07 - 00:56:09] _speaker**  
-mais je ne sais pas où ils sont
-
-**[00:56:09 - 00:56:11] _speaker**  
-ils sont perdus en route
-
-**[00:56:11 - 00:56:13] _speaker**  
-il y a 24 inscrits
-
-**[00:56:13 - 00:56:15] _speaker**  
-il y a moins de beaucoup
-
-**[00:56:15 - 00:56:17] _speaker**  
-j'espère qu'ils ont bien trouvé
-
-**[00:56:17 - 00:56:19] _speaker**  
-tout le monde sait ce que c'est OpenClo
-
-**[00:56:19 - 00:56:21] _speaker**  
-ou pas
-
-**[00:56:21 - 00:56:23] _speaker**  
-tout soit clair
-
-**[00:56:23 - 00:56:25] _speaker**  
-mais je crois que tout le monde sait
-
-**[00:56:25 - 00:56:27] _speaker**  
-c'est bon ?
-
-**[00:56:27 - 00:56:29] _speaker**  
-c'est bon
-
-**[00:56:31 - 00:56:33] _speaker**  
-alors justement si ça vous intéresse
-
-**[00:56:33 - 00:56:35] _speaker**  
-vous voyez là haut
-
-**[00:56:35 - 00:56:37] _speaker**  
-j'ai fait un petit site web
-
-**[00:56:37 - 00:56:39] _speaker**  
-et j'ai mis les liens directement pour aller voir Hermès
-
-**[00:56:39 - 00:56:41] _speaker**  
-par exemple on en a parlé avant
-
-**[00:56:41 - 00:56:43] _speaker**  
-Hermès vachement plus compliqué
-
-**[00:56:43 - 00:56:45] _speaker**  
-à prendre en main moi je trouve un peu moins sympa
-
-**[00:56:45 - 00:56:47] _speaker**  
-un peu moins
-
-**[00:56:47 - 00:56:49] _speaker**  
-et là comme on en a parlé
-
-**[00:56:49 - 00:56:51] _speaker**  
-je peux remettre de montrer un peu ça
-
-**[00:56:51 - 00:56:53] _speaker**  
-pour ceux qui ne connaissent pas
-
-**[00:56:53 - 00:56:55] _speaker**  
-là j'envoie le github d'Hermès agent
-
-**[00:56:55 - 00:56:57] _speaker**  
-si jamais vous voulez l'installer
-
-**[00:56:57 - 00:56:59] _speaker**  
-franchement
-
-**[00:56:59 - 00:57:01] _speaker**  
-si vous avez déjà OpenClo et que vous maîtrisiez OpenClo
-
-**[00:57:01 - 00:57:03] _speaker**  
-c'est pas la peine tellement de s'énerver
-
-**[00:57:03 - 00:57:05] _speaker**  
-là dessus
-
-**[00:57:05 - 00:57:07] _speaker**  
-si vous êtes un peu curieux et que vous avez envie
-
-**[00:57:07 - 00:57:09] _speaker**  
-d'aller plus loin vous pouvez faire
-
-**[00:57:09 - 00:57:11] _speaker**  
-c'est la même genre de commande pour faire l'installation
-
-**[00:57:11 - 00:57:13] _speaker**  
-c'est un code comme vous balancer dans
-
-**[00:57:13 - 00:57:15] _speaker**  
-le terminal et puis ça s'installe
-
-**[00:57:15 - 00:57:17] _speaker**  
-si c'est à peu près la même façon d'installer
-
-**[00:57:17 - 00:57:19] _speaker**  
-il y a assez peu de différences dans l'usage
-
-**[00:57:19 - 00:57:21] _speaker**  
-il y a quelques petites variations
-
-**[00:57:21 - 00:57:23] _speaker**  
-il est vachement bien aussi
-
-**[00:57:23 - 00:57:25] _speaker**  
-on en entend pas mal parler parce qu'il y a vraiment
-
-**[00:57:25 - 00:57:27] _speaker**  
-des trucs qui sont intéressants là dessus
-
-**[00:57:27 - 00:57:29] _speaker**  
-c'est un concurrent direct de OpenClo
-
-**[00:57:29 - 00:57:31] _speaker**  
-mais moi je comprends pas très bien l'intérêt
-
-**[00:57:31 - 00:57:33] _speaker**  
-de faire un truc comme ça
-
-**[00:57:33 - 00:57:35] _speaker**  
-parce que je trouve qu'il devrait plutôt
-
-**[00:57:35 - 00:57:37] _speaker**  
-améliorer OpenClo tout le monde devrait bosser
-
-**[00:57:37 - 00:57:39] _speaker**  
-sur le même truc
-
-**[00:57:39 - 00:57:41] _speaker**  
-je crois que
-
-**[00:57:41 - 00:57:43] _speaker**  
-ce qu'ils ont développé c'est des mecs qui font des LLM
-
-**[00:57:43 - 00:57:45] _speaker**  
-en fait
-
-**[00:57:45 - 00:57:47] _speaker**  
-ils ont un intérêt commercial
-
-**[00:57:47 - 00:57:49] _speaker**  
-qui font un peu la promo
-
-**[00:57:49 - 00:57:51] _speaker**  
-de leur modèle
-
-**[00:57:51 - 00:57:53] _speaker**  
-qui ont créé je sais plus le modèle
-
-**[00:57:53 - 00:57:55] _speaker**  
-c'est bizarre
-
-**[00:57:55 - 00:57:57] _speaker**  
-on voit là pour l'info si ça vous intéresse
-
-**[00:58:01 - 00:58:03] _speaker**  
-ok
-
-**[00:58:03 - 00:58:05] _speaker**  
-appuie
-
-**[00:58:05 - 00:58:07] _speaker**  
-parce qu'on en a parlé aussi avant juste un petit remarque aussi
-
-**[00:58:07 - 00:58:09] _speaker**  
-par rapport
-
-**[00:58:09 - 00:58:11] _speaker**  
-à
-
-**[00:58:11 - 00:58:13] _speaker**  
-Cloud
-
-**[00:58:13 - 00:58:15] _speaker**  
-en fait pourquoi OpenClo on en a parlé
-
-**[00:58:15 - 00:58:17] _speaker**  
-car nous à nano on a fait un petit débat là dessus
-
-**[00:58:17 - 00:58:19] _speaker**  
-il y a une chose qu'on peut faire
-
-**[00:58:19 - 00:58:21] _speaker**  
-avec OpenClo
-
-**[00:58:21 - 00:58:23] _speaker**  
-qu'on peut pas faire avec Cloud
-
-**[00:58:23 - 00:58:25] _speaker**  
-c'est de justement
-
-**[00:58:25 - 00:58:27] _speaker**  
-pouvoir installer un LLM local
-
-**[00:58:27 - 00:58:29] _speaker**  
-sur sa machine
-
-**[00:58:29 - 00:58:31] _speaker**  
-utiliser par exemple LLM studio
-
-**[00:58:31 - 00:58:33] _speaker**  
-et pouvoir faire tourner son modèle
-
-**[00:58:33 - 00:58:35] _speaker**  
-en local et utiliser
-
-**[00:58:35 - 00:58:37] _speaker**  
-OpenClo ou Hermès on s'en fout
-
-**[00:58:37 - 00:58:39] _speaker**  
-voilà
-
-**[00:58:39 - 00:58:41] _speaker**  
-moi je préfère OpenClo mais
-
-**[00:58:41 - 00:58:43] _speaker**  
-l'idée c'est d'avoir un organisateur
-
-**[00:58:43 - 00:58:45] _speaker**  
-qui va pouvoir utiliser et faire des accès
-
-**[00:58:45 - 00:58:47] _speaker**  
-directs au LLM
-
-**[00:58:47 - 00:58:49] _speaker**  
-pour pouvoir
-
-**[00:58:49 - 00:58:51] _speaker**  
-orchestrer un peu tout ça
-
-**[00:58:55 - 00:58:57] _speaker**  
-maintenant je voulais juste faire un petit débat avec vous
-
-**[00:58:57 - 00:58:59] _speaker**  
-qui sait qu'à tester
-
-**[00:58:59 - 00:59:01] _speaker**  
-GPT5 vous pouvez ouvrir les micros
-
-**[00:59:01 - 00:59:03] _speaker**  
-si jamais n'avez pas de soucis
-
-**[00:59:03 - 00:59:05] _speaker**  
-qui sait qu'à tester GPT5.5
-
-**[00:59:05 - 00:59:07] _speaker**  
-moi en tout cas juste pour la petite remarque
-
-**[00:59:07 - 00:59:09] _speaker**  
-il est absolument incroyable
-
-**[00:59:09 - 00:59:11] _speaker**  
-et il est parfaitement adapté
-
-**[00:59:11 - 00:59:13] _speaker**  
-aussi à l'utilisation
-
-**[00:59:13 - 00:59:15] _speaker**  
-sur OpenClo aussi pourquoi
-
-**[00:59:15 - 00:59:17] _speaker**  
-parce que maintenant
-
-**[00:59:17 - 00:59:19] _speaker**  
-vous avez vu que Spitter Steinberger
-
-**[00:59:19 - 00:59:21] _speaker**  
-a giboss avec
-
-**[00:59:21 - 00:59:23] _speaker**  
-on va dire
-
-**[00:59:23 - 00:59:25] _speaker**  
-ma dans la main avec OpenAI
-
-**[00:59:25 - 00:59:27] _speaker**  
-et du coup la version haute
-
-**[00:59:27 - 00:59:29] _speaker**  
-de
-
-**[00:59:29 - 00:59:31] _speaker**  
-de chat GPT
-
-**[00:59:31 - 00:59:33] _speaker**  
-permet beaucoup plus d'usage de token que puce
-
-**[00:59:33 - 00:59:35] _speaker**  
-en tout cas
-
-**[00:59:35 - 00:59:37] _speaker**  
-donc il y a là qu'ils l'ont testé parmi vous
-
-**[00:59:37 - 00:59:39] _speaker**  
-GPT5.5 je sais que suis ce crypto
-
-**[00:59:39 - 00:59:41] _speaker**  
-qui est le seul pour le monde qui a testé
-
-**[00:59:41 - 00:59:43] _speaker**  
-mais je crois que t'es le seul pour le monde
-
-**[00:59:43 - 00:59:45] _speaker**  
-qui a testé
-
-**[00:59:45 - 00:59:47] _speaker**  
-pour que je ne me nettestais
-
-**[00:59:47 - 00:59:49] _speaker**  
-et alors que c'est en preuve
-
-**[00:59:49 - 00:59:51] _speaker**  
-pour être honnête avec toi
-
-**[00:59:51 - 00:59:53] _speaker**  
-entre la version 5.4
-
-**[00:59:53 - 00:59:55] _speaker**  
-et la version 5.5
-
-**[00:59:55 - 00:59:57] _speaker**  
-avant de pour la différence
-
-**[00:59:57 - 00:59:59] _speaker**  
-ah ouais
-
-**[00:59:59 - 01:00:01] _speaker**  
-moi j'ai trouvé justement une grosse différence
-
-**[01:00:01 - 01:00:03] _speaker**  
-c'est marrant que tu dis ça
-
-**[01:00:03 - 01:00:05] _speaker**  
-pourquoi t'as fait du code
-
-**[01:00:05 - 01:00:07] _speaker**  
-t'as fait quoi avec
-
-**[01:00:07 - 01:00:09] _speaker**  
-non bah moi tu sais en fait
-
-**[01:00:09 - 01:00:11] _speaker**  
-ce que je demande à mon agent c'est vraiment
-
-**[01:00:11 - 01:00:13] _speaker**  
-des trucs basiques
-
-**[01:00:13 - 01:00:15] _speaker**  
-vraiment très très simple
-
-**[01:00:15 - 01:00:17] _speaker**  
-et je
-
-**[01:00:17 - 01:00:19] _speaker**  
-là je suis pas du tout à la
-
-**[01:00:19 - 01:00:21] _speaker**  
-donc je ne pourrai pas le modèle
-
-**[01:00:21 - 01:00:23] _speaker**  
-à partir du moment où
-
-**[01:00:23 - 01:00:25] _speaker**  
-il me répond et puis
-
-**[01:00:25 - 01:00:27] _speaker**  
-il fait l'action
-
-**[01:00:27 - 01:00:29] _speaker**  
-bah en fait
-
-**[01:00:29 - 01:00:31] _speaker**  
-ce soit 5.5
-
-**[01:00:31 - 01:00:33] _speaker**  
-ou 5.4
-
-**[01:00:33 - 01:00:35] _speaker**  
-ou même d'autres
-
-**[01:00:35 - 01:00:37] _speaker**  
-ouais ça me va quoi pour le
-
-**[01:00:37 - 01:00:39] _speaker**  
-euh
-
-**[01:00:39 - 01:00:41] _speaker**  
-disons que je suis pas très
-
-**[01:00:41 - 01:00:43] _speaker**  
-euh j'ai utilisé le 5.5
-
-**[01:00:43 - 01:00:45] _speaker**  
-mais ça n'a pas été la révélation
-
-**[01:00:45 - 01:00:47] _speaker**  
-ouais ok
-
-**[01:00:47 - 01:00:49] _speaker**  
-ok alors
-
-**[01:00:49 - 01:00:51] _speaker**  
-j'ai une question Cyril comment tu
-
-**[01:00:51 - 01:00:53] _speaker**  
-comment tu étabiles la différence justement
-
-**[01:00:53 - 01:00:55] _speaker**  
-parce que ça dépend de l'utilisation
-
-**[01:00:55 - 01:00:57] _speaker**  
-comme comment on vient de le dire
-
-**[01:00:57 - 01:00:59] _speaker**  
-alors bien sûr ça dépend
-
-**[01:00:59 - 01:01:01] _speaker**  
-de l'utilisation
-
-**[01:01:01 - 01:01:03] _speaker**  
-mais en fait il y a des benchmarks
-
-**[01:01:03 - 01:01:05] _speaker**  
-qui permettent de comparer en fait
-
-**[01:01:05 - 01:01:07] _speaker**  
-les résultats
-
-**[01:01:07 - 01:01:09] _speaker**  
-là il y en a plein mais je sais
-
-**[01:01:09 - 01:01:11] _speaker**  
-de vous en trouver un simple à regarder
-
-**[01:01:11 - 01:01:13] _speaker**  
-il y a LM Arena qui permet
-
-**[01:01:13 - 01:01:15] _speaker**  
-aussi de faire de la comparaison directe comme ça
-
-**[01:01:15 - 01:01:17] _speaker**  
-et puis là on voit
-
-**[01:01:17 - 01:01:19] _speaker**  
-sur certaines tâches en fait
-
-**[01:01:19 - 01:01:21] _speaker**  
-donc là tu peux aller voir là
-
-**[01:01:21 - 01:01:23] _speaker**  
-et tu peux aller voir par exemple
-
-**[01:01:23 - 01:01:25] _speaker**  
-le classement
-
-**[01:01:25 - 01:01:27] _speaker**  
-en texte, en code
-
-**[01:01:27 - 01:01:29] _speaker**  
-en vision, en document
-
-**[01:01:29 - 01:01:31] _speaker**  
-pis ça c'est des tests qui sont fait à la aveugle
-
-**[01:01:31 - 01:01:33] _speaker**  
-donc c'est pas mal pour comparer
-
-**[01:01:33 - 01:01:35] _speaker**  
-un peu tout ça
-
-**[01:01:35 - 01:01:37] _speaker**  
-mais moi je trouve qu'en fait
-
-**[01:01:37 - 01:01:39] _speaker**  
-je sais pas si vous savez
-
-**[01:01:39 - 01:01:41] _speaker**  
-mais en fait il y a une immense différence
-
-**[01:01:41 - 01:01:43] _speaker**  
-entre la structure de code
-
-**[01:01:43 - 01:01:45] _speaker**  
-GPT 5.4 et 5.5
-
-**[01:01:45 - 01:01:47] _speaker**  
-il y a une énorme différence
-
-**[01:01:47 - 01:01:49] _speaker**  
-ils ont refondu complètement le modèle
-
-**[01:01:49 - 01:01:51] _speaker**  
-donc moi je le trouve vraiment
-
-**[01:01:51 - 01:01:53] _speaker**  
-vachement plus fort en tout cas en code
-
-**[01:01:53 - 01:01:55] _speaker**  
-parce que moi c'est vraiment la partie
-
-**[01:01:55 - 01:01:57] _speaker**  
-que je fais le plus
-
-**[01:01:57 - 01:01:59] _speaker**  
-donc voilà
-
-**[01:01:59 - 01:02:01] _speaker**  
-donc quand tu fais du code
-
-**[01:02:01 - 01:02:03] _speaker**  
-tu vois vite ta différence
-
-**[01:02:03 - 01:02:05] _speaker**  
-pour moi je trouve
-
-**[01:02:05 - 01:02:07] _speaker**  
-c'est vraiment violent
-
-**[01:02:07 - 01:02:09] _speaker**  
-maintenant si tu fais juste
-
-**[01:02:09 - 01:02:11] _speaker**  
-même en stratégie
-
-**[01:02:11 - 01:02:13] _speaker**  
-par contre si vous utilisez chat GPT
-
-**[01:02:13 - 01:02:15] _speaker**  
-je vous conseille de pousser GPT 5.5
-
-**[01:02:15 - 01:02:17] _speaker**  
-en high
-
-**[01:02:17 - 01:02:19] _speaker**  
-c'est à dire que tu peux pas
-
-**[01:02:19 - 01:02:21] _speaker**  
-je vais vous montrer la pêtre
-
-**[01:02:21 - 01:02:23] _speaker**  
-donc chat GPT
-
-**[01:02:23 - 01:02:25] _speaker**  
-là en fait quand tu fais
-
-**[01:02:25 - 01:02:27] _speaker**  
-un nouveau chat
-
-**[01:02:27 - 01:02:29] _speaker**  
-et tu vas prendre
-
-**[01:02:29 - 01:02:31] _speaker**  
-le modèle thinking
-
-**[01:02:31 - 01:02:33] _speaker**  
-et tu mets bien extended effort
-
-**[01:02:33 - 01:02:35] _speaker**  
-et en 5.5
-
-**[01:02:35 - 01:02:37] _speaker**  
-en stratégie business il est incroyable
-
-**[01:02:37 - 01:02:39] _speaker**  
-franchement
-
-**[01:02:39 - 01:02:41] _speaker**  
-faites des tests quand même
-
-**[01:02:41 - 01:02:43] _speaker**  
-parce que moi il m'a dit
-
-**[01:02:43 - 01:02:45] _speaker**  
-des trucs ultra pertinents pour la structure
-
-**[01:02:45 - 01:02:47] _speaker**  
-sur mon business
-
-**[01:02:47 - 01:02:49] _speaker**  
-là je suis en train de m'orienter sur la vente
-
-**[01:02:49 - 01:02:51] _speaker**  
-de machines locales
-
-**[01:02:51 - 01:02:53] _speaker**  
-justement type Mac
-
-**[01:02:53 - 01:02:55] _speaker**  
-et vraiment en stratégie il était bestial
-
-**[01:02:55 - 01:02:57] _speaker**  
-donc pas que en code
-
-**[01:02:57 - 01:02:59] _speaker**  
-donc
-
-**[01:02:59 - 01:03:01] _speaker**  
-juste pour la petite info
-
-**[01:03:01 - 01:03:03] _speaker**  
-comme ça vous voyez comment moi je l'utilise
-
-**[01:03:03 - 01:03:05] _speaker**  
-ça vous permet aussi d'avoir des use case
-
-**[01:03:05 - 01:03:07] _speaker**  
-là je suis sur github
-
-**[01:03:07 - 01:03:09] _speaker**  
-j'ai créé local with clou
-
-**[01:03:09 - 01:03:11] _speaker**  
-et en fait je code directement
-
-**[01:03:11 - 01:03:13] _speaker**  
-avec chat GPT 5.5
-
-**[01:03:13 - 01:03:15] _speaker**  
-et apponclou et lui il fait des
-
-**[01:03:15 - 01:03:17] _speaker**  
-push automatiques sur ce github
-
-**[01:03:17 - 01:03:19] _speaker**  
-pour mettre à jour le logiciel
-
-**[01:03:19 - 01:03:21] _speaker**  
-donc il contrôle
-
-**[01:03:21 - 01:03:23] _speaker**  
-le github il a l'accès total
-
-**[01:03:23 - 01:03:25] _speaker**  
-et puis en fait il envoie les informations
-
-**[01:03:25 - 01:03:27] _speaker**  
-il met à jour le code
-
-**[01:03:27 - 01:03:29] _speaker**  
-il analyse tout le code
-
-**[01:03:29 - 01:03:31] _speaker**  
-s'il y a des bugs, des machins comme ça il traite tout
-
-**[01:03:31 - 01:03:33] _speaker**  
-moi j'oriente
-
-**[01:03:33 - 01:03:35] _speaker**  
-simplement sur
-
-**[01:03:35 - 01:03:37] _speaker**  
-qu'est ce qu'il peut faire
-
-**[01:03:37 - 01:03:39] _speaker**  
-qu'est ce qu'il doit faire, les fonctionnalités
-
-**[01:03:39 - 01:03:41] _speaker**  
-que j'aurais bien voir etc
-
-**[01:03:41 - 01:03:43] _speaker**  
-franchement en code il est impressionnant
-
-**[01:03:43 - 01:03:45] _speaker**  
-et puis il y a une chose
-
-**[01:03:45 - 01:03:47] _speaker**  
-juste une question du coup entre
-
-**[01:03:47 - 01:03:49] _speaker**  
-pour comparer entre plot code
-
-**[01:03:49 - 01:03:51] _speaker**  
-et chat GPT 5.5
-
-**[01:03:51 - 01:03:53] _speaker**  
-il y a un truc
-
-**[01:03:53 - 01:03:55] _speaker**  
-génial pour ça
-
-**[01:03:55 - 01:03:57] _speaker**  
-je te l'envoie
-
-**[01:03:57 - 01:03:59] _speaker**  
-sur le chat
-
-**[01:03:59 - 01:04:01] _speaker**  
-je pense que vous connaissez tout ça
-
-**[01:04:01 - 01:04:03] _speaker**  
-OpenRouter ou pas ? peut-être pas
-
-**[01:04:03 - 01:04:05] _speaker**  
-parce que là il y a quand même un bon niveau
-
-**[01:04:05 - 01:04:07] _speaker**  
-OpenRouter
-
-**[01:04:07 - 01:04:09] _speaker**  
-c'est un agrégateur d'IA qui permet
-
-**[01:04:09 - 01:04:11] _speaker**  
-de faire des appels à un pays à n'importe quel modèle
-
-**[01:04:11 - 01:04:13] _speaker**  
-et il y a
-
-**[01:04:13 - 01:04:15] _speaker**  
-un truc de comparaison qui est vachement bien coutu
-
-**[01:04:15 - 01:04:17] _speaker**  
-c'est que là tu choisis ton modèle
-
-**[01:04:17 - 01:04:19] _speaker**  
-donc là tu mets GPT 5.5
-
-**[01:04:19 - 01:04:21] _speaker**  
-par exemple
-
-**[01:04:21 - 01:04:23] _speaker**  
-alors d'ailleurs il y a le pro
-
-**[01:04:23 - 01:04:25] _speaker**  
-le pro il est encore plus violent
-
-**[01:04:25 - 01:04:27] _speaker**  
-on va rester raisonnable
-
-**[01:04:27 - 01:04:29] _speaker**  
-parce que sinon ça coûte une blinde
-
-**[01:04:29 - 01:04:31] _speaker**  
-donc tu fais comme ça
-
-**[01:04:31 - 01:04:33] _speaker**  
-et puis là
-
-**[01:04:33 - 01:04:35] _speaker**  
-tu vas chercher
-
-**[01:04:35 - 01:04:37] _speaker**  
-OPUS 4.7
-
-**[01:04:37 - 01:04:39] _speaker**  
-voilà, tac
-
-**[01:04:39 - 01:04:41] _speaker**  
-et là tu peux te faire une comparaison
-
-**[01:04:41 - 01:04:43] _speaker**  
-tu vois
-
-**[01:04:43 - 01:04:45] _speaker**  
-provider, bon bah on s'en fout
-
-**[01:04:45 - 01:04:47] _speaker**  
-ce qui est important c'est
-
-**[01:04:47 - 01:04:49] _speaker**  
-que tu as des...
-
-**[01:04:49 - 01:04:51] _speaker**  
-je voulais juste compléter
-
-**[01:04:51 - 01:04:53] _speaker**  
-franchement à l'usage je suis pas sûr qu'on voit
-
-**[01:04:53 - 01:04:55] _speaker**  
-une différence
-
-**[01:04:55 - 01:04:57] _speaker**  
-pour le commun des mortels comme nous
-
-**[01:04:57 - 01:04:59] _speaker**  
-je suis pas sûr qu'on voit une grosse différence
-
-**[01:04:59 - 01:05:01] _speaker**  
-entre les deux
-
-**[01:05:01 - 01:05:03] _speaker**  
-c'est plus le contexte
-
-**[01:05:03 - 01:05:05] _speaker**  
-que tu charges qui va créer la pertinence
-
-**[01:05:05 - 01:05:07] _speaker**  
-de la réponse du modèle
-
-**[01:05:09 - 01:05:11] _speaker**  
-d'où l'intérêt
-
-**[01:05:11 - 01:05:13] _speaker**  
-avec OpenClo c'est ça qui est intéressant
-
-**[01:05:13 - 01:05:15] _speaker**  
-c'est que ça
-
-**[01:05:15 - 01:05:17] _speaker**  
-il y a une surcouche qui permet
-
-**[01:05:17 - 01:05:19] _speaker**  
-de conserver et de garder en mémoire
-
-**[01:05:19 - 01:05:21] _speaker**  
-le contexte de ce que tu as déjà fait
-
-**[01:05:21 - 01:05:23] _speaker**  
-donc si par exemple
-
-**[01:05:23 - 01:05:25] _speaker**  
-chaque fois que tu vas recommencer une session
-
-**[01:05:25 - 01:05:27] _speaker**  
-théoriquement la session elle se vide
-
-**[01:05:27 - 01:05:29] _speaker**  
-ta fenêtre de contexte elle est vide
-
-**[01:05:29 - 01:05:31] _speaker**  
-maintenant OpenClo quand tu vas recommencer
-
-**[01:05:31 - 01:05:33] _speaker**  
-une session lui il va venir
-
-**[01:05:33 - 01:05:35] _speaker**  
-charger du contexte par rapport à tes précédents projets
-
-**[01:05:35 - 01:05:37] _speaker**  
-puisqu'il les a automatiquement gardés
-
-**[01:05:37 - 01:05:39] _speaker**  
-dans sa mémoire
-
-**[01:05:39 - 01:05:41] _speaker**  
-maintenant je pense que le modèle a
-
-**[01:05:41 - 01:05:43] _speaker**  
-à partir du moment où il a le contexte
-
-**[01:05:43 - 01:05:45] _speaker**  
-il y a vraiment de grosses grosses différences
-
-**[01:05:45 - 01:05:47] _speaker**  
-sur ces gros modèles
-
-**[01:05:47 - 01:05:49] _speaker**  
-alors je suis d'accord
-
-**[01:05:49 - 01:05:51] _speaker**  
-moi je parle vraiment
-
-**[01:05:51 - 01:05:53] _speaker**  
-entre Puskate 7
-
-**[01:05:53 - 01:05:55] _speaker**  
-et GPT 5.5
-
-**[01:05:55 - 01:05:57] _speaker**  
-mais moi je parle surtout
-
-**[01:05:57 - 01:05:59] _speaker**  
-entre GPT 5.4 et 5.5
-
-**[01:05:59 - 01:06:01] _speaker**  
-je trouve qu'il y a plus de gap
-
-**[01:06:01 - 01:06:03] _speaker**  
-là entre les deux
-
-**[01:06:03 - 01:06:05] _speaker**  
-il y a un autre
-
-**[01:06:05 - 01:06:07] _speaker**  
-le nerf de la guerre c'est ce qu'on parle tous
-
-**[01:06:07 - 01:06:09] _speaker**  
-je pense que ça nous intéresse tous
-
-**[01:06:09 - 01:06:11] _speaker**  
-c'est le pricing
-
-**[01:06:11 - 01:06:13] _speaker**  
-c'est un peu petit peut-être que je vais zoomer
-
-**[01:06:13 - 01:06:15] _speaker**  
-d'ailleurs
-
-**[01:06:15 - 01:06:17] _speaker**  
-là pour le pricing
-
-**[01:06:17 - 01:06:19] _speaker**  
-en input ça vient en entrée ce que vous pouvez
-
-**[01:06:19 - 01:06:21] _speaker**  
-injecter en millions de tokens
-
-**[01:06:21 - 01:06:23] _speaker**  
-sur GPT 5.5 c'est 5 millions par millions
-
-**[01:06:23 - 01:06:25] _speaker**  
-5 dollars par millions de tokens
-
-**[01:06:25 - 01:06:27] _speaker**  
-en outre pute c'est
-
-**[01:06:27 - 01:06:29] _speaker**  
-30 dollars par sortie
-
-**[01:06:29 - 01:06:31] _speaker**  
-mais il y a
-
-**[01:06:31 - 01:06:33] _speaker**  
-un tweet à don
-
-**[01:06:33 - 01:06:35] _speaker**  
-je confirme le fait que
-
-**[01:06:35 - 01:06:37] _speaker**  
-sur OpenRouter on paye moins cher
-
-**[01:06:37 - 01:06:39] _speaker**  
-j'ai mis 50 dollars
-
-**[01:06:39 - 01:06:41] _speaker**  
-j'ai cramé 40 dollars de tokens
-
-**[01:06:41 - 01:06:43] _speaker**  
-j'ai fait une comparaison avec les prix
-
-**[01:06:43 - 01:06:45] _speaker**  
-officiels en fonction de la consommation
-
-**[01:06:45 - 01:06:47] _speaker**  
-ce qu'on peut voir sur OpenRouter
-
-**[01:06:47 - 01:06:49] _speaker**  
-normalement avec les prix officiels
-
-**[01:06:49 - 01:06:51] _speaker**  
-pris sur LMRENA
-
-**[01:06:51 - 01:06:53] _speaker**  
-j'aurais dû payer 393 dollars
-
-**[01:06:53 - 01:06:55] _speaker**  
-maintenant effectivement
-
-**[01:06:55 - 01:06:57] _speaker**  
-il faut vérifier quelle est le modèle qu'on l'utilise
-
-**[01:06:57 - 01:06:59] _speaker**  
-OpenRouter ça m'a fait souvent sauter
-
-**[01:06:59 - 01:07:01] _speaker**  
-les sessions avec OpenClo
-
-**[01:07:01 - 01:07:03] _speaker**  
-même si c'est pas la mode
-
-**[01:07:03 - 01:07:05] _speaker**  
-mais l'économie elle est là
-
-**[01:07:05 - 01:07:07] _speaker**  
-alors il y a un truc aussi à savoir
-
-**[01:07:07 - 01:07:09] _speaker**  
-que j'ai appris en creusant un peu plus
-
-**[01:07:09 - 01:07:11] _speaker**  
-ce qui est vachement important
-
-**[01:07:11 - 01:07:13] _speaker**  
-c'est que si on regarde telle quelle
-
-**[01:07:13 - 01:07:15] _speaker**  
-en prix fixe pour millions de tokens
-
-**[01:07:15 - 01:07:17] _speaker**  
-on pourrait dire que la tchatch GPT est plus chère
-
-**[01:07:17 - 01:07:19] _speaker**  
-en fait il est beaucoup moins cher
-
-**[01:07:19 - 01:07:21] _speaker**  
-parce qu'il consomme 40%
-
-**[01:07:21 - 01:07:23] _speaker**  
-de moins de tokens
-
-**[01:07:23 - 01:07:25] _speaker**  
-que OPSCATSAT
-
-**[01:07:25 - 01:07:27] _speaker**  
-donc en fait
-
-**[01:07:27 - 01:07:29] _speaker**  
-tu as une méga différence
-
-**[01:07:29 - 01:07:31] _speaker**  
-c'est pour ça aussi que tu peux consommer
-
-**[01:07:31 - 01:07:33] _speaker**  
-sur 20 dollars beaucoup plus
-
-**[01:07:33 - 01:07:35] _speaker**  
-que chez Claude par exemple
-
-**[01:07:35 - 01:07:37] _speaker**  
-plus de tokens qui sont générés
-
-**[01:07:37 - 01:07:39] _speaker**  
-donc en fait tu payes au final
-
-**[01:07:39 - 01:07:41] _speaker**  
-beaucoup moins cher aussi
-
-**[01:07:41 - 01:07:43] _speaker**  
-tu pourrais mettre encore rajouter un modèle
-
-**[01:07:43 - 01:07:45] _speaker**  
-un Kimi 2.6
-
-**[01:07:45 - 01:07:47] _speaker**  
-ou un Mini Max 2.7
-
-**[01:07:47 - 01:07:49] _speaker**  
-qui nous aussi s'il est très bien
-
-**[01:07:49 - 01:07:51] _speaker**  
-si selon les benchmarks
-
-**[01:07:51 - 01:07:53] _speaker**  
-sont quasiment tout proches de
-
-**[01:07:53 - 01:07:55] _speaker**  
-là il y a le contexte
-
-**[01:07:55 - 01:07:57] _speaker**  
-aussi la fenêtre de contexte
-
-**[01:07:57 - 01:07:59] _speaker**  
-elle a un million sur les deux
-
-**[01:07:59 - 01:08:01] _speaker**  
-et là elle a 256 donc c'est quand même
-
-**[01:08:01 - 01:08:03] _speaker**  
-c'est quand même beaucoup moins
-
-**[01:08:03 - 01:08:05] _speaker**  
-c'est 250 000 tokens
-
-**[01:08:05 - 01:08:07] _speaker**  
-de contexte
-
-**[01:08:07 - 01:08:09] _speaker**  
-alors que les deux autres titres font un million
-
-**[01:08:09 - 01:08:11] _speaker**  
-ce qui est monstre
-
-**[01:08:11 - 01:08:13] _speaker**  
-ça permet de faire du code
-
-**[01:08:13 - 01:08:15] _speaker**  
-justement sur des monstres
-
-**[01:08:15 - 01:08:17] _speaker**  
-github
-
-**[01:08:17 - 01:08:19] _speaker**  
-avec plein d'informations
-
-**[01:08:19 - 01:08:21] _speaker**  
-de traiter ça
-
-**[01:08:21 - 01:08:23] _speaker**  
-par contre
-
-**[01:08:23 - 01:08:25] _speaker**  
-là ça pique
-
-**[01:08:25 - 01:08:27] _speaker**  
-c'est 5 fois moins cher
-
-**[01:08:27 - 01:08:29] _speaker**  
-5 fois moins cher en pricing
-
-**[01:08:29 - 01:08:31] _speaker**  
-sur l'utilisation
-
-**[01:08:31 - 01:08:33] _speaker**  
-je fais mon novice
-
-**[01:08:33 - 01:08:35] _speaker**  
-est-ce que tu peux
-
-**[01:08:35 - 01:08:37] _speaker**  
-tu m'a largué
-
-**[01:08:37 - 01:08:39] _speaker**  
-quand tu parles du github
-
-**[01:08:39 - 01:08:41] _speaker**  
-tu peux m'expliquer
-
-**[01:08:41 - 01:08:43] _speaker**  
-peut-être que ça sera profitable pour d'autres
-
-**[01:08:43 - 01:08:45] _speaker**  
-mais en tout cas pour moi oui
-
-**[01:08:45 - 01:08:47] _speaker**  
-oui, volontaire
-
-**[01:08:47 - 01:08:49] _speaker**  
-github en fait c'est pas si compliqué que ça
-
-**[01:08:49 - 01:08:51] _speaker**  
-c'est juste un endroit où tu as le code
-
-**[01:08:51 - 01:08:53] _speaker**  
-qui est stocké
-
-**[01:08:53 - 01:08:55] _speaker**  
-donc là tu vois par exemple
-
-**[01:08:55 - 01:08:57] _speaker**  
-ça c'est le github de mon logiciel
-
-**[01:08:57 - 01:08:59] _speaker**  
-et là dedans il y a tout le code source
-
-**[01:08:59 - 01:09:01] _speaker**  
-de logiciel
-
-**[01:09:01 - 01:09:03] _speaker**  
-et en fait par contre le code source de logiciel
-
-**[01:09:03 - 01:09:05] _speaker**  
-c'est beaucoup de texte
-
-**[01:09:05 - 01:09:07] _speaker**  
-donc de token par définition
-
-**[01:09:07 - 01:09:09] _speaker**  
-plein de tokens dedans
-
-**[01:09:09 - 01:09:11] _speaker**  
-ça serait intéressant que sur github
-
-**[01:09:11 - 01:09:13] _speaker**  
-il marque le nombre de tokens
-
-**[01:09:13 - 01:09:15] _speaker**  
-qu'on tient
-
-**[01:09:15 - 01:09:17] _speaker**  
-un repo
-
-**[01:09:17 - 01:09:19] _speaker**  
-c'est un dossier pour faire simple
-
-**[01:09:19 - 01:09:21] _speaker**  
-un dossier github
-
-**[01:09:21 - 01:09:23] _speaker**  
-et là par exemple moi celui là quand je travaille
-
-**[01:09:23 - 01:09:25] _speaker**  
-dessus ça va assez vite
-
-**[01:09:25 - 01:09:27] _speaker**  
-parce qu'il prend le contexte
-
-**[01:09:27 - 01:09:29] _speaker**  
-de code
-
-**[01:09:29 - 01:09:31] _speaker**  
-pour ensuite le traiter
-
-**[01:09:31 - 01:09:33] _speaker**  
-et c'est là où ça pique
-
-**[01:09:33 - 01:09:35] _speaker**  
-c'est que si tu travailles sur des repo github
-
-**[01:09:35 - 01:09:37] _speaker**  
-monstre ou que ton logiciel
-
-**[01:09:37 - 01:09:39] _speaker**  
-il est énorme en fait tu vas charger ça
-
-**[01:09:39 - 01:09:41] _speaker**  
-en mémoire en contexte
-
-**[01:09:41 - 01:09:43] _speaker**  
-et du coup il va devoir frater ça
-
-**[01:09:43 - 01:09:45] _speaker**  
-et ça va lui bouffer énormément
-
-**[01:09:45 - 01:09:47] _speaker**  
-de tokens
-
-**[01:09:49 - 01:09:51] _speaker**  
-c'est pour ça qu'il faut faire attention aussi
-
-**[01:09:51 - 01:09:53] _speaker**  
-à bien avoir un code optimisé
-
-**[01:09:53 - 01:09:55] _speaker**  
-qui n'est pas un truc bourrin
-
-**[01:09:55 - 01:09:57] _speaker**  
-et ça commence à cracher du token
-
-**[01:09:57 - 01:09:59] _speaker**  
-après tu payes beaucoup plus cher aussi
-
-**[01:09:59 - 01:10:01] _speaker**  
-c'est tout simple
-
-**[01:10:03 - 01:10:05] _speaker**  
-c'est clair aussi pour tout le monde
-
-**[01:10:05 - 01:10:07] _speaker**  
-ce que je raconte
-
-**[01:10:07 - 01:10:09] _speaker**  
-c'est du chinois ou ça va
-
-**[01:10:09 - 01:10:11] _speaker**  
-non enfin
-
-**[01:10:11 - 01:10:13] _speaker**  
-je vais peut-être rajouter juste un point sur github
-
-**[01:10:13 - 01:10:15] _speaker**  
-et l'intérêt aussi de github c'est versioning
-
-**[01:10:15 - 01:10:17] _speaker**  
-c'est à dire qu'à chaque fois que tu fais
-
-**[01:10:17 - 01:10:19] _speaker**  
-une modif ça crée une nouvelle version
-
-**[01:10:19 - 01:10:21] _speaker**  
-de ton code
-
-**[01:10:21 - 01:10:23] _speaker**  
-et si tu peux revenir en arrière
-
-**[01:10:23 - 01:10:25] _speaker**  
-pour revenir sur la version précédente
-
-**[01:10:25 - 01:10:27] _speaker**  
-sans devoir supprimer manuellement
-
-**[01:10:27 - 01:10:29] _speaker**  
-les potentiels erreurs que tu as fait
-
-**[01:10:31 - 01:10:33] _speaker**  
-tu n'as pas le pool request
-
-**[01:10:33 - 01:10:35] _speaker**  
-enfin PR
-
-**[01:10:35 - 01:10:37] _speaker**  
-pool request tu demandes une modification
-
-**[01:10:37 - 01:10:39] _speaker**  
-et puis tu peux revenir en arrière si tu as un problème
-
-**[01:10:39 - 01:10:41] _speaker**  
-c'est super utile
-
-**[01:10:41 - 01:10:43] _speaker**  
-d'ailleurs si vous faites du code
-
-**[01:10:43 - 01:10:45] _speaker**  
-connectez votre openclo à github
-
-**[01:10:45 - 01:10:47] _speaker**  
-et puis au lieu de faire sur la machine
-
-**[01:10:47 - 01:10:49] _speaker**  
-tu le push à chaque fois sur github
-
-**[01:10:49 - 01:10:51] _speaker**  
-c'est vachement agréable
-
-**[01:10:51 - 01:10:53] _speaker**  
-et puis tu garantis
-
-**[01:10:53 - 01:10:55] _speaker**  
-que ton code est bien et propre
-
-**[01:10:55 - 01:10:57] _speaker**  
-et auditable aussi parce que du coup
-
-**[01:10:57 - 01:10:59] _speaker**  
-c'est un peu une source
-
-**[01:10:59 - 01:11:01] _speaker**  
-c'est à dire que n'importe qui peut aller voir le code
-
-**[01:11:01 - 01:11:03] _speaker**  
-vérifier que tout est bon
-
-**[01:11:03 - 01:11:05] _speaker**  
-enfin tu peux aussi le faire travailler en privé
-
-**[01:11:05 - 01:11:07] _speaker**  
-mais si tu développes quelque chose
-
-**[01:11:07 - 01:11:09] _speaker**  
-si tu as un autre développeur qui veut me servir
-
-**[01:11:09 - 01:11:11] _speaker**  
-c'est quand même vachement cool de pouvoir le mettre
-
-**[01:11:11 - 01:11:13] _speaker**  
-sur github non
-
-**[01:11:13 - 01:11:15] _speaker**  
-en fait ça fait tout le travail de gestion
-
-**[01:11:15 - 01:11:17] _speaker**  
-de celui qui va
-
-**[01:11:17 - 01:11:19] _speaker**  
-modifier un bout de code
-
-**[01:11:19 - 01:11:21] _speaker**  
-pour pouvoir voir sur github qui sait
-
-**[01:11:21 - 01:11:23] _speaker**  
-qu'est modifié, quoi
-
-**[01:11:23 - 01:11:25] _speaker**  
-revenir dans quelle version etc
-
-**[01:11:25 - 01:11:27] _speaker**  
-puis comme il disait
-
-**[01:11:27 - 01:11:29] _speaker**  
-vu que maintenant c'est intégré
-
-**[01:11:29 - 01:11:31] _speaker**  
-avec plein d'autres solutions
-
-**[01:11:31 - 01:11:33] _speaker**  
-par exemple quelqu'un peut modifier
-
-**[01:11:33 - 01:11:35] _speaker**  
-un bout de code avec openclose
-
-**[01:11:35 - 01:11:37] _speaker**  
-l'autre avec l'autre code
-
-**[01:11:37 - 01:11:39] _speaker**  
-et puis depuis github
-
-**[01:11:39 - 01:11:41] _speaker**  
-après le déployer
-
-**[01:11:41 - 01:11:43] _speaker**  
-sur un autre hébergement
-
-**[01:11:43 - 01:11:45] _speaker**  
-comme versel si c'est une application
-
-**[01:11:45 - 01:11:47] _speaker**  
-etc
-
-**[01:11:47 - 01:11:49] _speaker**  
-c'est
-
-**[01:11:49 - 01:11:51] _speaker**  
-comment dire
-
-**[01:11:51 - 01:11:53] _speaker**  
-comme son nom l'indique
-
-**[01:11:53 - 01:11:55] _speaker**  
-le hub pour du code
-
-**[01:11:55 - 01:11:57] _speaker**  
-ça a l'air compliqué
-
-**[01:11:57 - 01:11:59] _speaker**  
-mais en fait c'est pas si compliqué
-
-**[01:11:59 - 01:12:01] _speaker**  
-souvent on voit des trucs comme ça
-
-**[01:12:01 - 01:12:03] _speaker**  
-non j'ai pu gêler
-
-**[01:12:03 - 01:12:05] _speaker**  
-j'avais vu ça avec bolt
-
-**[01:12:05 - 01:12:07] _speaker**  
-que j'ai utilisé l'année dernière
-
-**[01:12:07 - 01:12:09] _speaker**  
-je croyais que ça me désoive un petit peu
-
-**[01:12:09 - 01:12:11] _speaker**  
-mais je vois
-
-**[01:12:11 - 01:12:13] _speaker**  
-j'ai l'impression que c'est redondant avec openclose
-
-**[01:12:13 - 01:12:15] _speaker**  
-parce que notre code on peut le faire
-
-**[01:12:15 - 01:12:17] _speaker**  
-en versioning sur openclose
-
-**[01:12:17 - 01:12:19] _speaker**  
-est terminé ou on va forcément besoin de github
-
-**[01:12:19 - 01:12:21] _speaker**  
-non tu peux tout à fait
-
-**[01:12:21 - 01:12:23] _speaker**  
-faire tout en local
-
-**[01:12:23 - 01:12:25] _speaker**  
-ça n'a aucun souci
-
-**[01:12:25 - 01:12:27] _speaker**  
-il ne faut que lui va structurer
-
-**[01:12:27 - 01:12:29] _speaker**  
-les structures des fichiers
-
-**[01:12:29 - 01:12:31] _speaker**  
-il va les faire dans ton ordis
-
-**[01:12:31 - 01:12:33] _speaker**  
-ça sera des dossiers
-
-**[01:12:33 - 01:12:35] _speaker**  
-c'est des deux des deux
-
-**[01:12:35 - 01:12:37] _speaker**  
-moi j'ai une question
-
-**[01:12:37 - 01:12:39] _speaker**  
-si je veux créer
-
-**[01:12:39 - 01:12:41] _speaker**  
-un CRM
-
-**[01:12:41 - 01:12:43] _speaker**  
-genre un service de contact
-
-**[01:12:43 - 01:12:45] _speaker**  
-pour openclose
-
-**[01:12:45 - 01:12:47] _speaker**  
-est-ce que c'est possible ?
-
-**[01:12:47 - 01:12:49] _speaker**  
-il y en a une version juste pour moi
-
-**[01:12:49 - 01:12:51] _speaker**  
-oui carrément
-
-**[01:12:51 - 01:12:53] _speaker**  
-tu peux demander
-
-**[01:12:53 - 01:12:55] _speaker**  
-à openclose de te coder ça
-
-**[01:12:55 - 01:12:57] _speaker**  
-et puis lui il va te le coder en local
-
-**[01:12:57 - 01:12:59] _speaker**  
-puis ensuite soit tu pousses sur github
-
-**[01:12:59 - 01:13:01] _speaker**  
-soit tu le gardes pour toi
-
-**[01:13:01 - 01:13:03] _speaker**  
-mais la qualité du code elle est géniale
-
-**[01:13:03 - 01:13:05] _speaker**  
-ça dépend aussi du modèle que tu utilises
-
-**[01:13:05 - 01:13:07] _speaker**  
-et c'est là où ça pique un peu
-
-**[01:13:07 - 01:13:09] _speaker**  
-parce que les modèles locaux
-
-**[01:13:09 - 01:13:11] _speaker**  
-souvent ils sont pas aussi bons
-
-**[01:13:11 - 01:13:13] _speaker**  
-mais les modèles
-
-**[01:13:13 - 01:13:15] _speaker**  
-j'ai pété 5.5 ou 4.7
-
-**[01:13:15 - 01:13:17] _speaker**  
-à moins d'avoir une super grosse puissance
-
-**[01:13:17 - 01:13:19] _speaker**  
-et c'est tout le problème
-
-**[01:13:19 - 01:13:21] _speaker**  
-c'est à dire que si tu veux un modèle
-
-**[01:13:21 - 01:13:23] _speaker**  
-moi c'est un peu la quadrapture du cercle
-
-**[01:13:23 - 01:13:25] _speaker**  
-tu veux un modèle qui coûte 0
-
-**[01:13:25 - 01:13:27] _speaker**  
-ta quenne 27B
-
-**[01:13:27 - 01:13:29] _speaker**  
-qui tourne par exemple sur un max studio
-
-**[01:13:29 - 01:13:31] _speaker**  
-128gb
-
-**[01:13:31 - 01:13:33] _speaker**  
-et là tu payes 0
-
-**[01:13:33 - 01:13:35] _speaker**  
-c'est super intéressant
-
-**[01:13:35 - 01:13:37] _speaker**  
-tu peux le faire tourner tant que tu veux
-
-**[01:13:37 - 01:13:39] _speaker**  
-tu payes plus tes tokens
-
-**[01:13:39 - 01:13:41] _speaker**  
-mais ça veut dire qu'il va être moins vite
-
-**[01:13:41 - 01:13:43] _speaker**  
-qu'un chat de chp t5
-
-**[01:13:43 - 01:13:45] _speaker**  
-c'est cool
-
-**[01:13:45 - 01:13:47] _speaker**  
-même pas forcément moins vite
-
-**[01:13:47 - 01:13:49] _speaker**  
-mais après c'est la qualité
-
-**[01:13:49 - 01:13:51] _speaker**  
-en fait aussi des résultats
-
-**[01:13:51 - 01:13:53] _speaker**  
-c'est à dire qu'aujourd'hui
-
-**[01:13:53 - 01:13:55] _speaker**  
-tu peux avoir... bah là j'ai fait des tests
-
-**[01:13:55 - 01:13:57] _speaker**  
-d'ailleurs j'ai essayé plusieurs fois
-
-**[01:13:57 - 01:13:59] _speaker**  
-j'ai fait mon open close
-
-**[01:13:59 - 01:14:01] _speaker**  
-je le mets aussi sur jama4
-
-**[01:14:01 - 01:14:03] _speaker**  
-qui est sorti ou sur Nemotron
-
-**[01:14:03 - 01:14:05] _speaker**  
-et je regarde un peu la qualité des réponses
-
-**[01:14:05 - 01:14:07] _speaker**  
-pour te donner une idée
-
-**[01:14:07 - 01:14:09] _speaker**  
-il faut environ
-
-**[01:14:09 - 01:14:11] _speaker**  
-20 à 40 secondes
-
-**[01:14:11 - 01:14:13] _speaker**  
-pour avoir une réponse avec jama4
-
-**[01:14:13 - 01:14:15] _speaker**  
-tu vois un peu le problème
-
-**[01:14:15 - 01:14:17] _speaker**  
-d'où l'importance d'avoir une bête de course
-
-**[01:14:17 - 01:14:19] _speaker**  
-si tu veux faire du local
-
-**[01:14:19 - 01:14:21] _speaker**  
-et puis te bypasser
-
-**[01:14:21 - 01:14:23] _speaker**  
-toutes ces trucs
-
-**[01:14:23 - 01:14:25] _speaker**  
-parce qu'en fait après
-
-**[01:14:25 - 01:14:27] _speaker**  
-faut comprendre aussi open close
-
-**[01:14:27 - 01:14:29] _speaker**  
-si tu le fais tourner en full local
-
-**[01:14:29 - 01:14:31] _speaker**  
-à h24
-
-**[01:14:31 - 01:14:33] _speaker**  
-c'est à dire en permanence
-
-**[01:14:33 - 01:14:35] _speaker**  
-il tourne, tourne, tourne
-
-**[01:14:35 - 01:14:37] _speaker**  
-qui sont vachement plus intéressants
-
-**[01:14:37 - 01:14:39] _speaker**  
-tu peux faire des crônes de job
-
-**[01:14:39 - 01:14:41] _speaker**  
-tu peux faire plein de trucs
-
-**[01:14:41 - 01:14:43] _speaker**  
-tu t'en fous en fait
-
-**[01:14:43 - 01:14:45] _speaker**  
-ouais bien sûr
-
-**[01:14:45 - 01:14:47] _speaker**  
-parce que tu n'as pas besoin de...
-
-**[01:14:47 - 01:14:49] _speaker**  
-tu fais tout le monde
-
-**[01:14:49 - 01:14:51] _speaker**  
-mais par exemple
-
-**[01:14:51 - 01:14:53] _speaker**  
-si tu connectes plusieurs...
-
-**[01:14:53 - 01:14:55] _speaker**  
-c'est possible de faire ça
-
-**[01:14:55 - 01:14:57] _speaker**  
-pour lui d'avoir un maximum
-
-**[01:14:57 - 01:14:59] _speaker**  
-j'ai regardé ça
-
-**[01:14:59 - 01:15:01] _speaker**  
-j'avais l'idée de...
-
-**[01:15:01 - 01:15:03] _speaker**  
-tu peux les brancher en parallèle
-
-**[01:15:03 - 01:15:05] _speaker**  
-exactement ouais j'avais vu ça aussi
-
-**[01:15:05 - 01:15:07] _speaker**  
-il y en a beaucoup qui font ça
-
-**[01:15:07 - 01:15:09] _speaker**  
-mais en fait c'est pas l'article génial que ça
-
-**[01:15:09 - 01:15:11] _speaker**  
-parce que tu as des gains de performance
-
-**[01:15:11 - 01:15:13] _speaker**  
-sur le deuxième par exemple qui sera 20%
-
-**[01:15:13 - 01:15:15] _speaker**  
-donc tu vois c'est pas 1 plus 1
-
-**[01:15:15 - 01:15:17] _speaker**  
-c'est 1 plus 20%
-
-**[01:15:17 - 01:15:19] _speaker**  
-de la totale de l'autre
-
-**[01:15:19 - 01:15:21] _speaker**  
-ok ok ok
-
-**[01:15:21 - 01:15:23] _speaker**  
-c'est pas si ouf
-
-**[01:15:23 - 01:15:25] _speaker**  
-en vrai tu as meilleur temps d'avoir
-
-**[01:15:25 - 01:15:27] _speaker**  
-après par exemple
-
-**[01:15:27 - 01:15:29] _speaker**  
-pour faire tourner Kimi
-
-**[01:15:29 - 01:15:31] _speaker**  
-ça je peux vous dire parce que je l'ai vu un mec qui l'a fait
-
-**[01:15:31 - 01:15:33] _speaker**  
-concrètement pour faire tourner Kimi K 2.5
-
-**[01:15:33 - 01:15:35] _speaker**  
-donc un super LLM
-
-**[01:15:35 - 01:15:37] _speaker**  
-il faut
-
-**[01:15:37 - 01:15:39] _speaker**  
-4 max studio
-
-**[01:15:39 - 01:15:41] _speaker**  
-512
-
-**[01:15:41 - 01:15:43] _speaker**  
-t'imagines le délire quoi
-
-**[01:15:43 - 01:15:45] _speaker**  
-4 là pour
-
-**[01:15:45 - 01:15:47] _speaker**  
-20 000 boules
-
-**[01:15:47 - 01:15:49] _speaker**  
-facile 30 000
-
-**[01:15:49 - 01:15:51] _speaker**  
-ouais en fait
-
-**[01:15:51 - 01:15:53] _speaker**  
-ouais j'aimerais rebondir là dessus aussi
-
-**[01:15:53 - 01:15:55] _speaker**  
-c'est à dire que
-
-**[01:15:55 - 01:15:57] _speaker**  
-à la fin c'est un business
-
-**[01:15:57 - 01:15:59] _speaker**  
-personne ne fait ça gratuitement
-
-**[01:15:59 - 01:16:01] _speaker**  
-parce qu'ils investissent des milliards
-
-**[01:16:01 - 01:16:03] _speaker**  
-et des milliards tous ces modèles
-
-**[01:16:03 - 01:16:05] _speaker**  
-déjà qui sont open source
-
-**[01:16:05 - 01:16:07] _speaker**  
-si on paie même pas les tokens
-
-**[01:16:07 - 01:16:09] _speaker**  
-ils vont pas
-
-**[01:16:09 - 01:16:11] _speaker**  
-perdurer
-
-**[01:16:11 - 01:16:13] _speaker**  
-donc enfin toute l'industrie
-
-**[01:16:13 - 01:16:15] _speaker**  
-et aille à trouver un consensus
-
-**[01:16:15 - 01:16:17] _speaker**  
-c'est à dire de commercialiser
-
-**[01:16:17 - 01:16:19] _speaker**  
-leurs produits en basant sur les tokens
-
-**[01:16:21 - 01:16:23] _speaker**  
-après je pense pas qu'ils vont
-
-**[01:16:23 - 01:16:25] _speaker**  
-massivement investir pour que les gens
-
-**[01:16:25 - 01:16:27] _speaker**  
-tournent leur modèle
-
-**[01:16:27 - 01:16:29] _speaker**  
-localement
-
-**[01:16:29 - 01:16:31] _speaker**  
-parce que sinon
-
-**[01:16:31 - 01:16:33] _speaker**  
-il n'y a pas de ressources
-
-**[01:16:33 - 01:16:35] _speaker**  
-ils gagnent quoi
-
-**[01:16:35 - 01:16:37] _speaker**  
-mais après les prix
-
-**[01:16:37 - 01:16:39] _speaker**  
-vont certainement baisser
-
-**[01:16:39 - 01:16:41] _speaker**  
-parce que là on est au tout début
-
-**[01:16:41 - 01:16:43] _speaker**  
-de cette technologie et c'est comme les téléphones
-
-**[01:16:43 - 01:16:45] _speaker**  
-smartphones ou les ordinateurs
-
-**[01:16:45 - 01:16:47] _speaker**  
-et au fur et à mesure
-
-**[01:16:47 - 01:16:49] _speaker**  
-je pense que
-
-**[01:16:49 - 01:16:51] _speaker**  
-les prix vont certainement
-
-**[01:16:51 - 01:16:53] _speaker**  
-baisser par
-
-**[01:16:53 - 01:16:55] _speaker**  
-x10 etc
-
-**[01:16:55 - 01:16:57] _speaker**  
-maintenant si on prend
-
-**[01:16:57 - 01:16:59] _speaker**  
-la config mondiale
-
-**[01:16:59 - 01:17:01] _speaker**  
-des concurrences
-
-**[01:17:01 - 01:17:03] _speaker**  
-de tous ces modèles
-
-**[01:17:03 - 01:17:05] _speaker**  
-maintenant on est vraiment en train de vivre
-
-**[01:17:05 - 01:17:07] _speaker**  
-une phase
-
-**[01:17:07 - 01:17:09] _speaker**  
-comme le bulle internet
-
-**[01:17:09 - 01:17:11] _speaker**  
-2000
-
-**[01:17:11 - 01:17:13] _speaker**  
-c'est à dire qu'on est vraiment
-
-**[01:17:13 - 01:17:15] _speaker**  
-en train de vivre
-
-**[01:17:15 - 01:17:17] _speaker**  
-une phase
-
-**[01:17:17 - 01:17:19] _speaker**  
-de concurrence en précédent
-
-**[01:17:19 - 01:17:21] _speaker**  
-qui va définir
-
-**[01:17:21 - 01:17:23] _speaker**  
-qui va dessiner
-
-**[01:17:23 - 01:17:25] _speaker**  
-10 ans ou 20 ans ou 30 ans
-
-**[01:17:25 - 01:17:27] _speaker**  
-à venir qui va prendre dessus
-
-**[01:17:27 - 01:17:29] _speaker**  
-peut-être aujourd'hui il y a une dizaine de modèles
-
-**[01:17:29 - 01:17:31] _speaker**  
-je suis sûr qu'à l'année prochaine
-
-**[01:17:31 - 01:17:33] _speaker**  
-il y en aura moins et de moins en moins
-
-**[01:17:33 - 01:17:35] _speaker**  
-ça va éliminer et tuer
-
-**[01:17:35 - 01:17:37] _speaker**  
-certainement et à la fin
-
-**[01:17:37 - 01:17:39] _speaker**  
-il restera peut-être 3, 4, 5
-
-**[01:17:39 - 01:17:41] _speaker**  
-et ça va rester là
-
-**[01:17:41 - 01:17:43] _speaker**  
-c'est à dire qu'aujourd'hui
-
-**[01:17:43 - 01:17:45] _speaker**  
-on peut pas dire que je veux lancer
-
-**[01:17:45 - 01:17:47] _speaker**  
-on peut plus lancer un truc
-
-**[01:17:47 - 01:17:49] _speaker**  
-comme en âge
-
-**[01:17:49 - 01:17:51] _speaker**  
-en...
-
-**[01:17:51 - 01:17:53] _speaker**  
-en âge
-
-**[01:17:53 - 01:17:55] _speaker**  
-en grand-monde comme Google
-
-**[01:17:55 - 01:17:57] _speaker**  
-comme research engine
-
-**[01:17:57 - 01:17:59] _speaker**  
-tu peux plus créer un truc
-
-**[01:17:59 - 01:18:01] _speaker**  
-pour concurrencer Google, le jeu est fait
-
-**[01:18:01 - 01:18:03] _speaker**  
-alors là on est en train de vivre vraiment
-
-**[01:18:03 - 01:18:05] _speaker**  
-la badaille, la guerre
-
-**[01:18:05 - 01:18:07] _speaker**  
-de tous les modèles
-
-**[01:18:07 - 01:18:09] _speaker**  
-c'est pour ça qu'ils sont en train de
-
-**[01:18:09 - 01:18:11] _speaker**  
-licencier les gens
-
-**[01:18:11 - 01:18:13] _speaker**  
-économiser chaque sous pour réinjecter
-
-**[01:18:13 - 01:18:15] _speaker**  
-pour réinvestir
-
-**[01:18:15 - 01:18:17] _speaker**  
-dans les matos
-
-**[01:18:17 - 01:18:19] _speaker**  
-des détassateurs etc
-
-**[01:18:19 - 01:18:21] _speaker**  
-de oracle
-
-**[01:18:21 - 01:18:23] _speaker**  
-pour vraiment être dans la course
-
-**[01:18:23 - 01:18:25] _speaker**  
-là c'est... c'est... c'est de
-
-**[01:18:25 - 01:18:27] _speaker**  
-bansant, c'est les bansants
-
-**[01:18:27 - 01:18:29] _speaker**  
-moi j'ai une question pour toi Ben
-
-**[01:18:29 - 01:18:31] _speaker**  
-je pense qu'il n'y a que toi qui a la réponse
-
-**[01:18:31 - 01:18:33] _speaker**  
-franchement je n'ai pas la réponse
-
-**[01:18:33 - 01:18:35] _speaker**  
-je ne sais pas du tout
-
-**[01:18:35 - 01:18:37] _speaker**  
-non mais tu vas pouvoir m'expliquer
-
-**[01:18:37 - 01:18:39] _speaker**  
-parce que j'arrive pas à comprendre pourquoi
-
-**[01:18:39 - 01:18:41] _speaker**  
-Kimi
-
-**[01:18:41 - 01:18:43] _speaker**  
-qui est une monstre boîte
-
-**[01:18:43 - 01:18:45] _speaker**  
-pourquoi Ali Baba qui est une monstre boîte
-
-**[01:18:45 - 01:18:47] _speaker**  
-font des modèles open source
-
-**[01:18:47 - 01:18:49] _speaker**  
-comment ça se fait
-
-**[01:18:49 - 01:18:51] _speaker**  
-et comment ils gagnent de la tune sur les modèles open source
-
-**[01:18:51 - 01:18:53] _speaker**  
-parce qu'il y a déjà
-
-**[01:18:53 - 01:18:55] _speaker**  
-les modèles américains
-
-**[01:18:55 - 01:18:57] _speaker**  
-comme Chad DiBete en premier
-
-**[01:18:57 - 01:18:59] _speaker**  
-Gemini et après Claude
-
-**[01:18:59 - 01:19:01] _speaker**  
-donc comment eux ils sont
-
-**[01:19:01 - 01:19:03] _speaker**  
-c'est à dire ils sont plus
-
-**[01:19:03 - 01:19:05] _speaker**  
-en... en... comment dire
-
-**[01:19:05 - 01:19:07] _speaker**  
-en lanceur, en pionnier
-
-**[01:19:07 - 01:19:09] _speaker**  
-dans la course, comment ils arrivent
-
-**[01:19:09 - 01:19:11] _speaker**  
-en deuxième position ou troisième position
-
-**[01:19:11 - 01:19:13] _speaker**  
-pour pouvoir concurrencer le premier position
-
-**[01:19:13 - 01:19:15] _speaker**  
-ben sur le prix
-
-**[01:19:15 - 01:19:17] _speaker**  
-sur la qualité du modèle
-
-**[01:19:17 - 01:19:19] _speaker**  
-euh...
-
-**[01:19:19 - 01:19:21] _speaker**  
-voilà finalement
-
-**[01:19:21 - 01:19:23] _speaker**  
-c'est toujours la même chose
-
-**[01:19:23 - 01:19:25] _speaker**  
-c'est à dire que...
-
-**[01:19:25 - 01:19:27] _speaker**  
-les modèles chinois ben ils arrivent
-
-**[01:19:27 - 01:19:29] _speaker**  
-à proposer un meilleur prix
-
-**[01:19:29 - 01:19:31] _speaker**  
-un meilleur rapport de qualité prix
-
-**[01:19:31 - 01:19:33] _speaker**  
-en faisant gagner le terrain
-
-**[01:19:33 - 01:19:35] _speaker**  
-c'est comme ça ils arrivent à concurrencer
-
-**[01:19:35 - 01:19:37] _speaker**  
-et gagner le terrain à avoir plus de users
-
-**[01:19:37 - 01:19:39] _speaker**  
-il n'y a pas d'autre
-
-**[01:19:39 - 01:19:41] _speaker**  
-il n'y a pas d'autre moyen
-
-**[01:19:41 - 01:19:43] _speaker**  
-mais ils n'ont pas de modèle économique
-
-**[01:19:43 - 01:19:45] _speaker**  
-derrière ils perdent de l'argent
-
-**[01:19:45 - 01:19:47] _speaker**  
-en fait en donnant ça au monde
-
-**[01:19:47 - 01:19:49] _speaker**  
-c'est tout comme... c'est tout comme
-
-**[01:19:49 - 01:19:51] _speaker**  
-même Chad DiBete, même Open Air
-
-**[01:19:51 - 01:19:53] _speaker**  
-aujourd'hui tous les jours ils brûlent
-
-**[01:19:53 - 01:19:55] _speaker**  
-1 million, 2 millions, 3 millions
-
-**[01:19:55 - 01:19:57] _speaker**  
-dollars par jour
-
-**[01:19:57 - 01:19:59] _speaker**  
-pour pouvoir tenir la course
-
-**[01:19:59 - 01:20:01] _speaker**  
-c'est pour ça aujourd'hui tout le monde
-
-**[01:20:01 - 01:20:03] _speaker**  
-brûle l'argent pour être
-
-**[01:20:03 - 01:20:05] _speaker**  
-pour être dans la course
-
-**[01:20:05 - 01:20:07] _speaker**  
-parce qu'ils savent que s'ils n'ont pas de choix
-
-**[01:20:07 - 01:20:09] _speaker**  
-sinon ils abandonnent
-
-**[01:20:09 - 01:20:11] _speaker**  
-et c'est fini c'est pour ça aujourd'hui
-
-**[01:20:11 - 01:20:13] _speaker**  
-il n'y a que les deux camps
-
-**[01:20:13 - 01:20:15] _speaker**  
-il y a les modèles américains
-
-**[01:20:15 - 01:20:17] _speaker**  
-les trois là, les trio
-
-**[01:20:17 - 01:20:19] _speaker**  
-et il y a les quelques modèles chinois
-
-**[01:20:19 - 01:20:21] _speaker**  
-qui sont là et plus aucun d'autres
-
-**[01:20:21 - 01:20:23] _speaker**  
-pays arrive à faire dans cette course
-
-**[01:20:23 - 01:20:25] _speaker**  
-là, l'argent qu'on doit injecter
-
-**[01:20:25 - 01:20:27] _speaker**  
-pour construire les détachateurs
-
-**[01:20:27 - 01:20:29] _speaker**  
-et avoir les ingénieurs
-
-**[01:20:29 - 01:20:31] _speaker**  
-c'est... c'est...
-
-**[01:20:31 - 01:20:33] _speaker**  
-en tout cas l'Europe
-
-**[01:20:33 - 01:20:35] _speaker**  
-est out of the game
-
-**[01:20:35 - 01:20:37] _speaker**  
-l'Europe est out of the game
-
-**[01:20:37 - 01:20:39] _speaker**  
-il y a tant d'abris qui s'appellent Mistral
-
-**[01:20:39 - 01:20:41] _speaker**  
-mais on n'entend pas parler
-
-**[01:20:41 - 01:20:43] _speaker**  
-là, là, vous voyez
-
-**[01:20:43 - 01:20:45] _speaker**  
-je sais pas si vous avez suivi
-
-**[01:20:45 - 01:20:47] _speaker**  
-le lancement de
-
-**[01:20:47 - 01:20:49] _speaker**  
-de GPT 5.5
-
-**[01:20:49 - 01:20:51] _speaker**  
-contre
-
-**[01:20:51 - 01:20:53] _speaker**  
-Deepstick V4
-
-**[01:20:53 - 01:20:55] _speaker**  
-c'est vraiment en...
-
-**[01:20:55 - 01:20:57] _speaker**  
-dans la même jour hein
-
-**[01:20:57 - 01:20:59] _speaker**  
-c'est à dire toi tu vas lancer ça
-
-**[01:20:59 - 01:21:01] _speaker**  
-et moi je vais lancer le truc etc
-
-**[01:21:01 - 01:21:03] _speaker**  
-tout est calculé, tout est paramétré
-
-**[01:21:03 - 01:21:05] _speaker**  
-pour vraiment se montrer les muscles
-
-**[01:21:05 - 01:21:07] _speaker**  
-c'est vraiment le bon sang
-
-**[01:21:07 - 01:21:09] _speaker**  
-et à cette
-
-**[01:21:09 - 01:21:11] _speaker**  
-férocité technologique
-
-**[01:21:11 - 01:21:13] _speaker**  
-les autres pays n'arrivent plus suivre
-
-**[01:21:13 - 01:21:15] _speaker**  
-donc cette course est déjà perdue
-
-**[01:21:15 - 01:21:17] _speaker**  
-pour les autres, à l'avenir
-
-**[01:21:17 - 01:21:19] _speaker**  
-ils ont qu'à choisir
-
-**[01:21:19 - 01:21:21] _speaker**  
-soit je prends les plus chers
-
-**[01:21:23 - 01:21:25] _speaker**  
-soit je prends les modèles chinois qui sont moins chers
-
-**[01:21:25 - 01:21:27] _speaker**  
-pas de petit, pas de petit
-
-**[01:21:27 - 01:21:29] _speaker**  
-voilà, le jeu est quasi fait
-
-**[01:21:29 - 01:21:31] _speaker**  
-maintenant c'est entre tous ces 10 annons
-
-**[01:21:31 - 01:21:33] _speaker**  
-qui va gagner
-
-**[01:21:33 - 01:21:35] _speaker**  
-à la durée
-
-**[01:21:35 - 01:21:37] _speaker**  
-en proposant la meilleure qualité pris
-
-**[01:21:37 - 01:21:39] _speaker**  
-etc etc
-
-**[01:21:39 - 01:21:41] _speaker**  
-à gagner du terrain, pays par pays
-
-**[01:21:41 - 01:21:43] _speaker**  
-et spécialisé
-
-**[01:21:43 - 01:21:45] _speaker**  
-voilà, il y a aussi le modèle, ce qu'on appelle
-
-**[01:21:45 - 01:21:47] _speaker**  
-un multimodal, c'est à dire qu'il y a
-
-**[01:21:47 - 01:21:49] _speaker**  
-des modèles qui sont très forts pour traiter
-
-**[01:21:49 - 01:21:51] _speaker**  
-les textes, les données, les d'état
-
-**[01:21:51 - 01:21:53] _speaker**  
-mais d'autres qui sont très forts pour traiter
-
-**[01:21:53 - 01:21:55] _speaker**  
-des images, par exemple Groke
-
-**[01:21:55 - 01:21:57] _speaker**  
-Groke et le masque là
-
-**[01:21:57 - 01:21:59] _speaker**  
-là il est un peu dans une position
-
-**[01:21:59 - 01:22:01] _speaker**  
-très très embarrassée
-
-**[01:22:01 - 01:22:03] _speaker**  
-parce qu'il est nul en image
-
-**[01:22:03 - 01:22:05] _speaker**  
-et en texte, par rapport au sidance
-
-**[01:22:05 - 01:22:07] _speaker**  
-par rapport à même
-
-**[01:22:07 - 01:22:09] _speaker**  
-image 2 là
-
-**[01:22:11 - 01:22:13] _speaker**  
-de, comment s'appelle
-
-**[01:22:13 - 01:22:15] _speaker**  
-le banana aussi
-
-**[01:22:15 - 01:22:17] _speaker**  
-pour ça il est en train
-
-**[01:22:17 - 01:22:19] _speaker**  
-de trouver des solutions
-
-**[01:22:19 - 01:22:21] _speaker**  
-d'acheter d'autres entreprises
-
-**[01:22:21 - 01:22:23] _speaker**  
-il est en train de négocier pour curseur
-
-**[01:22:23 - 01:22:25] _speaker**  
-curseur
-
-**[01:22:25 - 01:22:27] _speaker**  
-mais pour lui
-
-**[01:22:27 - 01:22:29] _speaker**  
-c'est très très difficile de revenir
-
-**[01:22:29 - 01:22:31] _speaker**  
-dans la course
-
-**[01:22:31 - 01:22:33] _speaker**  
-il est très en bain
-
-**[01:22:33 - 01:22:35] _speaker**  
-par rapport à ce que tu disais avant
-
-**[01:22:35 - 01:22:37] _speaker**  
-ou les modèles pourraient devenir moins cher à l'avenir
-
-**[01:22:37 - 01:22:39] _speaker**  
-moi je le vois pas du tout comme ça
-
-**[01:22:39 - 01:22:41] _speaker**  
-ils crâment tellement d'argent
-
-**[01:22:41 - 01:22:43] _speaker**  
-ils seront jamais rentables
-
-**[01:22:43 - 01:22:45] _speaker**  
-et du coup les prix ne vont pas baisser
-
-**[01:22:45 - 01:22:47] _speaker**  
-c'est pas possible
-
-**[01:22:47 - 01:22:49] _speaker**  
-une fois tu as plus de concurrents
-
-**[01:22:49 - 01:22:51] _speaker**  
-là tu peux tabler
-
-**[01:22:51 - 01:22:53] _speaker**  
-tu peux faire une planification
-
-**[01:22:53 - 01:22:55] _speaker**  
-sur 10 ans, sur 20 ans, sur 30 ans
-
-**[01:22:55 - 01:22:57] _speaker**  
-ils vont pas tellement baisser que ça
-
-**[01:22:57 - 01:22:59] _speaker**  
-puisqu'ils devront déjà
-
-**[01:22:59 - 01:23:01] _speaker**  
-avoir la suite
-
-**[01:23:01 - 01:23:03] _speaker**  
-si si si, t'inquiètes
-
-**[01:23:03 - 01:23:05] _speaker**  
-c'est des entreprises
-
-**[01:23:05 - 01:23:07] _speaker**  
-qui ont tellement d'expérience
-
-**[01:23:07 - 01:23:09] _speaker**  
-dans la durée
-
-**[01:23:09 - 01:23:11] _speaker**  
-de nouveaux modèles technologiques
-
-**[01:23:11 - 01:23:13] _speaker**  
-etc
-
-**[01:23:13 - 01:23:15] _speaker**  
-si vous voyez DJI
-
-**[01:23:15 - 01:23:17] _speaker**  
-comme appareil de drones
-
-**[01:23:17 - 01:23:19] _speaker**  
-au début il y avait
-
-**[01:23:19 - 01:23:21] _speaker**  
-2, 3 autres noms
-
-**[01:23:21 - 01:23:23] _speaker**  
-maintenant on entend plus que DJI
-
-**[01:23:23 - 01:23:25] _speaker**  
-donc là ils vont gagner sur la durée
-
-**[01:23:25 - 01:23:27] _speaker**  
-là ils vont gagner sur la durée
-
-**[01:23:27 - 01:23:29] _speaker**  
-aujourd'hui le part de marché
-
-**[01:23:29 - 01:23:31] _speaker**  
-DJI prend 80%
-
-**[01:23:31 - 01:23:33] _speaker**  
-part de marché sur les drones
-
-**[01:23:33 - 01:23:35] _speaker**  
-c'est DJI
-
-**[01:23:35 - 01:23:37] _speaker**  
-oui mais justement
-
-**[01:23:37 - 01:23:39] _speaker**  
-le business c'est la donnée
-
-**[01:23:39 - 01:23:41] _speaker**  
-DJI apprise
-
-**[01:23:41 - 01:23:43] _speaker**  
-ses distances par rapport à tous les autres modèles
-
-**[01:23:43 - 01:23:45] _speaker**  
-parce qu'ils sont mis sur d'autres crédos
-
-**[01:23:45 - 01:23:47] _speaker**  
-ou l'essentiel c'est la donnée
-
-**[01:23:47 - 01:23:49] _speaker**  
-ils sont mis dans tous les différents développeurs
-
-**[01:23:49 - 01:23:51] _speaker**  
-la défense, l'agriculture etc
-
-**[01:23:51 - 01:23:53] _speaker**  
-c'est là le coeur de la
-
-**[01:23:53 - 01:23:55] _speaker**  
-c'est là le principal business
-
-**[01:23:55 - 01:23:57] _speaker**  
-c'est le token au travers de la data
-
-**[01:23:57 - 01:23:59] _speaker**  
-donc au moins la vie
-
-**[01:23:59 - 01:24:01] _speaker**  
-ils ne vont pas forcément baisser
-
-**[01:24:01 - 01:24:03] _speaker**  
-en prix
-
-**[01:24:03 - 01:24:05] _speaker**  
-ils vont être sur le même modèle que les constructeurs de bagnole
-
-**[01:24:05 - 01:24:07] _speaker**  
-c'est à dire qu'en fait il y aura des versions
-
-**[01:24:07 - 01:24:09] _speaker**  
-plus en plus récentes, plus en plus poussiées
-
-**[01:24:09 - 01:24:11] _speaker**  
-parce que chacun aura plus de données que les autres
-
-**[01:24:11 - 01:24:13] _speaker**  
-plus entraînés, plus de pertinence
-
-**[01:24:13 - 01:24:15] _speaker**  
-mais les modèles d'aujourd'hui, de avril 2020
-
-**[01:24:15 - 01:24:17] _speaker**  
-dans 6 mois ils vaudront
-
-**[01:24:17 - 01:24:19] _speaker**  
-3 fois moins
-
-**[01:24:19 - 01:24:21] _speaker**  
-parce qu'il y aura des versions qui seront plus poussées
-
-**[01:24:21 - 01:24:23] _speaker**  
-à moins la vie c'est plus le coeur de la bataille
-
-**[01:24:23 - 01:24:25] _speaker**  
-c'est vraiment le nombre de données
-
-**[01:24:25 - 01:24:27] _speaker**  
-et la pertinence des données
-
-**[01:24:27 - 01:24:29] _speaker**  
-avec l'algorithme plus puissant pour aller chercher la donnée
-
-**[01:24:29 - 01:24:31] _speaker**  
-et les revendre
-
-**[01:24:31 - 01:24:33] _speaker**  
-à toutes les grosses industries
-
-**[01:24:33 - 01:24:35] _speaker**  
-pour connaître certains
-
-**[01:24:35 - 01:24:37] _speaker**  
-certains industriels etc
-
-**[01:24:37 - 01:24:39] _speaker**  
-eux ils me disent
-
-**[01:24:39 - 01:24:41] _speaker**  
-le coeur de business on continue à le faire
-
-**[01:24:41 - 01:24:43] _speaker**  
-mais notre vrai
-
-**[01:24:43 - 01:24:45] _speaker**  
-bataille stratégique c'est la donnée
-
-**[01:24:45 - 01:24:47] _speaker**  
-on veut un maximum de données
-
-**[01:24:47 - 01:24:49] _speaker**  
-sur nos clients pour continuer
-
-**[01:24:49 - 01:24:51] _speaker**  
-à faire le business
-
-**[01:24:51 - 01:24:53] _speaker**  
-le prix là
-
-**[01:24:53 - 01:24:55] _speaker**  
-vous avez tous les
-
-**[01:24:57 - 01:24:59] _speaker**  
-le canon
-
-**[01:24:59 - 01:25:01] _speaker**  
-de distribution officielle
-
-**[01:25:01 - 01:25:03] _speaker**  
-le prix que vous voyez, le pricing sur le site officiel
-
-**[01:25:03 - 01:25:05] _speaker**  
-même là tout à l'heure
-
-**[01:25:05 - 01:25:07] _speaker**  
-Ciri l'a mentionné sur open-router
-
-**[01:25:07 - 01:25:09] _speaker**  
-les prix sont déjà en fait
-
-**[01:25:09 - 01:25:11] _speaker**  
-moins cher
-
-**[01:25:11 - 01:25:13] _speaker**  
-et moi j'ai donné d'autres canons de distribution
-
-**[01:25:13 - 01:25:15] _speaker**  
-sur les tokens
-
-**[01:25:15 - 01:25:17] _speaker**  
-qui sont encore moins cher
-
-**[01:25:17 - 01:25:19] _speaker**  
-il y a une revente de tokens sur le marché
-
-**[01:25:19 - 01:25:21] _speaker**  
-il y a un achat groupé
-
-**[01:25:21 - 01:25:23] _speaker**  
-de tokens sur tous les modèles
-
-**[01:25:23 - 01:25:25] _speaker**  
-sur le marché
-
-**[01:25:25 - 01:25:27] _speaker**  
-et après ils sont repackagés
-
-**[01:25:27 - 01:25:29] _speaker**  
-dans les différents produits
-
-**[01:25:29 - 01:25:31] _speaker**  
-comme open-router, comme jenspar
-
-**[01:25:31 - 01:25:33] _speaker**  
-comme d'autres
-
-**[01:25:33 - 01:25:35] _speaker**  
-d'autres, soit disons revendeurs
-
-**[01:25:35 - 01:25:37] _speaker**  
-on peut pas revendre comme ça
-
-**[01:25:37 - 01:25:39] _speaker**  
-souvent c'est repackagé
-
-**[01:25:39 - 01:25:41] _speaker**  
-pendant un autre produit
-
-**[01:25:41 - 01:25:43] _speaker**  
-pendant un agent etc
-
-**[01:25:43 - 01:25:45] _speaker**  
-et si t'achètes
-
-**[01:25:45 - 01:25:47] _speaker**  
-si t'achètes mon abonnement
-
-**[01:25:47 - 01:25:49] _speaker**  
-je t'offre
-
-**[01:25:49 - 01:25:51] _speaker**  
-par exemple le temps de tokens
-
-**[01:25:51 - 01:25:53] _speaker**  
-de jbt 5.5
-
-**[01:25:53 - 01:25:55] _speaker**  
-par exemple
-
-**[01:25:55 - 01:25:57] _speaker**  
-il y a une revente
-
-**[01:25:57 - 01:25:59] _speaker**  
-de tokens sur le marché
-
-**[01:25:59 - 01:26:01] _speaker**  
-qui est très très
-
-**[01:26:01 - 01:26:03] _speaker**  
-dynamique en fait
-
-**[01:26:03 - 01:26:05] _speaker**  
-moi je sais que open-router je suis prenant
-
-**[01:26:05 - 01:26:07] _speaker**  
-ah ouais bien sûr il y en a
-
-**[01:26:07 - 01:26:09] _speaker**  
-il y en a
-
-**[01:26:09 - 01:26:11] _speaker**  
-et là il y a quelqu'un qui est tout à l'heure
-
-**[01:26:11 - 01:26:13] _speaker**  
-dans le chat
-
-**[01:26:13 - 01:26:15] _speaker**  
-qui s'est présenté
-
-**[01:26:15 - 01:26:17] _speaker**  
-dans un studio
-
-**[01:26:17 - 01:26:19] _speaker**  
-pour créer des produits avec AI etc
-
-**[01:26:19 - 01:26:21] _speaker**  
-là typiquement pour Sidance 2.0
-
-**[01:26:21 - 01:26:23] _speaker**  
-et moi j'ai des ressources
-
-**[01:26:23 - 01:26:25] _speaker**  
-j'ai des prix
-
-**[01:26:25 - 01:26:27] _speaker**  
-qui sont moins chers que le prix officiel
-
-**[01:26:27 - 01:26:29] _speaker**  
-ah oui c'est pas le même
-
-**[01:26:29 - 01:26:31] _speaker**  
-par exemple là
-
-**[01:26:31 - 01:26:33] _speaker**  
-tu peux trouver sur X
-
-**[01:26:33 - 01:26:35] _speaker**  
-comment ça ? Higgs
-
-**[01:26:35 - 01:26:37] _speaker**  
-Higgs Field
-
-**[01:26:37 - 01:26:39] _speaker**  
-voilà Higgs
-
-**[01:26:39 - 01:26:41] _speaker**  
-ils sont un partenaire officiel avec Sidance 2.0
-
-**[01:26:41 - 01:26:43] _speaker**  
-il y en a d'autres
-
-**[01:26:43 - 01:26:45] _speaker**  
-c'est méga cher
-
-**[01:26:45 - 01:26:47] _speaker**  
-mais c'est le prix officiel
-
-**[01:26:47 - 01:26:49] _speaker**  
-et après
-
-**[01:26:49 - 01:26:51] _speaker**  
-si on signe des partenariats etc
-
-**[01:26:51 - 01:26:53] _speaker**  
-on peut avoir des prix assez intéressants
-
-**[01:26:53 - 01:26:55] _speaker**  
-donc les prix sont jamais figés
-
-**[01:26:55 - 01:26:57] _speaker**  
-ça bouge beaucoup en fait
-
-**[01:26:57 - 01:26:59] _speaker**  
-mais en fait
-
-**[01:26:59 - 01:27:01] _speaker**  
-c'est prix que tu me dis
-
-**[01:27:01 - 01:27:03] _speaker**  
-en fait on est piaille aussi ?
-
-**[01:27:03 - 01:27:05] _speaker**  
-oui c'est un épiaille ouais
-
-**[01:27:05 - 01:27:07] _speaker**  
-parce que je suis en train de monter
-
-**[01:27:07 - 01:27:09] _speaker**  
-en fait mon idée c'est de monter
-
-**[01:27:09 - 01:27:11] _speaker**  
-un serveur pour utiliser
-
-**[01:27:11 - 01:27:13] _speaker**  
-comme fil
-
-**[01:27:13 - 01:27:15] _speaker**  
-et en fait qu'il utilise que
-
-**[01:27:15 - 01:27:17] _speaker**  
-Sidance on est piaille alors
-
-**[01:27:17 - 01:27:19] _speaker**  
-ça m'intéresse après
-
-**[01:27:19 - 01:27:21] _speaker**  
-c'est arrivé à part ta 2
-
-**[01:27:21 - 01:27:23] _speaker**  
-oui on peut se parler après
-
-**[01:27:23 - 01:27:25] _speaker**  
-parce que
-
-**[01:27:25 - 01:27:27] _speaker**  
-si vous suivez un peu Sidance 2.0
-
-**[01:27:27 - 01:27:29] _speaker**  
-quand c'était sorti ça a fait une
-
-**[01:27:29 - 01:27:31] _speaker**  
-monstre vague
-
-**[01:27:31 - 01:27:33] _speaker**  
-à travers le monde
-
-**[01:27:33 - 01:27:35] _speaker**  
-qui t'a menacé Hollywood
-
-**[01:27:35 - 01:27:37] _speaker**  
-qui leur a lancé
-
-**[01:27:37 - 01:27:39] _speaker**  
-le biais
-
-**[01:27:39 - 01:27:41] _speaker**  
-les lettres de poursuite
-
-**[01:27:41 - 01:27:43] _speaker**  
-en disant que
-
-**[01:27:43 - 01:27:45] _speaker**  
-si vous continuez on va vous attaquer
-
-**[01:27:45 - 01:27:47] _speaker**  
-sur le droit d'auteur
-
-**[01:27:47 - 01:27:49] _speaker**  
-sur plein de choses
-
-**[01:27:49 - 01:27:51] _speaker**  
-et du coup ils se sont un peu retirés
-
-**[01:27:51 - 01:27:53] _speaker**  
-mais les token
-
-**[01:27:53 - 01:27:55] _speaker**  
-qui ont déjà fabriqué
-
-**[01:27:55 - 01:27:57] _speaker**  
-il faut les vendre
-
-**[01:27:57 - 01:27:59] _speaker**  
-vous voyez
-
-**[01:27:59 - 01:28:01] _speaker**  
-c'est pour ça qu'il y a toujours
-
-**[01:28:01 - 01:28:03] _speaker**  
-des prix qui peuvent être intéressants
-
-**[01:28:03 - 01:28:05] _speaker**  
-et moins cher par rapport au prix
-
-**[01:28:05 - 01:28:07] _speaker**  
-officiel
-
-**[01:28:07 - 01:28:09] _speaker**  
-mais c'est un bon moment
-
-**[01:28:09 - 01:28:11] _speaker**  
-il y a 2 semaines à Sidance
-
-**[01:28:11 - 01:28:13] _speaker**  
-pour voir
-
-**[01:28:13 - 01:28:15] _speaker**  
-comment c'était difficile de la
-
-**[01:28:15 - 01:28:17] _speaker**  
-trouver après
-
-**[01:28:17 - 01:28:19] _speaker**  
-il est dispo sur
-
-**[01:28:19 - 01:28:21] _speaker**  
-Jens Park
-
-**[01:28:21 - 01:28:23] _speaker**  
-je vous dis les gars j'ai fait une vidéo avec
-
-**[01:28:23 - 01:28:25] _speaker**  
-ça m'a cramé tout près
-
-**[01:28:25 - 01:28:27] _speaker**  
-l'ampeur quoi
-
-**[01:28:27 - 01:28:29] _speaker**  
-pas de vidéo avec
-
-**[01:28:29 - 01:28:31] _speaker**  
-c'est génial le résultat est monstrueux
-
-**[01:28:31 - 01:28:33] _speaker**  
-mais honnêtement
-
-**[01:28:33 - 01:28:35] _speaker**  
-par contre le brilleux c'est un terrain
-
-**[01:28:35 - 01:28:37] _speaker**  
-à trouver des prix
-
-**[01:28:37 - 01:28:39] _speaker**  
-de générations qui sont vachement bas
-
-**[01:28:39 - 01:28:41] _speaker**  
-parce que l'amour
-
-**[01:28:41 - 01:28:43] _speaker**  
-c'est horrible comme ça coûte cher
-
-**[01:28:43 - 01:28:45] _speaker**  
-autant c'est monstrueux autant c'est
-
-**[01:28:45 - 01:28:47] _speaker**  
-infect dans les prix
-
-**[01:28:47 - 01:28:49] _speaker**  
-après c'est souvent pour les pas
-
-**[01:28:49 - 01:28:51] _speaker**  
-si admettons
-
-**[01:28:51 - 01:28:53] _speaker**  
-je prends juste un exemple
-
-**[01:28:53 - 01:28:55] _speaker**  
-très concret pour toutes les boîtes d'horlogerie
-
-**[01:28:55 - 01:28:57] _speaker**  
-en Suisse
-
-**[01:28:57 - 01:28:59] _speaker**  
-surtout dans la région allemandique
-
-**[01:28:59 - 01:29:01] _speaker**  
-il y en a des tonnes
-
-**[01:29:01 - 01:29:03] _speaker**  
-au niveau marketing ils ont souvent besoin
-
-**[01:29:03 - 01:29:05] _speaker**  
-des vidéos sur les mouvements de montre
-
-**[01:29:05 - 01:29:07] _speaker**  
-en 3D éclatés etc
-
-**[01:29:07 - 01:29:09] _speaker**  
-juste pour donner
-
-**[01:29:09 - 01:29:11] _speaker**  
-une idée il y a 10 ans
-
-**[01:29:11 - 01:29:13] _speaker**  
-des top
-
-**[01:29:13 - 01:29:15] _speaker**  
-marques étaient prêts à payer
-
-**[01:29:15 - 01:29:17] _speaker**  
-200 000 francs suisses
-
-**[01:29:17 - 01:29:19] _speaker**  
-pour quelques minutes de vidéo
-
-**[01:29:19 - 01:29:21] _speaker**  
-ça c'est le rebugé marketing
-
-**[01:29:21 - 01:29:23] _speaker**  
-vous imaginez
-
-**[01:29:23 - 01:29:25] _speaker**  
-vous imaginez
-
-**[01:29:25 - 01:29:27] _speaker**  
-bien plus
-
-**[01:29:27 - 01:29:29] _speaker**  
-elle vous leur proposait 10 fois moins
-
-**[01:29:29 - 01:29:31] _speaker**  
-cher
-
-**[01:29:31 - 01:29:33] _speaker**  
-en faisant avec Sident 2.0
-
-**[01:29:33 - 01:29:35] _speaker**  
-5 minutes après c'est fait et ils sont prêts à payer
-
-**[01:29:35 - 01:29:37] _speaker**  
-donc ça c'est vraiment
-
-**[01:29:37 - 01:29:39] _speaker**  
-pour les professionnels
-
-**[01:29:39 - 01:29:41] _speaker**  
-qui ont les clients de très haute qualité
-
-**[01:29:41 - 01:29:43] _speaker**  
-ça donne quoi ?
-
-**[01:29:43 - 01:29:45] _speaker**  
-c'est là que j'ai envie de te taper
-
-**[01:29:45 - 01:29:47] _speaker**  
-bien sûr
-
-**[01:29:47 - 01:29:49] _speaker**  
-en exemple de prix ça donne quoi ?
-
-**[01:29:49 - 01:29:51] _speaker**  
-pour une vidéo
-
-**[01:29:51 - 01:29:53] _speaker**  
-de quelques mics
-
-**[01:29:53 - 01:29:55] _speaker**  
-ça dépend
-
-**[01:29:55 - 01:29:57] _speaker**  
-après combien de...
-
-**[01:29:57 - 01:29:59] _speaker**  
-en fait c'est un peu dur
-
-**[01:29:59 - 01:30:01] _speaker**  
-mais le bon exemple à la première fois
-
-**[01:30:01 - 01:30:03] _speaker**  
-ah ouais
-
-**[01:30:03 - 01:30:05] _speaker**  
-tu fais 200 essais
-
-**[01:30:05 - 01:30:07] _speaker**  
-avant de faire sa vraie vidéo
-
-**[01:30:07 - 01:30:09] _speaker**  
-c'est ça le truc quoi
-
-**[01:30:09 - 01:30:11] _speaker**  
-moi je fais des essais
-
-**[01:30:11 - 01:30:13] _speaker**  
-à 5 secondes chaque fois
-
-**[01:30:13 - 01:30:15] _speaker**  
-et après je montre la vidéo au total
-
-**[01:30:15 - 01:30:17] _speaker**  
-ça veut dire
-
-**[01:30:17 - 01:30:19] _speaker**  
-en API ça va être plus de
-
-**[01:30:19 - 01:30:21] _speaker**  
-marques dans la vidéo au final
-
-**[01:30:21 - 01:30:23] _speaker**  
-ok mais ça te coûte combien en API
-
-**[01:30:23 - 01:30:25] _speaker**  
-par exemple pour une vidéo
-
-**[01:30:25 - 01:30:27] _speaker**  
-par exemple
-
-**[01:30:27 - 01:30:29] _speaker**  
-je pense que
-
-**[01:30:29 - 01:30:31] _speaker**  
-en 10 secondes
-
-**[01:30:31 - 01:30:33] _speaker**  
-ça me coûte
-
-**[01:30:33 - 01:30:35] _speaker**  
-peut-être 5 balles
-
-**[01:30:35 - 01:30:37] _speaker**  
-en peu près
-
-**[01:30:37 - 01:30:39] _speaker**  
-une pizza chez Molino c'est 23 balles
-
-**[01:30:39 - 01:30:41] _speaker**  
-donc ça c'est dans nos budget
-
-**[01:30:41 - 01:30:43] _speaker**  
-mais le problème c'est qu'il doit faire plein de ça
-
-**[01:30:43 - 01:30:45] _speaker**  
-ça c'est très...
-
-**[01:30:45 - 01:30:47] _speaker**  
-c'est toujours le coeur
-
-**[01:30:47 - 01:30:49] _speaker**  
-non mais c'est le coeur du débat de l'openclow
-
-**[01:30:49 - 01:30:51] _speaker**  
-ça coûte toujours extrêmement
-
-**[01:30:51 - 01:30:53] _speaker**  
-moins cher qu'un stagia ou un employé
-
-**[01:30:53 - 01:30:55] _speaker**  
-eh ben
-
-**[01:30:55 - 01:30:57] _speaker**  
-ça c'est tout
-
-**[01:30:57 - 01:30:59] _speaker**  
-ça c'est vrai aussi
-
-**[01:30:59 - 01:31:01] _speaker**  
-c'est juste
-
-**[01:31:01 - 01:31:03] _speaker**  
-oui d'accord
-
-**[01:31:03 - 01:31:05] _speaker**  
-d'ailleurs en 10 secondes
-
-**[01:31:05 - 01:31:07] _speaker**  
-pardon excuse moi
-
-**[01:31:07 - 01:31:09] _speaker**  
-non je veux dire
-
-**[01:31:09 - 01:31:11] _speaker**  
-après au final
-
-**[01:31:11 - 01:31:13] _speaker**  
-une vidéo qui dure 10 secondes
-
-**[01:31:13 - 01:31:15] _speaker**  
-tu vas vendre un client
-
-**[01:31:15 - 01:31:17] _speaker**  
-par exemple 1 500 balles
-
-**[01:31:17 - 01:31:19] _speaker**  
-mais derrière
-
-**[01:31:19 - 01:31:21] _speaker**  
-tu as beaucoup d'essais
-
-**[01:31:21 - 01:31:23] _speaker**  
-c'est clair
-
-**[01:31:23 - 01:31:25] _speaker**  
-c'est pas normal
-
-**[01:31:25 - 01:31:27] _speaker**  
-merci
-
-**[01:31:27 - 01:31:29] _speaker**  
-tu nous tiens au courant
-
-**[01:31:29 - 01:31:31] _speaker**  
-on veut voir un peu
-
-**[01:31:31 - 01:31:33] _speaker**  
-les solutions que tu as trouvées
-
-**[01:31:33 - 01:31:35] _speaker**  
-en voie
-
-**[01:31:35 - 01:31:37] _speaker**  
-je vais vous montrer
-
-**[01:31:37 - 01:31:39] _speaker**  
-quelques exemples que j'ai déjà fait
-
-**[01:31:39 - 01:31:41] _speaker**  
-juste un truc
-
-**[01:31:41 - 01:31:43] _speaker**  
-qui concerne tout le monde
-
-**[01:31:43 - 01:31:45] _speaker**  
-vraiment je pense qu'il y a pas mal
-
-**[01:31:45 - 01:31:47] _speaker**  
-qu'on parlait de local là
-
-**[01:31:47 - 01:31:49] _speaker**  
-qui s'intéresse justement à régler ce problème
-
-**[01:31:49 - 01:31:51] _speaker**  
-du prix des tokens
-
-**[01:31:51 - 01:31:53] _speaker**  
-je vous conseille si vous avez la possibilité
-
-**[01:31:53 - 01:31:55] _speaker**  
-de utiliser coin 3.6 27B
-
-**[01:31:55 - 01:31:57] _speaker**  
-qui est un équivalent
-
-**[01:31:57 - 01:31:59] _speaker**  
-légèrement inférieur à opus 4.6
-
-**[01:31:59 - 01:32:01] _speaker**  
-en code
-
-**[01:32:01 - 01:32:03] _speaker**  
-ce qui est monstrueux
-
-**[01:32:03 - 01:32:05] _speaker**  
-mais aussi en d'autres tâches
-
-**[01:32:05 - 01:32:07] _speaker**  
-et celui là il est open source
-
-**[01:32:07 - 01:32:09] _speaker**  
-il faut juste un Mac studio
-
-**[01:32:09 - 01:32:11] _speaker**  
-ou un équivalent PC
-
-**[01:32:11 - 01:32:13] _speaker**  
-mais qui a 128 g de RAM
-
-**[01:32:13 - 01:32:15] _speaker**  
-et là ça ça coûte 3 300 balles
-
-**[01:32:15 - 01:32:17] _speaker**  
-donc tu payes une fois 3 300 balles
-
-**[01:32:17 - 01:32:19] _speaker**  
-et après tu génères tout sur ta bécane
-
-**[01:32:21 - 01:32:23] _speaker**  
-ça c'est vraiment un truc
-
-**[01:32:23 - 01:32:25] _speaker**  
-qui a réfléchi
-
-**[01:32:25 - 01:32:27] _speaker**  
-parce que moi je trouve que
-
-**[01:32:27 - 01:32:29] _speaker**  
-la vraie utilisation d'openclos
-
-**[01:32:29 - 01:32:31] _speaker**  
-en tout cas si tu vraiment utilises
-
-**[01:32:31 - 01:32:33] _speaker**  
-100% la puissance d'openclos
-
-**[01:32:33 - 01:32:35] _speaker**  
-c'est un truc qui doit être tourné
-
-**[01:32:35 - 01:32:37] _speaker**  
-toute la journée
-
-**[01:32:37 - 01:32:39] _speaker**  
-ça a vraiment à 100% du temps
-
-**[01:32:39 - 01:32:41] _speaker**  
-et quand tu dors il fait des recherches business
-
-**[01:32:41 - 01:32:43] _speaker**  
-quand tu dors il va contacter
-
-**[01:32:43 - 01:32:45] _speaker**  
-des clients etc et ça il faut des crônes jobs
-
-**[01:32:45 - 01:32:47] _speaker**  
-et des trucs qui tournent
-
-**[01:32:47 - 01:32:49] _speaker**  
-ouais absolument
-
-**[01:32:49 - 01:32:51] _speaker**  
-moi ce que j'apprécie particulièrement
-
-**[01:32:51 - 01:32:53] _speaker**  
-c'est vraiment aller scralter
-
-**[01:32:53 - 01:32:55] _speaker**  
-tous les sites
-
-**[01:32:55 - 01:32:57] _speaker**  
-et aller me chopper
-
-**[01:32:57 - 01:32:59] _speaker**  
-les réponses
-
-**[01:32:59 - 01:33:01] _speaker**  
-les images etc
-
-**[01:33:01 - 01:33:03] _speaker**  
-qui t'a téléchargé les vidéos
-
-**[01:33:03 - 01:33:05] _speaker**  
-et les photos sur un tel tel site
-
-**[01:33:05 - 01:33:07] _speaker**  
-il ouvre le curseur
-
-**[01:33:07 - 01:33:09] _speaker**  
-il bouge tout seul, il ouvre les trucs
-
-**[01:33:09 - 01:33:11] _speaker**  
-et il fait download
-
-**[01:33:11 - 01:33:13] _speaker**  
-mais tu te dis quoi pour faire ça
-
-**[01:33:13 - 01:33:15] _speaker**  
-tu te dis quoi ?
-
-**[01:33:15 - 01:33:17] _speaker**  
-tu dis PNAI
-
-**[01:33:17 - 01:33:19] _speaker**  
-non non non
-
-**[01:33:19 - 01:33:21] _speaker**  
-pour ça j'utilise le moins cher possible
-
-**[01:33:21 - 01:33:23] _speaker**  
-genre un kimi ou minimax
-
-**[01:33:23 - 01:33:25] _speaker**  
-pour faire ce genre de tâches
-
-**[01:33:25 - 01:33:27] _speaker**  
-avec le...
-
-**[01:33:27 - 01:33:29] _speaker**  
-tellement répétitif et tellement pas compliqué
-
-**[01:33:29 - 01:33:31] _speaker**  
-j'utilise évidemment
-
-**[01:33:31 - 01:33:33] _speaker**  
-les modèles les moins chers
-
-**[01:33:33 - 01:33:37] _speaker**  
-mais ça avec le mcp firecrawl ?
-
-**[01:33:37 - 01:33:39] _speaker**  
-non non sur chrome
-
-**[01:33:41 - 01:33:43] _speaker**  
-en direct
-
-**[01:33:43 - 01:33:45] _speaker**  
-pour scraper tu fais comment
-
-**[01:33:45 - 01:33:47] _speaker**  
-ça ouvre le browser playwright
-
-**[01:33:47 - 01:33:49] _speaker**  
-ouais je l'ai dit
-
-**[01:33:49 - 01:33:51] _speaker**  
-sur tel tel site
-
-**[01:33:51 - 01:33:53] _speaker**  
-tu vas me scraper tous les heures
-
-**[01:33:53 - 01:33:55] _speaker**  
-et tu fais ça et il le fait
-
-**[01:33:57 - 01:33:59] _speaker**  
-et l'autre jour
-
-**[01:33:59 - 01:34:01] _speaker**  
-j'ai trouvé un site
-
-**[01:34:01 - 01:34:03] _speaker**  
-qui a
-
-**[01:34:03 - 01:34:05] _speaker**  
-1000 photos
-
-**[01:34:05 - 01:34:07] _speaker**  
-de jolis nanas
-
-**[01:34:07 - 01:34:09] _speaker**  
-créés par AI
-
-**[01:34:09 - 01:34:11] _speaker**  
-et ça
-
-**[01:34:11 - 01:34:13] _speaker**  
-ça m'économise
-
-**[01:34:13 - 01:34:15] _speaker**  
-tu vois de taper
-
-**[01:34:15 - 01:34:17] _speaker**  
-les promptes etc
-
-**[01:34:17 - 01:34:19] _speaker**  
-je me dis pourquoi pas de télécharger directement
-
-**[01:34:19 - 01:34:21] _speaker**  
-en plus en haute qualité
-
-**[01:34:21 - 01:34:23] _speaker**  
-j'ai demandé opencloud
-
-**[01:34:23 - 01:34:25] _speaker**  
-en fait tu les revends les images
-
-**[01:34:25 - 01:34:27] _speaker**  
-tu fais quoi ?
-
-**[01:34:27 - 01:34:29] _speaker**  
-non non mais je les poste sur les réseaux sociaux
-
-**[01:34:29 - 01:34:31] _speaker**  
-ok
-
-**[01:34:31 - 01:34:33] _speaker**  
-et ça crée de langagement ?
-
-**[01:34:33 - 01:34:35] _speaker**  
-mais ça arrête toujours
-
-**[01:34:35 - 01:34:37] _speaker**  
-tu vas sur twitter
-
-**[01:34:37 - 01:34:39] _speaker**  
-nanas ça marche toujours
-
-**[01:34:39 - 01:34:41] _speaker**  
-j'ai fait une photo
-
-**[01:34:41 - 01:34:43] _speaker**  
-ça m'a fait gagner
-
-**[01:34:43 - 01:34:45] _speaker**  
-genre
-
-**[01:34:45 - 01:34:47] _speaker**  
-à demi million de views
-
-**[01:34:47 - 01:34:49] _speaker**  
-sur twitter
-
-**[01:34:49 - 01:34:51] _speaker**  
-tu menettes si twitter alors
-
-**[01:34:51 - 01:34:53] _speaker**  
-ouais ouais ouais
-
-**[01:34:53 - 01:34:55] _speaker**  
-ouais c'est cool
-
-**[01:34:55 - 01:34:57] _speaker**  
-je suis principalement sur twitter
-
-**[01:34:57 - 01:34:59] _speaker**  
-parce que twitter maintenant récompense
-
-**[01:34:59 - 01:35:01] _speaker**  
-beaucoup les créateurs
-
-**[01:35:01 - 01:35:03] _speaker**  
-parce que voilà
-
-**[01:35:03 - 01:35:05] _speaker**  
-il est en train de préparer
-
-**[01:35:05 - 01:35:07] _speaker**  
-son entrée en bourse
-
-**[01:35:07 - 01:35:09] _speaker**  
-il est en phase très très généreux maintenant
-
-**[01:35:09 - 01:35:11] _speaker**  
-voilà encore
-
-**[01:35:11 - 01:35:13] _speaker**  
-c'est quoi comme idée qui donne
-
-**[01:35:13 - 01:35:15] _speaker**  
-comme récompense pour avoir une idée ?
-
-**[01:35:15 - 01:35:17] _speaker**  
-après ça dépend
-
-**[01:35:17 - 01:35:19] _speaker**  
-de comment dire
-
-**[01:35:19 - 01:35:21] _speaker**  
-si tu postes genre
-
-**[01:35:21 - 01:35:23] _speaker**  
-sur un million de views
-
-**[01:35:23 - 01:35:25] _speaker**  
-c'est entre 5 et
-
-**[01:35:25 - 01:35:27] _speaker**  
-10 dollars
-
-**[01:35:27 - 01:35:29] _speaker**  
-ouais faut que je les fiche
-
-**[01:35:29 - 01:35:31] _speaker**  
-ouais mais c'est
-
-**[01:35:31 - 01:35:33] _speaker**  
-en fait si tu automatises
-
-**[01:35:33 - 01:35:35] _speaker**  
-c'est là où c'est intéressant ce qui fait Ben
-
-**[01:35:35 - 01:35:37] _speaker**  
-c'est que le comité s'est automatisé c'est pas lui qui va poster le contenu
-
-**[01:35:37 - 01:35:39] _speaker**  
-et du coup il arrive à les faire
-
-**[01:35:41 - 01:35:43] _speaker**  
-donc ça c'est un real business
-
-**[01:35:43 - 01:35:45] _speaker**  
-aussi
-
-**[01:35:45 - 01:35:47] _speaker**  
-créé des rappeurs
-
-**[01:35:47 - 01:35:49] _speaker**  
-moi j'étais dans le web 3
-
-**[01:35:49 - 01:35:51] _speaker**  
-aussi dans les cryptos aussi
-
-**[01:35:51 - 01:35:53] _speaker**  
-et là je vire un peu
-
-**[01:35:53 - 01:35:55] _speaker**  
-vers AI
-
-**[01:35:57 - 01:35:59] _speaker**  
-en fait c'est un moyen aussi
-
-**[01:35:59 - 01:36:01] _speaker**  
-de monétiser moi je fais la création
-
-**[01:36:01 - 01:36:03] _speaker**  
-de sas je vends un produit
-
-**[01:36:03 - 01:36:05] _speaker**  
-pour que
-
-**[01:36:05 - 01:36:07] _speaker**  
-ça simplifie la vie des gens
-
-**[01:36:07 - 01:36:09] _speaker**  
-mais il faut toujours trouver aussi
-
-**[01:36:09 - 01:36:11] _speaker**  
-c'est un bon exercice de trouver un moyen de monétiser
-
-**[01:36:11 - 01:36:13] _speaker**  
-quelque chose rapidement
-
-**[01:36:13 - 01:36:15] _speaker**  
-et de créer quelque chose qui peut rapporter de la value
-
-**[01:36:15 - 01:36:17] _speaker**  
-parce que si on fait tout ça c'est pas juste pour faire joli
-
-**[01:36:17 - 01:36:19] _speaker**  
-il faut trouver des moyens de monétiser
-
-**[01:36:19 - 01:36:21] _speaker**  
-et puis justement en économiser un maximum de tokens
-
-**[01:36:21 - 01:36:23] _speaker**  
-en créant le plus de valeur possible
-
-**[01:36:23 - 01:36:25] _speaker**  
-c'est un peu le jeu quoi
-
-**[01:36:25 - 01:36:27] _speaker**  
-à faire quoi
-
-**[01:36:27 - 01:36:29] _speaker**  
-et les réseaux sociaux ça a un bon moyen de monétiser
-
-**[01:36:29 - 01:36:31] _speaker**  
-je pense
-
-**[01:36:31 - 01:36:33] _speaker**  
-est-ce qu'il y a quelqu'un qui utilise OpenClo
-
-**[01:36:33 - 01:36:35] _speaker**  
-pour faire toute la gestion
-
-**[01:36:35 - 01:36:37] _speaker**  
-des agents etc qui l'a mis
-
-**[01:36:37 - 01:36:39] _speaker**  
-sur son site internet entre comme ça ou sur une plateforme
-
-**[01:36:41 - 01:36:43] _speaker**  
-c'est un peu ce que j'ai en tête
-
-**[01:36:47 - 01:36:49] _speaker**  
-alors moi non
-
-**[01:36:49 - 01:36:51] _speaker**  
-moi je fais du code mais je pense que
-
-**[01:36:51 - 01:36:53] _speaker**  
-là il y a personne qui l'utilise comme ça
-
-**[01:36:53 - 01:36:55] _speaker**  
-après t'as mille usages
-
-**[01:36:55 - 01:36:57] _speaker**  
-différents d'OpenClo
-
-**[01:36:57 - 01:36:59] _speaker**  
-c'est un truc
-
-**[01:36:59 - 01:37:01] _speaker**  
-spécifique quoi
-
-**[01:37:01 - 01:37:03] _speaker**  
-moi je dis comme un coder direct
-
-**[01:37:03 - 01:37:05] _speaker**  
-mais il y a pas benicis dans le marketing
-
-**[01:37:05 - 01:37:07] _speaker**  
-et brilleuse dans la vidéo
-
-**[01:37:07 - 01:37:09] _speaker**  
-on voit un petit peu les usages
-
-**[01:37:09 - 01:37:11] _speaker**  
-mais à tester
-
-**[01:37:11 - 01:37:13] _speaker**  
-on attend de voir ce que ça nous a dit
-
-**[01:37:13 - 01:37:15] _speaker**  
-il nous dirait à ce que ça donne
-
-**[01:37:17 - 01:37:19] _speaker**  
-il va t'en sortir à réussir à le faire
-
-**[01:37:19 - 01:37:21] _speaker**  
-et tout c'est intéressant
-
-**[01:37:23 - 01:37:25] _speaker**  
-à je regarde juste
-
-**[01:37:25 - 01:37:27] _speaker**  
-où j'en suis dans le petit truc
-
-**[01:37:27 - 01:37:29] _speaker**  
-là on en a pas même parlé du prix
-
-**[01:37:29 - 01:37:31] _speaker**  
-des tokens
-
-**[01:37:31 - 01:37:33] _speaker**  
-là
-
-**[01:37:33 - 01:37:35] _speaker**  
-il y a local moi je pense que
-
-**[01:37:35 - 01:37:37] _speaker**  
-c'est vraiment intéressant surtout
-
-**[01:37:37 - 01:37:39] _speaker**  
-à Genève
-
-**[01:37:39 - 01:37:41] _speaker**  
-moi c'est un sujet qu'on m'a parlé aussi avec Arnaud
-
-**[01:37:41 - 01:37:43] _speaker**  
-moi je pense qu'il y a vraiment un intérêt
-
-**[01:37:43 - 01:37:45] _speaker**  
-qui est autre, qui n'est pas juste
-
-**[01:37:45 - 01:37:47] _speaker**  
-pour pas payer les tokens c'est aussi pour préserver
-
-**[01:37:47 - 01:37:49] _speaker**  
-la data
-
-**[01:37:49 - 01:37:51] _speaker**  
-si vous faites tourner en local
-
-**[01:37:51 - 01:37:53] _speaker**  
-c'est aussi une des fonctions
-
-**[01:37:53 - 01:37:55] _speaker**  
-bien spécifiques à OpenClo
-
-**[01:37:55 - 01:37:57] _speaker**  
-et ça vous permet de conserver les data
-
-**[01:37:57 - 01:37:59] _speaker**  
-donc vous pouvez proposer auprès des services au PME
-
-**[01:37:59 - 01:38:01] _speaker**  
-aux écoles, aux avocats, aux fiduciaires
-
-**[01:38:01 - 01:38:03] _speaker**  
-à tous ceux qui sont ultra sensibles
-
-**[01:38:03 - 01:38:05] _speaker**  
-sur la transmission des data
-
-**[01:38:09 - 01:38:11] _speaker**  
-voilà, on en a déjà pas mal parlé
-
-**[01:38:11 - 01:38:13] _speaker**  
-c'était juste pour voir un petit peu les sujets
-
-**[01:38:13 - 01:38:15] _speaker**  
-donc là il y a beaucoup de gens qui s'intéressent
-
-**[01:38:15 - 01:38:17] _speaker**  
-à l'IA local
-
-**[01:38:17 - 01:38:19] _speaker**  
-ou par exemple Ben
-
-**[01:38:19 - 01:38:21] _speaker**  
-tu t'en fous en fait de ça
-
-**[01:38:21 - 01:38:23] _speaker**  
-toi tu utilises Kimi et puis c'est bon
-
-**[01:38:23 - 01:38:25] _speaker**  
-non non non, mais c'est juste
-
-**[01:38:25 - 01:38:27] _speaker**  
-moi je n'ai pas de pour l'instant
-
-**[01:38:27 - 01:38:29] _speaker**  
-je ne veux pas mettre de grosses moyens
-
-**[01:38:29 - 01:38:31] _speaker**  
-tu vois là tout à l'heure tu as dit
-
-**[01:38:31 - 01:38:33] _speaker**  
-il faut une matos de
-
-**[01:38:33 - 01:38:35] _speaker**  
-128 GB
-
-**[01:38:35 - 01:38:37] _speaker**  
-donc là c'est de sortir 3 000 balles
-
-**[01:38:37 - 01:38:39] _speaker**  
-alors que moi j'ai des moyens
-
-**[01:38:39 - 01:38:41] _speaker**  
-j'ai des possibilités
-
-**[01:38:41 - 01:38:43] _speaker**  
-d'avoir des tokens qui sont vraiment pas chers
-
-**[01:38:43 - 01:38:45] _speaker**  
-et souvent offerts
-
-**[01:38:45 - 01:38:47] _speaker**  
-qui par exemple
-
-**[01:38:47 - 01:38:49] _speaker**  
-MiniMax, MiniMax on paye
-
-**[01:38:49 - 01:38:51] _speaker**  
-10 dollars par mois
-
-**[01:38:51 - 01:38:53] _speaker**  
-ça compte
-
-**[01:38:53 - 01:38:55] _speaker**  
-tous les 5 heures
-
-**[01:38:55 - 01:38:57] _speaker**  
-tous les 5 heures ils remettent le compteur à zéro
-
-**[01:38:57 - 01:38:59] _speaker**  
-pour les tâches
-
-**[01:38:59 - 01:39:01] _speaker**  
-de base
-
-**[01:39:01 - 01:39:03] _speaker**  
-ça suffit largement, oui c'est le seul qui fait ça
-
-**[01:39:03 - 01:39:05] _speaker**  
-sur le API
-
-**[01:39:05 - 01:39:07] _speaker**  
-MiniMax 2.7
-
-**[01:39:07 - 01:39:09] _speaker**  
-donc tous les 5 heures
-
-**[01:39:09 - 01:39:11] _speaker**  
-ils remettent le compteur
-
-**[01:39:11 - 01:39:13] _speaker**  
-à zéro
-
-**[01:39:13 - 01:39:15] _speaker**  
-et tu peux continuer
-
-**[01:39:15 - 01:39:17] _speaker**  
-c'est comme si tu n'as rien à consommer
-
-**[01:39:17 - 01:39:19] _speaker**  
-de token
-
-**[01:39:19 - 01:39:21] _speaker**  
-ça c'est parfait pour OpenClo
-
-**[01:39:21 - 01:39:23] _speaker**  
-c'est pour ça que OpenClo
-
-**[01:39:23 - 01:39:25] _speaker**  
-leur
-
-**[01:39:25 - 01:39:27] _speaker**  
-partenaire officiel c'est
-
-**[01:39:27 - 01:39:29] _speaker**  
-MiniMax
-
-**[01:39:29 - 01:39:31] _speaker**  
-Peter il adore utiliser MiniMax
-
-**[01:39:31 - 01:39:33] _speaker**  
-j'ai entendu Peter
-
-**[01:39:33 - 01:39:35] _speaker**  
-si c'est pour cette raison là ou pas
-
-**[01:39:35 - 01:39:37] _speaker**  
-mais en tout cas à chaque fois ils mettent
-
-**[01:39:37 - 01:39:39] _speaker**  
-en avant MiniMax
-
-**[01:39:39 - 01:39:41] _speaker**  
-comme modèle
-
-**[01:39:41 - 01:39:43] _speaker**  
-à utiliser
-
-**[01:39:43 - 01:39:45] _speaker**  
-ça a du sens
-
-**[01:39:45 - 01:39:47] _speaker**  
-les réponses elles sont bonnes
-
-**[01:39:47 - 01:39:49] _speaker**  
-mais je n'ai pas trop étudié le modèle
-
-**[01:39:49 - 01:39:51] _speaker**  
-elles sont
-
-**[01:39:51 - 01:39:53] _speaker**  
-rapport au PUS
-
-**[01:39:53 - 01:39:55] _speaker**  
-non évidemment non
-
-**[01:39:55 - 01:39:57] _speaker**  
-au PUS c'est pas le même
-
-**[01:39:57 - 01:39:59] _speaker**  
-output
-
-**[01:39:59 - 01:40:01] _speaker**  
-ils n'ont jamais prétendu être
-
-**[01:40:01 - 01:40:03] _speaker**  
-meilleur qu'au PUS
-
-**[01:40:03 - 01:40:05] _speaker**  
-mais ça demande des tâches
-
-**[01:40:05 - 01:40:07] _speaker**  
-pour ingénierie, pour les calculs
-
-**[01:40:07 - 01:40:09] _speaker**  
-pour les trucs, oui c'est au PUS
-
-**[01:40:09 - 01:40:11] _speaker**  
-mais pour des tâches de base
-
-**[01:40:11 - 01:40:13] _speaker**  
-c'est comme voilà
-
-**[01:40:13 - 01:40:15] _speaker**  
-je ne vais pas demander un docteur
-
-**[01:40:15 - 01:40:17] _speaker**  
-à plus 3
-
-**[01:40:17 - 01:40:19] _speaker**  
-un bac plus 7
-
-**[01:40:19 - 01:40:21] _speaker**  
-à faire du café et à rosé les fleurs
-
-**[01:40:21 - 01:40:23] _speaker**  
-ça je vais le demander à un stagiaire
-
-**[01:40:23 - 01:40:25] _speaker**  
-tu vas le dire
-
-**[01:40:25 - 01:40:27] _speaker**  
-c'est juste
-
-**[01:40:27 - 01:40:29] _speaker**  
-je vais juste regarder
-
-**[01:40:29 - 01:40:31] _speaker**  
-si je compare MiniMax
-
-**[01:40:31 - 01:40:33] _speaker**  
-2.7
-
-**[01:40:33 - 01:40:35] _speaker**  
-2.7
-
-**[01:40:35 - 01:40:37] _speaker**  
-ah d'ailleurs il est en frie
-
-**[01:40:37 - 01:40:39] _speaker**  
-sur OpenRouter
-
-**[01:40:39 - 01:40:41] _speaker**  
-ah bon
-
-**[01:40:41 - 01:40:43] _speaker**  
-il y a 2.5 en frie
-
-**[01:40:43 - 01:40:45] _speaker**  
-ça c'est intéressant ça les gars
-
-**[01:40:45 - 01:40:47] _speaker**  
-ça permet d'utiliser OpenRouter
-
-**[01:40:47 - 01:40:49] _speaker**  
-peut-être en gratuit sur MiniMax
-
-**[01:40:49 - 01:40:51] _speaker**  
-OpenRouter
-
-**[01:40:51 - 01:40:53] _speaker**  
-OpenClo
-
-**[01:40:53 - 01:40:55] _speaker**  
-en gratuit sur MiniMax 2.5
-
-**[01:40:55 - 01:40:57] _speaker**  
-ça peut être très intéressant ça
-
-**[01:40:57 - 01:40:59] _speaker**  
-je vais lui faire des tests
-
-**[01:40:59 - 01:41:01] _speaker**  
-quoi
-
-**[01:41:01 - 01:41:03] _speaker**  
-contexte 200
-
-**[01:41:03 - 01:41:05] _speaker**  
-une anecdote
-
-**[01:41:05 - 01:41:07] _speaker**  
-que tu parlais
-
-**[01:41:07 - 01:41:09] _speaker**  
-de privacy
-
-**[01:41:09 - 01:41:11] _speaker**  
-je ne sais pas si parmi nous
-
-**[01:41:11 - 01:41:13] _speaker**  
-il y en a qui s'intéressent à Pokémon
-
-**[01:41:13 - 01:41:15] _speaker**  
-il y a un jeu
-
-**[01:41:15 - 01:41:17] _speaker**  
-ça s'appelle Pokémon Go
-
-**[01:41:17 - 01:41:19] _speaker**  
-c'est un VR
-
-**[01:41:19 - 01:41:21] _speaker**  
-tu chopes
-
-**[01:41:21 - 01:41:23] _speaker**  
-à travers ton téléphone
-
-**[01:41:23 - 01:41:25] _speaker**  
-tu chasses
-
-**[01:41:25 - 01:41:27] _speaker**  
-les démons
-
-**[01:41:27 - 01:41:29] _speaker**  
-qui sont cachés
-
-**[01:41:29 - 01:41:31] _speaker**  
-dans la nature
-
-**[01:41:31 - 01:41:33] _speaker**  
-il y a des gros fans
-
-**[01:41:33 - 01:41:35] _speaker**  
-du japon qui font ça
-
-**[01:41:35 - 01:41:37] _speaker**  
-tous les jours
-
-**[01:41:37 - 01:41:39] _speaker**  
-étonnamment
-
-**[01:41:39 - 01:41:41] _speaker**  
-ce jeu existe depuis des années
-
-**[01:41:41 - 01:41:43] _speaker**  
-après des années
-
-**[01:41:43 - 01:41:45] _speaker**  
-d'opération
-
-**[01:41:45 - 01:41:47] _speaker**  
-ils ont réussi
-
-**[01:41:47 - 01:41:49] _speaker**  
-à dessiner
-
-**[01:41:49 - 01:41:51] _speaker**  
-tous les coins du monde
-
-**[01:41:51 - 01:41:53] _speaker**  
-maintenant c'est à dire Pokémon Go
-
-**[01:41:53 - 01:41:55] _speaker**  
-détient la map
-
-**[01:41:55 - 01:41:57] _speaker**  
-monde
-
-**[01:41:57 - 01:41:59] _speaker**  
-beaucoup en 3D
-
-**[01:41:59 - 01:42:01] _speaker**  
-beaucoup plus détaillé que Google
-
-**[01:42:01 - 01:42:03] _speaker**  
-ou n'importe qui
-
-**[01:42:03 - 01:42:05] _speaker**  
-vous voyez
-
-**[01:42:05 - 01:42:07] _speaker**  
-depuis des années
-
-**[01:42:07 - 01:42:09] _speaker**  
-leur vrai produit, leur vrai business
-
-**[01:42:09 - 01:42:11] _speaker**  
-de récolter, collectionner
-
-**[01:42:11 - 01:42:13] _speaker**  
-tous les données en 3D
-
-**[01:42:13 - 01:42:15] _speaker**  
-de tous les coins du monde
-
-**[01:42:17 - 01:42:19] _speaker**  
-juste pour voir par rapport à Minimax
-
-**[01:42:19 - 01:42:21] _speaker**  
-que tu en parlais
-
-**[01:42:21 - 01:42:23] _speaker**  
-sur les tests design arena
-
-**[01:42:23 - 01:42:25] _speaker**  
-en code
-
-**[01:42:25 - 01:42:27] _speaker**  
-il n'est pas
-
-**[01:42:27 - 01:42:29] _speaker**  
-si loin que ça
-
-**[01:42:29 - 01:42:31] _speaker**  
-que tu n'as pas de super grosses
-
-**[01:42:31 - 01:42:33] _speaker**  
-c'est pas mal
-
-**[01:42:33 - 01:42:35] _speaker**  
-franchement
-
-**[01:42:35 - 01:42:37] _speaker**  
-ça peut être une bonne idée
-
-**[01:42:37 - 01:42:39] _speaker**  
-de le poncer un peu
-
-**[01:42:39 - 01:42:41] _speaker**  
-le prix en Minimax
-
-**[01:42:41 - 01:42:43] _speaker**  
-c'est vraiment pas cher
-
-**[01:42:43 - 01:42:45] _speaker**  
-à voir
-
-**[01:42:45 - 01:42:47] _speaker**  
-pour ceux qui s'intéressent
-
-**[01:42:47 - 01:42:49] _speaker**  
-c'est 3 mois d'avant
-
-**[01:42:49 - 01:42:51] _speaker**  
-c'est à dire Claude
-
-**[01:42:51 - 01:42:53] _speaker**  
-il a 3 mois d'avance
-
-**[01:42:53 - 01:42:55] _speaker**  
-par rapport à tous ces modèles chinois
-
-**[01:42:55 - 01:42:57] _speaker**  
-c'est 3 au max
-
-**[01:42:57 - 01:42:59] _speaker**  
-de 6 mois
-
-**[01:42:59 - 01:43:01] _speaker**  
-d'avance
-
-**[01:43:01 - 01:43:03] _speaker**  
-j'avais une question par rapport à Claude
-
-**[01:43:03 - 01:43:05] _speaker**  
-apparemment
-
-**[01:43:05 - 01:43:07] _speaker**  
-quelqu'un a fuité
-
-**[01:43:07 - 01:43:09] _speaker**  
-le code
-
-**[01:43:09 - 01:43:11] _speaker**  
-de Claude
-
-**[01:43:11 - 01:43:13] _speaker**  
-et ils ont réussi
-
-**[01:43:13 - 01:43:15] _speaker**  
-à copier à peu près
-
-**[01:43:15 - 01:43:17] _speaker**  
-le même modèle
-
-**[01:43:17 - 01:43:19] _speaker**  
-ils ont mis en open source
-
-**[01:43:21 - 01:43:23] _speaker**  
-est-ce que c'est quelque chose qu'on pourrait mettre en local
-
-**[01:43:23 - 01:43:25] _speaker**  
-après chez nous
-
-**[01:43:25 - 01:43:27] _speaker**  
-si on a une bonne machine
-
-**[01:43:27 - 01:43:29] _speaker**  
-attention
-
-**[01:43:29 - 01:43:31] _speaker**  
-c'est pas le modèle qu'a fuité
-
-**[01:43:31 - 01:43:33] _speaker**  
-c'est l'organisateur
-
-**[01:43:33 - 01:43:35] _speaker**  
-de Claude code
-
-**[01:43:35 - 01:43:37] _speaker**  
-c'est la façon de structurer la data
-
-**[01:43:37 - 01:43:39] _speaker**  
-donc oui
-
-**[01:43:39 - 01:43:41] _speaker**  
-mais c'est pas le modèle
-
-**[01:43:41 - 01:43:43] _speaker**  
-c'est pas opus
-
-**[01:43:43 - 01:43:45] _speaker**  
-c'est pas le modèle
-
-**[01:43:45 - 01:43:47] _speaker**  
-le bord de la data
-
-**[01:43:47 - 01:43:49] _speaker**  
-j'avais un peu mal compris
-
-**[01:43:49 - 01:43:51] _speaker**  
-pour compléter
-
-**[01:43:51 - 01:43:53] _speaker**  
-c'est Claude code
-
-**[01:43:53 - 01:43:55] _speaker**  
-effectivement que le code de Claude code
-
-**[01:43:55 - 01:43:57] _speaker**  
-qui a fuité
-
-**[01:43:57 - 01:43:59] _speaker**  
-en fait il y a un coréen
-
-**[01:43:59 - 01:44:01] _speaker**  
-qui a recréé Claude code
-
-**[01:44:01 - 01:44:03] _speaker**  
-à partir de ce code-là qu'il a mis sur github
-
-**[01:44:03 - 01:44:05] _speaker**  
-mais je sais pas si c'est stable
-
-**[01:44:05 - 01:44:07] _speaker**  
-ça marche
-
-**[01:44:07 - 01:44:09] _speaker**  
-bon après
-
-**[01:44:09 - 01:44:11] _speaker**  
-si t'as pas le opus
-
-**[01:44:11 - 01:44:13] _speaker**  
-ça a pas beaucoup d'interesse
-
-**[01:44:13 - 01:44:15] _speaker**  
-parce que le truc, si j'ai bien compris
-
-**[01:44:15 - 01:44:17] _speaker**  
-il est fait
-
-**[01:44:17 - 01:44:19] _speaker**  
-pour tourner en fait
-
-**[01:44:19 - 01:44:21] _speaker**  
-avec Claude
-
-**[01:44:21 - 01:44:23] _speaker**  
-donc
-
-**[01:44:23 - 01:44:25] _speaker**  
-d'ailleurs
-
-**[01:44:25 - 01:44:27] _speaker**  
-c'est lui le coréen
-
-**[01:44:27 - 01:44:29] _speaker**  
-chao, fan, chou
-
-**[01:44:29 - 01:44:31] _speaker**  
-il s'est fait défoncer
-
-**[01:44:31 - 01:44:33] _speaker**  
-d'ailleurs il a eu pas mal de problèmes
-
-**[01:44:37 - 01:44:39] _speaker**  
-il s'appelle Claude code
-
-**[01:44:39 - 01:44:41] _speaker**  
-et il a rendu ça public
-
-**[01:44:41 - 01:44:43] _speaker**  
-mais ils ont tous fait des fork
-
-**[01:44:43 - 01:44:45] _speaker**  
-en fait
-
-**[01:44:45 - 01:44:47] _speaker**  
-ils ont tous backup
-
-**[01:44:47 - 01:44:49] _speaker**  
-je peux partager
-
-**[01:44:49 - 01:44:51] _speaker**  
-si j'en ai l'interesse
-
-**[01:44:51 - 01:44:53] _speaker**  
-mais je sais pas si c'est vraiment intéressant de prendre ça
-
-**[01:44:53 - 01:44:55] _speaker**  
-parce que c'est...
-
-**[01:44:55 - 01:44:57] _speaker**  
-par contre je pense que OpenClo
-
-**[01:44:57 - 01:44:59] _speaker**  
-on va devoir du se régaler à lire tout ça
-
-**[01:44:59 - 01:45:01] _speaker**  
-tu vois
-
-**[01:45:01 - 01:45:03] _speaker**  
-voilà, là j'ai partagé pour ceux qui s'intéressent dans notre charte
-
-**[01:45:05 - 01:45:07] _speaker**  
-tu peux demander à OpenClo
-
-**[01:45:07 - 01:45:09] _speaker**  
-justement est-ce que c'est intéressant de l'installer
-
-**[01:45:09 - 01:45:11] _speaker**  
-ou de l'utiliser
-
-**[01:45:11 - 01:45:13] _speaker**  
-ou je sais pas
-
-**[01:45:13 - 01:45:15] _speaker**  
-je pense qu'en fait ça complexifie un peu tout
-
-**[01:45:15 - 01:45:17] _speaker**  
-pour pas grand chose
-
-**[01:45:19 - 01:45:21] _speaker**  
-et vous avez entendu parler par rapport
-
-**[01:45:21 - 01:45:23] _speaker**  
-Claude
-
-**[01:45:23 - 01:45:25] _speaker**  
-qui veulent
-
-**[01:45:25 - 01:45:27] _speaker**  
-en fait demander KYC
-
-**[01:45:27 - 01:45:29] _speaker**  
-sur chaque compte
-
-**[01:45:29 - 01:45:31] _speaker**  
-parce qu'il y a tellement de bordel
-
-**[01:45:31 - 01:45:33] _speaker**  
-il y a tellement de profiteurs
-
-**[01:45:33 - 01:45:35] _speaker**  
-du coup ils veulent vraiment
-
-**[01:45:35 - 01:45:37] _speaker**  
-faire un KYC
-
-**[01:45:37 - 01:45:39] _speaker**  
-en demander carrément
-
-**[01:45:39 - 01:45:41] _speaker**  
-de se prouver que c'est pas un bot
-
-**[01:45:41 - 01:45:43] _speaker**  
-et que ça ne viendra pas
-
-**[01:45:43 - 01:45:45] _speaker**  
-dans les pays
-
-**[01:45:45 - 01:45:47] _speaker**  
-censurés etc
-
-**[01:45:47 - 01:45:49] _speaker**  
-quoi
-
-**[01:45:49 - 01:45:51] _speaker**  
-pas bon ça, il y a quand même
-
-**[01:45:51 - 01:45:53] _speaker**  
-des pot signaux
-
-**[01:45:53 - 01:45:55] _speaker**  
-mais aussi un peu la mode dans les distributions
-
-**[01:45:55 - 01:45:57] _speaker**  
-enfin sur les systèmes d'exploitation
-
-**[01:45:57 - 01:45:59] _speaker**  
-il y a un gouverneur un peu fou en Californie
-
-**[01:45:59 - 01:46:01] _speaker**  
-qui a décidé qu'il pouvait mettre
-
-**[01:46:01 - 01:46:03] _speaker**  
-un cure de la vérification d'âge dans les systèmes d'exploitation
-
-**[01:46:03 - 01:46:05] _speaker**  
-donc avant discord
-
-**[01:46:05 - 01:46:07] _speaker**  
-là en début d'année ils avaient commencé ça
-
-**[01:46:07 - 01:46:09] _speaker**  
-il pourrait vraiment dans Mac, Windows et Linux
-
-**[01:46:09 - 01:46:11] _speaker**  
-ils veulent le mettre et vérifier le personnage
-
-**[01:46:11 - 01:46:13] _speaker**  
-donc c'est un peu la continuité
-
-**[01:46:13 - 01:46:15] _speaker**  
-de tout ça
-
-**[01:46:15 - 01:46:17] _speaker**  
-mais bon après si c'est pour l'utilisation
-
-**[01:46:17 - 01:46:19] _speaker**  
-de liens pour les tokens et tout ça
-
-**[01:46:19 - 01:46:21] _speaker**  
-c'est un couple chose mais utiliser son ordi
-
-**[01:46:21 - 01:46:23] _speaker**  
-et mettre une vérification d'âge
-
-**[01:46:23 - 01:46:25] _speaker**  
-pour utiliser son système
-
-**[01:46:25 - 01:46:27] _speaker**  
-on est carrément dans un autre délire encore pire
-
-**[01:46:27 - 01:46:29] _speaker**  
-ça fait ce que l'on se passe pas
-
-**[01:46:29 - 01:46:31] _speaker**  
-ce qui se passe partout
-
-**[01:46:31 - 01:46:33] _speaker**  
-ça sent pas bon quand même cette affaire
-
-**[01:46:33 - 01:46:35] _speaker**  
-mais c'est un peu
-
-**[01:46:35 - 01:46:37] _speaker**  
-c'est pour ça que j'aurais bien
-
-**[01:46:37 - 01:46:39] _speaker**  
-avoir mon Mac Studio 128
-
-**[01:46:39 - 01:46:41] _speaker**  
-comme ça tu es tranquille
-
-**[01:46:41 - 01:46:43] _speaker**  
-peu importe ce qui se passe dans le monde
-
-**[01:46:43 - 01:46:45] _speaker**  
-si d'un coup le prix du token aussi en API
-
-**[01:46:45 - 01:46:47] _speaker**  
-commence à faire x10
-
-**[01:46:47 - 01:46:49] _speaker**  
-ça peut arriver
-
-**[01:46:49 - 01:46:51] _speaker**  
-avec les situations actuelles
-
-**[01:46:51 - 01:46:53] _speaker**  
-d'un data center qui prend le requête
-
-**[01:46:53 - 01:46:55] _speaker**  
-ou Dieu sait quoi
-
-**[01:46:55 - 01:46:57] _speaker**  
-ça peut être un bordel pas possible
-
-**[01:46:57 - 01:46:59] _speaker**  
-et sinon
-
-**[01:46:59 - 01:47:01] _speaker**  
-l'agent IA
-
-**[01:47:01 - 01:47:03] _speaker**  
-qui a supprimé
-
-**[01:47:03 - 01:47:05] _speaker**  
-toute la prod d'une start-up
-
-**[01:47:05 - 01:47:07] _speaker**  
-en 10 secondes on en parle
-
-**[01:47:07 - 01:47:09] _speaker**  
-ouais mais
-
-**[01:47:09 - 01:47:11] _speaker**  
-moi ça me choque pas plus que ça
-
-**[01:47:11 - 01:47:13] _speaker**  
-il y a plein de dev qui font des conneries
-
-**[01:47:13 - 01:47:15] _speaker**  
-oui c'est finalement
-
-**[01:47:15 - 01:47:17] _speaker**  
-ça approuve qu'en fait c'est aussi un peu des dev
-
-**[01:47:17 - 01:47:19] _speaker**  
-qui font des conneries
-
-**[01:47:19 - 01:47:21] _speaker**  
-ouais
-
-**[01:47:21 - 01:47:23] _speaker**  
-c'est l'instruction qui a dû les donner
-
-**[01:47:23 - 01:47:25] _speaker**  
-il y a quand même un mec
-
-**[01:47:25 - 01:47:27] _speaker**  
-qui a donné une instruction
-
-**[01:47:27 - 01:47:29] _speaker**  
-pour ce qu'il a fait une grosse connerie
-
-**[01:47:29 - 01:47:31] _speaker**  
-surtout ne pas avoir de backup
-
-**[01:47:31 - 01:47:33] _speaker**  
-il a viré les backups
-
-**[01:47:33 - 01:47:35] _speaker**  
-il faut être t'obé
-
-**[01:47:35 - 01:47:37] _speaker**  
-le gars il mérite un peu
-
-**[01:47:37 - 01:47:39] _speaker**  
-ça c'est une situation de merde
-
-**[01:47:39 - 01:47:41] _speaker**  
-justement
-
-**[01:47:41 - 01:47:43] _speaker**  
-si tu mets sur github
-
-**[01:47:43 - 01:47:45] _speaker**  
-et que tu déposes
-
-**[01:47:45 - 01:47:47] _speaker**  
-normalement
-
-**[01:47:47 - 01:47:49] _speaker**  
-moi tu te préciement
-
-**[01:47:49 - 01:47:51] _speaker**  
-tu demande à OpenCloud de détruire le github
-
-**[01:47:51 - 01:47:53] _speaker**  
-ton code il est toujours safe
-
-**[01:47:53 - 01:47:55] _speaker**  
-quoi donc
-
-**[01:47:55 - 01:47:57] _speaker**  
-ça c'est je sais pas
-
-**[01:47:57 - 01:47:59] _speaker**  
-tu n'as pas tous les tonnes dans la boutique
-
-**[01:47:59 - 01:48:01] _speaker**  
-sans ces affaires là donc
-
-**[01:48:01 - 01:48:03] _speaker**  
-franchement
-
-**[01:48:03 - 01:48:05] _speaker**  
-c'est les data apparemment
-
-**[01:48:05 - 01:48:07] _speaker**  
-qu'il avait cherché donc la github
-
-**[01:48:07 - 01:48:09] _speaker**  
-il t'aurait pas aidé quoi
-
-**[01:48:09 - 01:48:11] _speaker**  
-ouais mais bon
-
-**[01:48:11 - 01:48:13] _speaker**  
-là
-
-**[01:48:13 - 01:48:15] _speaker**  
-la culture elle aura toujours
-
-**[01:48:15 - 01:48:17] _speaker**  
-avec sansia
-
-**[01:48:17 - 01:48:19] _speaker**  
-ça change pas les conditions
-
-**[01:48:19 - 01:48:21] _speaker**  
-ouais après il y a toujours une part de risque
-
-**[01:48:21 - 01:48:23] _speaker**  
-mais par rapport au gain
-
-**[01:48:23 - 01:48:25] _speaker**  
-qu'on peut avoir
-
-**[01:48:25 - 01:48:27] _speaker**  
-c'est juste
-
-**[01:48:27 - 01:48:29] _speaker**  
-c'est négligeable
-
-**[01:48:29 - 01:48:31] _speaker**  
-il y a toujours une part de risque
-
-**[01:48:33 - 01:48:35] _speaker**  
-mais par rapport au gain
-
-**[01:48:35 - 01:48:37] _speaker**  
-par rapport à l'économie
-
-**[01:48:37 - 01:48:39] _speaker**  
-par rapport à l'efficacité
-
-**[01:48:39 - 01:48:41] _speaker**  
-surtout l'idée qu'on peut
-
-**[01:48:41 - 01:48:43] _speaker**  
-enfin faire quelque chose quand on dort
-
-**[01:48:43 - 01:48:45] _speaker**  
-là
-
-**[01:48:45 - 01:48:47] _speaker**  
-tu as des agents
-
-**[01:48:47 - 01:48:49] _speaker**  
-qui travaillent 24 sur 24 pour toi
-
-**[01:48:49 - 01:48:51] _speaker**  
-ça c'est juste incroyable
-
-**[01:48:51 - 01:48:53] _speaker**  
-quoi incroyable
-
-**[01:48:53 - 01:48:55] _speaker**  
-c'est ça
-
-**[01:48:55 - 01:48:57] _speaker**  
-c'est vachement risqué d'utiliser OpenCloud
-
-**[01:48:57 - 01:48:59] _speaker**  
-on va pas se raconter des salades
-
-**[01:48:59 - 01:49:01] _speaker**  
-par contre c'est risque reward
-
-**[01:49:01 - 01:49:03] _speaker**  
-tu as une part de risque
-
-**[01:49:03 - 01:49:05] _speaker**  
-mais tu as une part de gain
-
-**[01:49:05 - 01:49:07] _speaker**  
-qui est potentiellement hyper élevée aussi donc
-
-**[01:49:07 - 01:49:09] _speaker**  
-ouais
-
-**[01:49:09 - 01:49:11] _speaker**  
-on peut accepter un peu ça
-
-**[01:49:11 - 01:49:13] _speaker**  
-on peut faire un tour
-
-**[01:49:13 - 01:49:15] _speaker**  
-de ce truc qui utilise déjà
-
-**[01:49:15 - 01:49:17] _speaker**  
-et juste rapidement
-
-**[01:49:17 - 01:49:19] _speaker**  
-savoir qui en fait quoi
-
-**[01:49:19 - 01:49:21] _speaker**  
-moi je vous dis je peux te faire arrêt je dois y aller
-
-**[01:49:21 - 01:49:23] _speaker**  
-mais je le reviens
-
-**[01:49:23 - 01:49:25] _speaker**  
-ok ça marche
-
-**[01:49:25 - 01:49:27] _speaker**  
-ceux qui doivent y aller on a débordé
-
-**[01:49:27 - 01:49:29] _speaker**  
-donc ceux qui doivent y aller
-
-**[01:49:29 - 01:49:31] _speaker**  
-il n'y a pas de soucis et ceux qui veulent rester on continue un petit peu
-
-**[01:49:31 - 01:49:33] _speaker**  
-tchao
-
-**[01:49:33 - 01:49:35] _speaker**  
-t'as dit quoi Gilles en fait j'ai pas compris
-
-**[01:49:35 - 01:49:37] _speaker**  
-la question
-
-**[01:49:37 - 01:49:39] _speaker**  
-c'était quoi ? non c'était juste
-
-**[01:49:39 - 01:49:41] _speaker**  
-faire un petit tour d'horizon
-
-**[01:49:41 - 01:49:43] _speaker**  
-qui utilise OpenCloud pour
-
-**[01:49:43 - 01:49:45] _speaker**  
-quoi en fait très rapidement
-
-**[01:49:45 - 01:49:47] _speaker**  
-eh ben on a dit au début non
-
-**[01:49:47 - 01:49:49] _speaker**  
-on ne s'en fâche pas
-
-**[01:49:49 - 01:49:51] _speaker**  
-il utilise pour faire du marketing
-
-**[01:49:51 - 01:49:53] _speaker**  
-et vous voyez il utilise pour les vidéos
-
-**[01:49:53 - 01:49:55] _speaker**  
-pour faire avec
-
-**[01:49:55 - 01:49:57] _speaker**  
-c'est
-
-**[01:49:57 - 01:49:59] _speaker**  
-en fait moi j'aimerais un peu plus
-
-**[01:49:59 - 01:50:01] _speaker**  
-savoir sur qu'est ce que vous faites
-
-**[01:50:01 - 01:50:03] _speaker**  
-des différentes sessions, des crônes etc
-
-**[01:50:03 - 01:50:05] _speaker**  
-et est ce que
-
-**[01:50:05 - 01:50:07] _speaker**  
-voilà on va avoir un petit peu plus
-
-**[01:50:07 - 01:50:09] _speaker**  
-de
-
-**[01:50:09 - 01:50:11] _speaker**  
-de visu sur
-
-**[01:50:11 - 01:50:13] _speaker**  
-ce que
-
-**[01:50:13 - 01:50:15] _speaker**  
-vous voyez comme étant
-
-**[01:50:15 - 01:50:17] _speaker**  
-très performant ou les choses qu'il faut éviter
-
-**[01:50:17 - 01:50:19] _speaker**  
-et les choses qui sont
-
-**[01:50:19 - 01:50:21] _speaker**  
-fantastiques à utiliser et à automatiser
-
-**[01:50:21 - 01:50:23] _speaker**  
-quelles sont les tâches que vous avez pu automatiser
-
-**[01:50:23 - 01:50:25] _speaker**  
-moi j'ai vite
-
-**[01:50:25 - 01:50:27] _speaker**  
-moi je dois joindre Gilles aussi
-
-**[01:50:27 - 01:50:29] _speaker**  
-je dois joindre Gilles aussi là dessus
-
-**[01:50:29 - 01:50:31] _speaker**  
-je ne vois toujours pas le
-
-**[01:50:31 - 01:50:33] _speaker**  
-moi je fais du code direct
-
-**[01:50:33 - 01:50:35] _speaker**  
-j'évite absolument les
-
-**[01:50:35 - 01:50:37] _speaker**  
-grandes jobs parce que c'est la catastrophe
-
-**[01:50:37 - 01:50:39] _speaker**  
-en termes de consommation
-
-**[01:50:39 - 01:50:41] _speaker**  
-de token
-
-**[01:50:41 - 01:50:43] _speaker**  
-c'est ce qui consomme le plus
-
-**[01:50:43 - 01:50:45] _speaker**  
-c'est à dire que tous les événements récurrents
-
-**[01:50:45 - 01:50:47] _speaker**  
-où tu n'as pas de contrôle direct
-
-**[01:50:47 - 01:50:49] _speaker**  
-c'est là où ça fait le plus mal
-
-**[01:50:49 - 01:50:51] _speaker**  
-après
-
-**[01:50:51 - 01:50:53] _speaker**  
-ça revient toujours au même problème
-
-**[01:50:53 - 01:50:55] _speaker**  
-si tu as la possibilité d'avoir des tokens gratuits
-
-**[01:50:55 - 01:50:57] _speaker**  
-ou très très bon marché
-
-**[01:50:57 - 01:50:59] _speaker**  
-tu peux t'amuser à faire ça
-
-**[01:50:59 - 01:51:01] _speaker**  
-ou alors ça va te coûter très cher
-
-**[01:51:01 - 01:51:03] _speaker**  
-moi je fais du développement
-
-**[01:51:03 - 01:51:05] _speaker**  
-mais après
-
-**[01:51:05 - 01:51:07] _speaker**  
-je sais pas
-
-**[01:51:07 - 01:51:09] _speaker**  
-question par rapport à ces grandes jobs
-
-**[01:51:09 - 01:51:11] _speaker**  
-moi j'en ai plein qui tourne
-
-**[01:51:11 - 01:51:13] _speaker**  
-ça me coûte pas grand chose
-
-**[01:51:13 - 01:51:15] _speaker**  
-ça me coûte
-
-**[01:51:15 - 01:51:17] _speaker**  
-ça ne coûte pas grand chose
-
-**[01:51:17 - 01:51:19] _speaker**  
-ça ne coûte pas grand chose
-
-**[01:51:19 - 01:51:21] _speaker**  
-en fait c'est par exemple
-
-**[01:51:21 - 01:51:23] _speaker**  
-typiquement
-
-**[01:51:23 - 01:51:25] _speaker**  
-surveillance
-
-**[01:51:25 - 01:51:27] _speaker**  
-typiquement il fait un audit
-
-**[01:51:27 - 01:51:29] _speaker**  
-de mon système
-
-**[01:51:29 - 01:51:31] _speaker**  
-une fois par semaine
-
-**[01:51:31 - 01:51:33] _speaker**  
-pour savoir si mon système est maintenu correctement
-
-**[01:51:33 - 01:51:35] _speaker**  
-ça lui prend 5 minutes
-
-**[01:51:35 - 01:51:37] _speaker**  
-clodopus il se déclenche tout seul depuis mon vps
-
-**[01:51:37 - 01:51:39] _speaker**  
-puis va venir vérifier
-
-**[01:51:39 - 01:51:41] _speaker**  
-mon système qui est ébergé
-
-**[01:51:41 - 01:51:43] _speaker**  
-sur github
-
-**[01:51:43 - 01:51:45] _speaker**  
-et puis il me fait un retour après
-
-**[01:51:45 - 01:51:47] _speaker**  
-dans mon logiciel de prise de note
-
-**[01:51:47 - 01:51:49] _speaker**  
-mais ça me consomme quasiment rien
-
-**[01:51:49 - 01:51:51] _speaker**  
-il le fait une fois par semaine
-
-**[01:51:51 - 01:51:53] _speaker**  
-donc
-
-**[01:51:53 - 01:51:55] _speaker**  
-enfin
-
-**[01:51:55 - 01:51:57] _speaker**  
-il y a deux choses
-
-**[01:51:57 - 01:51:59] _speaker**  
-il y a la mémoire
-
-**[01:51:59 - 01:52:01] _speaker**  
-il y a aussi le fait qu'il arrive
-
-**[01:52:01 - 01:52:03] _speaker**  
-à créer des scripts
-
-**[01:52:03 - 01:52:05] _speaker**  
-c'est à dire que le cron job
-
-**[01:52:05 - 01:52:07] _speaker**  
-il y a une partie
-
-**[01:52:07 - 01:52:09] _speaker**  
-des tâches
-
-**[01:52:09 - 01:52:11] _speaker**  
-c'est déjà en script
-
-**[01:52:11 - 01:52:13] _speaker**  
-dans ce cas là ça ne consomme pas de token
-
-**[01:52:13 - 01:52:15] _speaker**  
-c'est ça aussi l'avantage
-
-**[01:52:15 - 01:52:17] _speaker**  
-ou alors son intelligence
-
-**[01:52:17 - 01:52:19] _speaker**  
-c'est ça qui est intéressant
-
-**[01:52:19 - 01:52:21] _speaker**  
-c'est pas
-
-**[01:52:21 - 01:52:23] _speaker**  
-depuis le premier truc
-
-**[01:52:23 - 01:52:25] _speaker**  
-qui fait
-
-**[01:52:25 - 01:52:27] _speaker**  
-qu'il commence à consommer les tokens
-
-**[01:52:27 - 01:52:29] _speaker**  
-il arrive à mémoriser
-
-**[01:52:29 - 01:52:31] _speaker**  
-et si on arrive à créer des scripts
-
-**[01:52:31 - 01:52:33] _speaker**  
-là
-
-**[01:52:33 - 01:52:35] _speaker**  
-ça économise
-
-**[01:52:35 - 01:52:37] _speaker**  
-énormément de token
-
-**[01:52:37 - 01:52:39] _speaker**  
-moi c'est un skill
-
-**[01:52:39 - 01:52:41] _speaker**  
-qui tourne
-
-**[01:52:41 - 01:52:43] _speaker**  
-le skill c'est une procédure
-
-**[01:52:43 - 01:52:45] _speaker**  
-simplement un process en plusieurs étapes
-
-**[01:52:45 - 01:52:47] _speaker**  
-que j'ai créé avec IA
-
-**[01:52:47 - 01:52:49] _speaker**  
-qui est utilisé avec IA
-
-**[01:52:49 - 01:52:51] _speaker**  
-pour faire le process que j'ai établi
-
-**[01:52:51 - 01:52:53] _speaker**  
-donc lui il va simplement suivre
-
-**[01:52:53 - 01:52:55] _speaker**  
-les étapes du skill
-
-**[01:52:55 - 01:52:57] _speaker**  
-mais c'est tout l'IA qui fait pour moi
-
-**[01:52:57 - 01:52:59] _speaker**  
-et ça ne me prend
-
-**[01:52:59 - 01:53:01] _speaker**  
-pas gourmand du tout
-
-**[01:53:01 - 01:53:03] _speaker**  
-après c'est comme je dis c'est une fois par semaine
-
-**[01:53:03 - 01:53:05] _speaker**  
-c'est surtout la fréquence
-
-**[01:53:05 - 01:53:07] _speaker**  
-qui fait et puis qu'est ce que tu vas faire
-
-**[01:53:07 - 01:53:09] _speaker**  
-si tu lui demandes de coder un truc
-
-**[01:53:09 - 01:53:11] _speaker**  
-en fonction d'un élément qui est déclencheur
-
-**[01:53:11 - 01:53:13] _speaker**  
-bah oui ça peut être gourmand
-
-**[01:53:13 - 01:53:15] _speaker**  
-puisque tu vas lui demander de coder quelque chose
-
-**[01:53:15 - 01:53:17] _speaker**  
-mais si c'est uniquement de la surveillance
-
-**[01:53:17 - 01:53:19] _speaker**  
-ou des petites choses
-
-**[01:53:19 - 01:53:21] _speaker**  
-pour moi et ça ne consomme pas
-
-**[01:53:21 - 01:53:23] _speaker**  
-pas tant que ça
-
-**[01:53:23 - 01:53:25] _speaker**  
-et tu as affecté précisément
-
-**[01:53:25 - 01:53:27] _speaker**  
-un type de LLM ou pas
-
-**[01:53:27 - 01:53:29] _speaker**  
-ouais moi j'ai tout je passe tout par Claude
-
-**[01:53:29 - 01:53:31] _speaker**  
-et je suis disque au plus qu'à 7
-
-**[01:53:31 - 01:53:33] _speaker**  
-et je paye 100 balles par mois
-
-**[01:53:33 - 01:53:35] _speaker**  
-ça me fait comme en fait
-
-**[01:53:35 - 01:53:37] _speaker**  
-ils se sont tous alignés maintenant au même niveau
-
-**[01:53:37 - 01:53:39] _speaker**  
-de terrification comme expliqué Swiss Crypto
-
-**[01:53:39 - 01:53:41] _speaker**  
-c'est maintenant l'abonnement à 20 francs
-
-**[01:53:41 - 01:53:43] _speaker**  
-l'abonnement à bah sur
-
-**[01:53:43 - 01:53:45] _speaker**  
-Opené apparemment c'est un peu moins cher
-
-**[01:53:45 - 01:53:47] _speaker**  
-à 8 en 8 mais en gros c'est 5 fois plus
-
-**[01:53:47 - 01:53:49] _speaker**  
-ou 20 fois plus avec l'abonnement à 200
-
-**[01:53:49 - 01:53:51] _speaker**  
-et moi j'utilise que au plus qu'à 7
-
-**[01:53:51 - 01:53:53] _speaker**  
-avec l'abonnement à 100 francs
-
-**[01:53:53 - 01:53:55] _speaker**  
-et franchement j'arrive pas à le bloquer
-
-**[01:53:55 - 01:53:57] _speaker**  
-ça arrive que je le bloque sur une grosse session
-
-**[01:53:57 - 01:53:59] _speaker**  
-de 5 heures mais ça se réinitialise
-
-**[01:53:59 - 01:54:01] _speaker**  
-tous les 5 heures et après j'ai ma
-
-**[01:54:01 - 01:54:03] _speaker**  
-weekly jauge
-
-**[01:54:03 - 01:54:05] _speaker**  
-qui aujourd'hui
-
-**[01:54:05 - 01:54:07] _speaker**  
-j'arrive pas à la remplir quoi
-
-**[01:54:07 - 01:54:09] _speaker**  
-je suis à 90%
-
-**[01:54:09 - 01:54:11] _speaker**  
-85-90%
-
-**[01:54:11 - 01:54:13] _speaker**  
-ok
-
-**[01:54:13 - 01:54:15] _speaker**  
-je n'arrive pas à l'utiliser
-
-**[01:54:15 - 01:54:17] _speaker**  
-qui est rare parce qu'ils crâment toujours leurs tokens
-
-**[01:54:17 - 01:54:19] _speaker**  
-sur OpenClick
-
-**[01:54:19 - 01:54:21] _speaker**  
-après ça dépend
-
-**[01:54:21 - 01:54:23] _speaker**  
-ça dépend des tâches
-
-**[01:54:23 - 01:54:25] _speaker**  
-pour traiter des images, des vidéos
-
-**[01:54:25 - 01:54:27] _speaker**  
-tant que ça touche ça, ça concerne beaucoup
-
-**[01:54:27 - 01:54:29] _speaker**  
-si c'est vraiment pour les analyses
-
-**[01:54:29 - 01:54:31] _speaker**  
-de base etc effectivement
-
-**[01:54:31 - 01:54:33] _speaker**  
-c'est pas là où
-
-**[01:54:33 - 01:54:35] _speaker**  
-ça crâme le plus de tokens
-
-**[01:54:35 - 01:54:37] _speaker**  
-c'est vraiment très très au cas par cas
-
-**[01:54:37 - 01:54:39] _speaker**  
-il faut vraiment sonder
-
-**[01:54:39 - 01:54:41] _speaker**  
-dans
-
-**[01:54:41 - 01:54:43] _speaker**  
-le détail des différents tâches
-
-**[01:54:43 - 01:54:45] _speaker**  
-pour reconnaître
-
-**[01:54:45 - 01:54:47] _speaker**  
-combien ça consomme
-
-**[01:54:47 - 01:54:49] _speaker**  
-peut-être pour le tâche qui vient
-
-**[01:54:49 - 01:54:51] _speaker**  
-d'écrire
-
-**[01:54:51 - 01:54:53] _speaker**  
-avec un modèle beaucoup moins cher
-
-**[01:54:53 - 01:54:55] _speaker**  
-qu'on paye 5 francs par mois
-
-**[01:54:55 - 01:54:57] _speaker**  
-qu'il arrive à sortir le même
-
-**[01:54:57 - 01:54:59] _speaker**  
-performance mais c'est juste
-
-**[01:54:59 - 01:55:01] _speaker**  
-quand lui il est prêt
-
-**[01:55:01 - 01:55:03] _speaker**  
-à payer 100 balles
-
-**[01:55:03 - 01:55:05] _speaker**  
-au puce parce que c'est le meilleur modèle
-
-**[01:55:05 - 01:55:07] _speaker**  
-c'est peut-être psychologique
-
-**[01:55:07 - 01:55:09] _speaker**  
-donc c'est là que ça montre on est
-
-**[01:55:09 - 01:55:11] _speaker**  
-encore au début de tout ça
-
-**[01:55:11 - 01:55:13] _speaker**  
-qui a encore beaucoup beaucoup de potentiel
-
-**[01:55:13 - 01:55:15] _speaker**  
-à améliorer, à optimiser
-
-**[01:55:15 - 01:55:17] _speaker**  
-tantôt ces technologies
-
-**[01:55:19 - 01:55:21] _speaker**  
-il y a quelqu'un
-
-**[01:55:21 - 01:55:23] _speaker**  
-qui est déjà testé avec
-
-**[01:55:23 - 01:55:25] _speaker**  
-dix psyches, il faut...
-
-**[01:55:25 - 01:55:27] _speaker**  
-4
-
-**[01:55:29 - 01:55:31] _speaker**  
-j'ai essayé, j'ai pas du tout été
-
-**[01:55:31 - 01:55:33] _speaker**  
-comment que je sais tout de suite
-
-**[01:55:35 - 01:55:37] _speaker**  
-par rapport aux autres modèles
-
-**[01:55:37 - 01:55:39] _speaker**  
-genre quand t'as... parce qu'en fait
-
-**[01:55:39 - 01:55:41] _speaker**  
-c'est un concurrent
-
-**[01:55:41 - 01:55:43] _speaker**  
-c'est un concurrent de GPT 5.5
-
-**[01:55:43 - 01:55:45] _speaker**  
-ou de PUS
-
-**[01:55:45 - 01:55:47] _speaker**  
-et en fait si tu le compares
-
-**[01:55:47 - 01:55:49] _speaker**  
-avec les deux autres
-
-**[01:55:49 - 01:55:51] _speaker**  
-je vois pas trop... alors après il y a le prix du token
-
-**[01:55:51 - 01:55:53] _speaker**  
-qui est très très bon marché
-
-**[01:55:53 - 01:55:55] _speaker**  
-c'est ça ? oui c'est le prix
-
-**[01:55:55 - 01:55:57] _speaker**  
-c'est ça c'est le coeur de tout
-
-**[01:55:57 - 01:55:59] _speaker**  
-mais ça je suis d'accord avec toi
-
-**[01:55:59 - 01:56:01] _speaker**  
-là si tu cherches
-
-**[01:56:01 - 01:56:03] _speaker**  
-un excellent modèle frontière on dit
-
-**[01:56:03 - 01:56:05] _speaker**  
-vraiment les tops du top
-
-**[01:56:05 - 01:56:07] _speaker**  
-dix psyches v4 il est vachement intéressant
-
-**[01:56:07 - 01:56:09] _speaker**  
-mais le problème c'est que
-
-**[01:56:09 - 01:56:11] _speaker**  
-on a un peu tous pareil
-
-**[01:56:11 - 01:56:13] _speaker**  
-t'as envie d'avoir le meilleur
-
-**[01:56:13 - 01:56:15] _speaker**  
-c'est surtout psychologique c'est à dire
-
-**[01:56:15 - 01:56:17] _speaker**  
-quand tu as une réponse
-
-**[01:56:17 - 01:56:19] _speaker**  
-tu sais que t'es pas très
-
-**[01:56:19 - 01:56:21] _speaker**  
-satisfait de cette réponse parce que
-
-**[01:56:21 - 01:56:23] _speaker**  
-ah merde Petra j'ai pas eu de l'utile le meilleur
-
-**[01:56:23 - 01:56:25] _speaker**  
-alors une fois que t'es sur le top du top
-
-**[01:56:25 - 01:56:27] _speaker**  
-t'es sur le opus 4.5
-
-**[01:56:27 - 01:56:29] _speaker**  
-il y en a plus de meilleurs
-
-**[01:56:29 - 01:56:31] _speaker**  
-il y a plus mieux c'est le meilleur
-
-**[01:56:31 - 01:56:33] _speaker**  
-c'est le top du top là t'es convaincu psychologiquement
-
-**[01:56:33 - 01:56:35] _speaker**  
-c'est le best
-
-**[01:56:35 - 01:56:37] _speaker**  
-t'as la meilleure réponse
-
-**[01:56:37 - 01:56:39] _speaker**  
-c'est léger
-
-**[01:56:39 - 01:56:41] _speaker**  
-ça les prend pour le top aussi
-
-**[01:56:41 - 01:56:43] _speaker**  
-mais peut-être c'est pas
-
-**[01:56:43 - 01:56:45] _speaker**  
-les modèles que compte plus
-
-**[01:56:45 - 01:56:47] _speaker**  
-mais la configuration
-
-**[01:56:47 - 01:56:49] _speaker**  
-oui c'est gérant
-
-**[01:56:49 - 01:56:51] _speaker**  
-oui moi je pense c'est ça c'est le contexte
-
-**[01:56:51 - 01:56:53] _speaker**  
-aujourd'hui qui compte
-
-**[01:56:53 - 01:56:55] _speaker**  
-au delà du modèle d'où l'importance
-
-**[01:56:55 - 01:56:57] _speaker**  
-d'un système comme openclos
-
-**[01:56:57 - 01:56:59] _speaker**  
-qui justement gère le contexte
-
-**[01:56:59 - 01:57:01] _speaker**  
-et permet de garder en mémoire
-
-**[01:57:01 - 01:57:03] _speaker**  
-tout ce que tu as fait
-
-**[01:57:03 - 01:57:05] _speaker**  
-et qui peut rebondir là dessus
-
-**[01:57:05 - 01:57:07] _speaker**  
-exactement
-
-**[01:57:07 - 01:57:09] _speaker**  
-avec le mission control par dessus
-
-**[01:57:09 - 01:57:11] _speaker**  
-pour avoir
-
-**[01:57:11 - 01:57:13] _speaker**  
-j'utilise pas openclos mais j'ai vu
-
-**[01:57:13 - 01:57:15] _speaker**  
-deux trois personnes qui faisaient ça comme ça
-
-**[01:57:15 - 01:57:17] _speaker**  
-là ou Cyril ce que tu m'envoyais encore aujourd'hui
-
-**[01:57:17 - 01:57:19] _speaker**  
-il y avait un interface assez propre
-
-**[01:57:19 - 01:57:21] _speaker**  
-alors il manquait quand même un peu le contexte
-
-**[01:57:21 - 01:57:23] _speaker**  
-tu peux pas voir ce que tu as fait
-
-**[01:57:23 - 01:57:25] _speaker**  
-tu vois uniquement la
-
-**[01:57:25 - 01:57:27] _speaker**  
-configuration
-
-**[01:57:27 - 01:57:29] _speaker**  
-mais tu peux pas voir par exemple
-
-**[01:57:29 - 01:57:31] _speaker**  
-les tâches qui ont été faites dernièrement
-
-**[01:57:31 - 01:57:33] _speaker**  
-sur les projets sur lesquels tu as travaillé
-
-**[01:57:35 - 01:57:37] _speaker**  
-mais tu peux activer les skills à la demande
-
-**[01:57:37 - 01:57:39] _speaker**  
-les crônes jobs
-
-**[01:57:39 - 01:57:41] _speaker**  
-les crônes tasks exactement ça j'ai vu que tu pouvais faire
-
-**[01:57:43 - 01:57:45] _speaker**  
-et puis ce qui est intéressant je trouve
-
-**[01:57:45 - 01:57:47] _speaker**  
-maintenant ce qui est intéressant
-
-**[01:57:47 - 01:57:49] _speaker**  
-avec ces frémoires comme openclos
-
-**[01:57:49 - 01:57:51] _speaker**  
-c'est que
-
-**[01:57:51 - 01:57:53] _speaker**  
-tu peux en fait te connecter
-
-**[01:57:53 - 01:57:55] _speaker**  
-à n'importe quel modèle
-
-**[01:57:55 - 01:57:57] _speaker**  
-t'es pas tributaire d'un modèle en fait
-
-**[01:57:57 - 01:57:59] _speaker**  
-tu peux switcher de l'un à l'autre
-
-**[01:57:59 - 01:58:01] _speaker**  
-et puis le contexte est clean
-
-**[01:58:01 - 01:58:03] _speaker**  
-et puis que tout ce système
-
-**[01:58:03 - 01:58:05] _speaker**  
-fonctionne correctement
-
-**[01:58:05 - 01:58:07] _speaker**  
-tu vas toujours être pertinent
-
-**[01:58:07 - 01:58:09] _speaker**  
-et tu vas pas être dépendant
-
-**[01:58:09 - 01:58:11] _speaker**  
-du meilleur modèle quoi
-
-**[01:58:11 - 01:58:13] _speaker**  
-ça c'est
-
-**[01:58:13 - 01:58:15] _speaker**  
-le meilleur truc en fait
-
-**[01:58:15 - 01:58:17] _speaker**  
-pour moi je pense
-
-**[01:58:17 - 01:58:19] _speaker**  
-c'est de pas être dépendant d'un provider
-
-**[01:58:19 - 01:58:21] _speaker**  
-même moi si j'utilise clôt de code
-
-**[01:58:21 - 01:58:23] _speaker**  
-là au parallèle j'ai aussi opencode
-
-**[01:58:23 - 01:58:25] _speaker**  
-opencode c'est
-
-**[01:58:25 - 01:58:27] _speaker**  
-un fork de clôt de code en fait
-
-**[01:58:27 - 01:58:29] _speaker**  
-c'est aussi tout aussi bien
-
-**[01:58:29 - 01:58:31] _speaker**  
-et il y a plein d'autres modèles
-
-**[01:58:31 - 01:58:33] _speaker**  
-comme on a parlé minimax, kimi etc
-
-**[01:58:33 - 01:58:35] _speaker**  
-qui sont tout à fait
-
-**[01:58:35 - 01:58:37] _speaker**  
-performants
-
-**[01:58:39 - 01:58:41] _speaker**  
-ben il a raison il y a un méga effets psychologiques
-
-**[01:58:43 - 01:58:45] _speaker**  
-quand t'as le meilleur tu veux le meilleur en fait
-
-**[01:58:45 - 01:58:47] _speaker**  
-c'est difficile
-
-**[01:58:47 - 01:58:49] _speaker**  
-on est tous un peu pareils
-
-**[01:58:49 - 01:58:51] _speaker**  
-c'est comme ça quoi
-
-**[01:58:53 - 01:58:55] _speaker**  
-mais par exemple j'ai pu utiliser
-
-**[01:58:55 - 01:58:57] _speaker**  
-Opencode avec
-
-**[01:58:57 - 01:58:59] _speaker**  
-Deeppsych v4
-
-**[01:58:59 - 01:59:01] _speaker**  
-et ça
-
-**[01:59:01 - 01:59:03] _speaker**  
-c'est plus moins cher
-
-**[01:59:03 - 01:59:05] _speaker**  
-et va avoir
-
-**[01:59:05 - 01:59:07] _speaker**  
-un grand performance aussi je pense
-
-**[01:59:09 - 01:59:11] _speaker**  
-après ça dépend
-
-**[01:59:11 - 01:59:13] _speaker**  
-ces modèles je sais pas Deeppsych
-
-**[01:59:13 - 01:59:15] _speaker**  
-ces modèles auto-hébergés
-
-**[01:59:15 - 01:59:17] _speaker**  
-le seul truc qu'il faut faire gaffe
-
-**[01:59:17 - 01:59:19] _speaker**  
-c'est où tu vas venir, quel provider
-
-**[01:59:19 - 01:59:21] _speaker**  
-tu vas prendre parce que m'expliquer
-
-**[01:59:21 - 01:59:23] _speaker**  
-Ben, t'as plusieurs providers
-
-**[01:59:23 - 01:59:25] _speaker**  
-qui fournissent le même modèle
-
-**[01:59:25 - 01:59:27] _speaker**  
-en fonction d'autu va le chercher
-
-**[01:59:27 - 01:59:29] _speaker**  
-ils ont pas la même performance
-
-**[01:59:31 - 01:59:33] _speaker**  
-j'ai vu ça pour GLM5.1
-
-**[01:59:33 - 01:59:35] _speaker**  
-et
-
-**[01:59:35 - 01:59:37] _speaker**  
-surtout pour GLM5.1
-
-**[01:59:37 - 01:59:39] _speaker**  
-ben je l'ai pris chez Fireworks
-
-**[01:59:39 - 01:59:41] _speaker**  
-les essais que j'avais fait
-
-**[01:59:41 - 01:59:43] _speaker**  
-j'avais été bluffé par la rapidité
-
-**[01:59:47 - 01:59:49] _speaker**  
-d'inférence contrairement
-
-**[01:59:49 - 01:59:51] _speaker**  
-à OpenRouter
-
-**[01:59:51 - 01:59:53] _speaker**  
-qui était extrêmement plus lent
-
-**[01:59:53 - 01:59:55] _speaker**  
-et le prix était pas forcément le même
-
-**[01:59:55 - 01:59:57] _speaker**  
-normalement
-
-**[01:59:57 - 01:59:59] _speaker**  
-c'était soit disant plateforme de revente
-
-**[02:00:01 - 02:00:03] _speaker**  
-il touche pas le coeur du code
-
-**[02:00:03 - 02:00:05] _speaker**  
-il modifie pas le modèle
-
-**[02:00:07 - 02:00:09] _speaker**  
-la paye que tu utilises
-
-**[02:00:09 - 02:00:11] _speaker**  
-c'est vraiment la paye directe du modèle
-
-**[02:00:13 - 02:00:15] _speaker**  
-ils ajoutent un router
-
-**[02:00:17 - 02:00:19] _speaker**  
-pour gagner un peu de prix
-
-**[02:00:19 - 02:00:21] _speaker**  
-sur une commission
-
-**[02:00:21 - 02:00:23] _speaker**  
-sur Fireworks ils les hébergent
-
-**[02:00:23 - 02:00:25] _speaker**  
-eux-mêmes les modèles
-
-**[02:00:27 - 02:00:29] _speaker**  
-mais ils n'en ont pas autant que OpenRouter
-
-**[02:00:29 - 02:00:31] _speaker**  
-effectivement peut-être que c'est pas la bonne façon
-
-**[02:00:31 - 02:00:33] _speaker**  
-de comparer avec OpenRouter
-
-**[02:00:33 - 02:00:35] _speaker**  
-puisque OpenRouter est juste un distributeur
-
-**[02:00:35 - 02:00:37] _speaker**  
-d'API et non un hébergeur
-
-**[02:00:37 - 02:00:39] _speaker**  
-moi j'ai l'impression que OpenRouter
-
-**[02:00:39 - 02:00:41] _speaker**  
-a changé mes différents modèles en fonction
-
-**[02:00:41 - 02:00:43] _speaker**  
-je l'ai vu plusieurs fois
-
-**[02:00:43 - 02:00:45] _speaker**  
-ça me faisait sauter mes sessions
-
-**[02:00:45 - 02:00:47] _speaker**  
-c'est possible
-
-**[02:00:47 - 02:00:49] _speaker**  
-mais c'est pas une clou qui n'avait pas
-
-**[02:00:49 - 02:00:51] _speaker**  
-arrouté le bon modèle
-
-**[02:00:51 - 02:00:53] _speaker**  
-d'ailleurs
-
-**[02:00:53 - 02:00:55] _speaker**  
-on voit la différence
-
-**[02:00:55 - 02:00:57] _speaker**  
-on regarde les 10 psycles
-
-**[02:00:57 - 02:00:59] _speaker**  
-le prix
-
-**[02:00:59 - 02:01:01] _speaker**  
-c'est
-
-**[02:01:01 - 02:01:03] _speaker**  
-Sana
-
-**[02:01:03 - 02:01:05] _speaker**  
-0,43
-
-**[02:01:05 - 02:01:07] _speaker**  
-par million de tokens
-
-**[02:01:07 - 02:01:09] _speaker**  
-en input
-
-**[02:01:09 - 02:01:11] _speaker**  
-1$ c'est délirant
-
-**[02:01:11 - 02:01:13] _speaker**  
-c'est vachement moins cher
-
-**[02:01:13 - 02:01:15] _speaker**  
-que j'ai PT5
-
-**[02:01:15 - 02:01:17] _speaker**  
-et là justement on parlait des providers
-
-**[02:01:17 - 02:01:19] _speaker**  
-sur OpenRouter
-
-**[02:01:19 - 02:01:21] _speaker**  
-tu vois que tu as le provider officiel
-
-**[02:01:21 - 02:01:23] _speaker**  
-de cette 10 psycles
-
-**[02:01:23 - 02:01:25] _speaker**  
-tu as Gemi, Cloud, Siliconflow, Navita AI
-
-**[02:01:25 - 02:01:27] _speaker**  
-et together
-
-**[02:01:27 - 02:01:29] _speaker**  
-ils sont d'autres providers
-
-**[02:01:29 - 02:01:31] _speaker**  
-tu peux changer de provider
-
-**[02:01:31 - 02:01:33] _speaker**  
-sur OpenRouter
-
-**[02:01:35 - 02:01:37] _speaker**  
-pourquoi pas
-
-**[02:01:37 - 02:01:39] _speaker**  
-mais
-
-**[02:01:39 - 02:01:41] _speaker**  
-moi je conseille quand même
-
-**[02:01:41 - 02:01:43] _speaker**  
-d'avoir un abonnement
-
-**[02:01:43 - 02:01:45] _speaker**  
-pour que tout soit en tout cas
-
-**[02:01:45 - 02:01:47] _speaker**  
-éviter de payer à la pays
-
-**[02:01:47 - 02:01:49] _speaker**  
-parce que c'est vraiment là que c'est le plus cher
-
-**[02:01:49 - 02:01:51] _speaker**  
-c'est horrible
-
-**[02:01:51 - 02:01:53] _speaker**  
-j'ai fait pendant longtemps
-
-**[02:01:53 - 02:01:55] _speaker**  
-parce que
-
-**[02:01:55 - 02:01:57] _speaker**  
-même un ball par mois
-
-**[02:01:57 - 02:01:59] _speaker**  
-je veux dire même pour un
-
-**[02:01:59 - 02:02:01] _speaker**  
-je pense que comme je disais avant le Gile tout le monde peut
-
-**[02:02:01 - 02:02:03] _speaker**  
-c'est à dire
-
-**[02:02:03 - 02:02:05] _speaker**  
-qu'est ce que tu entends par l'abonnement
-
-**[02:02:05 - 02:02:07] _speaker**  
-parce que là
-
-**[02:02:07 - 02:02:09] _speaker**  
-moi j'ai pris un abonnement
-
-**[02:02:09 - 02:02:11] _speaker**  
-sur Perplexity
-
-**[02:02:11 - 02:02:13] _speaker**  
-ou quoi d'autre Gemi
-
-**[02:02:13 - 02:02:15] _speaker**  
-et puis j'ai les crédits
-
-**[02:02:15 - 02:02:17] _speaker**  
-que j'ai mis dans les clés à payer avec OpenRouter
-
-**[02:02:17 - 02:02:19] _speaker**  
-mais
-
-**[02:02:19 - 02:02:21] _speaker**  
-est-ce que je comprends bien
-
-**[02:02:21 - 02:02:23] _speaker**  
-entre l'une que je devrais prendre
-
-**[02:02:23 - 02:02:25] _speaker**  
-un abonnement à 20 balles ou quelques
-
-**[02:02:25 - 02:02:27] _speaker**  
-sur Claude et puis ça pourrait être tout fait
-
-**[02:02:27 - 02:02:29] _speaker**  
-bah ouais
-
-**[02:02:29 - 02:02:31] _speaker**  
-non parce que sur Claude
-
-**[02:02:31 - 02:02:33] _speaker**  
-tu vas pas pouvoir connecter
-
-**[02:02:33 - 02:02:35] _speaker**  
-ton abonnement ailleurs
-
-**[02:02:35 - 02:02:37] _speaker**  
-que l'environnement Claude par exemple
-
-**[02:02:37 - 02:02:39] _speaker**  
-de même avec Google
-
-**[02:02:39 - 02:02:41] _speaker**  
-tu pourras pas non plus
-
-**[02:02:41 - 02:02:43] _speaker**  
-par contre tu prends un abonnement
-
-**[02:02:43 - 02:02:45] _speaker**  
-soit chez OpenAI
-
-**[02:02:45 - 02:02:47] _speaker**  
-et puis tu utilises ChargeGPT pour ton IAT
-
-**[02:02:47 - 02:02:49] _speaker**  
-tous les jours et puis t'as codex à côté
-
-**[02:02:49 - 02:02:51] _speaker**  
-ou alors
-
-**[02:02:51 - 02:02:53] _speaker**  
-tu prends si tu veux garder ton Gemi
-
-**[02:02:53 - 02:02:55] _speaker**  
-parce que tu as déjà tout ton historique là dedans
-
-**[02:02:55 - 02:02:57] _speaker**  
-tu gardes ton Gemi
-
-**[02:02:57 - 02:02:59] _speaker**  
-puis tu rajoutes un abonnement à 20 francs
-
-**[02:02:59 - 02:03:01] _speaker**  
-sur un modèle comme on a dit avant
-
-**[02:03:01 - 02:03:03] _speaker**  
-chez Kimi
-
-**[02:03:03 - 02:03:05] _speaker**  
-Kimi est très bien
-
-**[02:03:05 - 02:03:07] _speaker**  
-je pense Kimi c'est
-
-**[02:03:07 - 02:03:09] _speaker**  
-tout ce qui a été pris c'est
-
-**[02:03:09 - 02:03:11] _speaker**  
-déjà très très bon
-
-**[02:03:11 - 02:03:13] _speaker**  
-ok
-
-**[02:03:13 - 02:03:15] _speaker**  
-j'ai appris plein de choses ce soir
-
-**[02:03:15 - 02:03:17] _speaker**  
-au niveau de
-
-**[02:03:17 - 02:03:19] _speaker**  
-au niveau de sécurité
-
-**[02:03:19 - 02:03:21] _speaker**  
-je pense que Minimax
-
-**[02:03:21 - 02:03:23] _speaker**  
-est meilleur
-
-**[02:03:23 - 02:03:25] _speaker**  
-parce que c'est une entreprise
-
-**[02:03:25 - 02:03:27] _speaker**  
-côté
-
-**[02:03:27 - 02:03:29] _speaker**  
-ah ouais mais c'est
-
-**[02:03:29 - 02:03:31] _speaker**  
-c'est chinois
-
-**[02:03:31 - 02:03:33] _speaker**  
-ouais c'est côté sur la Bosse-Rencong
-
-**[02:03:33 - 02:03:35] _speaker**  
-au début d'année avec GLM
-
-**[02:03:35 - 02:03:37] _speaker**  
-c'est de là
-
-**[02:03:37 - 02:03:39] _speaker**  
-ils ont déjà passé le cap
-
-**[02:03:39 - 02:03:41] _speaker**  
-ils sont cotés, c'est des entreprises publiques
-
-**[02:03:41 - 02:03:43] _speaker**  
-ils ont des comptes à rendre, la transparent etc
-
-**[02:03:43 - 02:03:45] _speaker**  
-c'est pour ça que moi je vais pas faire
-
-**[02:03:45 - 02:03:47] _speaker**  
-à Minimax
-
-**[02:03:47 - 02:03:49] _speaker**  
-et Kimi est lourdement
-
-**[02:03:49 - 02:03:51] _speaker**  
-investi par Alibaba
-
-**[02:03:51 - 02:03:53] _speaker**  
-et ils sont en train de préparer leur entrée en Bourse
-
-**[02:03:53 - 02:03:55] _speaker**  
-cette année
-
-**[02:03:55 - 02:03:57] _speaker**  
-et vous m'en achetez
-
-**[02:03:57 - 02:03:59] _speaker**  
-et
-
-**[02:03:59 - 02:04:01] _speaker**  
-donc c'est pour ça que moi j'ai une
-
-**[02:04:01 - 02:04:03] _speaker**  
-meilleure confiance
-
-**[02:04:03 - 02:04:05] _speaker**  
-dans les entreprises cotés
-
-**[02:04:05 - 02:04:07] _speaker**  
-justement vis-à-vis de tout ce qui est prévécié
-
-**[02:04:07 - 02:04:09] _speaker**  
-transparent etc
-
-**[02:04:09 - 02:04:11] _speaker**  
-typiquement Minimax leur siège
-
-**[02:04:11 - 02:04:13] _speaker**  
-vis-à-vis de leur modèle
-
-**[02:04:13 - 02:04:15] _speaker**  
-international
-
-**[02:04:15 - 02:04:17] _speaker**  
-à Singapore
-
-**[02:04:17 - 02:04:19] _speaker**  
-ils ont des serveurs qui tournent à Singapore aussi
-
-**[02:04:21 - 02:04:23] _speaker**  
-les autres je sais pas
-
-**[02:04:23 - 02:04:25] _speaker**  
-voilà
-
-**[02:04:25 - 02:04:27] _speaker**  
-donc
-
-**[02:04:27 - 02:04:29] _speaker**  
-et surtout
-
-**[02:04:29 - 02:04:31] _speaker**  
-et surtout
-
-**[02:04:31 - 02:04:33] _speaker**  
-ce qui a toujours cette partie prévécié
-
-**[02:04:33 - 02:04:35] _speaker**  
-et confinantialité
-
-**[02:04:35 - 02:04:37] _speaker**  
-etc
-
-**[02:04:37 - 02:04:39] _speaker**  
-vous avez
-
-**[02:04:39 - 02:04:41] _speaker**  
-peut-être suivi un cas
-
-**[02:04:41 - 02:04:43] _speaker**  
-qui a fait parler dans le monde AI
-
-**[02:04:43 - 02:04:45] _speaker**  
-c'est Manus
-
-**[02:04:45 - 02:04:47] _speaker**  
-Manus qui
-
-**[02:04:47 - 02:04:49] _speaker**  
-qui était acheté par Meta
-
-**[02:04:49 - 02:04:51] _speaker**  
-Manus
-
-**[02:04:51 - 02:04:53] _speaker**  
-ils ont créé une entité
-
-**[02:04:53 - 02:04:55] _speaker**  
-à Singapore
-
-**[02:04:55 - 02:04:57] _speaker**  
-pour le lever de fond
-
-**[02:04:57 - 02:04:59] _speaker**  
-pour le lever de fond, pour opérationnel
-
-**[02:04:59 - 02:05:01] _speaker**  
-ils ont commencé
-
-**[02:05:01 - 02:05:03] _speaker**  
-l'entreprise en Chine continental
-
-**[02:05:03 - 02:05:05] _speaker**  
-et après ils ont tout suffrimé
-
-**[02:05:05 - 02:05:07] _speaker**  
-ils ont migré tout
-
-**[02:05:07 - 02:05:09] _speaker**  
-avec leur équipe
-
-**[02:05:09 - 02:05:11] _speaker**  
-le corps team
-
-**[02:05:11 - 02:05:13] _speaker**  
-à Singapore
-
-**[02:05:13 - 02:05:15] _speaker**  
-et depuis ces entreprises en Singapore
-
-**[02:05:15 - 02:05:17] _speaker**  
-ils ont rentré en contact avec Meta
-
-**[02:05:17 - 02:05:19] _speaker**  
-Zugemberg
-
-**[02:05:19 - 02:05:21] _speaker**  
-et donc
-
-**[02:05:21 - 02:05:23] _speaker**  
-ce dernier elle l'a acheté
-
-**[02:05:23 - 02:05:25] _speaker**  
-pour 20 milliards, un an, 2 milliards
-
-**[02:05:25 - 02:05:27] _speaker**  
-un truc comme ça
-
-**[02:05:27 - 02:05:29] _speaker**  
-entre 2 et 3 milliards
-
-**[02:05:29 - 02:05:31] _speaker**  
-un truc comme ça, dollars
-
-**[02:05:31 - 02:05:33] _speaker**  
-mais ça a suscité
-
-**[02:05:33 - 02:05:35] _speaker**  
-ça a irrité le gouvernement Chinois
-
-**[02:05:35 - 02:05:37] _speaker**  
-et qui a
-
-**[02:05:37 - 02:05:39] _speaker**  
-posé
-
-**[02:05:39 - 02:05:41] _speaker**  
-un veto
-
-**[02:05:41 - 02:05:43] _speaker**  
-ils les ont rapatris
-
-**[02:05:43 - 02:05:45] _speaker**  
-ils ont pas trouvé de senti
-
-**[02:05:45 - 02:05:47] _speaker**  
-non ils ont pas trouvé de sorti
-
-**[02:05:47 - 02:05:49] _speaker**  
-mais Manus est une
-
-**[02:05:49 - 02:05:51] _speaker**  
-est une
-
-**[02:05:51 - 02:05:53] _speaker**  
-en fait c'est une
-
-**[02:05:53 - 02:05:55] _speaker**  
-constellation d'agents et de sous-agents
-
-**[02:05:55 - 02:05:57] _speaker**  
-absolument
-
-**[02:05:57 - 02:05:59] _speaker**  
-c'est même pas modèle en fait
-
-**[02:05:59 - 02:06:01] _speaker**  
-j'ai demandé
-
-**[02:06:01 - 02:06:03] _speaker**  
-à Ventier
-
-**[02:06:03 - 02:06:05] _speaker**  
-à
-
-**[02:06:05 - 02:06:07] _speaker**  
-C'était au plus qu'à de 7
-
-**[02:06:07 - 02:06:09] _speaker**  
-de m'expliquer Manus et de me dire qu'il était
-
-**[02:06:09 - 02:06:11] _speaker**  
-en infrastructure
-
-**[02:06:11 - 02:06:13] _speaker**  
-il m'a proposé de reproduire la structure
-
-**[02:06:13 - 02:06:15] _speaker**  
-Manus et il me l'a fait
-
-**[02:06:15 - 02:06:17] _speaker**  
-je l'ai fait avec
-
-**[02:06:17 - 02:06:19] _speaker**  
-et en 10 minutes il m'a produit le document
-
-**[02:06:19 - 02:06:21] _speaker**  
-et pour le coller
-
-**[02:06:21 - 02:06:23] _speaker**  
-par rapport à mes projets
-
-**[02:06:23 - 02:06:25] _speaker**  
-j'ai compris la moitié des choses
-
-**[02:06:25 - 02:06:27] _speaker**  
-quand il parlait de code
-
-**[02:06:27 - 02:06:29] _speaker**  
-mais en tout cas
-
-**[02:06:29 - 02:06:31] _speaker**  
-ce que j'ai compris c'était pas du tout
-
-**[02:06:31 - 02:06:33] _speaker**  
-un code
-
-**[02:06:33 - 02:06:35] _speaker**  
-particulier
-
-**[02:06:35 - 02:06:37] _speaker**  
-moi je voyais 2 petits génie de l'informatique
-
-**[02:06:37 - 02:06:39] _speaker**  
-ça reste 2 petits génie mais en fait
-
-**[02:06:39 - 02:06:41] _speaker**  
-ils ont utilisé plein d'agents
-
-**[02:06:41 - 02:06:43] _speaker**  
-de lmxistans
-
-**[02:06:43 - 02:06:45] _speaker**  
-c'est bravo
-
-**[02:06:45 - 02:06:47] _speaker**  
-à coûte de milliards, chacun un milliard ça va
-
-**[02:06:47 - 02:06:49] _speaker**  
-c'est de l'agrégation
-
-**[02:06:49 - 02:06:51] _speaker**  
-d'ailleurs
-
-**[02:06:51 - 02:06:53] _speaker**  
-là il y a notre ami Valentin
-
-**[02:06:53 - 02:06:55] _speaker**  
-nano
-
-**[02:06:55 - 02:06:57] _speaker**  
-parce que je veux dire
-
-**[02:06:57 - 02:06:59] _speaker**  
-pour CurSort
-
-**[02:06:59 - 02:07:01] _speaker**  
-ne produit aucun LLM
-
-**[02:07:01 - 02:07:03] _speaker**  
-c'est juste un aggregateur
-
-**[02:07:03 - 02:07:05] _speaker**  
-qui tourne sur visual studio
-
-**[02:07:05 - 02:07:07] _speaker**  
-franchement c'est une blague
-
-**[02:07:07 - 02:07:09] _speaker**  
-pour moi
-
-**[02:07:09 - 02:07:11] _speaker**  
-et c'est capital, ils vont le vendre
-
-**[02:07:11 - 02:07:13] _speaker**  
-à 60 milliards
-
-**[02:07:13 - 02:07:15] _speaker**  
-ils ne produisent rien, ils ont juste fait
-
-**[02:07:15 - 02:07:17] _speaker**  
-une interface jolie, un petit bordel
-
-**[02:07:17 - 02:07:19] _speaker**  
-et puis... mais ils se sont un peu rattrapés
-
-**[02:07:19 - 02:07:21] _speaker**  
-il y a un peu plus de clôtes mais ils ont quand même été
-
-**[02:07:21 - 02:07:23] _speaker**  
-j'écoutais le dernier silicone
-
-**[02:07:23 - 02:07:25] _speaker**  
-Carnet avant
-
-**[02:07:25 - 02:07:27] _speaker**  
-ils en parlaient justement
-
-**[02:07:27 - 02:07:29] _speaker**  
-puisqu'ils vont se faire acheter par X et I
-
-**[02:07:29 - 02:07:31] _speaker**  
-mais ils disaient quand même qu'il y a
-
-**[02:07:31 - 02:07:33] _speaker**  
-quelques mois en arrière c'était quand même la référence
-
-**[02:07:33 - 02:07:35] _speaker**  
-pour tous les devs
-
-**[02:07:35 - 02:07:37] _speaker**  
-parce que c'est les premiers à avoir popularisé
-
-**[02:07:37 - 02:07:39] _speaker**  
-l'IA
-
-**[02:07:39 - 02:07:41] _speaker**  
-le chat en sidebar
-
-**[02:07:41 - 02:07:43] _speaker**  
-dans un IDE
-
-**[02:07:43 - 02:07:45] _speaker**  
-ce qui n'avait jamais été fait auparavant
-
-**[02:07:45 - 02:07:47] _speaker**  
-ou du moins pas de cette manière
-
-**[02:07:47 - 02:07:49] _speaker**  
-c'est comme ça qu'ils se sont popularisés
-
-**[02:07:49 - 02:07:51] _speaker**  
-maintenant avec l'arrivée des produits
-
-**[02:07:51 - 02:07:53] _speaker**  
-comme clôte code
-
-**[02:07:53 - 02:07:55] _speaker**  
-opencloth et toutes ces choses
-
-**[02:07:55 - 02:07:57] _speaker**  
-et du coup
-
-**[02:07:57 - 02:07:59] _speaker**  
-pour coder effectivement
-
-**[02:07:59 - 02:08:01] _speaker**  
-c'est plus la référence
-
-**[02:08:01 - 02:08:03] _speaker**  
-puis comme tu dis ils ne sont pas
-
-**[02:08:03 - 02:08:05] _speaker**  
-ils fournissent pas de LLM
-
-**[02:08:05 - 02:08:07] _speaker**  
-ils ne fournissent pas de token
-
-**[02:08:07 - 02:08:09] _speaker**  
-mais ils l'ont fait
-
-**[02:08:09 - 02:08:11] _speaker**  
-mais ils l'ont fait
-
-**[02:08:11 - 02:08:13] _speaker**  
-et puis...
-
-**[02:08:13 - 02:08:15] _speaker**  
-ils en réussissent
-
-**[02:08:15 - 02:08:17] _speaker**  
-quelqu'un utilise manus
-
-**[02:08:17 - 02:08:19] _speaker**  
-pour prospecter etc
-
-**[02:08:19 - 02:08:21] _speaker**  
-moi j'ai essayé au début
-
-**[02:08:21 - 02:08:23] _speaker**  
-franchement je n'ai pas trop accroché
-
-**[02:08:23 - 02:08:25] _speaker**  
-je trouve très
-
-**[02:08:25 - 02:08:27] _speaker**  
-très caffou
-
-**[02:08:27 - 02:08:29] _speaker**  
-en fait c'est trop
-
-**[02:08:29 - 02:08:31] _speaker**  
-j'ai pas eu l'effet
-
-**[02:08:31 - 02:08:33] _speaker**  
-wow
-
-**[02:08:33 - 02:08:35] _speaker**  
-j'ai pas eu de aha mon môtre
-
-**[02:08:35 - 02:08:37] _speaker**  
-c'est pas la même chose quand j'ai vu opencloth
-
-**[02:08:37 - 02:08:39] _speaker**  
-quoi
-
-**[02:08:39 - 02:08:41] _speaker**  
-après
-
-**[02:08:41 - 02:08:43] _speaker**  
-comme disais tout à l'heure
-
-**[02:08:43 - 02:08:45] _speaker**  
-c'est vrai que comme curseur
-
-**[02:08:45 - 02:08:47] _speaker**  
-ou comme manus ils étaient là
-
-**[02:08:47 - 02:08:49] _speaker**  
-vraiment tout au début
-
-**[02:08:49 - 02:08:51] _speaker**  
-ils ont profité l'ignorance
-
-**[02:08:51 - 02:08:53] _speaker**  
-de tout le monde
-
-**[02:08:53 - 02:08:55] _speaker**  
-pour vendre un truc super magique
-
-**[02:08:55 - 02:08:57] _speaker**  
-etc et maintenant on sait
-
-**[02:08:57 - 02:08:59] _speaker**  
-c'est moins magique parce que nous on connait
-
-**[02:08:59 - 02:09:01] _speaker**  
-maintenant on connait la structure
-
-**[02:09:01 - 02:09:03] _speaker**  
-on connait comment ça se passe
-
-**[02:09:03 - 02:09:05] _speaker**  
-les agents et haïs, modèles etc etc
-
-**[02:09:05 - 02:09:07] _speaker**  
-ils ont vraiment profité
-
-**[02:09:07 - 02:09:09] _speaker**  
-de tout au début
-
-**[02:09:09 - 02:09:11] _speaker**  
-de cette vague pour lever les fonds
-
-**[02:09:11 - 02:09:13] _speaker**  
-sortir les produits, créer des feux
-
-**[02:09:13 - 02:09:15] _speaker**  
-wow etc
-
-**[02:09:15 - 02:09:17] _speaker**  
-on t'entend parler curseur
-
-**[02:09:17 - 02:09:19] _speaker**  
-c'est quoi curseur
-
-**[02:09:19 - 02:09:21] _speaker**  
-et finalement aujourd'hui c'est plus aussi magique
-
-**[02:09:21 - 02:09:23] _speaker**  
-parce que voilà il y a d'autres produits
-
-**[02:09:23 - 02:09:25] _speaker**  
-après
-
-**[02:09:25 - 02:09:27] _speaker**  
-enfin
-
-**[02:09:27 - 02:09:29] _speaker**  
-je reviens à ce que je disais au début
-
-**[02:09:29 - 02:09:31] _speaker**  
-de cette visio
-
-**[02:09:31 - 02:09:33] _speaker**  
-c'est que pour nous, nous on comprend
-
-**[02:09:33 - 02:09:35] _speaker**  
-et on voit la chose
-
-**[02:09:35 - 02:09:37] _speaker**  
-et voilà ça nous semble
-
-**[02:09:37 - 02:09:39] _speaker**  
-évident etc
-
-**[02:09:39 - 02:09:41] _speaker**  
-mais on représente peut-être
-
-**[02:09:41 - 02:09:43] _speaker**  
-même pas 0,1% de la population
-
-**[02:09:43 - 02:09:45] _speaker**  
-c'est ça qui est existant
-
-**[02:09:45 - 02:09:47] _speaker**  
-c'est ça qui est bien
-
-**[02:09:47 - 02:09:49] _speaker**  
-c'est ça qui est bien
-
-**[02:09:49 - 02:09:51] _speaker**  
-c'est là où on doit profiter
-
-**[02:09:51 - 02:09:53] _speaker**  
-j'ai un client, j'ai une mission de réorganisation
-
-**[02:09:53 - 02:09:55] _speaker**  
-là en ce moment en Suisse
-
-**[02:09:55 - 02:09:57] _speaker**  
-le dirigeant je l'ai formé à LIA
-
-**[02:09:57 - 02:09:59] _speaker**  
-en 1h sur les bases etc
-
-**[02:09:59 - 02:10:01] _speaker**  
-et je les rappelais cet après-midi
-
-**[02:10:01 - 02:10:03] _speaker**  
-pour différents sujets
-
-**[02:10:03 - 02:10:05] _speaker**  
-je vais demander où est-ce qu'il en était
-
-**[02:10:05 - 02:10:07] _speaker**  
-si il avait à utiliser, réponse non
-
-**[02:10:07 - 02:10:09] _speaker**  
-il y a de recrutement en cours
-
-**[02:10:09 - 02:10:11] _speaker**  
-on a une réorgat
-
-**[02:10:11 - 02:10:13] _speaker**  
-il y a la gesture
-
-**[02:10:13 - 02:10:15] _speaker**  
-en mettre en place etc
-
-**[02:10:15 - 02:10:17] _speaker**  
-il y a des process et tout
-
-**[02:10:17 - 02:10:19] _speaker**  
-ne serait-ce que pour préparer
-
-**[02:10:19 - 02:10:21] _speaker**  
-les descriptifs de poste
-
-**[02:10:21 - 02:10:23] _speaker**  
-les entretiens et tout machin
-
-**[02:10:23 - 02:10:25] _speaker**  
-checker d'un profil et tout
-
-**[02:10:25 - 02:10:27] _speaker**  
-oui donc
-
-**[02:10:27 - 02:10:29] _speaker**  
-nous on est à des années-lui meilleurs devant
-
-**[02:10:29 - 02:10:31] _speaker**  
-bon, clair, profitons-en
-
-**[02:10:31 - 02:10:33] _speaker**  
-comme les deux petits génie de ma huse
-
-**[02:10:33 - 02:10:35] _speaker**  
-Manus on profiter
-
-**[02:10:35 - 02:10:37] _speaker**  
-et puis je me souhaite
-
-**[02:10:37 - 02:10:39] _speaker**  
-à chaque client de réussir autant
-
-**[02:10:39 - 02:10:41] _speaker**  
-on ne pouvait en sortir la chaine pas
-
-**[02:10:41 - 02:10:43] _speaker**  
-même si la chaine t'a vécu
-
-**[02:10:43 - 02:10:45] _speaker**  
-je sais pas si vous avez vu cette image
-
-**[02:10:45 - 02:10:47] _speaker**  
-de la départager sur le chat
-
-**[02:10:47 - 02:10:49] _speaker**  
-elle est vraie en plus
-
-**[02:10:49 - 02:10:51] _speaker**  
-chaque c'est des petits carrés
-
-**[02:10:51 - 02:10:53] _speaker**  
-et tu vois ce qu'on jamais disait
-
-**[02:10:53 - 02:10:55] _speaker**  
-LIA c'est 6,1 milliards de personnes
-
-**[02:10:55 - 02:10:57] _speaker**  
-t'as 1,3 milliards
-
-**[02:10:57 - 02:10:59] _speaker**  
-qui utilisent la version gratuite
-
-**[02:10:59 - 02:11:01] _speaker**  
-de LIA
-
-**[02:11:01 - 02:11:03] _speaker**  
-t'as seulement 115 à 25 millions
-
-**[02:11:03 - 02:11:05] _speaker**  
-qui payent 20 francs par mois
-
-**[02:11:05 - 02:11:07] _speaker**  
-et t'as seulement 2 à 5 millions
-
-**[02:11:07 - 02:11:09] _speaker**  
-qui codent avec LIA
-
-**[02:11:09 - 02:11:11] _speaker**  
-je suis en espérant que c'est
-
-**[02:11:11 - 02:11:13] _speaker**  
-vraiment une niche
-
-**[02:11:13 - 02:11:15] _speaker**  
-d'une niche
-
-**[02:11:15 - 02:11:17] _speaker**  
-il n'y a personne en fait
-
-**[02:11:17 - 02:11:19] _speaker**  
-c'est la truc là
-
-**[02:11:19 - 02:11:21] _speaker**  
-et tant mieux
-
-**[02:11:21 - 02:11:23] _speaker**  
-ça veut dire que t'es early adopter
-
-**[02:11:23 - 02:11:25] _speaker**  
-tant mieux pour moi
-
-**[02:11:25 - 02:11:27] _speaker**  
-j'avais fait une étude à marcher et H9
-
-**[02:11:27 - 02:11:29] _speaker**  
-les usurances
-
-**[02:11:29 - 02:11:31] _speaker**  
-de com en fait
-
-**[02:11:31 - 02:11:33] _speaker**  
-il y a 53%
-
-**[02:11:33 - 02:11:35] _speaker**  
-qui utilisent les LLM
-
-**[02:11:35 - 02:11:37] _speaker**  
-mais il n'y a que ça
-
-**[02:11:37 - 02:11:39] _speaker**  
-il n'y a pas vraiment de création
-
-**[02:11:39 - 02:11:41] _speaker**  
-d'image
-
-**[02:11:41 - 02:11:43] _speaker**  
-de la consistance
-
-**[02:11:43 - 02:11:45] _speaker**  
-des vidéos qui sont consistantes
-
-**[02:11:45 - 02:11:47] _speaker**  
-avec tout le temps avec mes personnages
-
-**[02:11:47 - 02:11:49] _speaker**  
-ça n'existait pas en temps
-
-**[02:11:49 - 02:11:51] _speaker**  
-et encore je suis pas sûr
-
-**[02:11:51 - 02:11:53] _speaker**  
-que dans toutes ces personnes-là
-
-**[02:11:53 - 02:11:55] _speaker**  
-ils l'utilisent vraiment comme nous on l'entend
-
-**[02:11:55 - 02:11:57] _speaker**  
-à mon avis c'est
-
-**[02:11:57 - 02:11:59] _speaker**  
-fais-moi cet email
-
-**[02:11:59 - 02:12:01] _speaker**  
-ça c'est un total
-
-**[02:12:01 - 02:12:03] _speaker**  
-parce qu'il y en a plein
-
-**[02:12:03 - 02:12:05] _speaker**  
-qui continue à proposer des sites internet
-
-**[02:12:05 - 02:12:07] _speaker**  
-à 5000 balles avec du WordPress
-
-**[02:12:07 - 02:12:09] _speaker**  
-il y en a plein
-
-**[02:12:09 - 02:12:11] _speaker**  
-donc allons-y Guéman
-
-**[02:12:13 - 02:12:15] _speaker**  
-ça marche encore
-
-**[02:12:15 - 02:12:17] _speaker**  
-je pense que
-
-**[02:12:17 - 02:12:19] _speaker**  
-ça c'est toujours pareil
-
-**[02:12:19 - 02:12:21] _speaker**  
-on en parle aussi avec Nano
-
-**[02:12:21 - 02:12:23] _speaker**  
-il y a une grosse éducation du marché
-
-**[02:12:23 - 02:12:25] _speaker**  
-qui n'est pas faite
-
-**[02:12:25 - 02:12:27] _speaker**  
-et en fait il y a tout le monde qui inventait Relya
-
-**[02:12:27 - 02:12:29] _speaker**  
-sur le terrain aussi
-
-**[02:12:29 - 02:12:31] _speaker**  
-beaucoup de gens veulent interrégir mais ça ne sert pas du tout
-
-**[02:12:31 - 02:12:33] _speaker**  
-comment faire, qu'est-ce qu'il faut faire
-
-**[02:12:33 - 02:12:35] _speaker**  
-comment ça marche
-
-**[02:12:35 - 02:12:37] _speaker**  
-qu'est-ce qui peut les aider
-
-**[02:12:37 - 02:12:39] _speaker**  
-de mon retour d'expérience par exemple
-
-**[02:12:39 - 02:12:41] _speaker**  
-l'entreprise avec laquelle je travaille
-
-**[02:12:41 - 02:12:43] _speaker**  
-en ce moment c'est une entreprise qui n'a aucun process
-
-**[02:12:43 - 02:12:45] _speaker**  
-par exemple
-
-**[02:12:45 - 02:12:47] _speaker**  
-aucun process qui sont définis
-
-**[02:12:47 - 02:12:49] _speaker**  
-et du coup
-
-**[02:12:49 - 02:12:51] _speaker**  
-c'est compliqué
-
-**[02:12:51 - 02:12:53] _speaker**  
-compliqué d'appliquer LIA
-
-**[02:12:53 - 02:12:55] _speaker**  
-dans une entreprise qui n'a pas de process
-
-**[02:12:55 - 02:12:57] _speaker**  
-où chacun travaille un peu
-
-**[02:12:57 - 02:12:59] _speaker**  
-c'est une petite structure
-
-**[02:12:59 - 02:13:01] _speaker**  
-chacun travaille un peu comme il l'entend
-
-**[02:13:01 - 02:13:03] _speaker**  
-tout repose
-
-**[02:13:03 - 02:13:05] _speaker**  
-sur la connaissance empirique de chaque personne
-
-**[02:13:05 - 02:13:07] _speaker**  
-mais en gros
-
-**[02:13:07 - 02:13:09] _speaker**  
-il y en a un qui se tire, c'est la merde
-
-**[02:13:09 - 02:13:11] _speaker**  
-parce que personne sait vraiment
-
-**[02:13:11 - 02:13:13] _speaker**  
-comment il fait
-
-**[02:13:13 - 02:13:15] _speaker**  
-où il n'y a pas de structure et tout
-
-**[02:13:15 - 02:13:17] _speaker**  
-quand tu dis qu'il n'y a pas de process
-
-**[02:13:17 - 02:13:19] _speaker**  
-avec IA
-
-**[02:13:19 - 02:13:21] _speaker**  
-où il n'y a pas de process tout court
-
-**[02:13:21 - 02:13:23] _speaker**  
-pas de process tout court
-
-**[02:13:23 - 02:13:25] _speaker**  
-quand il y a quelqu'un, un nouveau collaborateur
-
-**[02:13:25 - 02:13:27] _speaker**  
-qui commence, il s'installe à la place
-
-**[02:13:27 - 02:13:29] _speaker**  
-il y a un collaborateur
-
-**[02:13:29 - 02:13:31] _speaker**  
-qui se divise en deux
-
-**[02:13:31 - 02:13:33] _speaker**  
-c'est les boulangers qui du coup
-
-**[02:13:33 - 02:13:35] _speaker**  
-non, c'est quoi ces entreprises
-
-**[02:13:35 - 02:13:37] _speaker**  
-non, c'est la réalité
-
-**[02:13:37 - 02:13:39] _speaker**  
-je suis hallucinant, le nombre d'entreprises en Suisse
-
-**[02:13:39 - 02:13:41] _speaker**  
-qui sont comme ça
-
-**[02:13:41 - 02:13:43] _speaker**  
-c'est la grande majorité
-
-**[02:13:43 - 02:13:45] _speaker**  
-c'est une entreprise qui fait 5 millions de chiffres d'affaires
-
-**[02:13:45 - 02:13:47] _speaker**  
-annuelles
-
-**[02:13:47 - 02:13:49] _speaker**  
-et une entreprise qui tourne
-
-**[02:13:49 - 02:13:51] _speaker**  
-ça c'est encore autre chose
-
-**[02:13:51 - 02:13:53] _speaker**  
-en Suisse
-
-**[02:13:53 - 02:13:55] _speaker**  
-la plupart des entreprises
-
-**[02:13:55 - 02:13:57] _speaker**  
-qui ne font pas de
-
-**[02:13:57 - 02:13:59] _speaker**  
-commerce à l'extérieur
-
-**[02:13:59 - 02:14:01] _speaker**  
-en fait
-
-**[02:14:01 - 02:14:03] _speaker**  
-il y a une telle protection
-
-**[02:14:03 - 02:14:05] _speaker**  
-il y a une protection
-
-**[02:14:05 - 02:14:07] _speaker**  
-ils sont protégés
-
-**[02:14:07 - 02:14:09] _speaker**  
-par l'état, par les subventions
-
-**[02:14:09 - 02:14:11] _speaker**  
-etc. en fait ils ne sont pas du tout au concurrentiel
-
-**[02:14:11 - 02:14:13] _speaker**  
-non non non
-
-**[02:14:13 - 02:14:15] _speaker**  
-ils sont protégés
-
-**[02:14:15 - 02:14:17] _speaker**  
-par leur propre réseau
-
-**[02:14:17 - 02:14:19] _speaker**  
-ces entreprises qui sautent les mentes avec leurs potes
-
-**[02:14:19 - 02:14:21] _speaker**  
-avec les gens qui connaissent etc
-
-**[02:14:21 - 02:14:23] _speaker**  
-mais
-
-**[02:14:23 - 02:14:25] _speaker**  
-je vais te rejoindre Ben et tous les autres
-
-**[02:14:25 - 02:14:27] _speaker**  
-ils ne prospectent pas
-
-**[02:14:27 - 02:14:29] _speaker**  
-ces entreprises qui vont relancer
-
-**[02:14:29 - 02:14:31] _speaker**  
-10% de leur de vie qu'ils font
-
-**[02:14:31 - 02:14:33] _speaker**  
-donc ça veut dire qu'il y a un process
-
-**[02:14:33 - 02:14:35] _speaker**  
-avec de la relance automatique
-
-**[02:14:35 - 02:14:37] _speaker**  
-avec de l'IA permettrait de doubler le chiffre
-
-**[02:14:37 - 02:14:39] _speaker**  
-en exagérant
-
-**[02:14:39 - 02:14:41] _speaker**  
-peu
-
-**[02:14:41 - 02:14:43] _speaker**  
-et c'est des entreprises qui connaissent pas
-
-**[02:14:43 - 02:14:45] _speaker**  
-qui n'utilisent pas l'IA pour prospecter
-
-**[02:14:45 - 02:14:47] _speaker**  
-pour identifier d'autres clients
-
-**[02:14:47 - 02:14:49] _speaker**  
-peut-être à Diborn
-
-**[02:14:49 - 02:14:51] _speaker**  
-il y en a plein comme ça
-
-**[02:14:51 - 02:14:53] _speaker**  
-il y a 95% des entreprises en suisse
-
-**[02:14:53 - 02:14:55] _speaker**  
-au moins de 50 personnes
-
-**[02:14:55 - 02:14:57] _speaker**  
-et 99%
-
-**[02:14:57 - 02:14:59] _speaker**  
-on a moins de 100 personnes
-
-**[02:14:59 - 02:15:01] _speaker**  
-c'est exclusivement
-
-**[02:15:01 - 02:15:03] _speaker**  
-si on enlève Genève
-
-**[02:15:03 - 02:15:05] _speaker**  
-le titu économique suisse
-
-**[02:15:05 - 02:15:07] _speaker**  
-si on enlève Genève et les Eurichs
-
-**[02:15:07 - 02:15:09] _speaker**  
-c'est des entreprises qui bossent
-
-**[02:15:09 - 02:15:11] _speaker**  
-avec des entreprises locales
-
-**[02:15:11 - 02:15:13] _speaker**  
-mais effectivement
-
-**[02:15:13 - 02:15:15] _speaker**  
-si tu leur dis attendez les gars
-
-**[02:15:15 - 02:15:17] _speaker**  
-on peut vous rendre
-
-**[02:15:17 - 02:15:19] _speaker**  
-beaucoup plus efficace
-
-**[02:15:19 - 02:15:21] _speaker**  
-mais également vous aider
-
-**[02:15:21 - 02:15:23] _speaker**  
-à aller vers l'export
-
-**[02:15:23 - 02:15:25] _speaker**  
-à trouver des clients etc
-
-**[02:15:25 - 02:15:27] _speaker**  
-c'est la révolution pour eux
-
-**[02:15:27 - 02:15:29] _speaker**  
-mais c'est même difficile pour eux de l'intégrer
-
-**[02:15:29 - 02:15:31] _speaker**  
-c'est très très important
-
-**[02:15:31 - 02:15:33] _speaker**  
-de l'imaginer déjà
-
-**[02:15:33 - 02:15:35] _speaker**  
-est-ce qu'ils sont intéressés
-
-**[02:15:35 - 02:15:37] _speaker**  
-est-ce qu'ils sont prêts à intégrer
-
-**[02:15:37 - 02:15:39] _speaker**  
-bien sûr
-
-**[02:15:39 - 02:15:41] _speaker**  
-tu leur dis ça te dit d'avoir
-
-**[02:15:41 - 02:15:43] _speaker**  
-5 millions de plus par an
-
-**[02:15:43 - 02:15:45] _speaker**  
-c'est le pas
-
-**[02:15:45 - 02:15:47] _speaker**  
-c'est de concevoir les choses
-
-**[02:15:47 - 02:15:49] _speaker**  
-tu as une formation de la CCJ
-
-**[02:15:49 - 02:15:51] _speaker**  
-ou de l'affaire ou d'autres
-
-**[02:15:51 - 02:15:53] _speaker**  
-il y en a plein je n'ai pas encore aujourd'hui
-
-**[02:15:53 - 02:15:55] _speaker**  
-on va citer des cas, une boîte
-
-**[02:15:55 - 02:15:57] _speaker**  
-qui se dit le top
-
-**[02:15:57 - 02:15:59] _speaker**  
-pour préparer les gens au brevet fédéral de l'IA
-
-**[02:15:59 - 02:16:01] _speaker**  
-et bien
-
-**[02:16:01 - 02:16:03] _speaker**  
-les gens ils regardent ça
-
-**[02:16:03 - 02:16:05] _speaker**  
-ah ouais ça
-
-**[02:16:05 - 02:16:07] _speaker**  
-c'est intéressant
-
-**[02:16:07 - 02:16:09] _speaker**  
-mais quand il revient nos bureaux
-
-**[02:16:09 - 02:16:11] _speaker**  
-ils vont dire ah oui j'ai installé
-
-**[02:16:11 - 02:16:13] _speaker**  
-une clôte sur mon téléphone
-
-**[02:16:13 - 02:16:15] _speaker**  
-ils ne concevrent pas le
-
-**[02:16:15 - 02:16:17] _speaker**  
-le saut, une utilisation
-
-**[02:16:17 - 02:16:19] _speaker**  
-au quotidien
-
-**[02:16:19 - 02:16:21] _speaker**  
-ils ne s'y mettent pas c'est le grand problème
-
-**[02:16:21 - 02:16:23] _speaker**  
-j'ai un ami qui forme
-
-**[02:16:23 - 02:16:25] _speaker**  
-des gens
-
-**[02:16:25 - 02:16:27] _speaker**  
-d'organismes publics
-
-**[02:16:27 - 02:16:29] _speaker**  
-à Genève
-
-**[02:16:29 - 02:16:31] _speaker**  
-ils les aident
-
-**[02:16:31 - 02:16:33] _speaker**  
-ils me disent putain je galère à leur faire comprendre
-
-**[02:16:33 - 02:16:35] _speaker**  
-comment pronter
-
-**[02:16:35 - 02:16:37] _speaker**  
-et on y va
-
-**[02:16:37 - 02:16:39] _speaker**  
-par exemple à la con
-
-**[02:16:39 - 02:16:41] _speaker**  
-les gars ils ont toujours
-
-**[02:16:41 - 02:16:43] _speaker**  
-une difficulté
-
-**[02:16:43 - 02:16:45] _speaker**  
-à concevoir
-
-**[02:16:45 - 02:16:47] _speaker**  
-que l'outil peut leur donner
-
-**[02:16:47 - 02:16:49] _speaker**  
-énormément d'informations
-
-**[02:16:49 - 02:16:51] _speaker**  
-accélérer leur process etc
-
-**[02:16:51 - 02:16:53] _speaker**  
-après il y a des réflexes humains
-
-**[02:16:53 - 02:16:55] _speaker**  
-de problèmes que si en 2 secondes
-
-**[02:16:55 - 02:16:57] _speaker**  
-ils font en plusieurs heures
-
-**[02:16:57 - 02:16:59] _speaker**  
-ça fait
-
-**[02:16:59 - 02:17:01] _speaker**  
-là
-
-**[02:17:01 - 02:17:03] _speaker**  
-une grosse interrogation et voilà
-
-**[02:17:03 - 02:17:05] _speaker**  
-il y a d'autres trains comme ça humain
-
-**[02:17:05 - 02:17:07] _speaker**  
-mais dans la vie des entreprises
-
-**[02:17:07 - 02:17:09] _speaker**  
-c'est faire le pas qui est difficile
-
-**[02:17:09 - 02:17:11] _speaker**  
-mais ce qui est très important
-
-**[02:17:11 - 02:17:13] _speaker**  
-je suis né juste de donner un autre exemple
-
-**[02:17:13 - 02:17:15] _speaker**  
-pour te montrer le garde qu'on a par exemple
-
-**[02:17:15 - 02:17:17] _speaker**  
-avec les us on a beaucoup parlé de la chine
-
-**[02:17:17 - 02:17:19] _speaker**  
-je pense que même la chine est probablement
-
-**[02:17:19 - 02:17:21] _speaker**  
-ça fait l'horloge de parler
-
-**[02:17:21 - 02:17:23] _speaker**  
-mais à mon avis est probablement devant les us
-
-**[02:17:23 - 02:17:25] _speaker**  
-mais si vous allez dans perplexity
-
-**[02:17:25 - 02:17:27] _speaker**  
-que vous allez dans le computer
-
-**[02:17:27 - 02:17:29] _speaker**  
-et que vous regardez les connecteurs
-
-**[02:17:29 - 02:17:31] _speaker**  
-vous allez halluciner
-
-**[02:17:31 - 02:17:33] _speaker**  
-sur toutes
-
-**[02:17:33 - 02:17:35] _speaker**  
-les connecteurs possibles
-
-**[02:17:35 - 02:17:37] _speaker**  
-avec de la donnée
-
-**[02:17:37 - 02:17:39] _speaker**  
-qui est vérifiée, qui est utilisable
-
-**[02:17:39 - 02:17:41] _speaker**  
-ou en fait pour prospecter
-
-**[02:17:41 - 02:17:43] _speaker**  
-comment on aimerait les faire
-
-**[02:17:43 - 02:17:45] _speaker**  
-parce que ici c'est compliqué d'avoir de la donnée
-
-**[02:17:45 - 02:17:47] _speaker**  
-et bah là bas c'est le business
-
-**[02:17:47 - 02:17:49] _speaker**  
-et là c'est là où il y a
-
-**[02:17:49 - 02:17:51] _speaker**  
-une vraie avance
-
-**[02:17:51 - 02:17:53] _speaker**  
-sur ces pays où nous on est à la ramasse
-
-**[02:17:53 - 02:17:55] _speaker**  
-mais on est à la ramasse
-
-**[02:17:55 - 02:17:57] _speaker**  
-pour le même stade que vous évoquez
-
-**[02:17:57 - 02:17:59] _speaker**  
-c'est vrai là à l'instant
-
-**[02:17:59 - 02:18:01] _speaker**  
-parce que c'est psychologique
-
-**[02:18:01 - 02:18:03] _speaker**  
-parce qu'ici en Europe
-
-**[02:18:03 - 02:18:05] _speaker**  
-et en Suisse
-
-**[02:18:05 - 02:18:07] _speaker**  
-avant de penser quoi que ce soit
-
-**[02:18:07 - 02:18:09] _speaker**  
-première question on se pose
-
-**[02:18:09 - 02:18:11] _speaker**  
-c'est les préviscis
-
-**[02:18:11 - 02:18:13] _speaker**  
-alors qu'en Chine on s'en fout le préviscis
-
-**[02:18:13 - 02:18:15] _speaker**  
-de toute façon il y en a pas
-
-**[02:18:15 - 02:18:17] _speaker**  
-je vais dire que les gens
-
-**[02:18:17 - 02:18:19] _speaker**  
-je suis pas
-
-**[02:18:19 - 02:18:21] _speaker**  
-à milliardaire, qu'est-ce que ça vaut
-
-**[02:18:21 - 02:18:23] _speaker**  
-mais donnez, qu'est-ce que ça me fait
-
-**[02:18:23 - 02:18:25] _speaker**  
-que les gens ils connaissent mon truc
-
-**[02:18:25 - 02:18:27] _speaker**  
-c'est culturel
-
-**[02:18:27 - 02:18:29] _speaker**  
-mais ce qui est intéressant c'est que
-
-**[02:18:29 - 02:18:31] _speaker**  
-tu as dit Gilles tout à l'heure
-
-**[02:18:31 - 02:18:33] _speaker**  
-ils sont prêts, ils ont envie
-
-**[02:18:33 - 02:18:35] _speaker**  
-d'intégrer et d'apprendre AI
-
-**[02:18:35 - 02:18:37] _speaker**  
-mais
-
-**[02:18:37 - 02:18:39] _speaker**  
-ça manque de structure, ça manque de formation
-
-**[02:18:39 - 02:18:41] _speaker**  
-c'est ça que tu veux dire
-
-**[02:18:41 - 02:18:43] _speaker**  
-J'ai formation c'est de la double
-
-**[02:18:43 - 02:18:45] _speaker**  
-parce que moi j'ai l'impression
-
-**[02:18:45 - 02:18:47] _speaker**  
-J'ai formation c'est regarder comme c'est beau
-
-**[02:18:47 - 02:18:49] _speaker**  
-regarder ce qu'on peut faire etc
-
-**[02:18:49 - 02:18:51] _speaker**  
-c'est très sommaire
-
-**[02:18:51 - 02:18:53] _speaker**  
-mais ça leur met pas le pied à l'étrier
-
-**[02:18:53 - 02:18:55] _speaker**  
-si tu veux l'état d'esprit c'est un peu
-
-**[02:18:55 - 02:18:57] _speaker**  
-attention j'exagère énormément
-
-**[02:18:57 - 02:18:59] _speaker**  
-mais imagine que toi
-
-**[02:18:59 - 02:19:01] _speaker**  
-nous on est des clubs
-
-**[02:19:01 - 02:19:03] _speaker**  
-on est à club de personnes qui utilisent
-
-**[02:19:03 - 02:19:05] _speaker**  
-la téléportation tous les jours pour aller
-
-**[02:19:05 - 02:19:07] _speaker**  
-d'un coin du monde à l'autre ok
-
-**[02:19:07 - 02:19:09] _speaker**  
-ça marche on l'a prouvé on l'a essayé
-
-**[02:19:09 - 02:19:11] _speaker**  
-on l'utilise tous les jours d'accord
-
-**[02:19:11 - 02:19:13] _speaker**  
-on se téléporte, on prend plus l'avion
-
-**[02:19:13 - 02:19:15] _speaker**  
-on prend plus la baignante on se téléporte
-
-**[02:19:15 - 02:19:17] _speaker**  
-et tout d'un coup tu dis à des gens
-
-**[02:19:17 - 02:19:19] _speaker**  
-t'as déjà utilisé la téléportation
-
-**[02:19:19 - 02:19:21] _speaker**  
-ça te dirait d'essayer et eux ils disent
-
-**[02:19:21 - 02:19:23] _speaker**  
-moi je veux bien voir ouais, ah ouais j'aimerais bien
-
-**[02:19:23 - 02:19:25] _speaker**  
-ah ouais j'aimerais bien, car après
-
-**[02:19:25 - 02:19:27] _speaker**  
-tu leur montres la porte pour te téléporter
-
-**[02:19:27 - 02:19:29] _speaker**  
-tu fais une démo
-
-**[02:19:29 - 02:19:31] _speaker**  
-et bah eux ils vont rester à la porte
-
-**[02:19:31 - 02:19:33] _speaker**  
-ils vont dire ouf attend
-
-**[02:19:33 - 02:19:35] _speaker**  
-je suis là
-
-**[02:19:35 - 02:19:37] _speaker**  
-comment tu fais là
-
-**[02:19:37 - 02:19:39] _speaker**  
-et ils ne conçoivent pas
-
-**[02:19:39 - 02:19:41] _speaker**  
-ils ne conçoivent pas
-
-**[02:19:41 - 02:19:43] _speaker**  
-dans leur quotidien, dans leur travail
-
-**[02:19:43 - 02:19:45] _speaker**  
-ça peut les aider
-
-**[02:19:45 - 02:19:47] _speaker**  
-et ceux qui font le pas la majorité
-
-**[02:19:47 - 02:19:49] _speaker**  
-ils font des trucs à la con ou alors ils se disent
-
-**[02:19:49 - 02:19:51] _speaker**  
-mais ça va me faire mon boulot
-
-**[02:19:51 - 02:19:53] _speaker**  
-mais la réalité est que moi j'ai vécu
-
-**[02:19:53 - 02:19:55] _speaker**  
-juste un exemple
-
-**[02:19:55 - 02:19:57] _speaker**  
-à chaque fois je me rends dans un
-
-**[02:19:57 - 02:19:59] _speaker**  
-rendez-vous médical
-
-**[02:19:59 - 02:20:01] _speaker**  
-dans un nouveau centre médical
-
-**[02:20:01 - 02:20:03] _speaker**  
-première chose à la réception
-
-**[02:20:03 - 02:20:05] _speaker**  
-on me tend une feuille
-
-**[02:20:05 - 02:20:07] _speaker**  
-je dois inscrire encore mon nom
-
-**[02:20:07 - 02:20:09] _speaker**  
-écrit à la main, alors j'ai une cartes
-
-**[02:20:09 - 02:20:11] _speaker**  
-à la suranne avec une puste
-
-**[02:20:11 - 02:20:13] _speaker**  
-il suffit de en 2026
-
-**[02:20:13 - 02:20:15] _speaker**  
-on doit encore remplir
-
-**[02:20:15 - 02:20:17] _speaker**  
-enfin je remplis je signe
-
-**[02:20:17 - 02:20:19] _speaker**  
-je rend ça à la secrétaire
-
-**[02:20:19 - 02:20:21] _speaker**  
-elle doit encore recopier
-
-**[02:20:21 - 02:20:23] _speaker**  
-mot amour mais je lui dis oh là là on est
-
-**[02:20:23 - 02:20:25] _speaker**  
-mais ça c'est même pas une question
-
-**[02:20:25 - 02:20:27] _speaker**  
-et aille c'est une question de laxisme
-
-**[02:20:27 - 02:20:29] _speaker**  
-tout simplement
-
-**[02:20:29 - 02:20:31] _speaker**  
-parce que on pense beaucoup
-
-**[02:20:31 - 02:20:33] _speaker**  
-en silo
-
-**[02:20:33 - 02:20:35] _speaker**  
-on se pose pas de questions
-
-**[02:20:35 - 02:20:37] _speaker**  
-il y a pas d'entreprise qui vont dire j'utilise
-
-**[02:20:37 - 02:20:39] _speaker**  
-Wunbis et ils vont utiliser
-
-**[02:20:39 - 02:20:41] _speaker**  
-un autre logiciel pour planifier leur flux
-
-**[02:20:41 - 02:20:43] _speaker**  
-et ils vont encore utiliser un autre logiciel
-
-**[02:20:43 - 02:20:45] _speaker**  
-métier et ils vont pas se poser
-
-**[02:20:45 - 02:20:47] _speaker**  
-une question de est-ce que
-
-**[02:20:47 - 02:20:49] _speaker**  
-la donnée pourrait partir
-
-**[02:20:49 - 02:20:51] _speaker**  
-d'un truc pour aller dans tous les autres
-
-**[02:20:51 - 02:20:53] _speaker**  
-en automatiquement
-
-**[02:20:53 - 02:20:55] _speaker**  
-on se pose pas de questions
-
-**[02:20:55 - 02:20:57] _speaker**  
-et là tu dis putain il est malin
-
-**[02:20:57 - 02:20:59] _speaker**  
-il y a du progrès
-
-**[02:20:59 - 02:21:01] _speaker**  
-il y a une friction
-
-**[02:21:01 - 02:21:03] _speaker**  
-mais c'est énormément
-
-**[02:21:03 - 02:21:05] _speaker**  
-d'entreprise comme ça
-
-**[02:21:05 - 02:21:07] _speaker**  
-en suisse c'est terrible
-
-**[02:21:07 - 02:21:09] _speaker**  
-parce qu'ils font de l'argent déjà
-
-**[02:21:09 - 02:21:11] _speaker**  
-donc ça marche en fait c'est ça
-
-**[02:21:11 - 02:21:13] _speaker**  
-toi tu as un solution
-
-**[02:21:13 - 02:21:15] _speaker**  
-ils vont dire je fais déjà de la thune
-
-**[02:21:15 - 02:21:17] _speaker**  
-oui
-
-**[02:21:17 - 02:21:19] _speaker**  
-ils vont dire non attends
-
-**[02:21:19 - 02:21:21] _speaker**  
-ils vont dire ça va
-
-**[02:21:21 - 02:21:23] _speaker**  
-et puis à 11h ils vont
-
-**[02:21:23 - 02:21:25] _speaker**  
-ils vont boire l'apéro avec leurs clients
-
-**[02:21:25 - 02:21:27] _speaker**  
-qui sont des potes
-
-**[02:21:27 - 02:21:29] _speaker**  
-et puis après ils vont revenir
-
-**[02:21:29 - 02:21:31] _speaker**  
-à 3h torcher et puis ils vont dire ok
-
-**[02:21:31 - 02:21:33] _speaker**  
-non mais j'ai des chantiers qui vont arriver
-
-**[02:21:33 - 02:21:35] _speaker**  
-j'ai des dossiers à lui il va me mettre
-
-**[02:21:35 - 02:21:37] _speaker**  
-sur un coup là ça va être bien
-
-**[02:21:37 - 02:21:39] _speaker**  
-et toi tu arrives à dire avec Liat
-
-**[02:21:39 - 02:21:41] _speaker**  
-tu peux pas accélérer
-
-**[02:21:41 - 02:21:43] _speaker**  
-et il va dire maintenant le business le fait
-
-**[02:21:43 - 02:21:45] _speaker**  
-les gens ils sont pas plus prêts
-
-**[02:21:45 - 02:21:47] _speaker**  
-à investir du temps en fait
-
-**[02:21:47 - 02:21:49] _speaker**  
-il va y avoir des problèmes
-
-**[02:21:49 - 02:21:51] _speaker**  
-il va y avoir des problèmes
-
-**[02:21:51 - 02:21:53] _speaker**  
-il va y avoir des problèmes
-
-**[02:21:53 - 02:21:55] _speaker**  
-il va y avoir des problèmes
-
-**[02:21:55 - 02:21:57] _speaker**  
-tout ce que c'est là
-
-**[02:21:57 - 02:21:59] _speaker**  
-que ça va fonctionner tout de suite du premier coup
-
-**[02:21:59 - 02:22:01] _speaker**  
-alors je suis sûr que ici il y a
-
-**[02:22:01 - 02:22:03] _speaker**  
-aucune personne qui a pas galéré
-
-**[02:22:03 - 02:22:05] _speaker**  
-à avoir des problèmes
-
-**[02:22:05 - 02:22:07] _speaker**  
-sans même essayer de créer ou faire quoi que ce soit
-
-**[02:22:07 - 02:22:09] _speaker**  
-juste des problèmes de faire fonctionner
-
-**[02:22:09 - 02:22:11] _speaker**  
-en fait le modèle où il y a
-
-**[02:22:11 - 02:22:13] _speaker**  
-ou open close
-
-**[02:22:13 - 02:22:15] _speaker**  
-et en fait malheureusement c'est ça qui crée le gap
-
-**[02:22:15 - 02:22:17] _speaker**  
-et il a cru plus malin que tout le monde
-
-**[02:22:17 - 02:22:19] _speaker**  
-il se barre dans une boîte
-
-**[02:22:19 - 02:22:21] _speaker**  
-qui fait un peu concurrence
-
-**[02:22:21 - 02:22:23] _speaker**  
-et il a commencé à dire des clients non non
-
-**[02:22:23 - 02:22:25] _speaker**  
-mais le dossier on va attendre un petit peu
-
-**[02:22:25 - 02:22:27] _speaker**  
-parce que je vais changer de boîte
-
-**[02:22:27 - 02:22:29] _speaker**  
-et puis je le ferai dans cette boîte là
-
-**[02:22:29 - 02:22:31] _speaker**  
-il a fallu qu'il y ait un client appel en disant
-
-**[02:22:31 - 02:22:33] _speaker**  
-j'ai pas compris ce qu'il m'a dit votre commercial
-
-**[02:22:33 - 02:22:35] _speaker**  
-donc on s'est orienté sur du détour du clientel
-
-**[02:22:35 - 02:22:37] _speaker**  
-etc. un total
-
-**[02:22:37 - 02:22:39] _speaker**  
-donc mon client appelle en disant
-
-**[02:22:39 - 02:22:41] _speaker**  
-il va dire lui je vais le tuer
-
-**[02:22:41 - 02:22:43] _speaker**  
-il dit attends bouge pas avant de le tuer
-
-**[02:22:43 - 02:22:45] _speaker**  
-il a dit un licenciement abusif
-
-**[02:22:45 - 02:22:47] _speaker**  
-je vais te creuser la chose
-
-**[02:22:47 - 02:22:49] _speaker**  
-qu'est ce que j'ai fait
-
-**[02:22:49 - 02:22:51] _speaker**  
-ok, allez Claude
-
-**[02:22:51 - 02:22:53] _speaker**  
-au plus 4, 7
-
-**[02:22:53 - 02:22:55] _speaker**  
-je vais faire un joli prompt
-
-**[02:22:55 - 02:22:57] _speaker**  
-sur le code des obligations, sur le droit du travail
-
-**[02:22:57 - 02:22:59] _speaker**  
-détournement de clientèle etc.
-
-**[02:22:59 - 02:23:01] _speaker**  
-enfin le prompt il faisait une page à 4
-
-**[02:23:01 - 02:23:03] _speaker**  
-ça a fait une étude
-
-**[02:23:03 - 02:23:05] _speaker**  
-qui a pris 5 minutes
-
-**[02:23:05 - 02:23:07] _speaker**  
-pour être remise en page etc.
-
-**[02:23:07 - 02:23:09] _speaker**  
-j'ai vérifié le truc, j'ai adapté
-
-**[02:23:09 - 02:23:11] _speaker**  
-je lui ai envoyé, le client a été époustouflé
-
-**[02:23:11 - 02:23:13] _speaker**  
-j'ai dit putain c'est top
-
-**[02:23:13 - 02:23:15] _speaker**  
-tu connais les avocats
-
-**[02:23:15 - 02:23:17] _speaker**  
-je lui ai dit oui
-
-**[02:23:17 - 02:23:19] _speaker**  
-ça c'est vie à mon gars
-
-**[02:23:19 - 02:23:21] _speaker**  
-j'ai fait des recherches
-
-**[02:23:21 - 02:23:23] _speaker**  
-tu lui dis ça moi
-
-**[02:23:23 - 02:23:25] _speaker**  
-non, parce que je veux qu'il prenne les biens
-
-**[02:23:25 - 02:23:27] _speaker**  
-et le mec il était skidéré
-
-**[02:23:27 - 02:23:29] _speaker**  
-skidéré
-
-**[02:23:29 - 02:23:31] _speaker**  
-et donc effectivement
-
-**[02:23:31 - 02:23:33] _speaker**  
-après dans son alimentation au niveau du commercial
-
-**[02:23:33 - 02:23:35] _speaker**  
-il a dit attends mon gars tu vas éviter de déconner
-
-**[02:23:35 - 02:23:37] _speaker**  
-parce que vois ce qui va se passer
-
-**[02:23:37 - 02:23:39] _speaker**  
-ça c'est l'utilisation de l'IAW
-
-**[02:23:39 - 02:23:41] _speaker**  
-au quotidien
-
-**[02:23:41 - 02:23:43] _speaker**  
-mais ils ont pas de réflexes
-
-**[02:23:43 - 02:23:45] _speaker**  
-c'est pas ce qu'il y a
-
-**[02:23:45 - 02:23:47] _speaker**  
-l'environnement
-
-**[02:23:47 - 02:23:49] _speaker**  
-économique est encore tellement protégé
-
-**[02:23:49 - 02:23:51] _speaker**  
-c'est la mentalité
-
-**[02:23:51 - 02:23:53] _speaker**  
-quand tu fais énormément de blé
-
-**[02:23:53 - 02:23:55] _speaker**  
-même si ça sort
-
-**[02:23:55 - 02:23:57] _speaker**  
-d'époches
-
-**[02:23:57 - 02:23:59] _speaker**  
-tu te poses des questions
-
-**[02:23:59 - 02:24:01] _speaker**  
-pas forcément
-
-**[02:24:01 - 02:24:03] _speaker**  
-par contre il y a une crise qui est en train d'être là
-
-**[02:24:03 - 02:24:05] _speaker**  
-depuis l'année dernière en suisse
-
-**[02:24:05 - 02:24:07] _speaker**  
-et là ça commence
-
-**[02:24:07 - 02:24:09] _speaker**  
-à faire mal
-
-**[02:24:09 - 02:24:11] _speaker**  
-ça fait mal aux personnes du marketing
-
-**[02:24:11 - 02:24:13] _speaker**  
-de la communication
-
-**[02:24:13 - 02:24:15] _speaker**  
-ça fait mal à certains analystes
-
-**[02:24:15 - 02:24:17] _speaker**  
-dans les banques ça commence à licencier
-
-**[02:24:17 - 02:24:19] _speaker**  
-et là ça commence
-
-**[02:24:19 - 02:24:21] _speaker**  
-à faire effectivement la différence
-
-**[02:24:21 - 02:24:23] _speaker**  
-mais c'est le sujet
-
-**[02:24:23 - 02:24:25] _speaker**  
-de notre vision de ce soir
-
-**[02:24:25 - 02:24:27] _speaker**  
-on est en avance
-
-**[02:24:27 - 02:24:29] _speaker**  
-profite en ce moment
-
-**[02:24:29 - 02:24:31] _speaker**  
-moi je veux mettre en place des choses
-
-**[02:24:31 - 02:24:33] _speaker**  
-où mon openclos il va faire des choses pour moi
-
-**[02:24:33 - 02:24:35] _speaker**  
-il le fait déjà
-
-**[02:24:35 - 02:24:37] _speaker**  
-et je vais bien maîtriser le truc
-
-**[02:24:37 - 02:24:39] _speaker**  
-et faute de temps
-
-**[02:24:39 - 02:24:41] _speaker**  
-je n'ai pas fini de connecter ça
-
-**[02:24:41 - 02:24:43] _speaker**  
-à mes différentes idées de business
-
-**[02:24:43 - 02:24:45] _speaker**  
-mais c'est clair que
-
-**[02:24:45 - 02:24:47] _speaker**  
-selon moi
-
-**[02:24:47 - 02:24:49] _speaker**  
-après vous pourrez me corriger vous parce que vous avez beaucoup plus en avance
-
-**[02:24:49 - 02:24:51] _speaker**  
-que moi sur le sujet, sur la techno
-
-**[02:24:51 - 02:24:53] _speaker**  
-mais selon moi un openclos
-
-**[02:24:53 - 02:24:55] _speaker**  
-peut
-
-**[02:24:55 - 02:24:57] _speaker**  
-gérer au quotidien
-
-**[02:24:57 - 02:24:59] _speaker**  
-différents plateformes
-
-**[02:24:59 - 02:25:01] _speaker**  
-différents sites internet
-
-**[02:25:01 - 02:25:03] _speaker**  
-sans qu'on est vraiment à s'en occuper
-
-**[02:25:05 - 02:25:07] _speaker**  
-ah ouais absolument
-
-**[02:25:07 - 02:25:09] _speaker**  
-il y a des as de la crypto derrière donc
-
-**[02:25:09 - 02:25:11] _speaker**  
-à mon avis
-
-**[02:25:11 - 02:25:13] _speaker**  
-on peut pas le dire
-
-**[02:25:13 - 02:25:15] _speaker**  
-je vais dire un autre truc
-
-**[02:25:15 - 02:25:17] _speaker**  
-pour moi qui veux tout dire
-
-**[02:25:17 - 02:25:19] _speaker**  
-c'est que le prochain CEO
-
-**[02:25:19 - 02:25:21] _speaker**  
-d'openai
-
-**[02:25:21 - 02:25:23] _speaker**  
-c'est Inia
-
-**[02:25:23 - 02:25:25] _speaker**  
-ils sont en train de mettre en place
-
-**[02:25:25 - 02:25:27] _speaker**  
-non mais c'est sûr
-
-**[02:25:27 - 02:25:29] _speaker**  
-ils sont en train de préparer
-
-**[02:25:29 - 02:25:31] _speaker**  
-des clones de CEO
-
-**[02:25:31 - 02:25:33] _speaker**  
-qui vont opérer des entreprises
-
-**[02:25:33 - 02:25:35] _speaker**  
-à un niveau structurel d'openai
-
-**[02:25:35 - 02:25:37] _speaker**  
-donc bon
-
-**[02:25:37 - 02:25:39] _speaker**  
-à partir de là
-
-**[02:25:39 - 02:25:41] _speaker**  
-la petite boîte de PMA normalement
-
-**[02:25:41 - 02:25:43] _speaker**  
-elle devrait être autogérée
-
-**[02:25:43 - 02:25:45] _speaker**  
-si ça vous dis
-
-**[02:25:45 - 02:25:47] _speaker**  
-je peux vous faire une petite démo
-
-**[02:25:47 - 02:25:49] _speaker**  
-du skiz là
-
-**[02:25:49 - 02:25:51] _speaker**  
-ah vas-y vas-y vas-y vas-y
-
-**[02:25:51 - 02:25:53] _speaker**  
-je vais faire avec un skills qui est utilisable
-
-**[02:25:53 - 02:25:55] _speaker**  
-sur openclos ou du moment
-
-**[02:25:55 - 02:25:57] _speaker**  
-que vous avez un inia dans un terminal
-
-**[02:25:57 - 02:25:59] _speaker**  
-ça sera utilisable
-
-**[02:25:59 - 02:26:01] _speaker**  
-ah vas-y vas-y
-
-**[02:26:01 - 02:26:03] _speaker**  
-on parlait de prospection
-
-**[02:26:03 - 02:26:05] _speaker**  
-ouais
-
-**[02:26:05 - 02:26:07] _speaker**  
-on parlait de prospection
-
-**[02:26:07 - 02:26:09] _speaker**  
-ouais ouais je vais pouvoir partager
-
-**[02:26:09 - 02:26:11] _speaker**  
-si je prends tout mon écran
-
-**[02:26:11 - 02:26:13] _speaker**  
-attends j'arrête de pro-stream moi
-
-**[02:26:13 - 02:26:15] _speaker**  
-et comme ça tu peux
-
-**[02:26:15 - 02:26:17] _speaker**  
-partager
-
-**[02:26:17 - 02:26:19] _speaker**  
-est-ce que vous voyez
-
-**[02:26:19 - 02:26:21] _speaker**  
-euh
-
-**[02:26:21 - 02:26:23] _speaker**  
-non pas encore
-
-**[02:26:23 - 02:26:25] _speaker**  
-ici je vois moi
-
-**[02:26:25 - 02:26:27] _speaker**  
-si si
-
-**[02:26:27 - 02:26:29] _speaker**  
-ah ouais ok moi je vois pas
-
-**[02:26:29 - 02:26:31] _speaker**  
-ça c'est un truc de ouf
-
-**[02:26:31 - 02:26:33] _speaker**  
-putain Lucifer
-
-**[02:26:33 - 02:26:35] _speaker**  
-est-ce que vous voyez ou pas
-
-**[02:26:35 - 02:26:37] _speaker**  
-ouais je vois
-
-**[02:26:37 - 02:26:39] _speaker**  
-tout le monde voit
-
-**[02:26:39 - 02:26:41] _speaker**  
-il faut cliquer sur le
-
-**[02:26:41 - 02:26:43] _speaker**  
-ah faut regarder streaming
-
-**[02:26:43 - 02:26:45] _speaker**  
-ouais il faut cliquer
-
-**[02:26:45 - 02:26:47] _speaker**  
-ah ok merci
-
-**[02:26:47 - 02:26:49] _speaker**  
-je le vois
-
-**[02:26:49 - 02:26:51] _speaker**  
-pour celui qui demandait c'est toi qui demandait aussi pour un CRM
-
-**[02:26:51 - 02:26:53] _speaker**  
-avant
-
-**[02:26:53 - 02:26:55] _speaker**  
-moi je me suis fait aussi un CRM alors je n'ai pas codé moi-même
-
-**[02:26:55 - 02:26:57] _speaker**  
-j'ai replié quelque chose qui existait déjà
-
-**[02:26:57 - 02:26:59] _speaker**  
-donc je veux déjà vous montrer puis j'expliquerai après
-
-**[02:26:59 - 02:27:01] _speaker**  
-alors du coup
-
-**[02:27:01 - 02:27:03] _speaker**  
-en fait ici
-
-**[02:27:03 - 02:27:05] _speaker**  
-ce que vous voyez l'écran à gauche
-
-**[02:27:05 - 02:27:07] _speaker**  
-en fait c'est obsidian en gros c'est
-
-**[02:27:07 - 02:27:09] _speaker**  
-un logiciel qui me permet de
-
-**[02:27:09 - 02:27:11] _speaker**  
-gérer des fichiers markdown
-
-**[02:27:11 - 02:27:13] _speaker**  
-markdown c'est le format de
-
-**[02:27:13 - 02:27:15] _speaker**  
-fichier notes qui est aujourd'hui le plus
-
-**[02:27:15 - 02:27:17] _speaker**  
-utilisé par lia
-
-**[02:27:17 - 02:27:19] _speaker**  
-qui permet d'être facilement lus
-
-**[02:27:19 - 02:27:21] _speaker**  
-par lia
-
-**[02:27:21 - 02:27:23] _speaker**  
-parce qu'il est déjà structuré on a des titres
-
-**[02:27:23 - 02:27:25] _speaker**  
-qui sont préfets on a le titre
-
-**[02:27:25 - 02:27:27] _speaker**  
-et on a le code 1 par exemple symboliser toujours
-
-**[02:27:27 - 02:27:29] _speaker**  
-avec ça le
-
-**[02:27:29 - 02:27:31] _speaker**  
-et puis lia n'a pas besoin de lire le contenu pour déjà
-
-**[02:27:31 - 02:27:33] _speaker**  
-savoir pourquoi
-
-**[02:27:33 - 02:27:35] _speaker**  
-c'est en titre ou en sous-titre
-
-**[02:27:35 - 02:27:37] _speaker**  
-puisque il y a déjà la structure
-
-**[02:27:37 - 02:27:39] _speaker**  
-qui est donnée avec les 10
-
-**[02:27:39 - 02:27:41] _speaker**  
-enfin bref
-
-**[02:27:41 - 02:27:43] _speaker**  
-en fait
-
-**[02:27:43 - 02:27:45] _speaker**  
-donc moi à partie gauche j'ai mon obsidian
-
-**[02:27:45 - 02:27:47] _speaker**  
-et la partie droite ici c'est clout de code
-
-**[02:27:47 - 02:27:49] _speaker**  
-et ici j'ai déjà fait la discussion
-
-**[02:27:49 - 02:27:51] _speaker**  
-donc par exemple je commence
-
-**[02:27:51 - 02:27:53] _speaker**  
-ma session de clout de code je lui dis
-
-**[02:27:53 - 02:27:55] _speaker**  
-j'aimerais préparer mon prochain appel découverte
-
-**[02:27:55 - 02:27:57] _speaker**  
-qui est en fait une fois que j'ai
-
-**[02:27:57 - 02:27:59] _speaker**  
-défini un prospect avec qui
-
-**[02:27:59 - 02:28:01] _speaker**  
-on a défini un rendez vous
-
-**[02:28:01 - 02:28:03] _speaker**  
-téléphonique d'une demi heure
-
-**[02:28:03 - 02:28:05] _speaker**  
-et ben je peux préparer cet entretien
-
-**[02:28:05 - 02:28:07] _speaker**  
-de 30 minutes donc j'ai créé ce skill
-
-**[02:28:07 - 02:28:09] _speaker**  
-à l'avance selon
-
-**[02:28:09 - 02:28:11] _speaker**  
-la discussion que j'ai eu avec Claude dans une
-
-**[02:28:11 - 02:28:13] _speaker**  
-autre session
-
-**[02:28:13 - 02:28:15] _speaker**  
-il détecte automatiquement au moment
-
-**[02:28:15 - 02:28:17] _speaker**  
-je lui dis que j'aimerais préparer mon prochain appel
-
-**[02:28:17 - 02:28:19] _speaker**  
-qu'il faut déclencher le skill c'est ce qui
-
-**[02:28:19 - 02:28:21] _speaker**  
-fait il me pose donc la première question
-
-**[02:28:21 - 02:28:23] _speaker**  
-pour démarrer le skill qui dit
-
-**[02:28:23 - 02:28:25] _speaker**  
-l'identité de mon prospect je lui dis
-
-**[02:28:25 - 02:28:27] _speaker**  
-c'est cette personne là ensuite en deuxième
-
-**[02:28:27 - 02:28:29] _speaker**  
-question il me dit connaissons ces profils
-
-**[02:28:29 - 02:28:31] _speaker**  
-de linkedin il me demande si je connais déjà la personne
-
-**[02:28:31 - 02:28:33] _speaker**  
-s'il y a un profil et si il me dit qu'il y a un profil
-
-**[02:28:33 - 02:28:35] _speaker**  
-il me dit télécharge le profil
-
-**[02:28:35 - 02:28:37] _speaker**  
-en PDF et puis donne moi le chemin
-
-**[02:28:37 - 02:28:39] _speaker**  
-du fichier donc c'est ce que j'ai fait
-
-**[02:28:39 - 02:28:41] _speaker**  
-je vais sur linkedin des 3 petits points
-
-**[02:28:41 - 02:28:43] _speaker**  
-téléchargez le PDF il arrive dans le mode
-
-**[02:28:43 - 02:28:45] _speaker**  
-de sidownload je copie le lien
-
-**[02:28:45 - 02:28:47] _speaker**  
-du de sidownload et je lui donne
-
-**[02:28:47 - 02:28:49] _speaker**  
-lui vu qu'il est dans le terminal il y a accès directement
-
-**[02:28:49 - 02:28:51] _speaker**  
-il va lire tout le fichier PDF
-
-**[02:28:51 - 02:28:53] _speaker**  
-en lisant le fichier PDF il me fait un petit
-
-**[02:28:53 - 02:28:55] _speaker**  
-récap il me dit que c'est cette personne
-
-**[02:28:55 - 02:28:57] _speaker**  
-là il me corrige même sur la petite faute d'orthographe
-
-**[02:28:57 - 02:28:59] _speaker**  
-d'une autre famille il me dit que cette personne
-
-**[02:28:59 - 02:29:01] _speaker**  
-est administrateur de cette société
-
-**[02:29:01 - 02:29:03] _speaker**  
-à cet endroit là et me fait tout le truc
-
-**[02:29:03 - 02:29:05] _speaker**  
-ensuite il me demande google contact
-
-**[02:29:05 - 02:29:07] _speaker**  
-vu qu'il est connecté
-
-**[02:29:07 - 02:29:09] _speaker**  
-à mon compte google
-
-**[02:29:09 - 02:29:11] _speaker**  
-il a accès à tous mes contacts
-
-**[02:29:11 - 02:29:13] _speaker**  
-donc il me pose la question si c'est dans les contacts
-
-**[02:29:13 - 02:29:15] _speaker**  
-il me dit le site web de l'entreprise
-
-**[02:29:15 - 02:29:17] _speaker**  
-il a d'acte été 2 sites web
-
-**[02:29:17 - 02:29:19] _speaker**  
-mais il est pas sûr donc il me demande confirmation
-
-**[02:29:19 - 02:29:21] _speaker**  
-puis ensuite il me demande la relation
-
-**[02:29:21 - 02:29:23] _speaker**  
-et le contexte donc moi je lui réponds
-
-**[02:29:23 - 02:29:25] _speaker**  
-à aller aux questions
-
-**[02:29:25 - 02:29:27] _speaker**  
-je lui dis bon ben question 3 non
-
-**[02:29:27 - 02:29:29] _speaker**  
-oui blablabla ensuite à ce moment
-
-**[02:29:29 - 02:29:31] _speaker**  
-là il va charger le contexte
-
-**[02:29:31 - 02:29:33] _speaker**  
-par rapport aux règles que j'ai définie
-
-**[02:29:33 - 02:29:35] _speaker**  
-dans clout de code ce système de règles
-
-**[02:29:35 - 02:29:37] _speaker**  
-il existe aussi sur openflow
-
-**[02:29:37 - 02:29:39] _speaker**  
-je sais pas comment vous le configurez mais
-
-**[02:29:39 - 02:29:41] _speaker**  
-je sais que ça existe
-
-**[02:29:41 - 02:29:43] _speaker**  
-ensuite une fois que le contexte il est complet
-
-**[02:29:43 - 02:29:45] _speaker**  
-il me fait la récapitulation
-
-**[02:29:45 - 02:29:47] _speaker**  
-il me dit normalement
-
-**[02:29:47 - 02:29:49] _speaker**  
-à un moment voilà il ne disait pas
-
-**[02:29:49 - 02:29:51] _speaker**  
-son phase 2 vérification double on
-
-**[02:29:51 - 02:29:53] _speaker**  
-noco db donc ça c'est mon crm
-
-**[02:29:53 - 02:29:55] _speaker**  
-et google contact en parallèle
-
-**[02:29:55 - 02:29:57] _speaker**  
-donc il va voir en fait si le contact
-
-**[02:29:57 - 02:29:59] _speaker**  
-était pas déjà inscrit dans mon crm
-
-**[02:29:59 - 02:30:01] _speaker**  
-ou dans mes contacts
-
-**[02:30:01 - 02:30:03] _speaker**  
-là il me dit normalement
-
-**[02:30:03 - 02:30:05] _speaker**  
-aucun double on noco db
-
-**[02:30:05 - 02:30:07] _speaker**  
-et puis le google contact il était pas le gait
-
-**[02:30:07 - 02:30:09] _speaker**  
-sur ce terminal donc j'ai juste dû le leur
-
-**[02:30:09 - 02:30:11] _speaker**  
-le leur logger en parallèle c'est ce que j'ai fait
-
-**[02:30:11 - 02:30:13] _speaker**  
-après il me dit le plan pour la phase 3 et 4
-
-**[02:30:13 - 02:30:15] _speaker**  
-qui sont le scrapping en fait
-
-**[02:30:15 - 02:30:17] _speaker**  
-de ces deux sites donc il va utiliser
-
-**[02:30:17 - 02:30:19] _speaker**  
-firecrawl qui est un outil
-
-**[02:30:19 - 02:30:21] _speaker**  
-qui permet d'aller en fait
-
-**[02:30:21 - 02:30:23] _speaker**  
-récupérer toutes les données textes
-
-**[02:30:23 - 02:30:25] _speaker**  
-d'un site et de les convertir
-
-**[02:30:25 - 02:30:27] _speaker**  
-dans un format qui est beaucoup plus facile
-
-**[02:30:27 - 02:30:29] _speaker**  
-à lire par un IA
-
-**[02:30:29 - 02:30:31] _speaker**  
-puis en fait pourquoi je fais ça c'est que
-
-**[02:30:31 - 02:30:33] _speaker**  
-d'une fois d'un côté
-
-**[02:30:33 - 02:30:35] _speaker**  
-j'ai pris le profil link et d'une de la personne
-
-**[02:30:35 - 02:30:37] _speaker**  
-une fois j'ai les données
-
-**[02:30:37 - 02:30:39] _speaker**  
-de sa société et en fait
-
-**[02:30:39 - 02:30:41] _speaker**  
-à partir de toutes ces informations
-
-**[02:30:41 - 02:30:43] _speaker**  
-moi j'ai un script générique
-
-**[02:30:43 - 02:30:45] _speaker**  
-que je réutilise à chaque fois que je fais un call
-
-**[02:30:45 - 02:30:47] _speaker**  
-préparation découverte
-
-**[02:30:47 - 02:30:49] _speaker**  
-et puis il va adapter ce script
-
-**[02:30:49 - 02:30:51] _speaker**  
-générique avec le contexte de la personne
-
-**[02:30:51 - 02:30:53] _speaker**  
-et de son entreprise
-
-**[02:30:53 - 02:30:55] _speaker**  
-comme ça j'ai un truc ultra personnalisé
-
-**[02:30:55 - 02:30:57] _speaker**  
-et ce script que je parle
-
-**[02:30:57 - 02:30:59] _speaker**  
-c'est ce que vous voyez en fait ici
-
-**[02:30:59 - 02:31:01] _speaker**  
-et en fait là il m'a généré donc
-
-**[02:31:01 - 02:31:03] _speaker**  
-il me dit qu'il a généré ça
-
-**[02:31:03 - 02:31:05] _speaker**  
-donc il le génère automatiquement
-
-**[02:31:05 - 02:31:07] _speaker**  
-dans mon
-
-**[02:31:07 - 02:31:09] _speaker**  
-dans mon dossier
-
-**[02:31:09 - 02:31:11] _speaker**  
-je vais stocker tous mes fichiers
-
-**[02:31:11 - 02:31:13] _speaker**  
-puis cet interface me permet en fait simplement
-
-**[02:31:13 - 02:31:15] _speaker**  
-d'afficher les fichiers markdown
-
-**[02:31:15 - 02:31:17] _speaker**  
-de façon lisible
-
-**[02:31:17 - 02:31:19] _speaker**  
-et en fait du coup j'ai directement
-
-**[02:31:19 - 02:31:21] _speaker**  
-mon script qui est prêt au moment de l'appel
-
-**[02:31:21 - 02:31:23] _speaker**  
-puis ensuite il va me dire
-
-**[02:31:23 - 02:31:25] _speaker**  
-alors il me dit
-
-**[02:31:25 - 02:31:27] _speaker**  
-tata tata
-
-**[02:31:27 - 02:31:29] _speaker**  
-là je lui dis j'ai relogué
-
-**[02:31:29 - 02:31:31] _speaker**  
-gwbs
-
-**[02:31:31 - 02:31:33] _speaker**  
-tata tata
-
-**[02:31:33 - 02:31:35] _speaker**  
-ensuite
-
-**[02:31:35 - 02:31:37] _speaker**  
-ok il me demande si le script
-
-**[02:31:37 - 02:31:39] _speaker**  
-il est bon ou pas
-
-**[02:31:39 - 02:31:41] _speaker**  
-donc là moi je lui ai dit que c'était bon
-
-**[02:31:41 - 02:31:43] _speaker**  
-je valide et puis là il me propose
-
-**[02:31:43 - 02:31:45] _speaker**  
-en fait de
-
-**[02:31:45 - 02:31:47] _speaker**  
-vu que en fait
-
-**[02:31:47 - 02:31:49] _speaker**  
-dans le truc ce que j'ai pas marqué
-
-**[02:31:49 - 02:31:51] _speaker**  
-ce que j'ai pas dit avant
-
-**[02:31:51 - 02:31:53] _speaker**  
-c'est que j'ai pu aussi lui mettre
-
-**[02:31:53 - 02:31:55] _speaker**  
-la conversation clean dean que j'ai eu avec la personne
-
-**[02:31:55 - 02:31:57] _speaker**  
-donc là
-
-**[02:31:57 - 02:31:59] _speaker**  
-cette conversation je l'ai mis
-
-**[02:31:59 - 02:32:01] _speaker**  
-donc j'ai juste simplement fait un copier collé
-
-**[02:32:01 - 02:32:03] _speaker**  
-de la conversation clean dean que j'ai mis
-
-**[02:32:03 - 02:32:05] _speaker**  
-dans mon
-
-**[02:32:05 - 02:32:07] _speaker**  
-ici en fait
-
-**[02:32:07 - 02:32:09] _speaker**  
-que j'ai rangé dans un de mes dossiers
-
-**[02:32:09 - 02:32:11] _speaker**  
-je lui ai donné accès puis là dans cette conversation
-
-**[02:32:11 - 02:32:13] _speaker**  
-clean dean il y avait déjà
-
-**[02:32:13 - 02:32:15] _speaker**  
-de ce qu'on a discuté
-
-**[02:32:15 - 02:32:17] _speaker**  
-dans un premier temps pour le contexte
-
-**[02:32:17 - 02:32:19] _speaker**  
-et puis l'heure à laquelle on s'est donné rendez-vous
-
-**[02:32:19 - 02:32:21] _speaker**  
-donc il a été fixé
-
-**[02:32:21 - 02:32:23] _speaker**  
-un rendez-vous directement dans mon google agenda
-
-**[02:32:23 - 02:32:25] _speaker**  
-par rapport à ce qu'on avait discuté
-
-**[02:32:27 - 02:32:29] _speaker**  
-et puis il me dit ici
-
-**[02:32:29 - 02:32:31] _speaker**  
-en fait il me fait une proposition
-
-**[02:32:31 - 02:32:33] _speaker**  
-d'email qui va envoyer
-
-**[02:32:33 - 02:32:35] _speaker**  
-à la personne suite
-
-**[02:32:35 - 02:32:37] _speaker**  
-à ce qu'on avait convenu
-
-**[02:32:37 - 02:32:39] _speaker**  
-c'est juste pour récapituler en fait
-
-**[02:32:39 - 02:32:41] _speaker**  
-ce qu'on avait dit par LinkedIn
-
-**[02:32:41 - 02:32:43] _speaker**  
-et puis ça lui génère
-
-**[02:32:43 - 02:32:45] _speaker**  
-directement un fichier ICS
-
-**[02:32:45 - 02:32:47] _speaker**  
-qui est un fichier en fait agenda
-
-**[02:32:47 - 02:32:49] _speaker**  
-que je sais pas si vous avez déjà vu que vous recevez un email
-
-**[02:32:49 - 02:32:51] _speaker**  
-des fois il y a le fichier ICS
-
-**[02:32:51 - 02:32:53] _speaker**  
-puis vous pouvez ajouter directement le rendez-vous
-
-**[02:32:53 - 02:32:55] _speaker**  
-dans votre calendrier
-
-**[02:32:55 - 02:32:57] _speaker**  
-et puis en gros si là je valide
-
-**[02:32:57 - 02:32:59] _speaker**  
-eh ben j'ai aussi un autre outil qui s'appelle Imalaya
-
-**[02:32:59 - 02:33:01] _speaker**  
-qui me permet de connecter
-
-**[02:33:01 - 02:33:03] _speaker**  
-n'importe quel email en sntp
-
-**[02:33:03 - 02:33:05] _speaker**  
-ce offerteur
-
-**[02:33:05 - 02:33:07] _speaker**  
-donc moi j'utilise mon email infomagnac de
-
-**[02:33:07 - 02:33:09] _speaker**  
-ma société
-
-**[02:33:09 - 02:33:11] _speaker**  
-et puis ça va lui envoyer en fait directement
-
-**[02:33:11 - 02:33:13] _speaker**  
-l'email depuis le terminal
-
-**[02:33:13 - 02:33:15] _speaker**  
-sans que moi j'ai besoin d'intervenir sur Outlook
-
-**[02:33:15 - 02:33:17] _speaker**  
-et voilà et en gros
-
-**[02:33:17 - 02:33:19] _speaker**  
-ben je suis prêt pour mon appel
-
-**[02:33:19 - 02:33:21] _speaker**  
-j'ai mon agenda qui est bouquée
-
-**[02:33:21 - 02:33:23] _speaker**  
-j'ai le script qui est déjà contextualisé
-
-**[02:33:23 - 02:33:25] _speaker**  
-la personne qui est rappelée
-
-**[02:33:25 - 02:33:27] _speaker**  
-et ça m'a pris 5 minutes
-
-**[02:33:27 - 02:33:29] _speaker**  
-à faire ça
-
-**[02:33:29 - 02:33:31] _speaker**  
-et ça je peux en aligner
-
-**[02:33:31 - 02:33:33] _speaker**  
-à partir du moment où j'ai ma liste de prospects
-
-**[02:33:33 - 02:33:35] _speaker**  
-je peux en aligner
-
-**[02:33:35 - 02:33:37] _speaker**  
-50
-
-**[02:33:37 - 02:33:39] _speaker**  
-ça me prendra juste le même temps
-
-**[02:33:39 - 02:33:41] _speaker**  
-et ça c'est sur
-
-**[02:33:41 - 02:33:43] _speaker**  
-OpenClo?
-
-**[02:33:43 - 02:33:45] _speaker**  
-et ça c'est Claude Code mais tu peux le faire sur OpenClo
-
-**[02:33:45 - 02:33:47] _speaker**  
-bon par contre
-
-**[02:33:47 - 02:33:49] _speaker**  
-c'est jérémie répondra surtout à jérémie
-
-**[02:33:49 - 02:33:51] _speaker**  
-at1.boua.ch
-
-**[02:33:51 - 02:33:53] _speaker**  
-toi le monde est petit
-
-**[02:33:53 - 02:33:55] _speaker**  
-pourquoi tu dis ça?
-
-**[02:33:55 - 02:33:57] _speaker**  
-il bosse avec lui
-
-**[02:33:57 - 02:33:59] _speaker**  
-mais non
-
-**[02:33:59 - 02:34:01] _speaker**  
-mais il faut que tu tapes surtout
-
-**[02:34:01 - 02:34:03] _speaker**  
-son associé
-
-**[02:34:03 - 02:34:05] _speaker**  
-qui décide beaucoup c'est Jean Dro
-
-**[02:34:05 - 02:34:07] _speaker**  
-c'est le fils de Jean Dro
-
-**[02:34:07 - 02:34:09] _speaker**  
-mais non mais c'est quoi le délire
-
-**[02:34:09 - 02:34:11] _speaker**  
-t'as pas de chance
-
-**[02:34:11 - 02:34:13] _speaker**  
-j'ai vu quand j'ai vu ça
-
-**[02:34:13 - 02:34:15] _speaker**  
-putain comment ça se fait qu'il a accès
-
-**[02:34:15 - 02:34:17] _speaker**  
-à mes dossiers il est fort
-
-**[02:34:17 - 02:34:19] _speaker**  
-mais c'est marrant
-
-**[02:34:19 - 02:34:21] _speaker**  
-si tu veux ça c'est un plus
-
-**[02:34:21 - 02:34:23] _speaker**  
-lui si tu veux je les repérais sur Limcadine
-
-**[02:34:23 - 02:34:25] _speaker**  
-mais en fait on ne s'est jamais parlé
-
-**[02:34:25 - 02:34:27] _speaker**  
-ça c'est un truc
-
-**[02:34:27 - 02:34:29] _speaker**  
-que j'ai utilisé
-
-**[02:34:29 - 02:34:31] _speaker**  
-pour faire un test
-
-**[02:34:31 - 02:34:33] _speaker**  
-la conversation qu'on a eu
-
-**[02:34:33 - 02:34:35] _speaker**  
-Limcdine elle a été générée par Lire
-
-**[02:34:35 - 02:34:37] _speaker**  
-il a rien fait du jeu
-
-**[02:34:37 - 02:34:39] _speaker**  
-non mais lui en fait
-
-**[02:34:39 - 02:34:41] _speaker**  
-il est même pas au courant
-
-**[02:34:41 - 02:34:43] _speaker**  
-si tu veux lui non non
-
-**[02:34:43 - 02:34:45] _speaker**  
-on s'est juste ajouté sur Limcdine
-
-**[02:34:45 - 02:34:47] _speaker**  
-puis c'est tombé sur lui au bol
-
-**[02:34:47 - 02:34:49] _speaker**  
-tu vois
-
-**[02:34:49 - 02:34:51] _speaker**  
-c'est marrant
-
-**[02:34:51 - 02:34:53] _speaker**  
-je fais quelques affaires avec lui
-
-**[02:34:53 - 02:34:55] _speaker**  
-mais je peux donner des infos
-
-**[02:34:55 - 02:34:57] _speaker**  
-mais c'est bien c'est top
-
-**[02:34:57 - 02:34:59] _speaker**  
-c'est impressionnant
-
-**[02:34:59 - 02:35:01] _speaker**  
-mais ça pourrait être un prospect potentiel
-
-**[02:35:01 - 02:35:03] _speaker**  
-puis après ce qui est intéressant
-
-**[02:35:03 - 02:35:05] _speaker**  
-en phase 2
-
-**[02:35:05 - 02:35:07] _speaker**  
-une fois que j'ai fait mon entretien
-
-**[02:35:07 - 02:35:09] _speaker**  
-moi mon entretien après je les transcrits
-
-**[02:35:09 - 02:35:11] _speaker**  
-systématiquement avec un outil
-
-**[02:35:11 - 02:35:13] _speaker**  
-qui s'appelle Granola
-
-**[02:35:13 - 02:35:15] _speaker**  
-et en fait il y a un plugin
-
-**[02:35:15 - 02:35:17] _speaker**  
-qui existe sur mon logiciel obsidian
-
-**[02:35:17 - 02:35:19] _speaker**  
-qui me permet d'aller récupérer les transcripts
-
-**[02:35:19 - 02:35:21] _speaker**  
-de Granola puis qui va les stocker
-
-**[02:35:21 - 02:35:23] _speaker**  
-dans ce dossier
-
-**[02:35:23 - 02:35:25] _speaker**  
-puis en fait j'ai le transcript
-
-**[02:35:25 - 02:35:27] _speaker**  
-de toutes mes conversations
-
-**[02:35:27 - 02:35:29] _speaker**  
-qui se met là dedans
-
-**[02:35:29 - 02:35:31] _speaker**  
-et puis ensuite à partir de ce transcript
-
-**[02:35:31 - 02:35:33] _speaker**  
-de notre discussion
-
-**[02:35:33 - 02:35:35] _speaker**  
-je peux venir générer un résumé complet
-
-**[02:35:35 - 02:35:37] _speaker**  
-avec un skills
-
-**[02:35:37 - 02:35:39] _speaker**  
-il va automatiquement
-
-**[02:35:39 - 02:35:41] _speaker**  
-alors je n'ai pas montré aussi avant
-
-**[02:35:41 - 02:35:43] _speaker**  
-mais en fait ça ajoute donc dans mon CRM
-
-**[02:35:43 - 02:35:45] _speaker**  
-directement la ligne
-
-**[02:35:45 - 02:35:47] _speaker**  
-avec les informations, contacts etc
-
-**[02:35:47 - 02:35:49] _speaker**  
-et en fait
-
-**[02:35:49 - 02:35:51] _speaker**  
-à partir du moment
-
-**[02:35:51 - 02:35:53] _speaker**  
-où j'ai fait l'entretien découverte
-
-**[02:35:53 - 02:35:55] _speaker**  
-ça vient créer
-
-**[02:35:55 - 02:35:57] _speaker**  
-potentiellement une affaire
-
-**[02:35:57 - 02:35:59] _speaker**  
-dans le CRM
-
-**[02:35:59 - 02:36:01] _speaker**  
-s'il y a des actions futures
-
-**[02:36:01 - 02:36:03] _speaker**  
-et ça vient envoyer
-
-**[02:36:03 - 02:36:05] _speaker**  
-un résumé automatique
-
-**[02:36:05 - 02:36:07] _speaker**  
-à la personne par email
-
-**[02:36:07 - 02:36:09] _speaker**  
-avec qui j'ai eu la conversation
-
-**[02:36:09 - 02:36:11] _speaker**  
-pour faire un débriefing
-
-**[02:36:11 - 02:36:13] _speaker**  
-un suivi post appel
-
-**[02:36:13 - 02:36:15] _speaker**  
-et franchement
-
-**[02:36:15 - 02:36:17] _speaker**  
-je trouve ça incroyable
-
-**[02:36:17 - 02:36:19] _speaker**  
-c'est top
-
-**[02:36:19 - 02:36:21] _speaker**  
-et juste une question
-
-**[02:36:21 - 02:36:23] _speaker**  
-quand tu dis obsidian c'est bien l'application
-
-**[02:36:23 - 02:36:25] _speaker**  
-le deuxième cerveau
-
-**[02:36:25 - 02:36:27] _speaker**  
-oui c'est ça
-
-**[02:36:27 - 02:36:29] _speaker**  
-en fait la base de données
-
-**[02:36:29 - 02:36:31] _speaker**  
-le CRM est basé sur
-
-**[02:36:31 - 02:36:33] _speaker**  
-être en obsidian
-
-**[02:36:33 - 02:36:35] _speaker**  
-non le CRM c'est
-
-**[02:36:35 - 02:36:37] _speaker**  
-nocodb
-
-**[02:36:37 - 02:36:39] _speaker**  
-ah c'est encore un autre truc
-
-**[02:36:39 - 02:36:41] _speaker**  
-oui et gratuit
-
-**[02:36:41 - 02:36:43] _speaker**  
-open source qui est en fait
-
-**[02:36:43 - 02:36:45] _speaker**  
-un tableur
-
-**[02:36:45 - 02:36:47] _speaker**  
-base de données relationnelle de type rtable
-
-**[02:36:47 - 02:36:49] _speaker**  
-mais installable
-
-**[02:36:49 - 02:36:51] _speaker**  
-sur un self hostable
-
-**[02:36:51 - 02:36:53] _speaker**  
-gratuit
-
-**[02:36:53 - 02:36:55] _speaker**  
-et ce qui est intéressant si vous avez déjà un vps
-
-**[02:36:55 - 02:36:57] _speaker**  
-ou n'importe quelle machine
-
-**[02:36:57 - 02:36:59] _speaker**  
-vous pouvez tout à fait l'installer
-
-**[02:36:59 - 02:37:01] _speaker**  
-via docker
-
-**[02:37:01 - 02:37:03] _speaker**  
-si il est dans le terminal
-
-**[02:37:03 - 02:37:05] _speaker**  
-de façon qu'on peut demander openclok qu'il l'installe
-
-**[02:37:05 - 02:37:07] _speaker**  
-vous pouvez simplement lui balancer
-
-**[02:37:07 - 02:37:09] _speaker**  
-le lien github de nocodb
-
-**[02:37:09 - 02:37:11] _speaker**  
-et puis il va l'installer tout seul
-
-**[02:37:11 - 02:37:13] _speaker**  
-il va y avoir une API qui est très bien faite
-
-**[02:37:13 - 02:37:15] _speaker**  
-qui permet à n'importe quel LLM
-
-**[02:37:15 - 02:37:17] _speaker**  
-de venir agir
-
-**[02:37:17 - 02:37:19] _speaker**  
-dans le nocodb
-
-**[02:37:19 - 02:37:21] _speaker**  
-qui va vous mettre
-
-**[02:37:21 - 02:37:23] _speaker**  
-qui va même vous créer toutes les tables
-
-**[02:37:23 - 02:37:25] _speaker**  
-moi j'ai rien créé
-
-**[02:37:25 - 02:37:27] _speaker**  
-c'est tout lui qui a
-
-**[02:37:27 - 02:37:29] _speaker**  
-tout créé
-
-**[02:37:29 - 02:37:31] _speaker**  
-qui a créé tout
-
-**[02:37:31 - 02:37:33] _speaker**  
-les colonnes, les formats
-
-**[02:37:33 - 02:37:35] _speaker**  
-qui m'a déjà fait les formules
-
-**[02:37:35 - 02:37:37] _speaker**  
-tu peux aller très très loin
-
-**[02:37:37 - 02:37:39] _speaker**  
-tu peux créer des skills avec des automatisations
-
-**[02:37:39 - 02:37:41] _speaker**  
-tu peux remettre une couche avec N8
-
-**[02:37:41 - 02:37:43] _speaker**  
-enfin ouais
-
-**[02:37:43 - 02:37:45] _speaker**  
-ok intéressant
-
-**[02:37:45 - 02:37:47] _speaker**  
-ça veut dire il y a 3 éléments
-
-**[02:37:47 - 02:37:49] _speaker**  
-dans tout ce process
-
-**[02:37:49 - 02:37:51] _speaker**  
-il y a nocodb qui est à la base de Donemus
-
-**[02:37:51 - 02:37:53] _speaker**  
-il y a obsidian
-
-**[02:37:53 - 02:37:55] _speaker**  
-qui est le skills
-
-**[02:37:55 - 02:37:57] _speaker**  
-qui est enregistre le skills non ?
-
-**[02:37:57 - 02:37:59] _speaker**  
-qui est obsidian qui est uniquement l'interface
-
-**[02:37:59 - 02:38:01] _speaker**  
-qui me permet de lire mes fichiers markdown
-
-**[02:38:01 - 02:38:03] _speaker**  
-si je prends mon explorateur
-
-**[02:38:03 - 02:38:05] _speaker**  
-avec mon workspace
-
-**[02:38:05 - 02:38:07] _speaker**  
-en fait dans arno os
-
-**[02:38:07 - 02:38:09] _speaker**  
-c'est un vault obsidian
-
-**[02:38:09 - 02:38:11] _speaker**  
-donc quand tu crées en fait depuis obsidian un coffre
-
-**[02:38:11 - 02:38:13] _speaker**  
-tu vas créer
-
-**[02:38:13 - 02:38:15] _speaker**  
-simplement un dossier
-
-**[02:38:15 - 02:38:17] _speaker**  
-avec à l'intérieur un fichier
-
-**[02:38:17 - 02:38:19] _speaker**  
-qui s'appelle point obsidian
-
-**[02:38:19 - 02:38:21] _speaker**  
-avec les configurations pour être lu par obsidian
-
-**[02:38:21 - 02:38:23] _speaker**  
-mais en gros c'est simplement un dossier
-
-**[02:38:23 - 02:38:25] _speaker**  
-avec des fichiers markdown
-
-**[02:38:25 - 02:38:27] _speaker**  
-tu vois c'est que des fichiers point md
-
-**[02:38:27 - 02:38:29] _speaker**  
-et puis c'est juste des dossiers comme ça
-
-**[02:38:29 - 02:38:31] _speaker**  
-tu vois j'ai ma structure
-
-**[02:38:31 - 02:38:33] _speaker**  
-inbox project ascatresource
-
-**[02:38:33 - 02:38:35] _speaker**  
-qu'on retrouve en fait ici
-
-**[02:38:35 - 02:38:37] _speaker**  
-inbox project ascatresource
-
-**[02:38:37 - 02:38:39] _speaker**  
-et en fait obsidian est uniquement
-
-**[02:38:39 - 02:38:41] _speaker**  
-l'interface
-
-**[02:38:41 - 02:38:43] _speaker**  
-qui te permet de dire tout ça
-
-**[02:38:43 - 02:38:45] _speaker**  
-les skills
-
-**[02:38:45 - 02:38:47] _speaker**  
-ils sont stockés dans le même dossier workspace
-
-**[02:38:49 - 02:38:51] _speaker**  
-dans ce fereur d'enpload
-
-**[02:38:51 - 02:38:53] _speaker**  
-skills et puis là j'ai tous mes skills
-
-**[02:38:53 - 02:38:55] _speaker**  
-et ils sont
-
-**[02:38:55 - 02:38:57] _speaker**  
-là dedans
-
-**[02:38:57 - 02:38:59] _speaker**  
-mais en fait c'est tout
-
-**[02:38:59 - 02:39:01] _speaker**  
-même les skills c'est du markdown
-
-**[02:39:01 - 02:39:03] _speaker**  
-tout est du markdown
-
-**[02:39:03 - 02:39:05] _speaker**  
-il faut gérer dans un dossier
-
-**[02:39:05 - 02:39:07] _speaker**  
-mais en fait openclow il fait la même chose
-
-**[02:39:07 - 02:39:09] _speaker**  
-c'est aussi tout des fichiers markdown
-
-**[02:39:09 - 02:39:11] _speaker**  
-openclow c'est la structure
-
-**[02:39:11 - 02:39:13] _speaker**  
-c'est ce qui te permet
-
-**[02:39:13 - 02:39:15] _speaker**  
-de créer au moment où tu installes
-
-**[02:39:15 - 02:39:17] _speaker**  
-ça te génère une structure un peu équivalente
-
-**[02:39:17 - 02:39:19] _speaker**  
-à celle ci
-
-**[02:39:19 - 02:39:21] _speaker**  
-hébergé donc dans ton terminal
-
-**[02:39:21 - 02:39:23] _speaker**  
-et puis lui
-
-**[02:39:23 - 02:39:25] _speaker**  
-il a des
-
-**[02:39:25 - 02:39:27] _speaker**  
-pré prompt
-
-**[02:39:27 - 02:39:29] _speaker**  
-des masters prompt qui font qu'à chaque fois
-
-**[02:39:29 - 02:39:31] _speaker**  
-que tu vas créer une session
-
-**[02:39:31 - 02:39:33] _speaker**  
-tu vas créer les informations importantes
-
-**[02:39:33 - 02:39:35] _speaker**  
-de cette session
-
-**[02:39:35 - 02:39:37] _speaker**  
-que tu as dans ton terminal
-
-**[02:39:37 - 02:39:39] _speaker**  
-pour les mettre dans un dossier memory
-
-**[02:39:39 - 02:39:41] _speaker**  
-par exemple
-
-**[02:39:41 - 02:39:43] _speaker**  
-mais le concept
-
-**[02:39:43 - 02:39:45] _speaker**  
-elle-même
-
-**[02:39:47 - 02:39:49] _speaker**  
-ce qui est intéressant
-
-**[02:39:49 - 02:39:51] _speaker**  
-c'est qu'en fait
-
-**[02:39:51 - 02:39:53] _speaker**  
-obsidian vous pouvez demander
-
-**[02:39:53 - 02:39:55] _speaker**  
-openclow d'installer
-
-**[02:39:55 - 02:39:57] _speaker**  
-noco dv vous pouvez demander
-
-**[02:39:57 - 02:39:59] _speaker**  
-openclow d'installer
-
-**[02:39:59 - 02:40:01] _speaker**  
-en local
-
-**[02:40:01 - 02:40:03] _speaker**  
-ou ces soucis en fait
-
-**[02:40:03 - 02:40:05] _speaker**  
-à n'importe quel lmlm qui vit dans un terminal
-
-**[02:40:05 - 02:40:07] _speaker**  
-enfin qui a accès un terminal
-
-**[02:40:07 - 02:40:09] _speaker**  
-d'installer en fait n'importe quoi
-
-**[02:40:09 - 02:40:11] _speaker**  
-sur la machine ou est le terminal
-
-**[02:40:11 - 02:40:13] _speaker**  
-et même moi j'ai
-
-**[02:40:13 - 02:40:15] _speaker**  
-en fait plusieurs
-
-**[02:40:15 - 02:40:17] _speaker**  
-je travaille avec mon macbook r, là je suis sur mon windows
-
-**[02:40:17 - 02:40:19] _speaker**  
-j'ai aussi un vps
-
-**[02:40:19 - 02:40:21] _speaker**  
-où est installé noco dv
-
-**[02:40:21 - 02:40:23] _speaker**  
-je me connecte en ssh
-
-**[02:40:23 - 02:40:25] _speaker**  
-à ces machines et je peux installer
-
-**[02:40:25 - 02:40:27] _speaker**  
-des applications depuis mon windows
-
-**[02:40:27 - 02:40:29] _speaker**  
-sur mon macbook
-
-**[02:40:29 - 02:40:31] _speaker**  
-ou sur mon vps
-
-**[02:40:31 - 02:40:33] _speaker**  
-et puis depuis mon vps
-
-**[02:40:33 - 02:40:35] _speaker**  
-vis-versa
-
-**[02:40:35 - 02:40:37] _speaker**  
-et en fait aujourd'hui il n'y a plus de limite
-
-**[02:40:37 - 02:40:39] _speaker**  
-avant c'était un truc
-
-**[02:40:39 - 02:40:41] _speaker**  
-déjà rien que pour configurer une connexion ssh
-
-**[02:40:41 - 02:40:43] _speaker**  
-c'était une galère
-
-**[02:40:43 - 02:40:45] _speaker**  
-mais là maintenant avec lia
-
-**[02:40:45 - 02:40:47] _speaker**  
-c'est juste la crème
-
-**[02:40:47 - 02:40:49] _speaker**  
-pourquoi tu veux
-
-**[02:40:49 - 02:40:51] _speaker**  
-l'installer sur un vps
-
-**[02:40:51 - 02:40:53] _speaker**  
-alors noco dv c'est
-
-**[02:40:53 - 02:40:55] _speaker**  
-un cloud
-
-**[02:40:55 - 02:40:57] _speaker**  
-noco dv non c'est
-
-**[02:40:57 - 02:40:59] _speaker**  
-une application qui tourne sur docker
-
-**[02:40:59 - 02:41:01] _speaker**  
-alors pourquoi je l'ai sur le vps
-
-**[02:41:01 - 02:41:03] _speaker**  
-parce que si tu veux sur le vps il est tout le temps actif
-
-**[02:41:03 - 02:41:05] _speaker**  
-donc j'y ai tout le temps accès depuis
-
-**[02:41:05 - 02:41:07] _speaker**  
-n'importe quelle machine
-
-**[02:41:07 - 02:41:09] _speaker**  
-j'ai aussi configuré un beau telegram
-
-**[02:41:09 - 02:41:11] _speaker**  
-pour que quand je fiche sur mon iphone
-
-**[02:41:11 - 02:41:13] _speaker**  
-je puisse interroger ma base de données
-
-**[02:41:13 - 02:41:15] _speaker**  
-vu que j'ai tout mon contexte par exemple
-
-**[02:41:15 - 02:41:17] _speaker**  
-qui est là dedans
-
-**[02:41:17 - 02:41:19] _speaker**  
-qui est en fait ici c'est sur un github
-
-**[02:41:19 - 02:41:21] _speaker**  
-tout ce qu'on voit là c'est sur un github
-
-**[02:41:21 - 02:41:23] _speaker**  
-donc ça veut dire sur github il est toujours en ligne aussi
-
-**[02:41:23 - 02:41:25] _speaker**  
-si maintenant depuis mon iphone j'ai envie de
-
-**[02:41:25 - 02:41:27] _speaker**  
-questionner ma base de connaissance
-
-**[02:41:27 - 02:41:29] _speaker**  
-ou mon crm
-
-**[02:41:29 - 02:41:31] _speaker**  
-vu que tout est hébergé en ligne
-
-**[02:41:31 - 02:41:33] _speaker**  
-je peux la questionner n'importe quand
-
-**[02:41:33 - 02:41:35] _speaker**  
-par exemple
-
-**[02:41:35 - 02:41:37] _speaker**  
-c'est ça l'intérêt du vps
-
-**[02:41:37 - 02:41:39] _speaker**  
-et puis en plus pour l'écrone
-
-**[02:41:39 - 02:41:41] _speaker**  
-pour ça aussi qu'il faut avoir une machine
-
-**[02:41:41 - 02:41:43] _speaker**  
-qui est tout le temps onne c'est que quand t'as des crones
-
-**[02:41:43 - 02:41:45] _speaker**  
-qui se déclenchent à certains moments
-
-**[02:41:45 - 02:41:47] _speaker**  
-t'es obligé d'avoir un truc qui est tout le temps allumé
-
-**[02:41:49 - 02:41:51] _speaker**  
-c'est diane
-
-**[02:41:51 - 02:41:53] _speaker**  
-c'est une application
-
-**[02:41:53 - 02:41:55] _speaker**  
-c'est une application open source
-
-**[02:41:55 - 02:41:57] _speaker**  
-qui existe depuis déjà des années
-
-**[02:41:57 - 02:41:59] _speaker**  
-qui n'a pas été créée après lia
-
-**[02:41:59 - 02:42:01] _speaker**  
-c'est juste que
-
-**[02:42:01 - 02:42:03] _speaker**  
-d'ailleurs ça a explosé
-
-**[02:42:03 - 02:42:05] _speaker**  
-depuis qu'il y a
-
-**[02:42:05 - 02:42:07] _speaker**  
-parce que c'est
-
-**[02:42:07 - 02:42:09] _speaker**  
-une interface qui permet de lire
-
-**[02:42:09 - 02:42:11] _speaker**  
-et de gérer des fichiers markdown
-
-**[02:42:11 - 02:42:13] _speaker**  
-qui par coincidence
-
-**[02:42:13 - 02:42:15] _speaker**  
-sont la
-
-**[02:42:15 - 02:42:17] _speaker**  
-la la la la la
-
-**[02:42:17 - 02:42:19] _speaker**  
-c'est un truc qui est très important
-
-**[02:42:19 - 02:42:21] _speaker**  
-par coincidence sont la
-
-**[02:42:21 - 02:42:23] _speaker**  
-la typologie de fichier
-
-**[02:42:23 - 02:42:25] _speaker**  
-qui est la plus utilisée
-
-**[02:42:25 - 02:42:27] _speaker**  
-de la manière la plus efficiente pour lia
-
-**[02:42:27 - 02:42:29] _speaker**  
-en fait
-
-**[02:42:29 - 02:42:31] _speaker**  
-ça s'est retrouvé un peu comme envidia
-
-**[02:42:31 - 02:42:33] _speaker**  
-se retrouve aujourd'hui
-
-**[02:42:33 - 02:42:35] _speaker**  
-numéro 1
-
-**[02:42:35 - 02:42:37] _speaker**  
-la plus grosse entreprise du monde
-
-**[02:42:37 - 02:42:39] _speaker**  
-alors qu'il fabriquait des cartes graphiques
-
-**[02:42:39 - 02:42:41] _speaker**  
-grâce à lia
-
-**[02:42:41 - 02:42:43] _speaker**  
-cohérence que ces cartes graphiques sont
-
-**[02:42:43 - 02:42:45] _speaker**  
-la puissance de calcul pour faire tourner
-
-**[02:42:45 - 02:42:47] _speaker**  
-et ni à un fin c'est un peu le même
-
-**[02:42:47 - 02:42:49] _speaker**  
-un scénario équivalent
-
-**[02:42:49 - 02:42:51] _speaker**  
-quoi
-
-**[02:42:51 - 02:42:53] _speaker**  
-et là ils ont fait d'ailleurs un buzz
-
-**[02:42:53 - 02:42:55] _speaker**  
-parce qu'ils ont engagé je crois leur 5ème
-
-**[02:42:55 - 02:42:57] _speaker**  
-ils sont neufs
-
-**[02:42:57 - 02:42:59] _speaker**  
-à travailler pour obsidian pis ils font
-
-**[02:42:59 - 02:43:01] _speaker**  
-350 millions de
-
-**[02:43:01 - 02:43:03] _speaker**  
-chiffres d'affaires annuels et là ils viennent
-
-**[02:43:03 - 02:43:05] _speaker**  
-d'engager leur 4ème dev
-
-**[02:43:05 - 02:43:07] _speaker**  
-sur les neufs pis ils disaient que c'était
-
-**[02:43:07 - 02:43:09] _speaker**  
-le ratio employé
-
-**[02:43:09 - 02:43:11] _speaker**  
-chiffres d'affaires
-
-**[02:43:11 - 02:43:13] _speaker**  
-c'était un des plus
-
-**[02:43:13 - 02:43:15] _speaker**  
-un des meilleurs au monde
-
-**[02:43:15 - 02:43:17] _speaker**  
-et là il y a des critiques dans
-
-**[02:43:17 - 02:43:19] _speaker**  
-dans cette terre de e.i.
-
-**[02:43:19 - 02:43:21] _speaker**  
-et là
-
-**[02:43:21 - 02:43:23] _speaker**  
-vraiment
-
-**[02:43:23 - 02:43:25] _speaker**  
-2 3 4 personnes
-
-**[02:43:25 - 02:43:27] _speaker**  
-n'ont rien à créer des entreprises énormes
-
-**[02:43:27 - 02:43:29] _speaker**  
-c'est ça qui est super super intéressant
-
-**[02:43:29 - 02:43:31] _speaker**  
-ça qui est super intéressant
-
-**[02:43:31 - 02:43:33] _speaker**  
-et flippant en même temps
-
-**[02:43:33 - 02:43:35] _speaker**  
-alors c'est cool
-
-**[02:43:35 - 02:43:37] _speaker**  
-tu dépend de personne
-
-**[02:43:37 - 02:43:39] _speaker**  
-tu crées ton truc toi-même c'est génial
-
-**[02:43:39 - 02:43:41] _speaker**  
-et là du coup
-
-**[02:43:41 - 02:43:43] _speaker**  
-tu prospectes comme ça uniquement
-
-**[02:43:43 - 02:43:45] _speaker**  
-alors je fais ma recherche
-
-**[02:43:45 - 02:43:47] _speaker**  
-de prospects sur link edin en fonction
-
-**[02:43:47 - 02:43:49] _speaker**  
-des gens que je pense que je pourrais toucher
-
-**[02:43:49 - 02:43:51] _speaker**  
-je fais une première liste
-
-**[02:43:51 - 02:43:53] _speaker**  
-et puis après pour la préparation
-
-**[02:43:53 - 02:43:55] _speaker**  
-je les contacte et si il y a un entretien
-
-**[02:43:55 - 02:43:57] _speaker**  
-je déclenche mon skill
-
-**[02:43:57 - 02:43:59] _speaker**  
-systématiquement ça me fait mon petit script
-
-**[02:43:59 - 02:44:01] _speaker**  
-en fait
-
-**[02:44:01 - 02:44:03] _speaker**  
-au départ j'avais mon script générique
-
-**[02:44:03 - 02:44:05] _speaker**  
-et puis j'appelais les gens comme ça
-
-**[02:44:05 - 02:44:07] _speaker**  
-et des fois je voyais
-
-**[02:44:07 - 02:44:09] _speaker**  
-qu'il y a des choses que je savais déjà
-
-**[02:44:09 - 02:44:11] _speaker**  
-mais qui me répétaient et puis bah là
-
-**[02:44:11 - 02:44:13] _speaker**  
-le fait d'avoir un truc qui est déjà tout bien préparé
-
-**[02:44:13 - 02:44:15] _speaker**  
-ça leur fait gagner du temps
-
-**[02:44:15 - 02:44:17] _speaker**  
-ça montre que tu t'intéresses
-
-**[02:44:17 - 02:44:19] _speaker**  
-à leur business
-
-**[02:44:19 - 02:44:21] _speaker**  
-finalement et puis
-
-**[02:44:21 - 02:44:23] _speaker**  
-un taux de réponse
-
-**[02:44:23 - 02:44:25] _speaker**  
-c'est d'où la conversation est tout de suite beaucoup plus intéressante
-
-**[02:44:25 - 02:44:27] _speaker**  
-donc
-
-**[02:44:27 - 02:44:29] _speaker**  
-ça qui serait par message rire
-
-**[02:44:29 - 02:44:31] _speaker**  
-à travers link edin
-
-**[02:44:31 - 02:44:33] _speaker**  
-alors link edin c'est le premier contact
-
-**[02:44:33 - 02:44:35] _speaker**  
-c'est quand je repère quelqu'un
-
-**[02:44:35 - 02:44:37] _speaker**  
-je pense que je peux potentiellement
-
-**[02:44:37 - 02:44:39] _speaker**  
-aider je le contacte par link edin
-
-**[02:44:39 - 02:44:41] _speaker**  
-une fois que link edin on a
-
-**[02:44:41 - 02:44:43] _speaker**  
-défini qu'on pouvait s'appeler
-
-**[02:44:43 - 02:44:45] _speaker**  
-ou se voir pour un entretien découverte
-
-**[02:44:45 - 02:44:47] _speaker**  
-c'est à ce moment là que je déclenche mon skill
-
-**[02:44:47 - 02:44:49] _speaker**  
-et puis que je prépare mon script pour cet entretien
-
-**[02:44:49 - 02:44:51] _speaker**  
-quoi
-
-**[02:44:51 - 02:44:53] _speaker**  
-avec une dizaine de questions
-
-**[02:44:53 - 02:44:55] _speaker**  
-un peu ciblées le but c'est
-
-**[02:44:55 - 02:44:57] _speaker**  
-de qualifier en fait tout de suite le prospect
-
-**[02:44:57 - 02:44:59] _speaker**  
-pour savoir s'il y a du potentiel ou pas
-
-**[02:44:59 - 02:45:01] _speaker**  
-et puis d'explorer un petit peu
-
-**[02:45:01 - 02:45:03] _speaker**  
-voir s'il est intéressé
-
-**[02:45:03 - 02:45:05] _speaker**  
-c'est vraiment le nouveau train
-
-**[02:45:05 - 02:45:07] _speaker**  
-le nouveau mode de démarchage
-
-**[02:45:07 - 02:45:09] _speaker**  
-de clients avec AI
-
-**[02:45:09 - 02:45:11] _speaker**  
-le coût est tellement minimisé
-
-**[02:45:11 - 02:45:13] _speaker**  
-le procès est tellement automatisé
-
-**[02:45:13 - 02:45:15] _speaker**  
-même si t'approche
-
-**[02:45:15 - 02:45:17] _speaker**  
-1000 clients il y en a un qui mord
-
-**[02:45:17 - 02:45:19] _speaker**  
-c'est gagnant
-
-**[02:45:19 - 02:45:21] _speaker**  
-parce que le coût est tellement minimisé
-
-**[02:45:21 - 02:45:23] _speaker**  
-c'est ça qui est vraiment
-
-**[02:45:23 - 02:45:25] _speaker**  
-révolutionnaire
-
-**[02:45:25 - 02:45:27] _speaker**  
-il y a des jeunes qui créent des sites
-
-**[02:45:27 - 02:45:29] _speaker**  
-qui cherchent tous les points de
-
-**[02:45:29 - 02:45:31] _speaker**  
-vent des petits magasins sur google
-
-**[02:45:31 - 02:45:33] _speaker**  
-et après avec AI
-
-**[02:45:33 - 02:45:35] _speaker**  
-ça crée automatiquement un site vraiment
-
-**[02:45:35 - 02:45:37] _speaker**  
-basique des sites basiques et après
-
-**[02:45:37 - 02:45:39] _speaker**  
-ils en voient à tout le monde
-
-**[02:45:39 - 02:45:41] _speaker**  
-et si on a un qui est intéressé
-
-**[02:45:41 - 02:45:43] _speaker**  
-il y a 200-300 francs
-
-**[02:45:43 - 02:45:45] _speaker**  
-pour une création
-
-**[02:45:45 - 02:45:47] _speaker**  
-des sites internet
-
-**[02:45:47 - 02:45:49] _speaker**  
-voilà à la masse
-
-**[02:45:49 - 02:45:51] _speaker**  
-vraiment à la masse
-
-**[02:45:51 - 02:45:53] _speaker**  
-et en plus ça provient à prendre pas un accord beaucoup plus loin
-
-**[02:45:53 - 02:45:55] _speaker**  
-parce que moi j'aime bien toujours me garder
-
-**[02:45:55 - 02:45:57] _speaker**  
-dans la boucle pour toute validation
-
-**[02:45:57 - 02:45:59] _speaker**  
-et pour regarder du contrôle
-
-**[02:45:59 - 02:46:01] _speaker**  
-mais comme il dit tu pourrais maintenant
-
-**[02:46:01 - 02:46:03] _speaker**  
-sur ApiFly
-
-**[02:46:03 - 02:46:05] _speaker**  
-un site qui permet d'accéder
-
-**[02:46:05 - 02:46:07] _speaker**  
-à plein de données via API
-
-**[02:46:07 - 02:46:09] _speaker**  
-effectivement faire des recherches
-
-**[02:46:09 - 02:46:11] _speaker**  
-sur Google Map
-
-**[02:46:11 - 02:46:13] _speaker**  
-pour une certaine typologie de restaurant
-
-**[02:46:13 - 02:46:15] _speaker**  
-ou d'entreprise par rapport
-
-**[02:46:15 - 02:46:17] _speaker**  
-à une zone géographique définie
-
-**[02:46:17 - 02:46:19] _speaker**  
-extraire massivement toutes ces informations
-
-**[02:46:19 - 02:46:21] _speaker**  
-via l'API de ApiFly
-
-**[02:46:21 - 02:46:23] _speaker**  
-et puis déclencher tout un tas de process
-
-**[02:46:23 - 02:46:25] _speaker**  
-comme la création de sites internet
-
-**[02:46:25 - 02:46:27] _speaker**  
-ça peut être amie en truc
-
-**[02:46:27 - 02:46:29] _speaker**  
-quoi y a
-
-**[02:46:29 - 02:46:31] _speaker**  
-c'est...
-
-**[02:46:31 - 02:46:33] _speaker**  
-j'étais assez impressionné par James Park
-
-**[02:46:33 - 02:46:35] _speaker**  
-où il y a l'agent pour...
-
-**[02:46:35 - 02:46:37] _speaker**  
-dans les agents il y a passé un appel
-
-**[02:46:37 - 02:46:39] _speaker**  
-en fait on choisi la voie etc...
-
-**[02:46:39 - 02:46:41] _speaker**  
-et on lui donne le script
-
-**[02:46:41 - 02:46:43] _speaker**  
-et puis on lui donne la liste de numéros
-
-**[02:46:43 - 02:46:45] _speaker**  
-à appeler pour prospecter etc...
-
-**[02:46:45 - 02:46:47] _speaker**  
-ça le fait automatiquement
-
-**[02:46:47 - 02:46:49] _speaker**  
-juste ça c'est très intéressant Gilles
-
-**[02:46:49 - 02:46:51] _speaker**  
-d'ailleurs je pense que malheureusement
-
-**[02:46:51 - 02:46:53] _speaker**  
-personne n'a assez mais la dernière mise à jour
-
-**[02:46:53 - 02:46:55] _speaker**  
-de OpenClo intègre la fonction
-
-**[02:46:55 - 02:46:57] _speaker**  
-appel
-
-**[02:46:57 - 02:46:59] _speaker**  
-ah ouais super
-
-**[02:46:59 - 02:47:01] _speaker**  
-on met très lourd
-
-**[02:47:01 - 02:47:03] _speaker**  
-faut mettre très lourd mais
-
-**[02:47:03 - 02:47:05] _speaker**  
-par contre y a rien qui a compris comment ça marche
-
-**[02:47:05 - 02:47:07] _speaker**  
-j'ai pas eu le temps aussi de me pencher là dessus
-
-**[02:47:07 - 02:47:09] _speaker**  
-mais je sais qu'il peut passer des appels
-
-**[02:47:09 - 02:47:11] _speaker**  
-et utiliser un modèle je sais pas quoi
-
-**[02:47:11 - 02:47:13] _speaker**  
-il peut se démerder pour faire les appels
-
-**[02:47:15 - 02:47:17] _speaker**  
-d'ailleurs j'espère qu'à changer ce modèle
-
-**[02:47:17 - 02:47:19] _speaker**  
-il y a un mois ils avaient fait moins 50% le 1er mois
-
-**[02:47:19 - 02:47:21] _speaker**  
-là ils le donnent gratuit
-
-**[02:47:21 - 02:47:23] _speaker**  
-pour lancer le OpenClo
-
-**[02:47:23 - 02:47:25] _speaker**  
-ouais je le vois
-
-**[02:47:25 - 02:47:27] _speaker**  
-c'est pour capter les clients attention
-
-**[02:47:27 - 02:47:29] _speaker**  
-après ça coûte quand même très cher
-
-**[02:47:29 - 02:47:31] _speaker**  
-moi je suis très gros consommateur
-
-**[02:47:31 - 02:47:33] _speaker**  
-de Genespar
-
-**[02:47:33 - 02:47:35] _speaker**  
-j'adore mais franchement je pense que c'est pas là dessus
-
-**[02:47:35 - 02:47:37] _speaker**  
-parce que ça coûte trop cher après
-
-**[02:47:37 - 02:47:39] _speaker**  
-quand tu te dis des tokens pour ça
-
-**[02:47:39 - 02:47:41] _speaker**  
-ils ont fait un nouveau système de parrainage aussi
-
-**[02:47:41 - 02:47:43] _speaker**  
-ah bon je le dis
-
-**[02:47:43 - 02:47:45] _speaker**  
-ouais
-
-**[02:47:45 - 02:47:47] _speaker**  
-c'est clair
-
-**[02:47:47 - 02:47:49] _speaker**  
-ok
-
-**[02:47:49 - 02:47:51] _speaker**  
-messieurs je vais devoir vous lisser
-
-**[02:47:51 - 02:47:53] _speaker**  
-parce que j'en avie un par le lendemain
-
-**[02:47:53 - 02:47:55] _speaker**  
-c'était très important
-
-**[02:47:55 - 02:47:57] _speaker**  
-c'est un peu trop clé là
-
-**[02:47:57 - 02:47:59] _speaker**  
-parce que on est déjà vachement hors de l'air
-
-**[02:47:59 - 02:48:01] _speaker**  
-merci à tous
-
-**[02:48:01 - 02:48:03] _speaker**  
-merci Gilles
-
-**[02:48:03 - 02:48:05] _speaker**  
-et puis on voit la semaine prochaine
-
-**[02:48:05 - 02:48:07] _speaker**  
-tchao tchao
-
-**[02:48:07 - 02:48:09] _speaker**  
-bonsoir
-
-**[02:48:09 - 02:48:11] _speaker**  
-bonsoir
+**[02:20:53 - 02:20:56] 1-redsun**  
+Sous-titres réalisés par la communauté d'Amara.org
