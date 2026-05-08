@@ -1,4302 +1,13414 @@
-# Transcript par intervenant - OpenClaw Geneva Meetup (Session 2 - 6 mai)
+# Transcript clean - session 2 (6 mai)
 
-Version éditée cohérente (segments utiles uniquement).
+**[00:00:00 - 00:00:00] speaker**
+Il est 19h47, c'est quand même un récord de ce plat.
 
-**[00:00:00 - 00:00:08] _redsun**  
-Il est 19h47, c'est le cas de CREG, tu commences à récordes,
+**[00:00:08 - 00:00:08] speaker**
+Et on commence déjà à dire que ça a revisqué à 19h47.
 
-**[00:00:09 - 00:00:13] _redsun**  
-et on commence déjà à dire que ça a 19h47,
+**[00:00:13 - 00:00:13] speaker**
+Donc ça c'est pour le timestem comme ça, tu seras qu'on n'a pas besoin de garder cette partie-là jusqu'à ce qu'on soit tout cela.
 
-**[00:00:14 - 00:00:21] _redsun**  
-donc ça c'est pour le timestem, comme ça tu seras qu'on n'a pas besoin de garder cette partie-là jusqu'à ce qu'on soit tout cela.
+**[00:00:21 - 00:00:21] speaker**
+Donc voilà 19h47, timestaine.
 
-**[00:04:30 - 00:04:42] _redsun**  
-Il est 9h502 officiellement au commence en 8 minutes.
+**[00:04:21 - 00:04:21] speaker**
+Il est 19h50, officiellement au commence dans 8 minutes.
 
-**[00:04:42 - 00:04:47] _redsun**  
-Ce récording des débuts, on va pas regarder, on va être plus tard que mon feu.
+**[00:04:42 - 00:04:42] speaker**
+Donc ce récording des débuts là on va pas regarder, on verra plus tard comme on fait.
 
-**[00:04:47 - 00:04:53] _redsun**  
-On va pas regarder auquel, normalement, tu gardes pas ça.
+**[00:04:47 - 00:04:47] speaker**
+On va pas regarder au qu'en normalement, tu gardes pas ça, mais voilà, je vais juste partager mon écran.
 
-**[00:04:53 - 00:04:56] _redsun**  
-Voilà, je vais juste partager mon écran.
+**[00:04:57 - 00:04:57] speaker**
+Est-ce que c'est pas marx?
 
-**[00:05:10 - 00:05:13] _redsun**  
-J'ai le faire mettre tout ce qu'il est utile.
+**[00:05:00 - 00:05:00] speaker**
+Est-ce que l'on peut faire ça, le saum est tout ce que inutilent.
 
-**[00:06:21 - 00:06:25] _redsun**  
-la juste le temps que ça commence à commencer, finalement, dans 5 minutes.
+**[00:06:14 - 00:06:14] speaker**
+Je vais remuer, juste le temps que ça commence, ça commence, facilement dans sa mineille.
 
-**[00:08:21 - 00:08:40] _redsun**  
-et toujours la crague, j'ai enregistré, et il est 19h56 pour le temps, donc officiellement,
+**[00:08:14 - 00:08:14] speaker**
+Et toujours la crague, quand on juste est 19h506 pour le tempsstem, donc officiellement ça commence à 4 minutes, mais à beaucoup de gens qui sont par la crague.
 
-**[00:08:40 - 00:08:43] _redsun**  
-ça commence à 4 minutes, mais à beaucoup de jonques qui sont par la craue.
+**[00:08:43 - 00:08:43] speaker**
+Donc je ne sais pas si ils ont trouvé.
 
-**[00:08:43 - 00:08:47] _redsun**  
-en bien on peut je passe si on trouver
+**[00:08:48 - 00:08:48] speaker**
+C'est toujours un peu le même problème, j'en pense qu'ils ne trouvent pas la minta-prôme.
 
-**[00:08:47 - 00:08:51] _redsun**  
-tout le monde prend le même problème j'en impressionne qu'il ne trouve pas la minta-prôme
+**[00:10:13 - 00:10:13] speaker**
+Et là, à l'euf, alors on va attendre les autres, parce qu'il n'y a pas que mon faire, j'ai un pression pour rejoindre le canal Mithap.
 
-**[00:10:20 - 00:10:30] _redsun**  
-alors on va attendre les autres ce qui a beaucoup de gens qui n'aura pas comme en faire
+**[00:10:37 - 00:10:37] speaker**
+Donc je ne suis pas souvent un peu là, ils ne sont pas trop vite fait, ils se corrent.
 
-**[00:10:30 - 00:10:33] _redsun**  
-j'ai un pression pour rejoindre le canal mitap
+**[00:10:58 - 00:10:58] speaker**
+Je ne suis pas si montant, je ne suis pas en tout cas.
 
-**[00:10:33 - 00:10:39] _redsun**  
-donc ce n'est pas souvent un peu là il se passe
+**[00:11:43 - 00:11:43] speaker**
+Je ne suis pas mal d'accord, mais je ne suis pas inscrétulé.
 
-**[00:10:39 - 00:10:41] _redsun**  
-ils sont pas trop vite fait, disque orange
+**[00:11:58 - 00:11:58] speaker**
+Je ne suis pas mal d'accord, mais je ne suis pas mal d'accord.
 
-**[00:10:58 - 00:11:02] _redsun**  
-je passe sur le momentant, je ne suis pas en tout cas
+**[00:12:08 - 00:12:08] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:11:38 - 00:11:43] _redsun**  
-ça en fait que je ne retrouve pas la mitaprome, c'est pas pourquoi de faire, je ne vais pas trop
+**[00:12:18 - 00:12:18] speaker**
+C'est un peu plus vite.
 
-**[00:11:43 - 00:11:48] _redsun**  
-je fais à dire un direct, on se doit aller quoi, je sais pas
+**[00:12:28 - 00:12:28] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:11:48 - 00:11:51] nano1992_**  
-Parce que dans le mage, je me suis pas un scréthial mitre,
+**[00:12:43 - 00:12:43] speaker**
+On a vu que tout mon peu de dire, mais bon, ce qui s'intéresse à ces sujets-là, quand même des mecs qui sont assez poussés, n'arrêtent mon pas.
 
-**[00:11:51 - 00:11:53] nano1992_**  
-aujourd'hui, je suis tout le monde direct dans le discours,
+**[00:13:01 - 00:13:01] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:11:54 - 00:11:57] nano1992_**  
-mais dans le mitre, tu as mis le lien direct dans le du canal, non ?
+**[00:13:31 - 00:13:31] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:11:58 - 00:12:02] _redsun**  
-alors j'ai mis de lien du Discord, donc tu troules le Discord, un petit clic sur le cas
+**[00:14:01 - 00:14:01] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:11:59 - 00:12:29] nano1992_**  
-C'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est vrai, c'est
+**[00:14:11 - 00:14:11] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:12:03 - 00:12:07] _redsun**  
-t'as vu, j'ai fait même un lien direct pour que tout le monde lui se vaut dire en moins que tu es quoi
+**[00:14:41 - 00:14:41] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:12:09 - 00:12:12] _redsun**  
-C'est vrai que nous, que les blindes discords,
+**[00:14:51 - 00:14:51] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:12:29 - 00:12:59] nano1992_**  
-tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que je veux le mire, tu sais que tu sais que tu sais que tu sais que tu sais que tu sais que tu sais que tu sais que tu
+**[00:15:06 - 00:15:06] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:12:35 - 00:12:38] _redsun**  
-Alors ben que l'ose est quand même ou je...
+**[00:15:16 - 00:15:16] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:12:42 - 00:12:44] _redsun**  
-C'est un truc que c'est un truc que c'est un peu...
+**[00:16:16 - 00:16:16] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:12:44 - 00:12:48] _redsun**  
-C'est normalement vrai que c'est des meilleurs bienfus...
+**[00:16:46 - 00:16:46] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:12:49 - 00:12:52] _redsun**  
-Bon, on a mis que tout mon peu de dire, on est bon...
+**[00:17:16 - 00:17:16] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:12:52 - 00:12:54] _redsun**  
-Enfin, ce qu'ils sont allés assez sujets là...
+**[00:17:46 - 00:17:46] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:12:54 - 00:12:58] _redsun**  
-T'as quand même des mecs qui sont assez poussés, normalement...
+**[00:18:16 - 00:18:16] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:12:59 - 00:13:06] nano1992_**  
-Après tu vois la fréquence, une fois par semaine, aussi peut-être qu'à pas tout le monde qui peut se libérer,
+**[00:18:46 - 00:18:46] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:13:09 - 00:13:12] _redsun**  
-Ah, le sur est d'ailleurs, il y en a plein qui badeur, ils sont assez contents,
+**[00:19:16 - 00:19:16] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:13:12 - 00:13:15] _redsun**  
-c'est qu'un aille, il ne pouvait pas venir, je sais pas, c'est dommage,
+**[00:19:31 - 00:19:31] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:13:15 - 00:13:18] _redsun**  
-mais je me dis, bah, vous avez un semaine prochaine.
+**[00:20:01 - 00:20:01] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:13:18 - 00:13:21] _redsun**  
-Mais je ne sais pas où ça couie dans le process, parce qu'il vient de se
+**[00:20:11 - 00:20:11] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:13:21 - 00:13:24] _redsun**  
-inscrire, moi, je vais voir, en dehors, en 30 ans, même en ce
+**[00:20:21 - 00:20:21] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:13:24 - 00:13:26] _redsun**  
-au-delà, tout le monde, c'est cool.
+**[00:20:36 - 00:20:36] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:13:26 - 00:13:29] _redsun**  
-Et en fait, il vient de se inscrire.
+**[00:20:46 - 00:20:46] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:13:29 - 00:13:33] _redsun**  
-Je l'apprége des pômes, ce pas, je ne sais pas, ils sont quoi.
+**[00:20:56 - 00:20:56] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:13:33 - 00:13:38] _redsun**  
-et disparaît dans la nation, mais en ce qui sont inscrits quoi donc.
+**[00:21:01 - 00:21:01] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:13:40 - 00:13:44] _redsun**  
-Je sais pas, c'est trop bizarre quoi.
+**[00:21:06 - 00:21:06] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:13:46 - 00:13:51] _redsun**  
-On va attend un petit peu, mais je me demande le tannin,
+**[00:21:12 - 00:21:12] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:13:51 - 00:13:54] _redsun**  
-on va aller à 20h, je ne me pose des questions pas,
+**[00:21:22 - 00:21:22] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:13:55 - 00:14:01] _redsun**  
-Ah ouais, on va aller dans tout de suite.
+**[00:21:27 - 00:21:27] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:14:01 - 00:14:10] _redsun**  
-Ah, il n'y a pas l'uix, c'est là, c'est pas si nous entendons.
+**[00:21:32 - 00:21:32] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:14:10 - 00:14:13] _redsun**  
-Là, on voit bien une mage, on monta en bien, c'est tout bon.
+**[00:21:38 - 00:21:38] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:14:17 - 00:14:21] _redsun**  
-On va attendre un petit peu, parce que je sais que sous-scripto, ça a un peu chaud,
+**[00:21:48 - 00:21:48] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:14:21 - 00:14:27] _redsun**  
-parce qu'il a des enfants aussi, donc je sais que là, ça a un peu l'heure de coucher des enfants.
+**[00:21:53 - 00:21:53] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:14:27 - 00:14:34] _redsun**  
-on va attendre encore 5 minutes, il n'y a pas mal, il n'y a pas mal de petits sujets assez coulés à discuter soit
+**[00:21:58 - 00:21:58] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:14:34 - 00:14:40] _redsun**  
-et puis je vais écouter ton conseil à renour, peut-être faire une petite délaupéne clou en life quoi
+**[00:22:04 - 00:22:04] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:14:40 - 00:14:52] _redsun**  
-normal, pas longtemps, alors moi j'ai un cas du sage concrère présentez mais par contre tu vois pas le faire tout en life
+**[00:22:14 - 00:22:14] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:14:52 - 00:14:56] _redsun**  
-parce que ça d'un cessec comme par mois de petit setup, ça lui donne,
+**[00:22:19 - 00:22:19] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:14:56 - 00:15:01] _redsun**  
-ça me donne un petit peu de temps, mais c'est assez petit des carums, c'est
+**[00:22:24 - 00:22:24] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:15:01 - 00:15:07] _redsun**  
-crée des modèles 3D avec son peu d'une clôt quoi, c'est assez cool, franchement
+**[00:22:30 - 00:22:30] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:15:07 - 00:15:12] _redsun**  
-et d'ailleurs, on me dit même, je peux faire des trucs, voilà ça lui,
+**[00:22:40 - 00:22:40] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:15:12 - 00:15:19] _redsun**  
-ça lui, donc il y a ce petit sujet là et il pourrait faire des mêmes
+**[00:22:45 - 00:22:45] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:15:19 - 00:15:24] _redsun**  
-même des modèles 3és pour faire des sites web, et des éléments 3D ça peut être très
+**[00:22:49 - 00:22:49] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:15:24 - 00:15:31] _redsun**  
-Mais je vais en parler, on va voir, ça dépend, il y aura des questions, le aussi un peu
+**[00:22:53 - 00:22:53] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:15:31 - 00:15:36] _redsun**  
-laisser, c'est un délant qui veut le montrer très coccy, ça a un peu prioritaire si on
+**[00:22:56 - 00:22:56] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:15:36 - 00:15:40] _redsun**  
-détouquait mon trait, ou au D. Comme ça veut faire un peu, pour en jusquer ça compte
+**[00:23:06 - 00:23:06] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:15:47 - 00:15:50] pollux8888**  
-Merci beaucoup de... Merci beaucoup, c'est rire pour l'invitation.
+**[00:23:11 - 00:23:11] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:15:50 - 00:15:55] pollux8888**  
-C'est la première fois que je participe, mais j'ai reçu...
+**[00:23:15 - 00:23:15] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:15:55 - 00:15:59] pollux8888**  
-T'es un vitesse de nombreuses fois, puis je me suis toujours intéressé à l'un.
+**[00:23:19 - 00:23:19] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:16:01 - 00:16:07] pollux8888**  
-On va dire à un éthmond-lodas de l'installer, même dans un océ
+**[00:23:22 - 00:23:22] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:16:07 - 00:16:13] pollux8888**  
-de ou bien sur une machine individuelle clean, sans donner personnelle,
+**[00:23:32 - 00:23:32] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:16:13 - 00:16:17] pollux8888**  
-parce que j'ai beaucoup plus dans la enthousqu'à l'aspect,
+**[00:23:37 - 00:23:37] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:16:17 - 00:16:21] pollux8888**  
-c'est biérice, dès la privacy et d'autres.
+**[00:23:41 - 00:23:41] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:16:21 - 00:16:26] pollux8888**  
-Donc mais je me suis dit ça fait quand même plusieurs semaines,
+**[00:23:45 - 00:23:45] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:16:26 - 00:16:30] pollux8888**  
-voire plusieurs mois que j'ai revies de le tester.
+**[00:23:48 - 00:23:48] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:16:30 - 00:16:37] pollux8888**  
-J'ai pas encore trouvé le meilleur environnement pour le faire de telle manière à ne pas
+**[00:23:50 - 00:23:50] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:16:37 - 00:16:43] pollux8888**  
-se faire plombir des données, c'est juste ça.
+**[00:24:00 - 00:24:00] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:16:40 - 00:16:46] _redsun**  
-Bon bah attention là on a un petit peu chez les têtes brûlées quand ils continuent qu'ils
+**[00:24:05 - 00:24:05] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:16:46 - 00:16:53] _redsun**  
-fait de y en plein de bloites, après les gars qui compapèrent, effectivement il a des risques
+**[00:24:08 - 00:24:08] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:16:51 - 00:16:59] pollux8888**  
-Oui oui. Moi je me connais, c'est ça. Moi, j'ai une formation alors juste,
+**[00:24:13 - 00:24:13] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:16:53 - 00:16:57] _redsun**  
-je les trouve, je suis en vie, je me dis ben là, il va
+**[00:24:16 - 00:24:16] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:16:59 - 00:17:05] pollux8888**  
-peut-être en, voilà, je ne vais pas prendre la part, tout le temps, mais j'ai
+**[00:24:26 - 00:24:26] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:17:05 - 00:17:10] pollux8888**  
-à moi comme formation, donc moi, j'ai fait de la générique à de PFL en informatique,
+**[00:24:31 - 00:24:31] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:17:10 - 00:17:15] pollux8888**  
-puis après, j'ai travaillé dans les sociétés de conseils avec un passage et
+**[00:24:33 - 00:24:33] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:17:15 - 00:17:20] pollux8888**  
-c'est les congraphics en tant que développeur, donc ça remonte dans les années non-ante.
+**[00:24:37 - 00:24:37] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:17:20 - 00:17:25] pollux8888**  
-Et après, j'ai fait une vingtaine d'années dans les biques fort, en de presque a pmg,
+**[00:24:40 - 00:24:40] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:17:25 - 00:17:30] pollux8888**  
-iwi ou iwi, je t'ai associé responsable à division froide et investigation.
+**[00:24:45 - 00:24:45] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:17:30 - 00:17:35] pollux8888**  
-Tout ce qui est malveurs, sachant de l'enchiment, foe, usage de foe, etc.
+**[00:24:48 - 00:24:48] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:17:35 - 00:17:41] pollux8888**  
-Et je suis amné assez souvent, comment maintenant, à être mandatiques, ce soit par le ministre
+**[00:24:52 - 00:24:52] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:17:41 - 00:17:47] pollux8888**  
-publique, par des études d'avocats, faire de l'expertison et tribunal.
+**[00:24:56 - 00:24:56] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:17:47 - 00:17:51] pollux8888**  
-Après, j'ai créé une société en parallèle après avoir quitté.
+**[00:24:59 - 00:24:59] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:17:51 - 00:17:55] pollux8888**  
-Il y a, qui est dans l'analyse des sentiments des marchés boursiers.
+**[00:25:02 - 00:25:02] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:17:55 - 00:17:59] pollux8888**  
-On utilise en tout ce qui est AIML et Jean-Passant.
+**[00:25:05 - 00:25:05] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:17:59 - 00:18:04] pollux8888**  
-Par rapport à des données alternatives, je vais t'il disparaire.
+**[00:25:07 - 00:25:07] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:18:04 - 00:18:07] pollux8888**  
-En fait, la société n'est pas la vocation pour faire du Forensic.
+**[00:25:10 - 00:25:10] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:18:07 - 00:18:11] pollux8888**  
-Mais j'ai à tout ce qui a investi gasé, je le fais à côté.
+**[00:25:13 - 00:25:13] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:18:11 - 00:18:16] pollux8888**  
-Avec d'autres outils, pas les outils de la société, c'est pas ce que c'est pas notre marché.
+**[00:25:16 - 00:25:16] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:18:16 - 00:18:19] pollux8888**  
-c'est pas en 20 comptes, ce qu'on vend, non client.
+**[00:25:19 - 00:25:19] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:18:19 - 00:18:23] pollux8888**  
-Ah mais c'est vrai que je suis très, je suis resté comme très tech,
+**[00:25:21 - 00:25:21] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:18:23 - 00:18:27] pollux8888**  
-très touch à tout, très geek encore, hein.
+**[00:25:23 - 00:25:23] speaker**
+Je ne suis pas mal d'accord.
 
-**[00:18:27 - 00:18:32] pollux8888**  
-Mais il est clair que tout ce qui est à la sécurité,
+**[00:25:26 - 00:25:26] speaker**
+Ohai quelqu'un.
 
-**[00:18:32 - 00:18:40] pollux8888**  
-d'argnette, voilà, et au autre, je connais pour les avoir experimenté.
+**[00:25:28 - 00:25:28] speaker**
+Jeicerai un peu par exemple.
 
-**[00:18:40 - 00:18:48] pollux8888**  
-Et puis je connais tout ce qui est utile à travers s'arriant.
+**[00:25:36 - 00:25:36] speaker**
+Ah,itten,
 
-**[00:18:48 - 00:18:52] pollux8888**  
-Voilà, ça c'est vraiment un petit résumé de mon parcours.
+**[00:25:39 - 00:25:39] speaker**
+Notre bouquet à l'âme, un peu de tarplicité, encore au Pente-Clo, j'ai commandé un
 
-**[00:18:56 - 00:18:58] pollux8888**  
-Ah oui oui, mais il n'est pas marqué?
+**[00:25:50 - 00:25:50] speaker**
+matinier, mais il n'est pas encore arrivé.
 
-**[00:18:59 - 00:19:07] pollux8888**  
-Ah oui, alors mon prénom est pas le l'un et puis le nom de famille est Wang.
+**[00:25:52 - 00:25:52] speaker**
+On l'a dit, de retour de Snapchat.
 
-**[00:19:07 - 00:19:13] pollux8888**  
-W. Oui. Ok. Ah, je m'y ai pas l'uice parce que toujours l'été mon accroignement depuis...
+**[00:25:55 - 00:25:55] speaker**
+Ouais, alors, ce ne pas j'ai des enfants, il se jamais se tente à rass.
 
-**[00:19:15 - 00:19:19] _redsun**  
-Il y a Craig dans l'optitude, c'est une zone à l'hôlée.
+**[00:25:59 - 00:25:59] speaker**
+Allez, ils sont roulentures et ils y allaient me s'encargner, ils ne doivent pas
 
-**[00:19:19 - 00:19:22] _redsun**  
-Après je vais un transcribe, tu as juste un grand.
+**[00:26:03 - 00:26:03] speaker**
+le recevoir.
 
-**[00:19:22 - 00:19:26] _redsun**  
-En or, c'est un peu une peau qui fait de transcribe de l'aréunion.
+**[00:26:04 - 00:26:04] speaker**
+Ouais, je vois, on va voir.
 
-**[00:19:26 - 00:19:29] _redsun**  
-Après, je sais que tu es qui, et tu fais quoi.
+**[00:26:07 - 00:26:07] speaker**
+C'est vrai, je suis chez.
 
-**[00:19:29 - 00:19:34] _redsun**  
-Parfait, c'est ce qu'on a l'effetre, mais j'apprends un petit peu que les gens
+**[00:26:08 - 00:26:08] speaker**
+Il y a une idée de la planne.
 
-**[00:19:34 - 00:19:37] _redsun**  
-on a fait que c'est vrai que c'est vrai que tu as fait en la réfer parce que tu as bien tapé les deux fois
+**[00:26:10 - 00:26:10] speaker**
+La planne.
 
-**[00:19:39 - 00:19:47] _redsun**  
-je pense qu'on va en fait quoi en commence à tout de suite on attend encore à
+**[00:26:11 - 00:26:11] speaker**
+La planne.
 
-**[00:19:47 - 00:19:53] _redsun**  
-deux minutes que les gens y viennent quoi on peut commencer tranquillement à
+**[00:26:12 - 00:26:12] speaker**
+La diminousse, mais voilà.
 
-**[00:19:51 - 00:20:01] gilles_35307**  
-Je pense que je vois qu'il y a un anot, je profite message comme quoi ça permet aussi du business
+**[00:26:13 - 00:26:13] speaker**
+Voilà.
 
-**[00:20:00 - 00:20:18] nano1992_**  
-Coulc, coulc, p'a maje, je vais t'avoir eu mon site, avant la fin de l'assume, je suis au plan de nom.
+**[00:26:14 - 00:26:14] speaker**
+Voilà.
 
-**[00:20:03 - 00:20:08] gilles_35307**  
-Arnot, j'ai parlé de Toista Prémidis, c'est bon, je te fais la mise en connexion ce soir,
+**[00:26:15 - 00:26:15] speaker**
+Voilà.
 
-**[00:20:08 - 00:20:12] gilles_35307**  
-donc t'es service interesse, donc j'ai parti.
+**[00:26:16 - 00:26:16] speaker**
+On a tendance, je me documente, j'apprends que, quand on s'asspea,
 
-**[00:20:20 - 00:20:24] gilles_35307**  
-Maintenant avec un postite en papier, un style ou un petit arc, une feuille de mille ce soir.
+**[00:26:19 - 00:26:19] speaker**
+ça va devoir passer sans pratique.
 
-**[00:20:24 - 00:20:28] gilles_35307**  
-On a beau digitant, on reste quand même dans les sensiels.
+**[00:26:22 - 00:26:22] speaker**
+J'ai des temps que on va le mettre sur mon ordey perso.
 
-**[00:20:33 - 00:20:36] _redsun**  
-Non, t'es génial parce que pour ceux qui débarquent, là, en fait,
+**[00:26:25 - 00:26:25] speaker**
+Ah, je ne veux pas avoir un truc d'idier, mais bon, voilà, je n'apprends.
 
-**[00:20:36 - 00:20:40] _redsun**  
-Arnogis, ils ont parlé, ils ont trouvé des atomes cochus et puis du coup,
+**[00:26:33 - 00:26:33] speaker**
+Ok, donc petit, et ça, je reste très bon de rapidement, que ça t'as déjà une
 
-**[00:20:40 - 00:20:44] _redsun**  
-bah c'est génial, c'est exactement pour ça que...
+**[00:26:40 - 00:26:40] speaker**
+réponse.
 
-**[00:20:46 - 00:20:48] gilles_35307**  
-Le but de tout ça, c'est pas ce monde-dire.
+**[00:26:41 - 00:26:41] speaker**
+Alors, dis, perceaux, c'est vachement de parre recommandé.
 
-**[00:20:48 - 00:20:52] gilles_35307**  
-c'est pas ça plus mondial qu'on est un mec mini X et tonne que c'est super joli que ça fait des choses
+**[00:26:44 - 00:26:44] speaker**
+Ça chancit d'alfoule qu'entre eux, c'est qu'à un hyper d'endroit.
 
-**[00:20:52 - 00:20:55] gilles_35307**  
-au solide mais c'est surtout on est tout cela pour faire la chrine
+**[00:26:47 - 00:26:47] speaker**
+On s'enquête effectivement avec ministre ou une autre machine, c'est plutôt recommandé.
 
-**[00:20:56 - 00:20:59] gilles_35307**  
-ouais j'aurais le tout à ce que ça me fait
+**[00:26:53 - 00:26:53] speaker**
+Et puis même, j'ai passé, ça peut être une zibécade, mais j'ai boute, je vous l'ai boute, ça va.
 
-**[00:20:56 - 00:20:58] _redsun**  
-Pas à spià moyen, ça m'a fait que...
+**[00:26:58 - 00:26:58] speaker**
+Sur bien, hein.
 
-**[00:20:59 - 00:21:03] gilles_35307**  
-on va pas balancer de la ronde on va lui le mettre mini et de Tolkien pour que pour
+**[00:26:59 - 00:26:59] speaker**
+Si j'en connais.
 
-**[00:21:03 - 00:21:07] gilles_35307**  
-que le final ça a nourriss un malde mané ou de quoi
+**[00:27:00 - 00:27:00] speaker**
+Après avoir changé le disc.
 
-**[00:21:12 - 00:21:14] pollux8888**  
-Voilà, bon no à part, il n'y a pas rien encore de la vente, non ?
+**[00:27:02 - 00:27:02] speaker**
+Voilà.
 
-**[00:21:16 - 00:21:18] _redsun**  
-Alors, bah, on va commencer à tranquillement.
+**[00:27:03 - 00:27:03] speaker**
+Ho-ho!
 
-**[00:21:18 - 00:21:21] _redsun**  
-Moi, je fais toujours une espèce de petit fil rouge.
+**[00:27:04 - 00:27:04] speaker**
+Oui.
 
-**[00:21:21 - 00:21:23] _redsun**  
-Je n'en sais pas vraiment une présentation de ce...
+**[00:27:05 - 00:27:05] speaker**
+Oui, oui, effectivement.
 
-**[00:21:27 - 00:21:33] _redsun**  
-On a plus ça pour discuter de ce qu'on a fait, de ce qu'on a vu, des problèmes qu'on a rencontré, etc.
+**[00:27:06 - 00:27:06] speaker**
+Après avoir changé le disc.
 
-**[00:21:33 - 00:21:36] _redsun**  
-C'est une petite piseage, je vois, c'est un événement qu'on fait tous les mercredi.
+**[00:27:08 - 00:27:08] speaker**
+Ok, c'est.
 
-**[00:21:36 - 00:21:41] _redsun**  
-Applité, c'est pour échangeé simplement, on va la discuter un petit peu.
+**[00:27:10 - 00:27:10] speaker**
+Alors, j'ai juste parlé pour Yenne, parce qu'il n'a pas une micro.
 
-**[00:21:41 - 00:21:44] _redsun**  
-Et puis entre deux on va essayer de pêcher ça par des plus gros éventes.
+**[00:27:14 - 00:27:14] speaker**
+Comme ça, je sais.
 
-**[00:21:44 - 00:21:49] _redsun**  
-Donc il faut vraiment que je lui mette, c'est beaucoup tout qu'à faire en séance, vraiment.
+**[00:27:15 - 00:27:15] speaker**
+Donc, Kriyenne, je m'appelle Rien actuellement en recondition vers le déve de plus de deux ans en
 
-**[00:21:49 - 00:21:52] _redsun**  
-Et il faut qu'on a organisé vraiment un gros éventes.
+**[00:27:20 - 00:27:20] speaker**
+d'actes puis récemment à l'école 42 de l'Ozane. Ah ok, intéressant.
 
-**[00:21:52 - 00:21:56] _redsun**  
-Donc voilà, donc il y a tous les niveaux, donc là il n'y a pas le vend,
+**[00:27:24 - 00:27:24] speaker**
+On le garde au du mesure chômage. Ah des aides, ok.
 
-**[00:21:56 - 00:22:00] _redsun**  
-qui est un train de mettre la varassez rouge et un poiseur.
+**[00:27:30 - 00:27:30] speaker**
+Ok, d'un petit à l'aiseur, c'est parce qu'il ne connaisse pas, c'est une mesure
 
-**[00:22:00 - 00:22:05] pollux8888**  
-Par rapport à vous, vu que je ne l'ai pas expérimenté encore.
+**[00:27:36 - 00:27:36] speaker**
+du chômage qui permet de formaliser, de formaliser, de formaliser, de découvrir tout ce
 
-**[00:22:10 - 00:22:13] _redsun**  
-Ouais, on va y accueillir, on va se t'aider bien.
+**[00:27:42 - 00:27:42] speaker**
+qu'après à l'hier et donc tu a priori, ce qu'il a fait.
 
-**[00:22:14 - 00:22:16] _redsun**  
-Justement, on va parler un peu de tout ça.
+**[00:27:49 - 00:27:49] speaker**
+En avoir que ça désedte ma fière guillement.
 
-**[00:22:16 - 00:22:19] _redsun**  
-Je prends des sujets pour avoir des débats.
+**[00:27:51 - 00:27:51] speaker**
+Non, non.
 
-**[00:22:20 - 00:22:22] _redsun**  
-Et si vous avez des trucs à montrer,
+**[00:27:52 - 00:27:52] speaker**
+On va rassurer pour l'autre qui est en rassurer pas longtemps.
 
-**[00:22:22 - 00:22:27] _redsun**  
-ou autre, bah n'hésitez pas à partager, je peux laisser des crampes pour montrer des
+**[00:27:58 - 00:27:58] speaker**
+C'est un jour, ça rage et d'autre.
 
-**[00:22:27 - 00:22:30] _redsun**  
-justquets, des trucs que vous avez trouvé. Moi ce soir je voulais vous montrer un truc
+**[00:28:04 - 00:28:04] speaker**
+Ok, donc bah, ce pas marche, c'est à d'autres choses.
 
-**[00:22:30 - 00:22:33] _redsun**  
-peut-être qui intéresse, alors je ne suis pas si saint-est tout le monde, mais ça a
+**[00:28:09 - 00:28:09] speaker**
+Alors, j'ai eu le dire aussi, la rale vous t'aie quelque chose.
 
-**[00:22:33 - 00:22:38] _redsun**  
-juste qu'est-ce que j'ai trouvé moi, c'est assez sympa, c'est que j'ai pleuillé une
+**[00:28:12 - 00:28:12] speaker**
+Donc j'utilise des LMS avec app, poïs, ou via euria, auria, le fameux.
 
-**[00:22:38 - 00:22:47] _redsun**  
-appui mes chi qui permettent de la génération 3D à la voler avec mon oeuvre, donc du coup
+**[00:28:17 - 00:28:17] speaker**
+Ah, d'avoir d'air, ça m'intéresse, parce que moi, je connais personne qui l'utilise
 
-**[00:22:47 - 00:22:52] _redsun**  
-On peut faire des sites et faire d'amadélisation 3D à la demande.
+**[00:28:21 - 00:28:21] speaker**
+euria, ou très peu quoi.
 
-**[00:22:53 - 00:22:55] _redsun**  
-C'est assez sympa, c'est assez visuel, c'est assez choix.
+**[00:28:23 - 00:28:23] speaker**
+Parce que, parce que plein de raisons, mais justement, d'avoir une machine suffisamment
 
-**[00:22:55 - 00:23:00] _redsun**  
-Donc je voulais montrer ça sur, puis le thème aussi, je voulais comparer un petit peu de jemas.
+**[00:28:28 - 00:28:28] speaker**
+dispôt pour faire tourner G-M-4 en local.
 
-**[00:23:00 - 00:23:05] _redsun**  
-J'ai ma carte, je pense qu'il y a vraiment un truc à des creuses à derrière, et ça en train de
+**[00:28:31 - 00:28:31] speaker**
+Alors, justement, on va parler G-M-4, moi j'ai fait pas mal de tests.
 
-**[00:23:08 - 00:23:11] _redsun**  
-Et voilà, c'est des sujets comme ça, après c'est d'autres choses à apporter.
+**[00:28:34 - 00:28:34] speaker**
+Donc je fais, pour avoir vos uns, des rentres un peu plus.
 
-**[00:23:12 - 00:23:18] _redsun**  
-Mais là justement, l'idée, c'était de faire, en fait, moi, je suis un train de ricar des tombes.
+**[00:28:36 - 00:28:36] speaker**
+C'est vraiment génial et ça torne sur des petites bécares, donc c'est super agréable.
 
-**[00:23:18 - 00:23:22] _redsun**  
-Et comme ça, je veux savoir qui fait qu'on re-eau dans le groupe.
+**[00:28:41 - 00:28:41] speaker**
+Et ça permet de papéer ces tokens, de faire tourner des démènes, des trucs hage-M-4,
 
-**[00:23:22 - 00:23:26] _redsun**  
-Et pour ça, en fait, la dernière fois, ce qu'on a fait, c'est qu'on s'était présentée.
+**[00:28:46 - 00:28:46] speaker**
+surtout pour les cronges joues, pour les trucs comme ça.
 
-**[00:23:26 - 00:23:30] _redsun**  
-Et puis, on a, moi, j'ai fait n'est-il une distincte de profil?
+**[00:28:49 - 00:28:49] speaker**
+Et puis sinon, bah c'est tout.
 
-**[00:23:30 - 00:23:33] _redsun**  
-Et comme ça, je sais qui je peux mettre en relation avec qui,
+**[00:28:53 - 00:28:53] speaker**
+Ok, il y a Philippe Kintik, quoi l'un de sons, c'est pas rave.
 
-**[00:23:33 - 00:23:37] _redsun**  
-ou voilà, bah c'est super intéressant de ça-dire qu'il peut faire quoi.
+**[00:28:59 - 00:28:59] speaker**
+C'est pas de ces discours.
 
-**[00:23:37 - 00:23:41] _redsun**  
-Donc là, il n'y a pas l'une Zagia expliqué, mais l'idée c'était se présentée.
+**[00:29:01 - 00:29:01] speaker**
+Aïal Fondzau qui nous dit, j'utilise un peu une clôt,
 
-**[00:23:41 - 00:23:47] _redsun**  
-En 30 secondes avec 3 questions, tout de suite, c'est non activité de projet qui se vous faites en
-
-**[00:23:47 - 00:23:53] _redsun**  
-haut, qu'il y a vous justi des instruments et qu'est-ce que vous vous n'échirchez ? Et moi, avec
-
-**[00:23:53 - 00:23:57] _redsun**  
-Craig, en fait, ça me permet de noter tout ce genre de trucs, puis après, de faire un résumé
-
-**[00:23:57 - 00:24:03] _redsun**  
-de ce que vous faites, qui vous êtes, quels sont vos besoins en haut. Donc là, il y a
-
-**[00:24:03 - 00:24:12] _redsun**  
-Il y a trois nouveaux, c'est ça. Il y a Rien, il y a Fali et il y a Afondos. Donc on va y aller par
-
-**[00:24:12 - 00:24:17] _redsun**  
-Arval Fabétique. Je ne sais pas si vous êtes tous des micros, c'est bon. Afondos, je ne sais pas si tu
-
-**[00:24:17 - 00:24:22] _redsun**  
-peux nous te présenter juste 30 secondes, quelques questions que tu as, donc qui tu as.
-
-**[00:24:22 - 00:24:28] _redsun**  
-Est-ce que tu fais, est-ce que tu dis ce comme il y a, est-ce que tu fais un chercheur ici?
-
-**[00:24:35 - 00:24:40] _redsun**  
-Puis, il y a pas de micro, c'est pas grave.
-
-**[00:24:40 - 00:24:43] _redsun**  
-Allez, il y a pas d'air d'avard de micro.
-
-**[00:24:43 - 00:24:47] _redsun**  
-Il y a de temps de vivre dans notre chat.
-
-**[00:24:47 - 00:24:52] _redsun**  
-Alors, pas d'icrôtes, donc peut-être, mais je peux faire une présentation.
-
-**[00:24:52 - 00:24:56] _redsun**  
-Par exemple, il contente faire partie sur la OK.
-
-**[00:24:56 - 00:24:59] _redsun**  
-Alors ça, c'est pas à fondre, c'est à Viennes.
-
-**[00:25:06 - 00:25:11] _redsun**  
-Si peut-être présenter, juste dure qu'il y a que ce tu fais pour la télac, c'est ce que t'as pas.
-
-**[00:25:07 - 00:25:15] _faly**  
-Oui, salut, alors je m'appelle Fali.
-
-**[00:25:15 - 00:25:22] _faly**  
-Et dans le domaine associatif, je m'occupe des associations dans le domaine du REL.
-
-**[00:25:22 - 00:25:36] _faly**  
-Les IACs, je dis aux quotidiens, bon, pas j'ai pété Claude pour voir que surtout un peu de Claude
-
-**[00:25:36 - 00:25:40] _faly**  
-Claude Claude design aussi. J'ai essayé pour faire un site de phas naturen, très sainte.
-
-**[00:25:40 - 00:25:45] _faly**  
-Notre bouquet elle aime un peu de tarplitude.
-
-**[00:25:45 - 00:25:52] _faly**  
-Encore au point de clôt, j'ai commandé un matiné, mais il n'est pas encore arrivé.
-
-**[00:25:52 - 00:25:56] _faly**  
-On l'a été le cas de rupture de ce n'occupe.
-
-**[00:26:01 - 00:26:04] _redsun**  
-et les ms en carréves, donc tu n'as peut-être pas le recevoir.
-
-**[00:26:10 - 00:26:21] _faly**  
-On a tendance, je me documente, je n'apprends que ça se passe avant de voir passer
-
-**[00:26:10 - 00:26:14] _redsun**  
-Ça porte des bâtigneuses, mais voilà, car...
-
-**[00:26:22 - 00:26:25] _faly**  
-J'ai été encore à le mettre sur mon ennemi sur mon ennemi.
-
-**[00:26:23 - 00:26:40] _redsun**  
-Ok, donc petit que ça je résoudre répondre rapidement que ça t'as déjà une réponse.
-
-**[00:26:25 - 00:26:33] _faly**  
-J'ai plutôt un peu à tout le dédié, mais bon, je n'apprends.
-
-**[00:26:40 - 00:26:43] _redsun**  
-Alors, dis perço, c'est vachement pas recommandé.
-
-**[00:26:43 - 00:26:47] _redsun**  
-Ça chante qu'il a le full control, c'est quand même hyper d'en re.
-
-**[00:26:47 - 00:26:53] _redsun**  
-C'est pour ça que effectivement, un économiste ou une autre machine, c'est plutôt recommandé.
-
-**[00:26:53 - 00:26:58] _redsun**  
-Et puis même un vieux PC, ça peut être une vie de bécade, mais il y a eu les bruits, ça marche.
-
-**[00:27:07 - 00:27:15] _redsun**  
-Ok, alors, j'ai juste parlé pour Yann, parce qu'il n'y a pas de micro, comme ça, je sais,
-
-**[00:27:15 - 00:27:45] _redsun**  
-de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de l'Ontario de
-
-**[00:27:48 - 00:27:51] gilles_35307**  
-Renévoix, fais des édmaffiragudements.
-
-**[00:27:51 - 00:27:58] gilles_35307**  
-On va rassurer pour l'autre qui est un peu long qui nous a reçu.
-
-**[00:27:53 - 00:28:23] _redsun**  
-Non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non
-
-**[00:28:23 - 00:28:28] _redsun**  
-parce que parce que plein de raisons, mais justement, d'avoir une machine suffisamment
-
-**[00:28:28 - 00:28:33] _redsun**  
-d'espo pour faire tourner G-M4 en local. Alors justement, on va parler G-M4,
-
-**[00:28:33 - 00:28:36] _redsun**  
-moi j'ai fait pas mal de tests, donc je fais pour avoir vos uns des vainres
-
-**[00:28:36 - 00:28:40] _redsun**  
-peu plus. C'est vraiment génial et ça torne sur des petites becaires, donc c'est super
-
-**[00:28:40 - 00:28:43] _redsun**  
-agréable. Et ça permet de popper ces tokens, différentes
-
-**[00:28:43 - 00:28:48] _redsun**  
-tourner des démènes, des trucs à Joan 4, tornt tout pour les cronges,
-
-**[00:28:48 - 00:28:53] _redsun**  
-je voulais tout comme ça. Et puis sinon, bah c'est tout.
-
-**[00:28:53 - 00:28:59] _redsun**  
-Ok, il y a Philippe qui a un petit coin de son, c'est pas grave.
-
-**[00:29:01 - 00:29:05] _redsun**  
-Ailleurs, le fonds-au qui nous dit, j'utilise un Penclore,
-
-**[00:29:05 - 00:29:07] _redsun**  
+**[00:29:05 - 00:29:05] speaker**
 si on peut essayer, mais il découvre en fait.
 
-**[00:29:07 - 00:29:09] _redsun**  
-Donc il est vraiment dans la découverte.
+**[00:29:07 - 00:29:07] speaker**
+Donc il est vraiment dans la décorde.
 
-**[00:29:09 - 00:29:13] _redsun**  
-Ok, ça marche. Comme ça, c'est noté pour les profils.
+**[00:29:09 - 00:29:09] speaker**
+Ok, ça marche.
 
-**[00:29:13 - 00:29:17] _redsun**  
-Donc si jamais il y a un gars qui a déchissons sur eux,
+**[00:29:10 - 00:29:10] speaker**
+Donc comme ça, c'est noté pour les profils.
 
-**[00:29:17 - 00:29:20] _redsun**  
-et les voir rien, on a testé un petit peu,
+**[00:29:13 - 00:29:13] speaker**
+Donc si jamais il y a un gars qui a déquestion sur Aïal,
 
-**[00:29:20 - 00:29:25] _redsun**  
-justement quand on a fait la mesure des aides avec Ardon,
+**[00:29:17 - 00:29:17] speaker**
+pour aller voir Aïal, on a testé un petit peu.
 
-**[00:29:25 - 00:29:27] _redsun**  
-on avait testé un petit peu, mais pas beaucoup moins.
+**[00:29:20 - 00:29:20] speaker**
+Justement, quand on a fait la mesure des aides avec Ardon,
 
-**[00:29:38 - 00:29:44] nano1992_**  
-Et au regard de la nouvelle, c'est que ça mêlant dans plus de plusieurs modèles.
+**[00:29:25 - 00:29:25] speaker**
+on avait testé un petit peu, mais pas beaucoup avant.
 
-**[00:29:56 - 00:30:01] nano1992_**  
-J'ai pas s'il n'a plus... est-ce qu'il doit intégrer à toute la suite un fourmagnac,
+**[00:29:29 - 00:29:29] speaker**
+Et quelqu'un d'autre qui dit, Réal, est-ce d'un fourmanec?
 
-**[00:30:01 - 00:30:08] nano1992_**  
-la fomèner à quel suite équivalent à celle de Microsoft ou de Google.
+**[00:29:33 - 00:29:33] speaker**
+On personne.
 
-**[00:30:08 - 00:30:12] nano1992_**  
-Je ne sais pas si je ne faisais aucun point de comment faire la fomèner qui ne sont pas,
+**[00:29:35 - 00:29:35] speaker**
+Réal.
 
-**[00:30:12 - 00:30:17] nano1992_**  
-par exemple que je peux activer en même est-il, peut-être que je t'invite ce quoi ?
+**[00:29:38 - 00:29:38] speaker**
+Et Réal, c'est un, tout que d'un dernier nouvel, c'est de ça.
 
-**[00:30:17 - 00:30:27] nano1992_**  
-Parce que pour des petites, pour des usages en limit simple, pense qu'elle est tout
+**[00:29:42 - 00:29:42] speaker**
+Mais l'enveil en plus de plusieurs modèles.
 
-**[00:30:27 - 00:30:34] nano1992_**  
-fonctionnelle, typiquement la priorisation de mail, la synthèse, selon deux fois, je pense que c'est
+**[00:29:45 - 00:29:45] speaker**
+C'est ça.
 
-**[00:30:34 - 00:30:40] _redsun**  
-Après réchaîner du coin, c'est du coin 36 qui tournèrent rien sur le coin.
+**[00:29:47 - 00:29:47] speaker**
+Non, non, c'est juste un fait ça.
 
-**[00:30:35 - 00:30:44] nano1992_**  
-Je crois qu'ils ont 4 modèles et puis en fonction de la page, ça d'hospage sur modèle
+**[00:29:48 - 00:29:48] speaker**
+Mais qu'est-ce que ça l'a question, c'est un mythe,
 
-**[00:31:06 - 00:31:12] _redsun**  
-les lèmes sont très limités donc la place vraiment de j'adjbt au moins j'apprécie d'avoir
+**[00:29:52 - 00:29:52] speaker**
+c'est des bons, c'était des par bon.
 
-**[00:31:12 - 00:31:16] _redsun**  
-tiré respect de la vie plus l'air. Ça c'est une vraie question par contre Rien,
+**[00:29:55 - 00:29:55] speaker**
+C'est un vrai question, quoi.
 
-**[00:31:16 - 00:31:20] _redsun**  
-sinon pour le d'avg open code, ah ouais, ça ne vous coupe plus loin.
+**[00:29:57 - 00:29:57] speaker**
+J'ai pas s'il n'a plus, est-ce qu'il doit intégrer
 
-**[00:31:20 - 00:31:25] _redsun**  
-Sur toute mes machines et avant ça j'étais sur Gemini C. L.
+**[00:29:59 - 00:29:59] speaker**
+à toute la suite un fourmanec, plus qu'à fourmanec,
 
-**[00:31:25 - 00:31:32] _redsun**  
-Ok, donc intéressant pour que d'ailleurs la les meilleurs en tout cas en Bench et pour les
+**[00:30:02 - 00:30:02] speaker**
+à une suite équivalente à celle de Microsoft.
 
-**[00:31:32 - 00:31:39] _redsun**  
-avoir testé par mal, c'est pour moi, c'est soit plus catis, bizarrement pas catisette,
+**[00:30:06 - 00:30:06] speaker**
+Et ou de Google.
 
-**[00:31:39 - 00:31:44] _redsun**  
-je ne suis pas je trouve mon brun, où j'ai pété 55°C, en ressort de cadax,
+**[00:30:09 - 00:30:09] speaker**
+Je ne sais pas si je suis une fice de tout qu'à moi,
 
-**[00:31:44 - 00:31:48] _redsun**  
-c'est vraiment là pour le moins je trouve c'est vraiment le meilleur,
+**[00:30:10 - 00:30:10] speaker**
+j'ai sur mon contact fourmanec,
 
-**[00:31:48 - 00:31:52] _redsun**  
-des argentins du dire avec CD-Concarnet, que à la CD-Convallet,
+**[00:30:12 - 00:30:12] speaker**
+qui ne semblent pas.
 
-**[00:31:52 - 00:31:57] _redsun**  
-les développeurs sont en train de peu de basculer sur cadax à cause du
+**[00:30:12 - 00:30:12] speaker**
+Par exemple que je peux activer, rien dans mes meules,
 
-**[00:31:57 - 00:32:02] _redsun**  
-des restrictions à l'immutation de la quantité de taquette.
+**[00:30:16 - 00:30:16] speaker**
+peut-être que je t'imbête, c'est ce quoi.
 
-**[00:32:02 - 00:32:07] _redsun**  
-Donc c'est vrai qu'on peut que des beaucoup plus avec un abonnement simple,
+**[00:30:20 - 00:30:20] speaker**
+Parce que pour des petites, pour des usages en vie mais simple,
 
-**[00:32:07 - 00:32:11] _redsun**  
-que ça j'ai pété avant-ball, que avec les trucs, des phrases,
+**[00:30:26 - 00:30:26] speaker**
+pense qu'elle est tout à fait fonctionnelle,
 
-**[00:32:11 - 00:32:17] _redsun**  
-flots qui sont beaucoup plus limités.
+**[00:30:29 - 00:30:29] speaker**
+typiquement la priorisation de mail, la synthèse,
 
-**[00:32:19 - 00:32:28] _redsun**  
-Donc, d'habitude, présentation, j'ai juste reprendre Viennes qui répondent,
+**[00:30:32 - 00:30:32] speaker**
+selon deux fois, je pense que c'est...
 
-**[00:32:28 - 00:32:32] _redsun**  
-que d'être revient en force effectivement, entrepique, au point beaucoup d'essisions anti-custammer
+**[00:30:34 - 00:30:34] speaker**
+Après, c'est une vraie, non.
 
-**[00:32:33 - 00:32:38] _redsun**  
-A d'ailleurs, il y a un gros sujet et moi, je suis assez d'accord avec cette théorie là.
+**[00:30:35 - 00:30:35] speaker**
+C'est du coin, 36, il est ondale.
 
-**[00:32:38 - 00:32:44] _redsun**  
-Vous savez, le fameux projet mythos, tout le monde entend du par les mythos, je suppose
+**[00:30:38 - 00:30:38] speaker**
+Ah, qu'ils ont quatre modèles, et puis en fonction de la page,
 
-**[00:32:44 - 00:32:47] _redsun**  
-une mythole, c'est le plus gros projet de chez anthropique.
+**[00:30:42 - 00:30:42] speaker**
+ça disparache sur modèle plus efficient.
 
-**[00:32:47 - 00:32:50] _redsun**  
-Ça va des ans qu'ils n'ont pas sorti puisqu'ils étaient trop puissants.
+**[00:30:48 - 00:30:48] speaker**
+Donc là, pourquoi pas, mais c'est-ce que tout,
 
-**[00:32:50 - 00:32:56] _redsun**  
-La vraie raison, c'est des rummeurs, mais ça serait qu'ils ont pas cette puissance pour le sorti.
+**[00:30:51 - 00:30:51] speaker**
+pourquoi?
 
-**[00:32:56 - 00:33:02] _redsun**  
-Et que l'aïs sont un petit peu à bout en termes de capacité,
+**[00:30:52 - 00:30:52] speaker**
+Non, mais c'est une vraie question.
 
-**[00:33:02 - 00:33:05] _redsun**  
-parce qu'ils ont pris aussi beaucoup de clients en un coup.
+**[00:30:55 - 00:30:55] speaker**
+Le L'Ophre-Kia, qui est sur le marché en un pays,
 
-**[00:33:05 - 00:33:11] _redsun**  
-Et mon avis, ils sont un petit peu dans la sauce en termes de...
+**[00:30:58 - 00:30:58] speaker**
+c'est un cas un bon groupe de fois.
 
-**[00:33:11 - 00:33:18] _redsun**  
-pour provider en fait du taquaine, mais c'était pas encore enfermement, mais il y a quand même beaucoup de humeur va être succès.
+**[00:31:00 - 00:31:00] speaker**
+Alors, il y a rien qui répond,
 
-**[00:33:18 - 00:33:25] gilles_35307**  
-Je l'ai lu que les représentants négouvant de mon repeint, c'était épingché sur le sujet de mythos,
+**[00:31:02 - 00:31:02] speaker**
+je me fasse à savoir comme ça tout vous peut écouter.
 
-**[00:33:25 - 00:33:28] gilles_35307**  
-et que par amance, il y a un petit peu tout le monde.
+**[00:31:05 - 00:31:05] speaker**
+C'est juste que les zones, elles elles lèvent sont très limitées,
 
-**[00:33:27 - 00:33:39] _redsun**  
-Parce que en fait c'est vrai qu'il peut faire basse, on termbe de cybercès que plus, c'est un des irréhépires dans le drôle.
+**[00:31:07 - 00:31:07] speaker**
+donc la piste sur l'atel en place vraiment de chaque épété.
 
-**[00:33:41 - 00:33:56] _redsun**  
-On va voir ce qu'on a fait, mais on va recommencer à évoluer.
+**[00:31:11 - 00:31:11] speaker**
+Au moins, j'apprécie d'appartir,
 
-**[00:33:57 - 00:34:03] nano1992_**  
-Il me semble compter ce qu'il est-il, non ?
+**[00:31:12 - 00:31:12] speaker**
+respet de la vie plus l'air.
 
-**[00:34:07 - 00:34:11] _redsun**  
-Si on est en front du fond des rires, donc c'était des attraper, on a une tente.
+**[00:31:13 - 00:31:13] speaker**
+Ça, c'est une vraie question par contre rien.
 
-**[00:34:14 - 00:34:17] pollux8888**  
-Pas c'est de ressources comme mythos.
+**[00:31:16 - 00:31:16] speaker**
+Si non, pour le débat, j'ai OpenCode.
 
-**[00:34:24 - 00:34:26] _redsun**  
-C'était pour la petite introduction.
+**[00:31:19 - 00:31:19] speaker**
+Ah ouais, ça va beaucoup plus loin.
 
-**[00:34:26 - 00:34:33] _redsun**  
-Donc en gros, moi je voulais parler aussi de GMA, était le sujet aussi de la soirée.
+**[00:31:21 - 00:31:21] speaker**
+Sur toute mes machines et avant ça, j'étais sur Gemini, c'est Alice.
 
-**[00:34:28 - 00:34:56] bensmart**  
-Non pas du tout alors j'ai pas très bien suivi ça peut être un petit d'entre eux
+**[00:31:25 - 00:31:25] speaker**
+OK.
 
-**[00:34:33 - 00:34:37] _redsun**  
-Ce n'est pas, est-ce que quelqu'un a testé GMA qui a apprécié ?
+**[00:31:26 - 00:31:26] speaker**
+Donc, intéressant pour que d'être un lala les meilleurs en tout cas en Bench,
 
-**[00:34:37 - 00:34:44] _redsun**  
-Oui, ah, il y a rien qui dit qu'il a testé.
+**[00:31:31 - 00:31:31] speaker**
+et pour les avoir testé par mal,
 
-**[00:34:44 - 00:34:48] _redsun**  
-Il a pas franchement, il s'est super intéressant, bon, t'as testé.
+**[00:31:34 - 00:31:34] speaker**
+c'est pour moi, c'est soit plus catis,
 
-**[00:34:56 - 00:35:00] bensmart**  
-Ce que c'est, j'ai ma quatre, je suis un peu lâché à ces dernières temps,
+**[00:31:38 - 00:31:38] speaker**
+bizarrement pas catisette.
 
-**[00:35:00 - 00:35:05] bensmart**  
-puisque je me suis concentré sur un silence de moins de euros.
+**[00:31:39 - 00:31:39] speaker**
+Je ne suis pas je trouve mon bonbon.
 
-**[00:35:05 - 00:35:12] bensmart**  
-J'espère, j'espère très prochainement que je suis pas heure, un bon honneau, un bon dîle,
+**[00:31:41 - 00:31:41] speaker**
+Ou j'ai pété 55°C sur Cadax.
 
-**[00:35:12 - 00:35:21] bensmart**  
-d'abonnement, en fait, moins cher pour ceux qui s'intéressent à la création de vidéos avec aussi dans...
+**[00:31:45 - 00:31:45] speaker**
+Moi, c'est vraiment là pour le moins, je trouve c'est le vraiment le meilleur.
 
-**[00:35:21 - 00:35:35] bensmart**  
-C'est comme, comme je dis, il est toujours des prix, des pricing officiels, tu trouves sur les sites et différents modèles, des différents plateformes etc.
+**[00:31:49 - 00:31:49] speaker**
+D'ailleurs, j'ai entendu dire avec CD-Concarnet,
 
-**[00:35:35 - 00:35:37] bensmart**  
-Et après, il a toujours les promo codes.
+**[00:31:51 - 00:31:51] speaker**
+que à la CD-Convallet,
 
-**[00:35:37 - 00:35:44] bensmart**  
+**[00:31:53 - 00:31:53] speaker**
+les développeurs sont en train de peu de basculer sur Cadax
+
+**[00:31:56 - 00:31:56] speaker**
+à cause des restrictions à l'imitations de la quantité de token.
+
+**[00:32:02 - 00:32:02] speaker**
+Donc, c'est vrai qu'on peut que des beaucoup plus avec un abonnement simple,
+
+**[00:32:07 - 00:32:07] speaker**
+ça j'ai pété avant-ball,
+
+**[00:32:09 - 00:32:09] speaker**
+avec les trucs, des fois,
+
+**[00:32:12 - 00:32:12] speaker**
+plus hautes qui sont beaucoup plus limités.
+
+**[00:32:18 - 00:32:18] speaker**
+Voilà.
+
+**[00:32:22 - 00:32:22] speaker**
+Donc, d'habitude, présentation,
+
+**[00:32:24 - 00:32:24] speaker**
+j'ai juste reprendre Vienne qui est reprends,
+
+**[00:32:28 - 00:32:28] speaker**
+que d'être revient en force effectivement,
+
+**[00:32:30 - 00:32:30] speaker**
+entrepique, pour un beaucoup d'essisions anticustammer.
+
+**[00:32:32 - 00:32:32] speaker**
+C'est vrai.
+
+**[00:32:33 - 00:32:33] speaker**
+A d'ailleurs, il y a un gros sujet,
+
+**[00:32:35 - 00:32:35] speaker**
+et moi, je suis assez d'accord avec cette théorie.
+
+**[00:32:38 - 00:32:38] speaker**
+Vous savez, le fameux projet mythos.
+
+**[00:32:40 - 00:32:40] speaker**
+Tout le monde entend du point de mythos,
+
+**[00:32:43 - 00:32:43] speaker**
+je suppose mythos, c'est le plus gros projet de chez anthropique.
+
+**[00:32:47 - 00:32:47] speaker**
+Trois d'isans qui ne l'ont pas sorti,
+
+**[00:32:49 - 00:32:49] speaker**
+puisque il était trop puissant,
+
+**[00:32:50 - 00:32:50] speaker**
+la vraie raison.
+
+**[00:32:51 - 00:32:51] speaker**
+C'était des rummeurs, mais ça serait qu'ils ont pas cette puissance
+
+**[00:32:55 - 00:32:55] speaker**
+pour le sorti.
+
+**[00:32:57 - 00:32:57] speaker**
+Et que là, ils sont un petit peu à bout en termes de capacité,
+
+**[00:33:02 - 00:33:02] speaker**
+parce qu'ils ont pris aussi beaucoup de clies en un coup.
+
+**[00:33:06 - 00:33:06] speaker**
+Et mon avis, ils sont un petit peu dans la sauce en termes
+
+**[00:33:11 - 00:33:11] speaker**
+pour prouver des enfats du tâcan.
+
+**[00:33:14 - 00:33:14] speaker**
+Mais c'était pas encore confirmé, mais il y a quand même beaucoup de rummeurs.
+
+**[00:33:17 - 00:33:17] speaker**
+Je l'ai lu que des représentants négouvant de mon repeint,
+
+**[00:33:22 - 00:33:22] speaker**
+c'était épingché sur le sujet de mythos,
+
+**[00:33:25 - 00:33:25] speaker**
+et que par amance, il y a un petit peu de tout le monde.
+
+**[00:33:28 - 00:33:28] speaker**
+C'est parce que parce qu'en fait, c'est vrai qu'il peut faire base.
+
+**[00:33:34 - 00:33:34] speaker**
+On termes de cyber-sécu, c'est un des irréhépires dans le drôme.
+
+**[00:33:39 - 00:33:39] speaker**
+C'est un des meilleurs.
+
+**[00:33:48 - 00:33:48] speaker**
+On va voir ce qu'on a fait.
+
+**[00:33:52 - 00:33:52] speaker**
+Mais on va commencer à évoluer.
+
+**[00:34:00 - 00:34:00] speaker**
+Nous sommes compètes si érils, non?
+
+**[00:34:02 - 00:34:02] speaker**
+Ouais, je vois, je vais y aller dans le drôme.
+
+**[00:34:05 - 00:34:05] speaker**
+Ouais, c'est une raison, en fait, il faut les inderir,
+
+**[00:34:08 - 00:34:08] speaker**
+donc c'était des attraper, en même temps.
+
+**[00:34:10 - 00:34:10] speaker**
+On se doit faire de faire de côté.
+
+**[00:34:12 - 00:34:12] speaker**
+Ok, ça va pas.
+
+**[00:34:14 - 00:34:14] speaker**
+Passer de ressources comme mythos.
+
+**[00:34:19 - 00:34:19] speaker**
+Je sais des soufferts.
+
+**[00:34:20 - 00:34:20] speaker**
+Voilà.
+
+**[00:34:21 - 00:34:21] speaker**
+Ok, donc voilà, ça c'était pour la petite introduction.
+
+**[00:34:26 - 00:34:26] speaker**
+Donc en gros, moi je voulais parler aussi de GMA,
+
+**[00:34:31 - 00:34:31] speaker**
+était le sujet aussi de la soirée.
+
+**[00:34:33 - 00:34:33] speaker**
+Je sais pas, est-ce que quelqu'un a testé GMA qui a précisé?
+
+**[00:34:39 - 00:34:39] speaker**
+Non.
+
+**[00:34:41 - 00:34:41] speaker**
+Oui, ah, il y a rien que tu dis qu'il a testé.
+
+**[00:34:45 - 00:34:45] speaker**
+Il n'y a pas franchement.
+
+**[00:34:46 - 00:34:46] speaker**
+Il ne s'est super intéressant, bon, t'a testé.
+
+**[00:34:48 - 00:34:48] speaker**
+Non, pas du tout.
+
+**[00:34:49 - 00:34:49] speaker**
+Alors, justement, j'ai pas très, très bien suivi ça.
+
+**[00:34:53 - 00:34:53] speaker**
+T'es-tu peut juste faire un petit intro,
+
+**[00:34:55 - 00:34:55] speaker**
+ce que c'est GMA 4.
+
+**[00:34:57 - 00:34:57] speaker**
+Ouais.
+
+**[00:34:58 - 00:34:58] speaker**
+Je suis un peu lâché à ces dernières temps.
+
+**[00:35:00 - 00:35:00] speaker**
+Parce que je me suis concentré sur
+
+**[00:35:02 - 00:35:02] speaker**
+un silence de 0.0.
+
+**[00:35:05 - 00:35:05] speaker**
+J'espère que c'est très prochainement.
+
+**[00:35:08 - 00:35:08] speaker**
+Je crois que je suis un bon, bon off, un bon d'îles.
+
+**[00:35:13 - 00:35:13] speaker**
+De d'abonnements, en fait, moins cher.
+
+**[00:35:16 - 00:35:16] speaker**
+Pour ceux qui s'intéressent à la création de vidéos avec aussi dans...
+
+**[00:35:21 - 00:35:21] speaker**
+Comment t'as réussi à vivre là, je ne comprends pas, même de mes idées.
+
+**[00:35:24 - 00:35:24] speaker**
+Non, mais c'est comme, comme j'ai dit,
+
+**[00:35:27 - 00:35:27] speaker**
+il est toujours des prix, des pricing officiels,
+
+**[00:35:30 - 00:35:30] speaker**
+du trou sur les sites et des différentes models,
+
+**[00:35:32 - 00:35:32] speaker**
+des différents plateformes, etc.
+
+**[00:35:35 - 00:35:35] speaker**
+Et après t'as toujours les promocodes.
+
+**[00:35:38 - 00:35:38] speaker**
 T'as toujours des contributions à un peu en parallèle.
 
-**[00:35:44 - 00:35:51] bensmart**  
-Je sais de Choupe-Sah et le but, c'est de ramener les bandes et le pour la communauté,
+**[00:35:46 - 00:35:46] speaker**
+Je sais de Chop-Pest-à-A,
 
-**[00:35:52 - 00:36:04] bensmart**  
-Ça soit avec Tensant ou Alibaba ou tout sortes des bandes de crédits ou des offres moins cher,
+**[00:35:48 - 00:35:48] speaker**
+et le but, c'est de ramener les bandiers pour la communauté,
 
-**[00:36:04 - 00:36:13] bensmart**  
-C'est-à-dire, après, voilà, c'est nature des fenêtres d'opportunité qui faudra être
+**[00:35:51 - 00:35:51] speaker**
+pour notre communauté.
 
-**[00:36:16 - 00:36:24] bensmart**  
-On a signé un truc avec Sidonze, donc Biteplace, et j'essaie de mettre en place
+**[00:35:54 - 00:35:54] speaker**
+Que ça soit avec Tensant,
 
-**[00:36:24 - 00:36:29] bensmart**  
-à calculer un praising qui soit intéressant pour tout le monde.
+**[00:35:57 - 00:35:57] speaker**
+ou à l'hébaba, ou tout sort,
 
-**[00:36:29 - 00:36:32] bensmart**  
-et j'espère pouvoir ouvrir le profiter prochainement.
+**[00:36:00 - 00:36:00] speaker**
+des bons décrédies, ou des offres moins cher, etc.
 
-**[00:36:35 - 00:36:41] bensmart**  
-Enfin moi avec mon associé avec mon équipe qui est basé à Hong Kong.
+**[00:36:04 - 00:36:04] speaker**
+Après, c'est nature des fenêtres d'opportunité,
 
-**[00:36:44 - 00:36:50] bensmart**  
-Parce que les tokens sont produits depuis l'ordée de ta sainteur à Malesi.
+**[00:36:12 - 00:36:12] speaker**
+qui faudrait saisir plus rapidement.
 
-**[00:36:55 - 00:37:03] _redsun**  
-Ok, ok, ok, bah ça fait vraiment très intéressant, évidemment, que la conserve plus
+**[00:36:16 - 00:36:16] speaker**
+On a signé un truc avec Sidan's,
 
-**[00:37:03 - 00:37:05] _redsun**  
-c'est mieux ce qui est lui qui est dans la création vidéo.
+**[00:36:20 - 00:36:20] speaker**
+donc Biteplace,
 
-**[00:37:05 - 00:37:08] _redsun**  
-Alors pour ceux qui sont intéressés aussi vous pouvez faire de la création vidéo avec
+**[00:36:22 - 00:36:22] speaker**
+et j'essaie de mettre en place
 
-**[00:37:09 - 00:37:15] _redsun**  
-Donc ça peut être très très intéressant évidemment comme on a toujours chaud
+**[00:36:24 - 00:36:24] speaker**
+de calculer un pricing qui soit intéressant pour tout le monde.
 
-**[00:37:15 - 00:37:18] _redsun**  
-Benz-y, t'as un délicat de ça, tu me fais pas de croix.
+**[00:36:28 - 00:36:28] speaker**
+J'espère pouvoir vous faire profiter prochainement.
 
-**[00:37:18 - 00:37:23] _redsun**  
-Et puis, j'en profite en question, on peut qu'on parle de dit, juste avant d'attaquer
+**[00:36:33 - 00:36:33] speaker**
+Mais comment ça?
 
-**[00:37:23 - 00:37:28] _redsun**  
-puis d'expliquer ce que ça a accepté à moi je fais des voir arthcomputer à Genève qui est
+**[00:36:34 - 00:36:34] speaker**
+On sait qui on...
 
-**[00:37:28 - 00:37:32] _redsun**  
-revendor officiel à Paul. Je vais pas m'adiscuter avec le directeur de
+**[00:36:35 - 00:36:35] speaker**
+On va m'enlever avec mon associé avec mon équipe,
 
-**[00:37:32 - 00:37:37] _redsun**  
-mour. Ce que tu dis à chaque et tout, donc on a pas mal parlé de qu'est ce qu'on pouvait faire.
+**[00:36:40 - 00:36:40] speaker**
+qui est basé à un con.
 
-**[00:37:37 - 00:37:42] _redsun**  
-Et puis il y a des très chauds pour faire des petits rabbes pour la communauté Open Cloud
+**[00:36:42 - 00:36:42] speaker**
+Ah, à trop bien.
 
-**[00:37:42 - 00:37:47] _redsun**  
-in-vaise. Ça va être super cool pour nous, on devra rameter rabbes. Si vous voulez vous équiper
+**[00:36:44 - 00:36:44] speaker**
+Oh bah, là.
 
-**[00:37:47 - 00:37:57] _redsun**  
-on a chine, il peut y avoir des stocks, donc je vais essayer de voir si il n'est pas assez
+**[00:36:45 - 00:36:45] speaker**
+C'est les déclés des tokens sont produit,
 
-**[00:37:57 - 00:38:01] _redsun**  
-chaud pour se ponceau, si les éveillements, parce que j'ai à moins de faire un superdé,
+**[00:36:47 - 00:36:47] speaker**
+depuis lors des tas sainteurs,
 
-**[00:38:01 - 00:38:05] _redsun**  
-les très sympas et les très ouvertes, et que la vie en plein clôt d'ailleurs, il s'est
+**[00:36:49 - 00:36:49] speaker**
+un malaisi,
 
-**[00:38:05 - 00:38:11] _redsun**  
-fait dévaliser son magasant à cause de ma communauté, d'avoir une approche qui m'expliquer.
+**[00:36:51 - 00:36:51] speaker**
+de les tokens de Sidan's.
 
-**[00:38:27 - 00:38:55] bensmart**  
-J'ai quand même l'impression sérieux que tous ces vagues d'achat de maquemini
+**[00:36:54 - 00:36:54] speaker**
+Donc...
 
-**[00:38:55 - 00:38:58] bensmart**  
-c'est un peu à cause ou grâce à notre événement,
+**[00:36:56 - 00:36:56] speaker**
+Voilà.
 
-**[00:38:58 - 00:39:22] pollux8888**  
-Je sais que je suis en train de faire un peu de la
+**[00:36:57 - 00:36:57] speaker**
+Ok, ok, bah ça fait vraiment très important.
 
-**[00:39:00 - 00:39:05] bensmart**  
-Parce qu'avant, avant de vous jouir,
+**[00:37:00 - 00:37:00] speaker**
+Evidemment, c'est bien la conselle plus c'est mieux,
 
-**[00:39:05 - 00:39:08] bensmart**  
-je n'ai pas eu une comment, je n'ai pas assez
+**[00:37:03 - 00:37:03] speaker**
+ce qui est lui qui est dans la création vidéo.
 
-**[00:39:10 - 00:39:12] bensmart**  
-Non, c'est moi, il y avait du stock interdisque
+**[00:37:05 - 00:37:05] speaker**
+Pour ceux qui sont intéressés aussi,
 
-**[00:39:13 - 00:39:27] _redsun**  
-Alors on fait la plupart des gens qu'on occuise au PENCLO et j'utilise un mic mini
+**[00:37:07 - 00:37:07] speaker**
+vous pouvez faire la création vidéo avec OpenClobe.
 
-**[00:39:14 - 00:39:18] bensmart**  
-ils ont affiché le prix dix % moins cher que le prix
+**[00:37:10 - 00:37:10] speaker**
+Donc ça peut être très très intéressant,
 
-**[00:39:27 - 00:39:33] _redsun**  
-16gd ramme le moins cher et en fait ça suffit l'air vraiment au PENCLO.
+**[00:37:13 - 00:37:13] speaker**
+évidemment, comme on a toujours chaud,
 
-**[00:39:33 - 00:39:37] _redsun**  
-On aime 4, le malheureusement, la mauvaise doulette.
+**[00:37:15 - 00:37:15] speaker**
+bon, c'est un délicat de ça, tu me disons pas encore.
 
-**[00:39:37 - 00:39:43] _redsun**  
-avec tous les stocks même aux US se sont, je fais éclater et même il y a de la revende sur les sites de revente
+**[00:37:18 - 00:37:18] speaker**
+Et puis, à j'en profite,
 
-**[00:39:43 - 00:39:49] _redsun**  
-où les maquimini vont se c'qui aéroquette de prix, on en trouve un mille de l'art, on a eu le coup
+**[00:37:20 - 00:37:20] speaker**
+en question, on peut qu'on parle de dîles,
 
-**[00:39:58 - 00:40:02] _redsun**  
-mais il a demandé d'expôt, ouais voilà
+**[00:37:21 - 00:37:21] speaker**
+justement, d'attaquer j'aimer,
 
-**[00:40:04 - 00:40:09] _faly**  
-J'ai passé comment de chez Fust et c'est toujours pas arrivé, je pense qu'ils sont en rupture aussi.
+**[00:37:23 - 00:37:23] speaker**
+puis d'expliquer ce que c'est, etc.
 
-**[00:40:07 - 00:40:37] _redsun**  
-à la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman la maman
+**[00:37:25 - 00:37:25] speaker**
+Moi, je fais des voir arthompebutteurs,
 
-**[00:40:18 - 00:40:20] pollux8888**  
-les livraisons la semaine prochaine. Non.
+**[00:37:27 - 00:37:27] speaker**
+à Jeunat, qui est revendorificé la pole.
 
-**[00:40:22 - 00:40:27] pollux8888**  
-En fait, le 52 à 16 gigailles, les 900 francs.
+**[00:37:30 - 00:37:30] speaker**
+Je ne vais pas m'adiscuter avec le directeur de...
 
-**[00:40:27 - 00:40:29] pollux8888**  
+**[00:37:33 - 00:37:33] speaker**
+Ce que je dis à ça, et tout.
+
+**[00:37:35 - 00:37:35] speaker**
+Donc on a pas mal parlé de qu'est-ce qu'on pouvait faire?
+
+**[00:37:38 - 00:37:38] speaker**
+Et puis, il y a des très chauds pour faire des petits rabbes
+
+**[00:37:41 - 00:37:41] speaker**
+pour la communauté OpenClobe, d'inverse.
+
+**[00:37:43 - 00:37:43] speaker**
+Ça va être super cool pour nous,
+
+**[00:37:45 - 00:37:45] speaker**
+on devra rameter rabbes.
+
+**[00:37:46 - 00:37:46] speaker**
+Tu es où les vous équipent en machine.
+
+**[00:37:48 - 00:37:48] speaker**
+Et puis, aussi avoir des tokens.
+
+**[00:37:52 - 00:37:52] speaker**
+Donc, je vais essayer de voir si il n'est pas assez chaud,
+
+**[00:37:57 - 00:37:57] speaker**
+pour se prendre so as aussi les vulaises événements.
+
+**[00:38:00 - 00:38:00] speaker**
+Parce que j'ai à moins de faire un super-dé,
+
+**[00:38:01 - 00:38:01] speaker**
+des très sympas et des très ouvertes.
+
+**[00:38:04 - 00:38:04] speaker**
+Et que l'induie en plein clodaire,
+
+**[00:38:05 - 00:38:05] speaker**
+il s'est fait dévaliser son magasant à cause de ma communauté
+
+**[00:38:08 - 00:38:08] speaker**
+ou de la cause qui m'expliquait.
+
+**[00:38:11 - 00:38:11] speaker**
+Non, comment ça c'est?
+
+**[00:38:14 - 00:38:14] speaker**
+A quel point de dévaliser?
+
+**[00:38:16 - 00:38:16] speaker**
+Fracacelle, ou ça volée comme ça?
+
+**[00:38:20 - 00:38:20] speaker**
+Pas malheureusement, on part de dévaliser.
+
+**[00:38:22 - 00:38:22] speaker**
+Ah, dévaliser, hein, ils ont maluité.
+
+**[00:38:23 - 00:38:23] speaker**
+Ah, je t'en suis.
+
+**[00:38:24 - 00:38:24] speaker**
+Je t'en suis.
+
+**[00:38:25 - 00:38:25] speaker**
+Oui, oui.
+
+**[00:38:26 - 00:38:26] speaker**
+Mais il avait quoi, hein?
+
+**[00:38:28 - 00:38:28] speaker**
+J'espère qu'il y a un chien qui m'a dit.
+
+**[00:38:32 - 00:38:32] speaker**
+Il me sentait quand même que le jour, il en a vendu d'un coup.
+
+**[00:38:35 - 00:38:35] speaker**
+Donc, c'est pas normal pour une boutique physique,
+
+**[00:38:38 - 00:38:38] speaker**
+de rendre d'un coup.
+
+**[00:38:40 - 00:38:40] speaker**
+Il n'a pas compris quoi, de mes idées.
+
+**[00:38:43 - 00:38:43] speaker**
+On te parait ici.
+
+**[00:38:45 - 00:38:45] speaker**
+Il est mal.
+
+**[00:38:46 - 00:38:46] speaker**
+Il est mal commun.
+
+**[00:38:47 - 00:38:47] speaker**
+Ouais, il est mal.
+
+**[00:38:48 - 00:38:48] speaker**
+Il sont en rupture de stock.
+
+**[00:38:49 - 00:38:49] speaker**
+J'ai quand même l'impression c'est-à-dire que tout c'est de
+
+**[00:38:53 - 00:38:53] speaker**
+achage de maquemini, c'est un peu à cause.
+
+**[00:38:56 - 00:38:56] speaker**
+Grâce à notre évêtement, le autre jour quoi.
+
+**[00:38:59 - 00:38:59] speaker**
+Parce qu'avant, avant de vous juindre, en fait, moi, j'ai passé un comment,
+
+**[00:39:06 - 00:39:06] speaker**
+je sais pas, c'est la comment, vraiment, un bon moment.
+
+**[00:39:09 - 00:39:09] speaker**
+Non, c'est-à-dire qu'il y avait du stock, j'ai interdiscord dans plus.
+
+**[00:39:12 - 00:39:12] speaker**
+J'ai 8% de rabais.
+
+**[00:39:14 - 00:39:14] speaker**
+Ils ont affiché le prix, il y a 10% moins cher que le prix officiel.
+
+**[00:39:18 - 00:39:18] speaker**
+J'espère qu'il y a eu ces coins comme config, hein, du maquemini.
+
+**[00:39:22 - 00:39:22] speaker**
+Alors, en fait, la plupart des gens qu'on en utilisent un peu de clô,
+
+**[00:39:25 - 00:39:25] speaker**
+j'utilise un mic mini, ça j'ai dit à drame.
+
+**[00:39:28 - 00:39:28] speaker**
+Le moins cher.
+
+**[00:39:30 - 00:39:30] speaker**
+Et en fait, ça suffit d'y aller à ralement.
+
+**[00:39:32 - 00:39:32] speaker**
+Un carcant, on a un 4.
+
+**[00:39:34 - 00:39:34] speaker**
+Un 4, le malheureusement, la mauvaise doulette.
+
+**[00:39:37 - 00:39:37] speaker**
+C'est que tous les stock, même aux US, ce sont,
+
+**[00:39:39 - 00:39:39] speaker**
+fait éclater, et même, il y a de la revente sur les sites de revente.
+
+**[00:39:43 - 00:39:43] speaker**
+Ou les maquemini, on se crayer au 4 de prix.
+
+**[00:39:46 - 00:39:46] speaker**
+On en trouve un mille de là, on va...
+
+**[00:39:48 - 00:39:48] speaker**
+Mais, par exemple, je t'ai fuste, il y a 120, 95.
+
+**[00:39:53 - 00:39:53] speaker**
+Oui, mais il y a 10 points.
+
+**[00:39:58 - 00:39:58] speaker**
+Il y a des deux points.
+
+**[00:40:00 - 00:40:00] speaker**
+Je sais pas, ça va là.
+
+**[00:40:02 - 00:40:02] speaker**
+J'ai passé comment de chez fuste.
+
+**[00:40:05 - 00:40:05] speaker**
+C'est toujours pas arrivé, je pense qu'ils sont en rupe, dire aussi.
+
+**[00:40:08 - 00:40:08] speaker**
+C'est ça, hein.
+
+**[00:40:09 - 00:40:09] speaker**
+Bon, t'as la repour.
+
+**[00:40:12 - 00:40:12] speaker**
+OK, et puis sinon, j'ai déjà eu, là, c'est...
+
+**[00:40:17 - 00:40:17] speaker**
+Il y a des points.
+
+**[00:40:18 - 00:40:18] speaker**
+Il y a une prochaine, non.
+
+**[00:40:20 - 00:40:20] speaker**
+C'est marqué.
+
+**[00:40:21 - 00:40:21] speaker**
+En fait, le 52 a 16 gigailles, il est 900 francs.
+
+**[00:40:26 - 00:40:26] speaker**
 Et puis, il y en a 3 pièces en stock.
 
-**[00:40:45 - 00:40:49] pollux8888**  
-devant les yeux. Père être retiré, mercredi 13 donc à la soonne prochaine.
+**[00:40:30 - 00:40:30] speaker**
+Un 900, 800.
 
-**[00:40:46 - 00:40:52] _redsun**  
-Attendez, on reçu du réacord de Macmin DM4.
+**[00:40:32 - 00:40:32] speaker**
+Oui, maquemini.
 
-**[00:40:55 - 00:40:58] _redsun**  
-C'est normalement, il y a des Macmini M5 qui arrivent.
+**[00:40:34 - 00:40:34] speaker**
+Là, c'est le les sur, maquemini, M4.
 
-**[00:40:58 - 00:41:02] _redsun**  
-Donc, est-ce que ça va la peine d'acheter 24, là, c'est pas sûr, hein?
+**[00:40:39 - 00:40:39] speaker**
+Voilà, attends, qui est pas?
 
-**[00:41:01 - 00:41:07] pollux8888**  
-Je ne sais pas ce qui a comme différence, on va dire bon moi je ne suis pas sûrement
+**[00:40:42 - 00:40:42] speaker**
+Je n'ai jamais eu de vendre les yeux.
 
-**[00:41:07 - 00:41:14] pollux8888**  
-que moi je suis sur PC mais je vais pose la question, c'est en SQM 4.
+**[00:40:45 - 00:40:45] speaker**
+Père être retirée, mercredi, 13, donc à la soon prochaine.
 
-**[00:41:10 - 00:41:17] _redsun**  
-Alors, je vais dire pourquoi, pourquoi on est comme décon, là tous dans les mac,
+**[00:40:49 - 00:40:49] speaker**
+Attendez, on reçu du réassort de maquemini M4.
 
-**[00:41:18 - 00:41:23] _redsun**  
-Et qu'en fait, il y a la raison n'a pas la même en ruine ici sur Mac.
+**[00:40:52 - 00:40:52] speaker**
+Ouais.
 
-**[00:41:23 - 00:41:27] _redsun**  
-Il permet d'avoir l'éflotation de la rampe total de cette âge guette, à cette âge guette,
+**[00:40:53 - 00:40:53] speaker**
+Ah, pense pas, hein.
 
-**[00:41:27 - 00:41:34] _redsun**  
-à cette âge guette, à cette pousse, à la chance de tout pour tout ce qui est modellé
+**[00:40:55 - 00:40:55] speaker**
+C'est-ce que, normalement, il y a des maquemini, M5, qui arrive.
 
-**[00:41:34 - 00:41:37] _redsun**  
-L'engueuse est justement s'ampermètre dans la transition.
+**[00:40:58 - 00:40:58] speaker**
+Donc, est-ce que ça va la peine d'acheter la même carte?
 
-**[00:41:37 - 00:41:42] _redsun**  
-Je vais me faire ma cape, j'ai ma cape par exemple, par modèle le cal.
+**[00:41:00 - 00:41:00] speaker**
+C'est pas...
 
-**[00:41:42 - 00:41:46] _redsun**  
-Ope une course, fabriqué par Google.
+**[00:41:01 - 00:41:01] speaker**
+Je sais pas, c'est pas ce qui a comme différence.
 
-**[00:41:46 - 00:41:50] _redsun**  
-Donc, c'est pas un titrexte, c'est un très bon modèle.
+**[00:41:03 - 00:41:03] speaker**
+Enfin, c'est-à-dire...
 
-**[00:41:50 - 00:41:53] _redsun**  
-Il existe en deux versions pour résumer des histoires,
+**[00:41:05 - 00:41:05] speaker**
+Bon, moi, je sais pas sur maquemme.
 
-**[00:41:53 - 00:41:57] _redsun**  
-on devra le paramètre et la version de 4 milliards de par meters.
+**[00:41:07 - 00:41:07] speaker**
+Je suis sur... sur PC.
 
-**[00:41:57 - 00:42:03] _redsun**  
-Et les deux versions tournent sur ma qu'il ne m'a plus pu les faire tourner en le cas et la
+**[00:41:09 - 00:41:09] speaker**
+Mais...
 
-**[00:42:05 - 00:42:08] _redsun**  
-Parce que moi ça n'est pas qui m'intéresse.
+**[00:41:10 - 00:41:10] speaker**
+Je me pose la question, hein.
 
-**[00:42:10 - 00:42:13] _redsun**  
-c'est qu'on pourrait dire, on peut une plau et on peut une plau et on peut le plau
+**[00:41:11 - 00:41:11] speaker**
+C'est-à-dire...
 
-**[00:42:13 - 00:42:16] _redsun**  
-de faire un peu la même chose pour dire, il y a plein de trucs similaires.
+**[00:41:12 - 00:41:12] speaker**
+Alors, j'ai jamais eu un 4.
 
-**[00:42:16 - 00:42:19] _redsun**  
+**[00:41:14 - 00:41:14] speaker**
+Ouais.
+
+**[00:41:15 - 00:41:15] speaker**
+Bon, on est comme des qu'on va tous pour les maquemmes.
+
+**[00:41:17 - 00:41:17] speaker**
+Il y a une vraie raison.
+
+**[00:41:19 - 00:41:19] speaker**
+Oui.
+
+**[00:41:20 - 00:41:20] speaker**
+On va pas, il y a la raison.
+
+**[00:41:21 - 00:41:21] speaker**
+On n'a pas la même en municier sur maquemme.
+
+**[00:41:23 - 00:41:23] speaker**
+Ok.
+
+**[00:41:24 - 00:41:24] speaker**
+On va devoir aller le flotter sur un rampe total.
+
+**[00:41:26 - 00:41:26] speaker**
+C'est-à-dire que...
+
+**[00:41:28 - 00:41:28] speaker**
+Ok.
+
+**[00:41:29 - 00:41:29] speaker**
+Ça, je pense tout le monde.
+
+**[00:41:31 - 00:41:31] speaker**
+C'est-à-dire que...
+
+**[00:41:32 - 00:41:32] speaker**
+On tout se qu'il y a un modèle de longueur.
+
+**[00:41:34 - 00:41:34] speaker**
+On peut-être faire la transition sur un maquemme.
+
+**[00:41:38 - 00:41:38] speaker**
+Tu es maquat par exemple.
+
+**[00:41:39 - 00:41:39] speaker**
+C'est un modèle local, un peu de course.
+
+**[00:41:43 - 00:41:43] speaker**
+Pas bricé par Google, donc...
+
+**[00:41:45 - 00:41:45] speaker**
+T'es pas...
+
+**[00:41:46 - 00:41:46] speaker**
+Il truque, c'est un très peu mon modèle.
+
+**[00:41:49 - 00:41:49] speaker**
+Il est existant deux versions.
+
+**[00:41:51 - 00:41:51] speaker**
+Pour réguler des histoires d'où les gamins de paramètres,
+
+**[00:41:54 - 00:41:54] speaker**
+des versions de 80° de paramètres.
+
+**[00:41:56 - 00:41:56] speaker**
+Et les deux versions tournent sur maquemme.
+
+**[00:41:59 - 00:41:59] speaker**
+Mon truc peut les faire tourner en le cas d'élaze.
+
+**[00:42:03 - 00:42:03] speaker**
+pas chance quand même.
+
+**[00:42:04 - 00:42:04] speaker**
+Plus de monde.
+
+**[00:42:05 - 00:42:05] speaker**
+Parce que, moi, ce n'est pas qui m'intéresse.
+
+**[00:42:08 - 00:42:08] speaker**
+L'airon est là, il y a.
+
+**[00:42:09 - 00:42:09] speaker**
+Donc, on pourrait dire, on peut une plau et on peut une plau et on peut le plus
+
+**[00:42:13 - 00:42:13] speaker**
+éclore de.
+
+**[00:42:14 - 00:42:14] speaker**
+C'est un peu la même chose.
+
+**[00:42:15 - 00:42:15] speaker**
+Pour dire, il y a plein de trucs similaires.
+
+**[00:42:16 - 00:42:16] speaker**
 Ça fait d'un immense différence à ça là.
 
-**[00:42:19 - 00:42:24] _redsun**  
+**[00:42:18 - 00:42:18] speaker**
 C'est que, un peu une plau permet l'installation de modèle à peu une source.
 
-**[00:42:24 - 00:42:28] _redsun**  
-Ce que je vois jamais faire sur, sur le taux de roux.
+**[00:42:23 - 00:42:23] speaker**
+Ce que tu vois, j'un vais faire sur.
 
-**[00:42:28 - 00:42:32] _redsun**  
-Et du coup, je vais faire tourner, donc j'ai ma carte,
+**[00:42:26 - 00:42:26] speaker**
+Oui.
 
-**[00:42:32 - 00:42:36] _redsun**  
-Et il y a un super pouvoir là-dedans, c'est que tu peux le faire tourner un des films.
+**[00:42:27 - 00:42:27] speaker**
+Oui.
 
-**[00:42:37 - 00:42:41] _redsun**  
-Et tu peux générer des tequelles pour zéro pour parler de l'électricité.
+**[00:42:28 - 00:42:28] speaker**
+Sur le dos de mon.
 
-**[00:42:44 - 00:42:49] _redsun**  
-Et du coup ça donne un extraitement intéressant à compléter en différentes fois.
+**[00:42:29 - 00:42:29] speaker**
+Et du coup, tu peux le faire tourner.
 
-**[00:42:56 - 00:43:00] _redsun**  
-Il y a rigoué la version de V-Marche, vraiment bien, je suis d'accord avec toi.
+**[00:42:30 - 00:42:30] speaker**
+Donc, j'ai 24.
 
-**[00:43:00 - 00:43:05] _redsun**  
-Et puis il y a aussi un autre truc qui s'est capréhorie à la prochaine version de Google Chrome
+**[00:42:32 - 00:42:32] speaker**
+Et il y a un super pouvoir là-dedans, c'est que tu peux le faire tourner un
 
-**[00:43:07 - 00:43:14] _redsun**  
-Donc, ils vont l'installer en même temps que t'installe ton navigateur et du coup,
+**[00:42:35 - 00:42:35] speaker**
+définement.
 
-**[00:43:14 - 00:43:18] _redsun**  
-tu dises la puissance automâchine pour faire des résultats.
+**[00:42:36 - 00:42:36] speaker**
+Et tu peux, je n'avais des tekanes pour zéro pour parler de plus des exécité.
 
-**[00:43:18 - 00:43:21] _redsun**  
-Alors après, je ne comprends pas du tout, c'est au termis-nice.
+**[00:42:41 - 00:42:41] speaker**
+OK.
 
-**[00:43:21 - 00:43:25] _redsun**  
-Je ne comprends pas du tout le play parce que ils ont de jeminir avec la côté.
+**[00:42:42 - 00:42:42] speaker**
+OK.
 
-**[00:43:25 - 00:43:32] _redsun**  
-Dans tout cas, c'est très intéressant pour les gars qui veulent sortir complètement du truc,
+**[00:42:43 - 00:42:43] speaker**
+Et du coup, ça donne vraiment un terrain sans compléter en
 
-**[00:43:32 - 00:43:33] _redsun**  
-puis justement faire de la prédéristie total.
+**[00:42:48 - 00:42:48] speaker**
+quoi.
 
-**[00:43:33 - 00:43:38] _redsun**  
-Ce que là tu peux débrancher ton magne d'internête et faire ton magne pour lui faire.
+**[00:42:49 - 00:42:49] speaker**
+Alors, d'arriennes, qui tient.
 
-**[00:43:43 - 00:43:49] _redsun**  
-Là, là tu commence à voir vraiment pourquoi ça va être intéressant d'avoir un peu du clou,
+**[00:42:51 - 00:42:51] speaker**
+Avec je mets en m'atta.
 
-**[00:43:49 - 00:43:51] _redsun**  
-bah voilà, une des raisons principales, c'est ça quoi.
+**[00:42:53 - 00:42:53] speaker**
+L'été, si rendroid et edge, il y a rigoué la version de V, mais vraiment
 
-**[00:43:51 - 00:43:55] _redsun**  
-Je sais pas si vous voulez jouer au montre un peu.
+**[00:42:59 - 00:42:59] speaker**
+bien, je fais d'accord avec toi.
 
-**[00:43:55 - 00:44:06] pollux8888**  
-Pour terminer, c'est un mec mini de 1506 avec ces Giga, M4, 1509 Giga Lexus qui est livrable après demain.
+**[00:43:00 - 00:43:00] speaker**
+Et puis, il y a aussi un autre truc, c'est qu'après-y,
 
-**[00:44:07 - 00:44:10] _redsun**  
-Ah, tu peux détaire que je suis pas.
+**[00:43:03 - 00:43:03] speaker**
+a la prochaine version de Google Chrome, un théorage de ma dédendou.
 
-**[00:44:10 - 00:44:40] _redsun**  
-Non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non
+**[00:43:07 - 00:43:07] speaker**
+Donc, ils vont l'installer en même temps que tu instals ton navigateur.
 
-**[00:44:20 - 00:44:23] gilles_35307**  
-Oui mais ça a pas livré tout de suite à tout le monde. Il y aura des dirais de livraison
+**[00:43:13 - 00:43:13] speaker**
+Et du coup, tu dises la puissance automâchine pour faire des résultats.
 
-**[00:44:23 - 00:44:28] gilles_35307**  
-de ces terraf, mais en jouant, il est dans ce pourgeant, c'est un pont de colle.
+**[00:43:18 - 00:43:18] speaker**
+Alors, après, je ne comprends pas du tout.
 
-**[00:44:23 - 00:44:27] pollux8888**  
-La slice marque et la slice marque.
+**[00:43:20 - 00:43:20] speaker**
+C'est au terme business.
 
-**[00:44:27 - 00:44:31] pollux8888**  
-ça en plus c'est marqué il y en a il y a plus de 10 pièces en stock donc
+**[00:43:21 - 00:43:21] speaker**
+Je ne comprends pas du tout le play, parce que les engeminiens et qu'à côté.
 
-**[00:44:39 - 00:44:43] pollux8888**  
-je jauneur c'est marqué prêt à être tiré de demain donc
+**[00:43:26 - 00:43:26] speaker**
+En tout cas, c'est très intéressant pour les gars qui veulent sortir
 
-**[00:44:40 - 00:44:48] _redsun**  
-Alors, alors peut-être juste pas t'attendre.
+**[00:43:30 - 00:43:30] speaker**
+complètement du truc, puis justement, faire de la pragre citatale.
 
-**[00:44:48 - 00:44:51] _redsun**  
-Bref, je sais toujours, parce que c'est à GDram, c'est pour tout le monde.
+**[00:43:33 - 00:43:33] speaker**
+Parce que là, tu peux débrancher ton magis d'internate.
 
-**[00:44:51 - 00:44:58] _redsun**  
-C'est à GDram, pour écartonner les motrons, de NVIDIA, GMA4, Google,
+**[00:43:36 - 00:43:36] speaker**
+Et ça, c'est un peu mon but.
 
-**[00:44:58 - 00:45:04] _redsun**  
-pour être deux points de France vers son cadre,
+**[00:43:41 - 00:43:41] speaker**
+OK.
 
-**[00:45:04 - 00:45:10] _redsun**  
-on était petit, on était petit, on était petit, on était petit, on était petit, on était
+**[00:43:42 - 00:43:42] speaker**
+Donc là, là, tu commence à voir vraiment pourquoi ça va être intéressant d'avoir un peu
 
-**[00:45:10 - 00:45:15] _redsun**  
-modèle. Parfait pour un ordre de chat, pas du tout pour faire du code, j'ai fait des tests,
+**[00:43:49 - 00:43:49] speaker**
+du coup.
 
-**[00:45:15 - 00:45:23] _redsun**  
-par exemple, j'ai testé de code snake, j'ai justnake, on va être une déséraire,
+**[00:43:50 - 00:43:50] speaker**
+Voilà, une des raisons principales, c'est ça quoi.
 
-**[00:45:23 - 00:45:32] _redsun**  
-donc tout le code pittons quoi. Voilà, mais voilà, il veut commencer à faire du local,
+**[00:43:52 - 00:43:52] speaker**
+Je ne sais pas si vous voulez jouer mon train peu.
 
-**[00:45:32 - 00:45:39] _redsun**  
-moi je conseille fortement 64 mm et tu vas être allais faire tourner des gros
+**[00:43:55 - 00:43:55] speaker**
+Alors, juste pour termini, donc c'est un mec mini de 1506 avec ces gigaimes,
 
-**[00:45:39 - 00:45:46] _redsun**  
-modèle comme le coin 27 b et à monstre, il faut s'enantugier à mon mot.
+**[00:44:02 - 00:44:02] speaker**
+qu'à 30000 ans, 9 giga-l'access, qui est livrable après demain.
 
-**[00:45:46 - 00:45:55] _redsun**  
-Et si tu vas aller sur Kimi, là tu veux pleure, Kimi 2,5, ce que là t'as besoin de 2,
+**[00:44:06 - 00:44:06] speaker**
+On le prend.
 
-**[00:45:53 - 00:46:04] gilles_35307**  
-Si vous voulez le question belle, qu'est-ce qui est en pêche de faire quelque chose en
+**[00:44:08 - 00:44:08] speaker**
+OK.
 
-**[00:45:55 - 00:45:58] _redsun**  
-pour assentant 12 en 24 sur Max Studio.
+**[00:44:08 - 00:44:08] speaker**
+Peut-être un petit peu.
 
-**[00:46:06 - 00:46:09] gilles_35307**  
-Il t'a avoir des problèmes dans le pieton, etc.
+**[00:44:12 - 00:44:12] speaker**
+Voilà, je ne sais pas, parce que la même 5, en fait, va être un processur qui
 
-**[00:46:09 - 00:46:13] gilles_35307**  
-Et puis après le faire validé par un Claude en au-rocal.
+**[00:44:16 - 00:44:16] speaker**
+vraiment très intéressant.
 
-**[00:46:13 - 00:46:16] gilles_35307**  
-C'est un truc de question con, mais je vois.
+**[00:44:18 - 00:44:18] speaker**
+Il y a beaucoup plus de performances.
 
-**[00:46:16 - 00:46:19] gilles_35307**  
-Je sais, je sais, il est le pragmatique.
+**[00:44:19 - 00:44:19] speaker**
+Et puis, il ne s'en prend les vrais troutuits, t'as tout le monde.
 
-**[00:46:22 - 00:46:27] _redsun**  
-Pour moi, je m'accepterai d'excelent pour des pages qui sont récurrentes et basés qui
+**[00:44:21 - 00:44:21] speaker**
+Il y aura des dirais, de livraison, de ces terraces.
 
-**[00:46:27 - 00:46:32] _redsun**  
-soient plus qu'en page de fonds, et qui m'achinera de la gauche, c'est parfait.
+**[00:44:24 - 00:44:24] speaker**
+On va faire un gars et le nom pour joindre, c'est un pente.
 
-**[00:46:32 - 00:46:36] _redsun**  
-Et puis dès que tu avres vraiment besoin du lourd, bah tu dis un petit peu de tekan.
+**[00:44:27 - 00:44:27] speaker**
+C'est marqué, il y en a, il y a plus de 10 pièces en stock.
 
-**[00:46:38 - 00:46:44] gilles_35307**  
-Ça s'en peut le faire avec ton on-voix, parce qu'en fait, à tout le monde,
+**[00:44:30 - 00:44:30] speaker**
+Donc, c'est très bizarre, c'est pas comme ils ont du gars royé pour avoir
 
-**[00:46:44 - 00:46:49] gilles_35307**  
-Ciri, la faire un super lullitiel qui permet bien installé bien configuer le peu le
+**[00:44:35 - 00:44:35] speaker**
+ce poil-que là.
 
-**[00:46:49 - 00:46:53] gilles_35307**  
-gros sur ce mec, j'ai pris moi, le peu le clôt et ça marche très très bien.
+**[00:44:36 - 00:44:36] speaker**
+Mais, en même temps mieux, j'ai dit en-à, par contre, par rapport à pas du jeu.
 
-**[00:46:52 - 00:47:08] _redsun**  
-Je vais te couper le montré comme ça, parce que là, les gens ne vont pas te couper en
+**[00:44:39 - 00:44:39] speaker**
+C'est marqué prêt à être tiré demain.
 
-**[00:46:53 - 00:47:01] gilles_35307**  
-Donc là, ce qui est ce que le clôt pourrait gérer ça, il y a 24 et plus il y a
+**[00:44:42 - 00:44:42] speaker**
+Donc, alors, en vrai, ils ont après demain.
 
-**[00:47:01 - 00:47:03] gilles_35307**  
-plus de notre modèle qui est le chondable ou plus de clôt.
+**[00:44:46 - 00:44:46] speaker**
+Alors, peut-être juste à t'encer en truc.
 
-**[00:47:09 - 00:47:16] _redsun**  
-Alors, je vais juste changer de partager grand à arrêter de se trimer, mais je vais
+**[00:44:48 - 00:44:48] speaker**
+Et puis, si c'est toujours, parce que c'est très du gars-dram, c'est bon tout le monde.
 
-**[00:47:23 - 00:47:28] _redsun**  
-Écranti, est-ce que vous voyez tout là mon écran ?
+**[00:44:51 - 00:44:51] speaker**
+Ça, je vais y aller à me pour écarter.
 
-**[00:47:30 - 00:47:35] _redsun**  
-Ok. Alors, juste avant de passer à ça pour que tout le monde comprend bien.
+**[00:44:52 - 00:44:52] speaker**
+On est les motrons de l'Eli-Dia, j'ai ma quatre de gueule.
 
-**[00:47:35 - 00:47:41] _redsun**  
-Là, vous avez un logiciel qui est fantastique, qui s'appelle LM Studio,
+**[00:44:58 - 00:44:58] speaker**
+On peut être deux points de France vers son cadre d'être petit,
 
-**[00:47:41 - 00:47:45] _redsun**  
+**[00:45:04 - 00:45:04] speaker**
+et les petites versions de quoi ils sont excellents aussi.
+
+**[00:45:07 - 00:45:07] speaker**
+On s'arrête dans les onrètes dans les petits modèles.
+
+**[00:45:11 - 00:45:11] speaker**
+Parfait pour avoir de chat, pas du tout pour faire du code.
+
+**[00:45:14 - 00:45:14] speaker**
+J'ai fait des tests, par exemple, j'ai testé de coder Snake, j'ai justnake.
+
+**[00:45:20 - 00:45:20] speaker**
+Oui.
+
+**[00:45:21 - 00:45:21] speaker**
+Euh, c'est une des erreurs, bon tout le code pite ton quoi.
+
+**[00:45:24 - 00:45:24] speaker**
+Eh, vrai.
+
+**[00:45:25 - 00:45:25] speaker**
+OK.
+
+**[00:45:26 - 00:45:26] speaker**
+Donc voilà, mais...
+
+**[00:45:29 - 00:45:29] speaker**
+Voilà, ce qui veut commencer à perdre le calme.
+
+**[00:45:32 - 00:45:32] speaker**
+Moi, je conseille fortement, 64 minimum.
+
+**[00:45:36 - 00:45:36] speaker**
+Et tu vas être salaises et faire tourner des gros modèles, comme le coin, 27 b, des armes,
+
+**[00:45:42 - 00:45:42] speaker**
+ou une fois, 128, il y aura mon monde.
+
+**[00:45:45 - 00:45:45] speaker**
+OK.
+
+**[00:45:46 - 00:45:46] speaker**
+Et si tu vas aller sur qui minis, là, tu veux pleure.
+
+**[00:45:49 - 00:45:49] speaker**
+Qui lui demande qu'on s'en faincre.
+
+**[00:45:51 - 00:45:51] speaker**
+C'est que là, tu as besoin de 2,
+
+**[00:45:54 - 00:45:54] speaker**
+ou à 110, ou à 1, 4 sur maxi du haut.
+
+**[00:45:57 - 00:45:57] speaker**
+OK.
+
+**[00:45:59 - 00:45:59] speaker**
+Appais à perdre.
+
+**[00:46:01 - 00:46:01] speaker**
+Si les questions bêtes, qu'est-ce qui en pêche de faire,
+
+**[00:46:04 - 00:46:04] speaker**
+qui choisera le calme avec un gên macatre,
+
+**[00:46:06 - 00:46:06] speaker**
+il t'a avoir des problèmes dans le pitton, etc.
+
+**[00:46:09 - 00:46:09] speaker**
+Puis après le faire, validé par un code en 0 calme.
+
+**[00:46:14 - 00:46:14] speaker**
+C'est-à-dire une question commune, bon je vois.
+
+**[00:46:17 - 00:46:17] speaker**
+Une proposition.
+
+**[00:46:18 - 00:46:18] speaker**
+C'est une très pratique.
+
+**[00:46:19 - 00:46:19] speaker**
+Ah, non, non, c'est très bien.
+
+**[00:46:21 - 00:46:21] speaker**
+C'est un corfait pour moi, j'ai ma carte qui est d'excelent,
+
+**[00:46:24 - 00:46:24] speaker**
+pour des pages qui sont récurrentes.
+
+**[00:46:26 - 00:46:26] speaker**
+Et basique, qui doit plus qu'il y en tâche de fond,
+
+**[00:46:29 - 00:46:29] speaker**
+et qui m'achandre au tableau, c'est pas peut-être,
+
+**[00:46:32 - 00:46:32] speaker**
+et puis dès que tu avres vraiment besoin du lourd,
+
+**[00:46:34 - 00:46:34] speaker**
+bah tu dis un petit peu de tekan.
+
+**[00:46:37 - 00:46:37] speaker**
+Oui, je suis.
+
+**[00:46:39 - 00:46:39] speaker**
+C'est sans peu le faire, avec ton on-voix,
+
+**[00:46:43 - 00:46:43] speaker**
+parce qu'en fait, à tout le monde,
+
+**[00:46:45 - 00:46:45] speaker**
+c'est-à-dire si c'est-à-dire que c'est un super lullitiel,
+
+**[00:46:47 - 00:46:47] speaker**
+qui permet de bien installer bien configuer le code sur maque,
+
+**[00:46:51 - 00:46:51] speaker**
+j'ai pris moi, le code clôt et ça marche très très bien.
+
+**[00:46:54 - 00:46:54] speaker**
+Donc là, qu'est-ce qu'est-ce que le code pourrait gérer ça,
+
+**[00:46:58 - 00:46:58] speaker**
+il y a des fois le givèquatri plus le givèquatri plus le givètre,
+
+**[00:47:01 - 00:47:01] speaker**
+et puis le coup de cliquet.
+
+**[00:47:03 - 00:47:03] speaker**
+C'est quoi, je vais le montrer comme ça,
+
+**[00:47:06 - 00:47:06] speaker**
+tout le monde, parce que là, les gens ils vont y voir.
+
+**[00:47:09 - 00:47:09] speaker**
+Alors, je vais juste changer de partage écran,
+
+**[00:47:15 - 00:47:15] speaker**
+arrêter de se serait-là, mais je vais se trimer autre chose,
+
+**[00:47:17 - 00:47:17] speaker**
+c'est juste, OK.
+
+**[00:47:20 - 00:47:20] speaker**
+Donc c'est...
+
+**[00:47:23 - 00:47:23] speaker**
+Écranti, est-ce que vous voyez tout là, mon écran?
+
+**[00:47:27 - 00:47:27] speaker**
+Oui.
+
+**[00:47:28 - 00:47:28] speaker**
+Ouais.
+
+**[00:47:29 - 00:47:29] speaker**
+Voilà, bien, OK.
+
+**[00:47:31 - 00:47:31] speaker**
+Alors, juste avant de passer à ça,
+
+**[00:47:33 - 00:47:33] speaker**
+pour que tout le monde comprend bien,
+
+**[00:47:36 - 00:47:36] speaker**
+là, vous avez un logiciel qui est fantastique,
+
+**[00:47:38 - 00:47:38] speaker**
+qui s'appelle LM Studio,
+
+**[00:47:41 - 00:47:41] speaker**
 qui lui permet de faire tourner des modèles en locale.
 
-**[00:47:45 - 00:47:49] _redsun**  
-Donc là moi je m'amuse sur mon ordinateur à faire tourner j'ai ma carte,
+**[00:47:44 - 00:47:44] speaker**
+OK.
 
-**[00:47:49 - 00:47:50] _redsun**  
-voilà on les voit, c'est typiquement.
+**[00:47:45 - 00:47:45] speaker**
+Donc là, moi, je m'amuse sur mon ordinateur
 
-**[00:47:50 - 00:47:56] _redsun**  
-Et puis il n'est mot 3, là, j'ajoute que j'enlève, j'enlève, mais je garde vraiment ce qui sont dit,
+**[00:47:48 - 00:47:48] speaker**
+à faire tourner j'ai maquatri,
 
-**[00:47:56 - 00:48:00] _redsun**  
-et puis là on voit un petit peu, voilà en fait on peut tester.
+**[00:47:49 - 00:47:49] speaker**
+bah là, on les voit, c'est typiquement.
 
-**[00:48:00 - 00:48:04] _redsun**  
-Là je pourrais tester j'ai ma carte en locale.
+**[00:47:51 - 00:47:51] speaker**
+Et puis, il n'est-maut 3-là.
 
-**[00:48:04 - 00:48:09] _redsun**  
-Donc j'ai un p'tit sur une chat, là je me test, puis allez voir la vitesse de la réponse.
+**[00:47:52 - 00:47:52] speaker**
+Et là, beaucoup, j'ajoute que j'enlève, j'enlève,
 
-**[00:48:09 - 00:48:12] _redsun**  
-C'est la version 4B sur une machine 432, il y a vraiment.
+**[00:47:55 - 00:47:55] speaker**
+mais je garde vraiment ce qui sont étides.
 
-**[00:48:13 - 00:48:24] _redsun**  
-4,4 secondes, c'est bien, c'est très bien, c'est pas mal, alors après tu peux que
+**[00:47:57 - 00:47:57] speaker**
+Et puis là, on voit un petit peu...
 
-**[00:48:24 - 00:48:31] _redsun**  
-des leges, ce n'est qu'en p'ton, là on va voir un peu ce que ça donne et là malheureusement
+**[00:47:59 - 00:47:59] speaker**
+Bah là, en fait, on peut tester.
 
-**[00:48:31 - 00:48:35] _redsun**  
-c'est là où ça commence, c'est qu'il arrive vite à répondre, il arrive d'un 30 heures
+**[00:48:01 - 00:48:01] speaker**
+Là, je pourrais tester, j'ai maquatri en locale.
 
-**[00:48:35 - 00:48:39] _redsun**  
-des pinkings, donc on voit que c'est un modèle qui a la pinkings évision, donc il
+**[00:48:05 - 00:48:05] speaker**
+Donc, j'ai un p'tit sur une chatte,
 
-**[00:48:39 - 00:48:44] _redsun**  
-et il y a les deux. Voilà, il manque d'installer piqués dans ce qu'elle normal,
+**[00:48:06 - 00:48:06] speaker**
+là, je me teste,
 
-**[00:48:44 - 00:48:47] _redsun**  
-et puis là on voit le code qui est un train de pont et là, ce qui est
+**[00:48:07 - 00:48:07] speaker**
+puis vous allez voir la vitesse de leur réponse.
 
-**[00:48:47 - 00:48:52] _redsun**  
-je trouve magique, c'est que là, je fais une née en tropique, ni personne, je fais
+**[00:48:09 - 00:48:09] speaker**
+C'est la version 4B sur une machine
 
-**[00:48:52 - 00:48:57] _redsun**  
-mon petit business, donc, un personne, le c'est tout est privé, tout est complètement
+**[00:48:11 - 00:48:11] speaker**
+qui a 32 giga d'ralement.
 
-**[00:49:05 - 00:49:10] _redsun**  
-C'est LM Studio et alors pas contre.
+**[00:48:13 - 00:48:13] speaker**
+Voilà.
 
-**[00:49:10 - 00:49:13] _redsun**  
-On va pas se cacher des choses, c'est assez hardcore,
+**[00:48:14 - 00:48:14] speaker**
+4,4 secondes.
 
-**[00:49:13 - 00:49:15] _redsun**  
-pendant un moment, c'est en tous les ou deux butés.
+**[00:48:15 - 00:48:15] speaker**
+C'est bien, c'est...
 
-**[00:49:15 - 00:49:20] _redsun**  
-Donc, c'est... Bah, si tu connais pas trop et tu sais pas où tu vas,
+**[00:48:17 - 00:48:17] speaker**
+C'est très bien.
 
-**[00:49:22 - 00:49:25] _redsun**  
-J'aurais... Je sais pas dans les cet集 que tu sais pas où on metrait,
+**[00:48:19 - 00:48:19] speaker**
+C'est très bien.
 
-**[00:49:27 - 00:49:29] _redsun**  
+**[00:48:20 - 00:48:20] speaker**
+C'est pas mal, alors après,
+
+**[00:48:22 - 00:48:22] speaker**
+tu peux que des le jeux,
+
+**[00:48:25 - 00:48:25] speaker**
+snakes, en p'ton.
+
+**[00:48:28 - 00:48:28] speaker**
+Là, on va voir un peu,
+
+**[00:48:30 - 00:48:30] speaker**
+ce que ça donne, et là, malheureusement,
+
+**[00:48:31 - 00:48:31] speaker**
+c'est là où ça commence,
+
+**[00:48:32 - 00:48:32] speaker**
+c'est qu'il arrive vite à répondre.
+
+**[00:48:34 - 00:48:34] speaker**
+Il arrive dans un 30 heures de pinking.
+
+**[00:48:36 - 00:48:36] speaker**
+Donc, on voit que c'est un modèle qui a 5,5 évision,
+
+**[00:48:39 - 00:48:39] speaker**
+donc il y a les deux.
+
+**[00:48:41 - 00:48:41] speaker**
+Voilà, le monde d'installer piquée dans ce qu'elle normal,
+
+**[00:48:44 - 00:48:44] speaker**
+et puis là, on voit le code,
+
+**[00:48:46 - 00:48:46] speaker**
+qui est un train de pont,
+
+**[00:48:47 - 00:48:47] speaker**
+et là, ce qui est...
+
+**[00:48:48 - 00:48:48] speaker**
+je trouve magique, c'est que là, je fais une géantropique.
+
+**[00:48:51 - 00:48:51] speaker**
+Nix personnes, je fais mon petit business,
+
+**[00:48:53 - 00:48:53] speaker**
+donc on a un personne,
+
+**[00:48:54 - 00:48:54] speaker**
+le c'est...
+
+**[00:48:55 - 00:48:55] speaker**
+Tout est privé, tout est complètement hors du sein.
+
+**[00:48:58 - 00:48:58] speaker**
+Et connecté.
+
+**[00:49:01 - 00:49:01] speaker**
+Ah, des contentes de connecté.
+
+**[00:49:04 - 00:49:04] speaker**
+Et les mêmes studios, qui sont.
+
+**[00:49:06 - 00:49:06] speaker**
+Ouais, c'est LM studio.
+
+**[00:49:08 - 00:49:08] speaker**
+Et alors par contre,
+
+**[00:49:10 - 00:49:10] speaker**
+on va pas se cacher des choses,
+
+**[00:49:12 - 00:49:12] speaker**
+c'est assez hardcore,
+
+**[00:49:13 - 00:49:13] speaker**
+pendant un moment,
+
+**[00:49:14 - 00:49:14] speaker**
+surtout si vous débutez.
+
+**[00:49:15 - 00:49:15] speaker**
+Donc, elle pense,
+
+**[00:49:17 - 00:49:17] speaker**
+bah, si tu connais pas trop,
+
+**[00:49:19 - 00:49:19] speaker**
+et tu sais pas où tu vas,
+
+**[00:49:21 - 00:49:21] speaker**
+tu te vis de perdre quoi.
+
+**[00:49:22 - 00:49:22] speaker**
+J'aurais, je sais pas,
+
+**[00:49:24 - 00:49:24] speaker**
+dans les cet objectif,
+
+**[00:49:25 - 00:49:25] speaker**
+je peux vous montrer,
+
+**[00:49:26 - 00:49:26] speaker**
+qui fait un peu peur.
+
+**[00:49:28 - 00:49:28] speaker**
 Pour vous montrer un peu de quoi je parle.
 
-**[00:49:29 - 00:49:34] _redsun**  
-Voilà, ici vous avez les réponses, donc celle-là que de réponses.
+**[00:49:30 - 00:49:30] speaker**
+Voilà,
 
-**[00:49:34 - 00:49:38] _redsun**  
-Et ici vous avez la taille du contexte.
+**[00:49:31 - 00:49:31] speaker**
+ici vous avez les réponses.
 
-**[00:49:38 - 00:49:42] _redsun**  
-C'est que le GP orflo de ces combattes, tu vas attribuer de ton GPU.
+**[00:49:32 - 00:49:32] speaker**
+Donc, c'est le log de réponses.
 
-**[00:49:42 - 00:49:45] _redsun**  
-Et après tu peux paramétrer aussi les cavécaches.
+**[00:49:34 - 00:49:34] speaker**
+Et ici vous avez les...
 
-**[00:49:45 - 00:49:47] _redsun**  
-Et ce genre de truc, de la quantisation.
+**[00:49:36 - 00:49:36] speaker**
+la taille du contexte.
 
-**[00:49:48 - 00:49:51] _redsun**  
-Là, je peux te trouver les grands en fait.
+**[00:49:38 - 00:49:38] speaker**
+C'est...
 
-**[00:49:51 - 00:49:55] _redsun**  
-Donc ça, bon, faut jamais un petit peu s'accrocher.
+**[00:49:39 - 00:49:39] speaker**
+le j'ai pu offler au flot,
 
-**[00:49:55 - 00:49:58] _redsun**  
-Tu sais ce que tu fais, bon, tu peux demander tout à fait à clôt,
+**[00:49:40 - 00:49:40] speaker**
+c'est combien tu veux attribuer de ton j'ai payé.
 
-**[00:49:58 - 00:50:01] _redsun**  
-on se sent un screenshot, tu dis comment je fais ?
+**[00:49:42 - 00:49:42] speaker**
+Et après, tu peux paramétrer aussi les cavécaches.
 
-**[00:50:01 - 00:50:03] _redsun**  
-Et puis, est-ce que j'ai nial ? C'est qui ici ?
+**[00:49:45 - 00:49:45] speaker**
+Et ce genre de truc,
 
-**[00:50:05 - 00:50:09] _redsun**  
-Là, vous avez dans le voyageur sur les modèles, et vous avez tous les modèles,
+**[00:49:46 - 00:49:46] speaker**
+de la quantisation.
 
-**[00:50:13 - 00:50:22] _redsun**  
-Et là, on a aussi 2 versions, j'ai eu à fait les M-X qui sont plus adaptés pour les
+**[00:49:47 - 00:49:47] speaker**
+Vous voyez un petit peu.
 
-**[00:50:22 - 00:50:27] _redsun**  
-processure un cadre justement et donc il y en a un qui me
+**[00:49:48 - 00:49:48] speaker**
+Ouais.
 
-**[00:50:27 - 00:50:31] _redsun**  
-exiter en ce moment je vais essayer de retrouver j'ai les partagés
+**[00:49:49 - 00:49:49] speaker**
+Je peux te trouver les cas en fait.
 
-**[00:50:31 - 00:50:36] _redsun**  
-d'en groupe d'ailleurs sur général c'est un modèle qui est
+**[00:49:50 - 00:49:50] speaker**
+Oui.
 
-**[00:50:36 - 00:50:38] _redsun**  
-je trouve ta brillante je vais pas tellement se marre de
+**[00:49:51 - 00:49:51] speaker**
+Bon, ça, bon,
 
-**[00:50:42 - 00:50:45] _redsun**  
-c'est pas vous voyez tout le monde est quand même je sais pas si je suis
+**[00:49:52 - 00:49:52] speaker**
+faut déjà un petit peu s'accrocher.
 
-**[00:50:45 - 00:50:49] _redsun**  
-je dois vraiment donc j'ai ce que c'est que ce truc-là donc ça
+**[00:49:55 - 00:49:55] speaker**
+Tu sais ce que tu fais,
 
-**[00:50:49 - 00:50:53] _redsun**  
-ça avec une phase, c'est la plus grosse plateforme de partage de modèle LLM, c'est
+**[00:49:56 - 00:49:56] speaker**
+bon, tu peux demander tout à fait un clot,
 
-**[00:50:53 - 00:50:59] _redsun**  
-français d'ailleurs. Et eux, ils l'ais ont fait un modèle, c'est tellement smart. Ils ont
+**[00:49:58 - 00:49:58] speaker**
+aussi un truc.
 
-**[00:50:59 - 00:51:07] _redsun**  
-pris quoi ? 36, 27B et ils l'ont dit qu'il y avait que plus. Donc en gros, j'utilise
+**[00:49:59 - 00:49:59] speaker**
+Tu prends un screenshot,
 
-**[00:51:07 - 00:51:13] _redsun**  
-O-pulse pour essayer de faire ressembler le plus possible à réponse de O-pulse. En
+**[00:50:00 - 00:50:00] speaker**
+tu dis comment je fais.
 
-**[00:51:15 - 00:51:22] _redsun**  
-Donc on va être en ce retrouver avec une espèce d'ibri de plus sur un modèle qui tourne sur une
+**[00:50:01 - 00:50:01] speaker**
+Et puis,
 
-**[00:51:25 - 00:51:29] _redsun**  
-Donc, je voulais tester aujourd'hui.
+**[00:50:02 - 00:50:02] speaker**
+ce qui est génial, c'est qui,
 
-**[00:51:29 - 00:51:33] _redsun**  
-J'ai assez un peu la galère, ce que je vais prendre de j'ai pas malheureusement pas assez
+**[00:50:03 - 00:50:03] speaker**
+c'est qui, c'est au sage génial.
 
-**[00:51:34 - 00:51:40] _redsun**  
-Donc là on peut les installer, on peut tester tout et puis ensuite ça, vous pouvez le
+**[00:50:05 - 00:50:05] speaker**
+Là, vous avez,
 
-**[00:51:40 - 00:51:46] _redsun**  
-plus logie. En fait vous avez juste à aller sur un peu de clôt, je peux aller sur un peu de clôt,
+**[00:50:06 - 00:50:06] speaker**
+dans le voyageur chez les modales,
 
-**[00:51:46 - 00:51:51] _redsun**  
-c'est vrai. Puis moi j'ai fait un atterface parce que là il y a un gil et de la prie,
+**[00:50:08 - 00:50:08] speaker**
+et vous avez tous les modales,
 
-**[00:51:51 - 00:51:56] _redsun**  
-le logiciel, si vous s'y dit, je vais faire un truc qui est plus simple à crewe, ce que franchement,
+**[00:50:09 - 00:50:09] speaker**
+le cal,
 
-**[00:51:56 - 00:52:03] _redsun**  
-c'est une telle galère. Et puis là du coup j'ai connu ce logiciel à l'aide,
+**[00:50:10 - 00:50:10] speaker**
+dispo,
 
-**[00:52:03 - 00:52:10] _redsun**  
-il est connu 100% avec un peu de clôt. Donc je le mets à jour, donc ça va pas me mettre
+**[00:50:11 - 00:50:11] speaker**
+et il y en a un pété quoi.
 
-**[00:52:10 - 00:52:14] _redsun**  
-aujourd'hui on a un brouh on a au d'alemstideau, tout ça, on s'attit en bête pas,
+**[00:50:13 - 00:50:13] speaker**
+Et tout est une grande débrouille, hein?
 
-**[00:52:14 - 00:52:19] _redsun**  
-le but, cette passe en bête et puis là j'ai rajouté récemment ça, qui est le
+**[00:50:16 - 00:50:16] speaker**
+Et là,
 
-**[00:52:19 - 00:52:23] _redsun**  
-peine pleut chat ou là tu peux s'outier entre les mêmes clords donc à des
+**[00:50:17 - 00:50:17] speaker**
+on a aussi deux versions,
 
-**[00:52:23 - 00:52:27] _redsun**  
-chercheurs des appes, sur le repels en route, par exemple, où elle est l'aime locale et là
+**[00:50:19 - 00:50:19] speaker**
+on a les GGF,
 
-**[00:52:27 - 00:52:33] _redsun**  
-tu peux s'outier, bah il est pleugués sur coin 3.5, voilà je te ambitionne
+**[00:50:20 - 00:50:20] speaker**
+et les M-Lix,
 
-**[00:52:33 - 00:52:41] _redsun**  
-un peu trop lourcent. Là, je vais faire un autosetop et là, il paraît mettre
+**[00:50:21 - 00:50:21] speaker**
+qui sont plus adaptés
 
-**[00:52:41 - 00:52:46] _redsun**  
-elle-même studio comme ça en WMTX. Il n'y a pas envie de te prendre la tête. Il
+**[00:50:22 - 00:50:22] speaker**
+pour les processeurs,
 
-**[00:52:46 - 00:52:50] _redsun**  
-règne le contexte en fonction d'open.com, parce que peut-être une cloie, besoin de 25 000
+**[00:50:23 - 00:50:23] speaker**
+une cage justement.
 
-**[00:52:50 - 00:52:55] _redsun**  
-de taquennes de contexte. Et du coup, maintenant, bah là, théoriquement, je ne suis pas
+**[00:50:24 - 00:50:24] speaker**
+Et donc,
 
-**[00:52:55 - 00:53:03] _redsun**  
-faire marcher. Si je mette test, il va réfléchir. Et là, c'est-à-dire dans le contexte de mon open
+**[00:50:25 - 00:50:25] speaker**
+il y en a un qui me
 
-**[00:53:03 - 00:53:09] _redsun**  
-Il va répondre avec un modèle local attention parce que là vous avez vu que c'était super rapide sur le M studio
+**[00:50:27 - 00:50:27] speaker**
+m'exité en ce moment.
 
-**[00:53:09 - 00:53:12] _redsun**  
-Non, c'est super rapide parce que la taille du contexte est d'héro
+**[00:50:28 - 00:50:28] speaker**
+Je vais essayer de retrouver,
 
-**[00:53:12 - 00:53:17] _redsun**  
-Alors que là, dans le PNC, il doit toujours prendre un taille de contexte qui est environ 25 000 taquennes
+**[00:50:30 - 00:50:30] speaker**
+je les partageais dans le groupe.
 
-**[00:53:18 - 00:53:21] _redsun**  
-Pour ceux qui connaissent pas 25 000 taquennes, c'est environ 25 000 morts
+**[00:50:32 - 00:50:32] speaker**
+D'ailleurs, sur général,
 
-**[00:53:22 - 00:53:27] _redsun**  
-Donc il doit traiter ça avant de générer la réponse et normalement là vous voyez en temps réelle
+**[00:50:33 - 00:50:33] speaker**
+tu as un modèle qui est,
 
-**[00:53:28 - 00:53:30] _redsun**  
-Processive pronte, là il est un train de traiter mon pronte
+**[00:50:35 - 00:50:35] speaker**
+je trouve,
 
-**[00:53:30 - 00:53:36] _redsun**  
-Alors oui, j'ai dit test et là il gênère du Toka et nous voyons des crides et mon
+**[00:50:36 - 00:50:36] speaker**
+tu t'abriens,
 
-**[00:53:36 - 00:53:42] _redsun**  
-faute et là il balançera le pens dans le monde et la balançera le pens. Voilà, ok?
+**[00:50:37 - 00:50:37] speaker**
+tu t'appellons,
 
-**[00:53:42 - 00:53:52] _redsun**  
-Mais le roulet, c'était, ça ne soit pas la galère pour pouvoir faire ça et donc du coup
+**[00:50:38 - 00:50:38] speaker**
+ce m'arbe de perpa,
 
-**[00:53:52 - 00:53:56] _redsun**  
-j'ai fait nuit avec qui j'ai reçou ça. Et puis là je fais aussi du peu changer de modèle
+**[00:50:39 - 00:50:39] speaker**
+tu en faisais une île là,
 
-**[00:53:56 - 00:54:00] _redsun**  
-tous, tu peux estimer cette again, j'ai essayé de faire un système où tu peux connecter
+**[00:50:41 - 00:50:41] speaker**
+voilà.
 
-**[00:54:00 - 00:54:05] _redsun**  
-WhatsApp en un clic, Discord, etc. J'ai fait les temps de plait pour ceux qui
+**[00:50:42 - 00:50:42] speaker**
+Et ça,
 
-**[00:54:05 - 00:54:08] _redsun**  
-soient de faire du dévo modo, du fond d'ormes, de détruquer comme ça.
+**[00:50:43 - 00:50:43] speaker**
+vous voyez tout le monde est quand même,
 
-**[00:54:08 - 00:54:12] _redsun**  
-J'ai fait toute une fac d'aide et puis une install aussi, je suis prie, mais chacun d'être
+**[00:50:44 - 00:50:44] speaker**
+je ne sais pas si je suis...
 
-**[00:54:12 - 00:54:17] _redsun**  
-qui s'est parlement. Et puis je suis un petit contrôle centre et du monitoring, donc là, je vais
+**[00:50:45 - 00:50:45] speaker**
+Oui,
 
-**[00:54:17 - 00:54:21] _redsun**  
-me unitérer mon ordet. Parce que ça, ça bouffe toute vos ressources, voilà,
+**[00:50:46 - 00:50:46] speaker**
+Oui, c'est bon.
 
-**[00:54:24 - 00:54:29] _redsun**  
-Ça veut dire qu'il ne s'est pas ponp la ressource de ma machine, ce qui est normal,
+**[00:50:47 - 00:50:47] speaker**
+Oui.
 
-**[00:54:29 - 00:54:31] _redsun**  
-parce que je vais tourner à l'élèvoie, le cas le quoi.
+**[00:50:48 - 00:50:48] speaker**
+Donc, est-ce que c'est que ce truc-là,
 
-**[00:54:33 - 00:54:38] _redsun**  
-Voilà, ça se part jusqu'à ce que je me crée tout de suite des choses avec Open Cloud.
+**[00:50:49 - 00:50:49] speaker**
+donc ça, c'est avec une phrase,
 
-**[00:54:38 - 00:54:44] _redsun**  
-Je me suis dit, ben, je vais faire un truc concret qu'on n'a pas du virtuel ou bla bla bla,
+**[00:50:50 - 00:50:50] speaker**
+c'est la plus grosse plateforme
 
-**[00:54:45 - 00:54:49] _redsun**  
-Tout ça, tout ce que vous voyez dans les yeux, ça a été fait avec Open Cloud.
+**[00:50:51 - 00:50:51] speaker**
+de partage de modèle LLM,
 
-**[00:54:49 - 00:54:55] _redsun**  
-Donc en comment on le direct, c'était Boucher GitHub, c'était gérée sur GitHub, c'était
+**[00:50:53 - 00:50:53] speaker**
+c'est français d'ailleurs.
 
-**[00:54:55 - 00:55:00] _redsun**  
-Et là j'ai fait un site web aussi, où je le mets en vente, j'ai sèles.
+**[00:50:55 - 00:50:55] speaker**
+Et eux,
 
-**[00:55:01 - 00:55:31] nano1992_**  
-et puis tu dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je dis qu'elle m'a dit, je
+**[00:50:56 - 00:50:56] speaker**
+ils l'aisent faire,
 
-**[00:55:04 - 00:55:09] _redsun**  
-Alors j'ai fait un mythe, parce que, alors pour que des franchement, on va le voir comment,
+**[00:50:57 - 00:50:57] speaker**
+modèle,
 
-**[00:55:09 - 00:55:12] _redsun**  
-parce que c'est pas cher, on n'était pas forcément le meilleur.
+**[00:50:58 - 00:50:58] speaker**
+c'est tellement smart.
 
-**[00:55:12 - 00:55:17] _redsun**  
-Moi j'étais DiscoDex, donc CodeX avant j'étais des 53,
+**[00:50:59 - 00:50:59] speaker**
+Ils ont pris coin,
 
-**[00:55:17 - 00:55:22] _redsun**  
-Quand j'ai commencé l'urgicellité 5,5, maintenant j'ai dit ce collection que c'est que le dernier version.
+**[00:51:00 - 00:51:00] speaker**
+36, 27B,
 
-**[00:55:22 - 00:55:27] _redsun**  
-Je suis prêt à l'abonnement avant, c'est que d'aller en c'est le minimum syndical.
+**[00:51:02 - 00:51:02] speaker**
+et ils l'ont distilé avec O-P-S.
 
-**[00:55:27 - 00:55:31] _redsun**  
-Et puis là vous avez quand une usage qui est assez sympa et qui permet de connaître l'urgicellité.
+**[00:51:04 - 00:51:04] speaker**
+Donc, en gros,
 
-**[00:55:31 - 00:55:34] _redsun**  
-Donc à priori vous allez être tranquille.
+**[00:51:06 - 00:51:06] speaker**
+je disais O-P-S,
 
-**[00:55:34 - 00:55:42] _redsun**  
-Parce qu'il y a un rapport qualité-prit qui est un batape, c'est au pénéal et pour le moment, attention ça peut changer rapidement.
+**[00:51:08 - 00:51:08] speaker**
+pour essayer de faire ressembler
 
-**[00:55:42 - 00:55:47] _redsun**  
-La pronomance est largement préférable de prendre un abonnement de chat d'épétés
+**[00:51:10 - 00:51:10] speaker**
+le plus possible,
 
-**[00:55:47 - 00:55:50] _redsun**  
-le connecteur peut être une clôt dessus et puis des tranquilles quoi
+**[00:51:11 - 00:51:11] speaker**
+au réponse de O-P-S.
 
-**[00:55:52 - 00:55:57] _redsun**  
-franchement c'est tellement plus cool quoi parce que sinon vous allez passer par un bain au tour
+**[00:51:12 - 00:51:12] speaker**
+En distilant ces réponses.
 
-**[00:55:58 - 00:56:03] _redsun**  
-ou par un tropique mon tropique ça marche alors on a ou pas je sais même plus mais non un jour ça marche
+**[00:51:16 - 00:51:16] speaker**
+Donc, on va être en ce retrouver,
 
-**[00:56:01 - 00:56:09] nano1992_**  
-Le nom, mais ça fait que c'était une note de ma chporte depuis qui, dans le risque,
+**[00:51:18 - 00:51:18] speaker**
+avec une espèce d'ibri de O-P-S,
 
-**[00:56:09 - 00:56:19] nano1992_**  
-il s'est découvert de l'utiliser des modèles partout àilleurs, autres que surclone pour autant
+**[00:51:20 - 00:51:20] speaker**
+sur un modèle qui tourne sur une bécane
 
-**[00:56:19 - 00:56:24] nano1992_**  
-qu'il y ait la bonne note avec la pays et la sursection de la pays et le coup d'une blame.
+**[00:51:22 - 00:51:22] speaker**
+à 64,
 
-**[00:56:24 - 00:56:29] nano1992_**  
-mais par la bonne note à 20 ans ou 200, on peut utiliser que dans nos nir en mon
+**[00:51:23 - 00:51:23] speaker**
+j'ai quand même...
 
-**[00:56:31 - 00:56:34] _redsun**  
-Donc, pour moi, c'est un vrai problème.
+**[00:51:24 - 00:51:24] speaker**
+Donc,
 
-**[00:56:34 - 00:56:37] _redsun**  
-Autant, je trouve que l'eau de Katzis mon se döge,
+**[00:51:26 - 00:51:26] speaker**
+donc,
 
-**[00:56:37 - 00:56:39] _redsun**  
-n'en parle Katzette, je ne sais pas pourquoi je le me parle.
+**[00:51:27 - 00:51:27] speaker**
+bon, je voulais le tester aujourd'hui,
 
-**[00:56:40 - 00:56:44] _redsun**  
-J'ai du mal avec de Katzette, c'est pas je trouve pas le même feeling avec de Katzis.
+**[00:51:29 - 00:51:29] speaker**
+j'ai assez un peu,
 
-**[00:56:46 - 00:56:48] _redsun**  
-T'as de moi qui suis devien fou avec le truc.
+**[00:51:30 - 00:51:30] speaker**
+c'est un peu la galère,
 
-**[00:56:52 - 00:56:54] gilles_35307**  
-On ne fait pas tout ce que ça fait.
+**[00:51:31 - 00:51:31] speaker**
+ce que j'ai 32,
 
-**[00:56:54 - 00:56:57] gilles_35307**  
-Moi par exemple, je parle pour moi, je vais...
+**[00:51:32 - 00:51:32] speaker**
+malheureusement passé,
 
-**[00:56:57 - 00:57:00] gilles_35307**  
-Je ne vais pas faire vraiment le disent à gauche.
+**[00:51:33 - 00:51:33] speaker**
+un peu le récrac.
 
-**[00:57:00 - 00:57:02] gilles_35307**  
-On ne te redue pas. Je ne sais pas.
+**[00:51:34 - 00:51:34] speaker**
+Donc là,
 
-**[00:57:01 - 00:57:11] _redsun**  
-C'est un peu un peu un peu de la haute.
+**[00:51:35 - 00:51:35] speaker**
+on peut les installer,
 
-**[00:57:19 - 00:57:24] _redsun**  
-de quoi. Donc, voilà, ça permet de vous montrer ça.
+**[00:51:36 - 00:51:36] speaker**
+on peut tester tout.
 
-**[00:57:24 - 00:57:41] nano1992_**  
-Je ne veux pas le faire, parce que c'est le mission contrôle, c'est ça.
+**[00:51:38 - 00:51:38] speaker**
+Et puis ensuite,
 
-**[00:57:24 - 00:57:28] _redsun**  
-Je suis super cool que les sétoces et quelqu'un n'a pas vu, en fait, l'interface de
+**[00:51:39 - 00:51:39] speaker**
+ça,
 
-**[00:57:35 - 00:57:40] _redsun**  
-Le dashboard, je passe que le voyage.
+**[00:51:40 - 00:51:40] speaker**
+on vous pouvez le plugger.
 
-**[00:57:40 - 00:57:48] _redsun**  
-Alors, c'est pas la dernière version, mais bon, je vais pas le mettre à l'orment
+**[00:51:41 - 00:51:41] speaker**
+Ah,
 
-**[00:57:41 - 00:57:44] nano1992_**  
-Mais vraiment, il est parti de tout grand.
+**[00:51:42 - 00:51:42] speaker**
+en fait,
 
-**[00:57:48 - 00:57:53] _redsun**  
-parce qu'il y a d'ailleurs des dernières trucs un peu chiant quoi ça c'est un peu le troupion
+**[00:51:43 - 00:51:43] speaker**
+vous avez juste à aller sur O-P-S,
 
-**[00:57:53 - 00:57:56] _redsun**  
-c'est très mec et je passe vous avez vu et ni d'avoir tous les joueurs littéralement
+**[00:51:44 - 00:51:44] speaker**
+je peux aller sur O-P-S,
 
-**[00:57:56 - 00:58:01] _redsun**  
-tous les joueurs il y a une journée ils ont fait deux par jour les mais ils sont tellement fou
+**[00:51:46 - 00:51:46] speaker**
+c'est ou l'air.
 
-**[00:58:01 - 00:58:06] _redsun**  
-ils avaient en parlant ça dans un week un sens quoi donc ça c'est un peu chiant
+**[00:51:47 - 00:51:47] speaker**
+Puis moi,
 
-**[00:58:06 - 00:58:09] _redsun**  
-parce que des fois ça couper que l'élection avec discord ça un peu redou qu'on a
+**[00:51:48 - 00:51:48] speaker**
+j'ai fait un interface,
 
-**[00:58:09 - 00:58:13] _redsun**  
-bref c'est un peu moins que j'y reproche le plus c'est ça quoi c'est ça
+**[00:51:49 - 00:51:49] speaker**
+et on va,
 
-**[00:58:16 - 00:58:19] _redsun**  
-En gros, vous avez le chat, vous pouvez poser d'un portes quelques questions.
+**[00:51:50 - 00:51:50] speaker**
+voilà, il y a G,
 
-**[00:58:19 - 00:58:22] _redsun**  
-Et là, on voit les modèles disponibles.
+**[00:51:51 - 00:51:51] speaker**
+et il a pris le logiciel,
 
-**[00:58:22 - 00:58:26] _redsun**  
-En disant, j'ai celui-là, j'ai ma cadet,
+**[00:51:53 - 00:51:53] speaker**
+j'ai vu ça,
 
-**[00:58:26 - 00:58:29] _redsun**  
-que je vous ai montré avant le cas gauche.
+**[00:51:54 - 00:51:54] speaker**
+je veux dire,
 
-**[00:58:29 - 00:58:32] _redsun**  
+**[00:51:55 - 00:51:55] speaker**
+je veux faire un truc,
+
+**[00:51:56 - 00:51:56] speaker**
+plus simple,
+
+**[00:51:57 - 00:51:57] speaker**
+parce que franchement,
+
+**[00:51:58 - 00:51:58] speaker**
+c'est une telle galère.
+
+**[00:51:59 - 00:51:59] speaker**
+Et puis,
+
+**[00:52:00 - 00:52:00] speaker**
+dans ce moment,
+
+**[00:52:01 - 00:52:01] speaker**
+c'est un peu le gros,
+
+**[00:52:02 - 00:52:02] speaker**
+c'est un peu le logiciel,
+
+**[00:52:04 - 00:52:04] speaker**
+et il est que des 100%
+
+**[00:52:06 - 00:52:06] speaker**
+avec un peu de clôt.
+
+**[00:52:07 - 00:52:07] speaker**
+Donc,
+
+**[00:52:08 - 00:52:08] speaker**
+je le mets à jour,
+
+**[00:52:09 - 00:52:09] speaker**
+donc,
+
+**[00:52:10 - 00:52:10] speaker**
+ça va me mettre à jour,
+
+**[00:52:11 - 00:52:11] speaker**
+hombro,
+
+**[00:52:12 - 00:52:12] speaker**
+hombro,
+
+**[00:52:13 - 00:52:13] speaker**
+d'alemstideaux,
+
+**[00:52:14 - 00:52:14] speaker**
+tout ça,
+
+**[00:52:15 - 00:52:15] speaker**
+on s'attit en bécane,
+
+**[00:52:16 - 00:52:16] speaker**
+on a le but,
+
+**[00:52:17 - 00:52:17] speaker**
+j'ai rajouté récemment,
+
+**[00:52:18 - 00:52:18] speaker**
+ça,
+
+**[00:52:19 - 00:52:19] speaker**
+qui est le pain de pleut chat,
+
+**[00:52:20 - 00:52:20] speaker**
+ou là,
+
+**[00:52:21 - 00:52:21] speaker**
+tu peux s'outier entre l'alemme,
+
+**[00:52:23 - 00:52:23] speaker**
+là,
+
+**[00:52:24 - 00:52:24] speaker**
+donc,
+
+**[00:52:25 - 00:52:25] speaker**
+il cherche des appelliers sur l'opinomruteur,
+
+**[00:52:26 - 00:52:26] speaker**
+par exemple,
+
+**[00:52:27 - 00:52:27] speaker**
+où elle est l'hème locale,
+
+**[00:52:28 - 00:52:28] speaker**
+et là,
+
+**[00:52:29 - 00:52:29] speaker**
+tu peux s'outier,
+
+**[00:52:30 - 00:52:30] speaker**
+bah, il est plugués sur coin 3.5,
+
+**[00:52:32 - 00:52:32] speaker**
+ou là,
+
+**[00:52:33 - 00:52:33] speaker**
+le temps,
+
+**[00:52:34 - 00:52:34] speaker**
+c'est un peu trop lource.
+
+**[00:52:36 - 00:52:36] speaker**
+Là,
+
+**[00:52:38 - 00:52:38] speaker**
+je vais faire un autosetap,
+
+**[00:52:40 - 00:52:40] speaker**
+et là,
+
+**[00:52:41 - 00:52:41] speaker**
+il paramètre,
+
+**[00:52:42 - 00:52:42] speaker**
+elle a me studio,
+
+**[00:52:43 - 00:52:43] speaker**
+comme ça,
+
+**[00:52:44 - 00:52:44] speaker**
+au analytics,
+
+**[00:52:45 - 00:52:45] speaker**
+il n'y a pas envie de te prendre la tête,
+
+**[00:52:46 - 00:52:46] speaker**
+il fait,
+
+**[00:52:47 - 00:52:47] speaker**
+il règles au contexte,
+
+**[00:52:48 - 00:52:48] speaker**
+en fonction d'opinomruteur,
+
+**[00:52:49 - 00:52:49] speaker**
+ce que peut être une cloie,
+
+**[00:52:50 - 00:52:50] speaker**
+besoin de 25 000 taquettes de contexte,
+
+**[00:52:52 - 00:52:52] speaker**
+et du coup,
+
+**[00:52:53 - 00:52:53] speaker**
+maintenant,
+
+**[00:52:54 - 00:52:54] speaker**
+bah là,
+
+**[00:52:55 - 00:52:55] speaker**
+t'es rééquent,
+
+**[00:52:56 - 00:52:56] speaker**
+je ne suis pas soeur marcher,
+
+**[00:52:57 - 00:52:57] speaker**
+si je mette test,
+
+**[00:52:58 - 00:52:58] speaker**
+il va réfléchir,
+
+**[00:52:59 - 00:52:59] speaker**
+et là,
+
+**[00:53:00 - 00:53:00] speaker**
+c'est-le,
+
+**[00:53:01 - 00:53:01] speaker**
+donc,
+
+**[00:53:02 - 00:53:02] speaker**
+dans le contexte de mon opinomr,
+
+**[00:53:04 - 00:53:04] speaker**
+il va répondre avec un modèle local,
+
+**[00:53:06 - 00:53:06] speaker**
+attention,
+
+**[00:53:07 - 00:53:07] speaker**
+parce que là,
+
+**[00:53:08 - 00:53:08] speaker**
+vous avez vu que c'était super rapide sur le M studio,
+
+**[00:53:10 - 00:53:10] speaker**
+c'est super rapide,
+
+**[00:53:11 - 00:53:11] speaker**
+parce que la tête du contexte,
+
+**[00:53:12 - 00:53:12] speaker**
+c'était d'héro,
+
+**[00:53:13 - 00:53:13] speaker**
+alors que là,
+
+**[00:53:14 - 00:53:14] speaker**
+on peut me clouer,
+
+**[00:53:15 - 00:53:15] speaker**
+il doit toujours prendre un tête de contexte,
+
+**[00:53:17 - 00:53:17] speaker**
+qui est environ 25 000 taquettes,
+
+**[00:53:19 - 00:53:19] speaker**
+pour ceux qui connaissent pas,
+
+**[00:53:20 - 00:53:20] speaker**
+25 000 taquettes,
+
+**[00:53:21 - 00:53:21] speaker**
+environ 25 000 mots.
+
+**[00:53:23 - 00:53:23] speaker**
+Donc, il doit traiter ça avant,
+
+**[00:53:25 - 00:53:25] speaker**
+de générer la réponse,
+
+**[00:53:26 - 00:53:26] speaker**
+et normalement,
+
+**[00:53:27 - 00:53:27] speaker**
+là, vous voyez,
+
+**[00:53:28 - 00:53:28] speaker**
+on t'en réelle,
+
+**[00:53:29 - 00:53:29] speaker**
+processie,
+
+**[00:53:30 - 00:53:30] speaker**
+il a un train de traiter mon prompt,
+
+**[00:53:32 - 00:53:32] speaker**
+alors oui,
+
+**[00:53:33 - 00:53:33] speaker**
+j'ai dit test,
+
+**[00:53:34 - 00:53:34] speaker**
+et là,
+
+**[00:53:35 - 00:53:35] speaker**
+il gênère du Token,
+
+**[00:53:36 - 00:53:36] speaker**
+et des crides et mon enfaute,
+
+**[00:53:37 - 00:53:37] speaker**
+et là, il balançera le pense,
+
+**[00:53:39 - 00:53:39] speaker**
+dans le monde,
+
+**[00:53:40 - 00:53:40] speaker**
+et la balançera le pense,
+
+**[00:53:41 - 00:53:41] speaker**
+voilà,
+
+**[00:53:42 - 00:53:42] speaker**
+ok?
+
+**[00:53:43 - 00:53:43] speaker**
+Ouais,
+
+**[00:53:44 - 00:53:44] speaker**
+mais,
+
+**[00:53:46 - 00:53:46] speaker**
+le roulet,
+
+**[00:53:47 - 00:53:47] speaker**
+c'était,
+
+**[00:53:48 - 00:53:48] speaker**
+il ne faut pas la galère,
+
+**[00:53:49 - 00:53:49] speaker**
+pour les pouvoir faire ça,
+
+**[00:53:51 - 00:53:51] speaker**
+et donc,
+
+**[00:53:52 - 00:53:52] speaker**
+du coup,
+
+**[00:53:53 - 00:53:53] speaker**
+je fais nuit avec qui j'ai reçou ça,
+
+**[00:53:55 - 00:53:55] speaker**
+et puis là,
+
+**[00:53:56 - 00:53:56] speaker**
+je fais aussi du peu change de modèle,
+
+**[00:53:57 - 00:53:57] speaker**
+et tout,
+
+**[00:53:58 - 00:53:58] speaker**
+tu peux estimer tes taquettes,
+
+**[00:53:59 - 00:53:59] speaker**
+j'ai essayé de faire un système,
+
+**[00:54:00 - 00:54:00] speaker**
+tu peux connecter WhatsApp en un clic,
+
+**[00:54:02 - 00:54:02] speaker**
+Discord, etc.
+
+**[00:54:03 - 00:54:03] speaker**
+j'ai fait des temps de plait,
+
+**[00:54:04 - 00:54:04] speaker**
+pour ceux qui,
+
+**[00:54:05 - 00:54:05] speaker**
+soit de faire du dévement,
+
+**[00:54:06 - 00:54:06] speaker**
+ou du fond d'armes,
+
+**[00:54:07 - 00:54:07] speaker**
+ou des trucs comme ça,
+
+**[00:54:08 - 00:54:08] speaker**
+je fais tout un de facto d'aide,
+
+**[00:54:10 - 00:54:10] speaker**
+et puis, un install,
+
+**[00:54:11 - 00:54:11] speaker**
+aussi,
+
+**[00:54:12 - 00:54:12] speaker**
+je suis prie,
+
+**[00:54:13 - 00:54:13] speaker**
+j'ai quand même,
+
+**[00:54:14 - 00:54:14] speaker**
+c'est par,
+
+**[00:54:15 - 00:54:15] speaker**
+et puis, il fait un petit contrôle centaire
+
+**[00:54:16 - 00:54:16] speaker**
+et du monitoring,
+
+**[00:54:17 - 00:54:17] speaker**
+donc là, je vais mon interrer mon ordée,
+
+**[00:54:18 - 00:54:18] speaker**
+parce que ça,
+
+**[00:54:20 - 00:54:20] speaker**
+ça bouffe,
+
+**[00:54:21 - 00:54:21] speaker**
+tout de vos ressources,
+
+**[00:54:22 - 00:54:22] speaker**
+voilà,
+
+**[00:54:23 - 00:54:23] speaker**
+et le soin,
+
+**[00:54:24 - 00:54:24] speaker**
+c'est le 4th Strophic,
+
+**[00:54:25 - 00:54:25] speaker**
+donc ça veut dire,
+
+**[00:54:26 - 00:54:26] speaker**
+c'est pas,
+
+**[00:54:27 - 00:54:27] speaker**
+pour la ressource de ma machine,
+
+**[00:54:28 - 00:54:28] speaker**
+ce qui est normal,
+
+**[00:54:29 - 00:54:29] speaker**
+parce que je vais tourner à l'alain,
+
+**[00:54:30 - 00:54:30] speaker**
+mon locale,
+
+**[00:54:33 - 00:54:33] speaker**
+voilà, c'est un style de faire du schais,
+
+**[00:54:35 - 00:54:35] speaker**
+ce que moi, j'aime bien,
+
+**[00:54:36 - 00:54:36] speaker**
+c'est tout de suite des choses avec
+
+**[00:54:38 - 00:54:38] speaker**
+une clone,
+
+**[00:54:39 - 00:54:39] speaker**
+donc là, je me suis dit,
+
+**[00:54:40 - 00:54:40] speaker**
+bah,
+
+**[00:54:41 - 00:54:41] speaker**
+je vais faire un truc concrèque,
+
+**[00:54:42 - 00:54:42] speaker**
+on va pas du virtuel,
+
+**[00:54:43 - 00:54:43] speaker**
+ou un bla bla bla,
+
+**[00:54:44 - 00:54:44] speaker**
+ou je ne va pas quoi,
+
+**[00:54:45 - 00:54:45] speaker**
+tout ça,
+
+**[00:54:46 - 00:54:46] speaker**
+tout ce que vous voyez dans les yeux,
+
+**[00:54:47 - 00:54:47] speaker**
+ça a été fait
+
+**[00:54:48 - 00:54:48] speaker**
+avec une clone,
+
+**[00:54:50 - 00:54:50] speaker**
+donc,
+
+**[00:54:51 - 00:54:51] speaker**
+en commande direct,
+
+**[00:54:52 - 00:54:52] speaker**
+ça a été bouche,
+
+**[00:54:53 - 00:54:53] speaker**
+au guitare,
+
+**[00:54:54 - 00:54:54] speaker**
+ça a été gérée sur guitare,
+
+**[00:54:55 - 00:54:55] speaker**
+ça a été là,
+
+**[00:54:56 - 00:54:56] speaker**
+et là,
+
+**[00:54:57 - 00:54:57] speaker**
+j'ai fait un sitois,
+
+**[00:54:58 - 00:54:58] speaker**
+ou,
+
+**[00:54:59 - 00:54:59] speaker**
+je le mets en vente,
+
+**[00:55:00 - 00:55:00] speaker**
+au pistolet,
+
+**[00:55:01 - 00:55:01] speaker**
+et il est quel modèle de ce qui est-il?
+
+**[00:55:03 - 00:55:03] speaker**
+Je t'ai dit,
+
+**[00:55:04 - 00:55:04] speaker**
+alors j'ai fait un sit,
+
+**[00:55:06 - 00:55:06] speaker**
+parce que,
+
+**[00:55:07 - 00:55:07] speaker**
+alors,
+
+**[00:55:08 - 00:55:08] speaker**
+pour que des enfants,
+
+**[00:55:09 - 00:55:09] speaker**
+je vois comment,
+
+**[00:55:10 - 00:55:10] speaker**
+parce que c'est pas cher,
+
+**[00:55:11 - 00:55:11] speaker**
+on ne sait pas,
+
+**[00:55:12 - 00:55:12] speaker**
+forcément le meilleur,
+
+**[00:55:13 - 00:55:13] speaker**
+moi j'ai dit,
+
+**[00:55:14 - 00:55:14] speaker**
+scodex,
+
+**[00:55:15 - 00:55:15] speaker**
+donc,
+
+**[00:55:16 - 00:55:16] speaker**
+avant,
+
+**[00:55:17 - 00:55:17] speaker**
+j'ai dit,
+
+**[00:55:18 - 00:55:18] speaker**
+quand j'ai commencé l'Ogricé,
+
+**[00:55:19 - 00:55:19] speaker**
+j'ai dit,
+
+**[00:55:20 - 00:55:20] speaker**
+scodex,
+
+**[00:55:21 - 00:55:21] speaker**
+que c'est un avération,
+
+**[00:55:22 - 00:55:22] speaker**
+j'ai fait un abonnement avant,
+
+**[00:55:24 - 00:55:24] speaker**
+bah là,
+
+**[00:55:25 - 00:55:25] speaker**
+donc,
+
+**[00:55:27 - 00:55:27] speaker**
+je vous avais,
+
+**[00:55:28 - 00:55:28] speaker**
+et puis là,
+
+**[00:55:29 - 00:55:29] speaker**
+vous avez,
+
+**[00:55:30 - 00:55:30] speaker**
+une usage qui est assez simple,
+
+**[00:55:31 - 00:55:31] speaker**
+et qui permet de connaître
+
+**[00:55:32 - 00:55:32] speaker**
+l'Ogricé l'Ogricé,
+
+**[00:55:33 - 00:55:33] speaker**
+donc,
+
+**[00:55:34 - 00:55:34] speaker**
+a priori,
+
+**[00:55:35 - 00:55:35] speaker**
+vous allez être tranquille,
+
+**[00:55:36 - 00:55:36] speaker**
+parce qu'il y a un rapport qualité-pric,
+
+**[00:55:38 - 00:55:38] speaker**
+qui est un batape,
+
+**[00:55:39 - 00:55:39] speaker**
+c'est au pénéal,
+
+**[00:55:40 - 00:55:40] speaker**
+et pour le moment,
+
+**[00:55:41 - 00:55:41] speaker**
+attention,
+
+**[00:55:42 - 00:55:42] speaker**
+ça peut changer un petit moment,
+
+**[00:55:44 - 00:55:44] speaker**
+pour le moment,
+
+**[00:55:45 - 00:55:45] speaker**
+c'est,
+
+**[00:55:46 - 00:55:46] speaker**
+largement,
+
+**[00:55:48 - 00:55:48] speaker**
+préférable,
+
+**[00:55:49 - 00:55:49] speaker**
+de prendre un abonnement de sa GPT,
+
+**[00:55:51 - 00:55:51] speaker**
+le connecteur,
+
+**[00:55:52 - 00:55:52] speaker**
+un peu le plus haut dessus,
+
+**[00:55:53 - 00:55:53] speaker**
+et puis,
+
+**[00:55:54 - 00:55:54] speaker**
+des tranquilles,
+
+**[00:55:55 - 00:55:55] speaker**
+quoi.
+
+**[00:55:56 - 00:55:56] speaker**
+Si vous avez passé par un peu de moteur,
+
+**[00:55:58 - 00:55:58] speaker**
+ou par un trop pic,
+
+**[00:56:00 - 00:56:00] speaker**
+mon trop pic,
+
+**[00:56:01 - 00:56:01] speaker**
+ça marche alors,
+
+**[00:56:02 - 00:56:02] speaker**
+ou pas,
+
+**[00:56:03 - 00:56:03] speaker**
+j'ai fait même plus,
+
+**[00:56:04 - 00:56:04] speaker**
+un jour, ça marche,
+
+**[00:56:05 - 00:56:05] speaker**
+on le fait voir,
+
+**[00:56:06 - 00:56:06] speaker**
+non,
+
+**[00:56:07 - 00:56:07] speaker**
+mais ça marche,
+
+**[00:56:08 - 00:56:08] speaker**
+depuis qu'il n'y a pas de
+
+**[00:56:10 - 00:56:10] speaker**
+mon coupé,
+
+**[00:56:11 - 00:56:11] speaker**
+l'usage des modèles,
+
+**[00:56:14 - 00:56:14] speaker**
+partout-t'ailleurs,
+
+**[00:56:16 - 00:56:16] speaker**
+autres,
+
+**[00:56:17 - 00:56:17] speaker**
+que sur clôtre,
+
+**[00:56:19 - 00:56:19] speaker**
+pour autant que,
+
+**[00:56:20 - 00:56:20] speaker**
+il y a un abonnement avec la pays,
+
+**[00:56:21 - 00:56:21] speaker**
+et sur de sa fonction,
+
+**[00:56:22 - 00:56:22] speaker**
+et la pays,
+
+**[00:56:23 - 00:56:23] speaker**
+et le coup d'une blind,
+
+**[00:56:25 - 00:56:25] speaker**
+mais par l'abonnement,
+
+**[00:56:26 - 00:56:26] speaker**
+à 20 ans ou 200,
+
+**[00:56:27 - 00:56:27] speaker**
+on peut utiliser que,
+
+**[00:56:28 - 00:56:28] speaker**
+dans l'environnement,
+
+**[00:56:29 - 00:56:29] speaker**
+autre.
+
+**[00:56:30 - 00:56:30] speaker**
+Ouais,
+
+**[00:56:31 - 00:56:31] speaker**
+donc,
+
+**[00:56:32 - 00:56:32] speaker**
+pour moi,
+
+**[00:56:33 - 00:56:33] speaker**
+pour moi,
+
+**[00:56:34 - 00:56:34] speaker**
+on reprend l'homme,
+
+**[00:56:35 - 00:56:35] speaker**
+autant,
+
+**[00:56:36 - 00:56:36] speaker**
+je trouve,
+
+**[00:56:37 - 00:56:37] speaker**
+que l'eau de catices,
+
+**[00:56:38 - 00:56:38] speaker**
+mon soldat,
+
+**[00:56:39 - 00:56:39] speaker**
+je ne parle qu'à de 7,
+
+**[00:56:40 - 00:56:40] speaker**
+pourquoi je le me parle,
+
+**[00:56:42 - 00:56:42] speaker**
+je ne le parle pas,
+
+**[00:56:44 - 00:56:44] speaker**
+je ne le parle pas,
+
+**[00:56:46 - 00:56:46] speaker**
+je ne le parle pas,
+
+**[00:56:48 - 00:56:48] speaker**
+je ne le parle pas,
+
+**[00:56:49 - 00:56:49] speaker**
+je ne le parle pas,
+
+**[00:56:51 - 00:56:51] speaker**
+je ne le parle pas,
+
+**[00:56:52 - 00:56:52] speaker**
+je ne le parle pas,
+
+**[00:56:53 - 00:56:53] speaker**
+je ne le parle pas,
+
+**[00:56:54 - 00:56:54] speaker**
+je ne l'ai pas.
+
+**[00:56:56 - 00:56:56] speaker**
+Je ne ments pas soms.
+
+**[00:56:57 - 00:56:57] speaker**
+je ne vois pas.
+
+**[00:56:58 - 00:56:58] speaker**
+Je ne le dis pas à
+
+**[00:57:01 - 00:57:01] speaker**
+le booster,
+
+**[00:57:03 - 00:57:03] speaker**
+splash ou pour tonbaut coups,
+
+**[00:57:04 - 00:57:04] speaker**
+qui n'est pas auтиle.
+
+**[00:57:06 - 00:57:06] speaker**
+Pour faire mal,
+
+**[00:57:08 - 00:57:08] speaker**
+tu peux or entre ça pis au dynamic.
+
+**[00:57:11 - 00:57:11] speaker**
+Je coupe le
+
+**[00:57:24 - 00:57:24] speaker**
+Je suis en cas où que les sétoces.
+
+**[00:57:26 - 00:57:26] speaker**
+Et quelqu'un n'a pas vu, en fait, l'interface de Penclos, ou...
+
+**[00:57:28 - 00:57:28] speaker**
+...pournt la vie.
+
+**[00:57:32 - 00:57:32] speaker**
+Je ne sais pas.
+
+**[00:57:33 - 00:57:33] speaker**
+Je ne sais pas.
+
+**[00:57:34 - 00:57:34] speaker**
+Je ne sais pas, parce que le mission contrôle, c'est-à-dire.
+
+**[00:57:37 - 00:57:37] speaker**
+Le dashboard, je ne sais pas.
+
+**[00:57:40 - 00:57:40] speaker**
+Je ne sais pas.
+
+**[00:57:41 - 00:57:41] speaker**
+Alors, je ne sais pas.
+
+**[00:57:43 - 00:57:43] speaker**
+Alors là, c'est pas la dernière version, mais bon, je ne vais pas le mettre avant maintenant,
+
+**[00:57:48 - 00:57:48] speaker**
+parce qu'il y a d'ailleurs des dernières trucs un peu chiant, quoi.
+
+**[00:57:51 - 00:57:51] speaker**
+Ça, c'est un peu le trutchiant, c'est le télémique.
+
+**[00:57:54 - 00:57:54] speaker**
+Je ne sais pas si vous avez vu, il y a mis à genre tous les jours.
+
+**[00:57:56 - 00:57:56] speaker**
+L'interaumement, tous les jours.
+
+**[00:57:57 - 00:57:57] speaker**
+Il y a une journée, ils ont mon fait, deux parvres, vous allez les mettre, ils sont tellement fou.
+
+**[00:58:01 - 00:58:01] speaker**
+Je ne sais pas, ils ont pas en gros, ça donne un peu un sens, quoi.
+
+**[00:58:04 - 00:58:04] speaker**
+Donc, ça me passionne, parce que des fois, ça couper que l'élection avec Discord, ça me peut relouer, quoi, à bref.
+
+**[00:58:10 - 00:58:10] speaker**
+C'est un peu moins que je ne reproche le plus, c'est ça, quoi.
+
+**[00:58:12 - 00:58:12] speaker**
+C'est unain stabilité, général.
+
+**[00:58:16 - 00:58:16] speaker**
+Donc, quand on roue, bah, vous avez le chat, vous pouvez poser d'un port qu'elle question.
+
+**[00:58:19 - 00:58:19] speaker**
+Et là, on voit, en fait, les modèles disponibles.
+
+**[00:58:22 - 00:58:22] speaker**
+Donc, là, en disant, j'ai celui-là, donc j'ai ma qu'à de B, que je vous ai montré avant, sur le quac gauche.
+
+**[00:58:29 - 00:58:29] speaker**
 J'ai pété 4-5, puis je peux changer en fait.
 
-**[00:58:32 - 00:58:36] _redsun**  
-Je peux passer sur Kimi, et Kimi, ça me date que je dis,
+**[00:58:32 - 00:58:32] speaker**
+Voilà, je peux passer sur Kimi.
 
-**[00:58:38 - 00:58:41] _redsun**  
-Il est là, je suis assez spécial de trucs, ça me n'a rien pour quoi.
+**[00:58:34 - 00:58:34] speaker**
+Et Kimi, ça me date que je dis, via OpenRouter.
 
-**[00:58:41 - 00:58:45] _redsun**  
-Je ne vais pas demander de reçu de chez me la reçu de chez me la
+**[00:58:38 - 00:58:38] speaker**
+Voilà, il a reçu, c'est un sœur de trucs, ça me n'a rien pour quoi.
 
-**[00:58:45 - 00:58:48] _redsun**  
-on va utiliser un nouveau ça et balance le prompt-là
+**[00:58:41 - 00:58:41] speaker**
+Je n'ai pas demandé de reçu de chez mes dames.
 
-**[00:58:50 - 00:58:54] _redsun**  
-donc là c'est le chat, après on va attendre qui va prendre
+**[00:58:44 - 00:58:44] speaker**
+Donc, là, on va utiliser un nouveau sœur et balance le prendre-là dessus.
 
-**[00:58:54 - 00:58:57] _redsun**  
-là il y a le verre vieux, je ne vais pas se parler mais
+**[00:58:49 - 00:58:49] speaker**
+Donc, là, c'est le chat, après, on va attendre qu'il y a un pont.
 
-**[00:58:57 - 00:58:59] _redsun**  
-truc mais mon sensage, je m'en fous, c'est pas mon
+**[00:58:54 - 00:58:54] speaker**
+Là, il y a le verre vieux, je ne sais pas, ce n'est pas eu les mes trucs, mais mon sens,
 
-**[00:58:59 - 00:59:02] _redsun**  
-pein de plau, moi j'ai deux machines, j'ai un autre pein de plau
+**[00:58:58 - 00:58:58] speaker**
+je m'en fous, c'est pas mon opéme-close.
 
-**[00:59:02 - 00:59:04] _redsun**  
-sur mon max studio et ma qui m'a fini et ça c'est pas mon
+**[00:58:59 - 00:58:59] speaker**
+Moi, j'ai deux machines, j'ai un opéme-close, on m'a excuse-tu, et m'a fini, ça, c'est pas mon principal.
 
-**[00:59:04 - 00:59:06] _redsun**  
-principal, ça c'est mon max studio, c'est mon max studio, c'est mon
+**[00:59:05 - 00:59:05] speaker**
+Ça, c'est mon maxidio, c'est mon machin, que j'utilise comme ça.
 
-**[00:59:08 - 00:59:12] _redsun**  
-Là vous avez les chadelles mais je ne vous conseille pas d'utiliser ça.
+**[00:59:08 - 00:59:08] speaker**
+Là, vous avez les chadels, mais je ne vous conseille pas d'utiliser ça, hein.
 
-**[00:59:12 - 00:59:17] _redsun**  
-Moi j'ai jamais utilisé ça pour connecter WhatsApp ou quoi en fait pas comme ça.
+**[00:59:11 - 00:59:11] speaker**
+Moi, j'ai jamais utilisé ça pour connecter WhatsApp, pourquoi, en fait, par comme ça, vous demander,
 
-**[00:59:17 - 00:59:20] _redsun**  
-Vous demandez à un paix du coup de le faire tout simplement.
+**[00:59:18 - 00:59:18] speaker**
+à un paix du coup de le faire, tout simplement.
 
-**[00:59:20 - 00:59:25] _redsun**  
-Voilà le cas clôt, soit le cas clôt, soit ça, mais pas à la mangroie.
+**[00:59:21 - 00:59:21] speaker**
+Ou alors, le cas clome, soit le cas close, ça, mais pas à la mangroie.
 
-**[00:59:25 - 00:59:29] _redsun**  
-Là on a une différence en instance qui sont verte.
+**[00:59:26 - 00:59:26] speaker**
+Là, on a une différence enstance qui sont verte.
 
-**[00:59:29 - 00:59:33] _redsun**  
-Les différentes sessions qui la faites, on s'est un peu le bordel.
+**[00:59:30 - 00:59:30] speaker**
+Les différentes sessions qui la faites, on s'est un peu le bordel, enfin, on voit que c'est encore geek.
 
-**[00:59:33 - 00:59:36] _redsun**  
-En fait, on voit que c'est encore geek.
+**[00:59:36 - 00:59:36] speaker**
+Et là, vous avez l'accompsour des tokens, vous pouvez voir combien vous en avez utilisé,
 
-**[00:59:36 - 00:59:38] _redsun**  
-Et là, vous avez la console des Token.
+**[00:59:41 - 00:59:41] speaker**
+mais sur celui-là, j'utilise très peu, donc il y a assez peu de tokens utilisés,
 
-**[00:59:39 - 00:59:43] _redsun**  
-Vous pouvez voir combien vous en avez utilisés, mais sur cela, je dis des très peu.
+**[00:59:45 - 00:59:45] speaker**
+va dire, qu'est-ce qu'il a fait dans quelle session.
 
-**[00:59:43 - 00:59:45] _redsun**  
-Donc, il y a assez peu de Token utilisés,
+**[00:59:47 - 00:59:47] speaker**
+Après, on va les cronge-obes, les cronge-obes, c'est vraiment, c'est un des entains aussi de penneclos,
 
-**[00:59:45 - 00:59:47] _redsun**  
-il va dire, de Qu'est-ce qui l'a fait dans quelle session ?
+**[00:59:53 - 00:59:53] speaker**
+et que, il est mida active à 24, mais en fait, ils a l'up pouvoir,
 
-**[00:59:48 - 00:59:51] _redsun**  
-Après, on a des cron jobs, les cron jobs, c'est vraiment...
+**[00:59:57 - 00:59:57] speaker**
+que vous donner des tâches avec 40 jours, tous les matins à 7 heures du mat,
 
-**[00:59:51 - 00:59:53] _redsun**  
-C'est un des enterres aussi de Pen Plus,
+**[01:00:01 - 01:00:01] speaker**
+tu me fais de résumer, du marché, éclipe-toe, du marché,
 
-**[00:59:55 - 00:59:57] _redsun**  
-très bien fait, ils a l'up pouvoir,
+**[01:00:05 - 01:00:05] speaker**
+le pâssique ou de la météo, ce que vous voulez, en son friche, mais c'est possible de faire de cronge-obes.
 
-**[00:59:57 - 00:59:59] _redsun**  
-lui donner des tâches, récurantes, genre,
+**[01:00:10 - 01:00:10] speaker**
+Attention, ce pour moi, les cronge-obes, c'est ce qu'il consomme le plus de tokens.
 
-**[01:00:01 - 01:00:07] _redsun**  
-Tu me fais une résumée du marché crypto, du marché, le pâssique ou de la météo
+**[01:00:14 - 01:00:14] speaker**
+Parce que comme vous le dénaine tâche, il ne va pas comment faire,
 
-**[01:00:07 - 01:00:11] _redsun**  
-où vous voulez en son friche, mais c'est possible de faire de con job attention.
+**[01:00:17 - 01:00:17] speaker**
+souvent il va vous bousier à votre...
 
-**[01:00:11 - 01:00:33] nano1992_**  
-Jusine question pour le chron. Tu pourrais le coupler un asquille ?
+**[01:00:20 - 01:00:20] speaker**
+Bon, en fait, je ne fais pas, parce que j'aime pas, mais parce que juste,
 
-**[01:00:11 - 01:00:14] _redsun**  
-C'est pour moi les con jobs, c'est ce qui concerne le plus de taquette.
+**[01:00:24 - 01:00:24] speaker**
+j'essaie de le plus efficace possible.
 
-**[01:00:14 - 01:00:18] _redsun**  
-Parce que comme vous le délénatez, je me voulais une taquette, comme on le fait, souvent
+**[01:00:27 - 01:00:27] speaker**
+Après, il est la première page.
 
-**[01:00:20 - 01:00:26] _redsun**  
-Bon, en fait je ne fais pas parce que j'aime pas, mais parce que juste, j'essaie de vous
+**[01:00:29 - 01:00:29] speaker**
+J'ai une question de pour le cronge, tu pourrais le coupler un, un skill.
 
-**[01:00:33 - 01:00:37] nano1992_**  
-On lui dit comment faire le faire correctement.
+**[01:00:34 - 01:00:34] speaker**
+Oui.
 
-**[01:00:38 - 01:00:44] _redsun**  
-Mais en fait, mais c'est vrai intéressant parce que en gros, c'est comme un machine de guerre,
+**[01:00:34 - 01:00:34] speaker**
+On lui dirait comment faire le faire correctement.
 
-**[01:00:44 - 01:00:48] _redsun**  
-on peut te faire tellement de truc, mais entre ce qui est vraiment utile,
+**[01:00:37 - 01:00:37] speaker**
+Mais en fait, c'est intéressant parce que, en gros, c'est comme un machine de guerre,
 
-**[01:00:48 - 01:00:53] _redsun**  
-que t'as vraiment vraiment vraiment besoin, ce que tu fais vraiment, est-ce qu'il va porter de la valeur?
+**[01:00:43 - 01:00:43] speaker**
+on peut nous plotter, tu peux faire tellement de truc.
 
-**[01:00:53 - 01:00:57] _redsun**  
-Il y a une galaxie quoi, tu peux t'amuser à faire un rapport tous les jours,
+**[01:00:46 - 01:00:46] speaker**
+Mais en train, ce qui est vraiment utile, que tu as vraiment vraiment, vraiment,
 
-**[01:00:57 - 01:01:00] _redsun**  
-Mais jusqu'à présent, t'as vécu sans rapport tous les jours, tu vois.
+**[01:00:49 - 01:00:49] speaker**
+besoin, ce que tu fais vraiment, et ce qui va apporter de la valeur,
 
-**[01:01:02 - 01:01:03] _redsun**  
-Pour vraiment se poser la question.
+**[01:00:52 - 01:00:52] speaker**
+il y a une galaxique, tu peux t'amuser à faire un rapport tous les jours.
 
-**[01:01:03 - 01:01:13] nano1992_**  
-Je vais vous donner un moment de temps de faire une veille.
+**[01:00:57 - 01:00:57] speaker**
+Mais jusqu'à présent, tu avais pu s'en rapporter les jours, tu vois.
 
-**[01:01:03 - 01:01:06] _redsun**  
-Et souvent la réponse, c'est quand même pour moi en tout cas, c'est non.
+**[01:01:00 - 01:01:00] speaker**
+Qu'est-ce que tu as besoin de ça?
 
-**[01:01:08 - 01:01:10] _redsun**  
-Après, je pourrais même mieux aller faire.
+**[01:01:01 - 01:01:01] speaker**
+Pour vraiment se poser la question, et souvent, la réponse, c'est quand même pour moi,
 
-**[01:01:31 - 01:02:01] nano1992_**  
-de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabilité de la compréhabil
+**[01:01:05 - 01:01:05] speaker**
+en tout cas, c'est non, je sais pas besoin de quoi.
 
-**[01:02:01 - 01:02:19] nano1992_**  
-La prédité de la piste, c'est vrai.
+**[01:01:08 - 01:01:08] speaker**
+Après, je pourrais me mettre.
 
-**[01:02:03 - 01:02:08] _redsun**  
-Je ne le ferai même pas via ce panola, parce que c'est catastrophique.
+**[01:01:10 - 01:01:10] speaker**
+Oui, non, mais dans le 200 par un p'tit.
 
-**[01:02:12 - 01:02:15] _redsun**  
-t'as qu'est-à-dire qu'il y va, le créon va y comprendre ce que tu veux.
+**[01:01:12 - 01:01:12] speaker**
+Si tu veux faire une veille, sur un exemple concret,
 
-**[01:02:23 - 01:02:26] _redsun**  
-En fait, tu peux tout passer par le chat.
+**[01:01:15 - 01:01:15] speaker**
+tu veux faire une veille de la porte ou quoi, d'actualité, quoi que ce soit,
 
-**[01:02:26 - 01:02:28] _redsun**  
-à terre, je vous recommande de passer par le chat.
+**[01:01:18 - 01:01:18] speaker**
+tu veux surveiller un site desquels des nouvelles informations.
 
-**[01:02:28 - 01:02:32] _redsun**  
-Donc les cronjobes ont plus ajouté comme ça, puis t'appuissent qu'on veut, mais ça
+**[01:01:21 - 01:01:21] speaker**
+Tu pourrais très bien le faire un coin, tous les jours, habitant de ma tence,
 
-**[01:02:32 - 01:02:35] _redsun**  
-revient en même que d'aller dans le chat, puis d'y crênt un tendobre, mais on ne l'a pas trop
+**[01:01:25 - 01:01:25] speaker**
+c'est des clients avec un skill, qui explique, alia, de se connecter,
 
-**[01:02:36 - 01:02:43] _redsun**  
-C'est juste une nuit pour nous dire un interface pour s'être faire ça quoi.
+**[01:01:29 - 01:01:29] speaker**
+à ce site, de se taper, avec nous-t-il, il faut pas y reposer,
 
-**[01:02:43 - 01:02:46] _redsun**  
-Après les différents agents, les skids, alors là il y a tous les skids.
+**[01:01:33 - 01:01:33] speaker**
+de récupérer les informations et de tomber, et de tomber,
 
-**[01:02:46 - 01:02:51] _redsun**  
-Là vous pouvez les créer à l'avoler, moi je vous conseille de parler des trucs spéciaux
+**[01:01:35 - 01:01:35] speaker**
+c'est un poste par exemple.
 
-**[01:02:51 - 01:02:55] _redsun**  
-pour obsidian ou les trucs comme ça, mais ils sont déjà inclus, donc pourquoi pas.
+**[01:01:37 - 01:01:37] speaker**
+Et un endroit très mazique.
 
-**[01:02:55 - 01:02:58] _redsun**  
-Mais à un par... vous pouvez aussi dire utiliser obsidian,
+**[01:01:40 - 01:01:40] speaker**
+En fait, ouais, on a eu un rete de la jante,
 
-**[01:02:58 - 01:03:00] _redsun**  
-enfin ça, ça change rien, et vous créez un ski,
+**[01:01:41 - 01:01:41] speaker**
+c'est juste, ouais, exactement, elle est-elle, donc qu'il gâte de,
 
-**[01:03:00 - 01:03:02] _redsun**  
-tu sais, c'est spécial pour obsidian.
+**[01:01:45 - 01:01:45] speaker**
+il va se déflancher automatiquement, avec le skill actuel,
 
-**[01:03:04 - 01:03:06] _redsun**  
+**[01:01:48 - 01:01:48] speaker**
+et après, justement, dans la jante pense,
+
+**[01:01:50 - 01:01:50] speaker**
+c'est là que tu peux définir certains d'argent,
+
+**[01:01:53 - 01:01:53] speaker**
+avec un par exemple, dans la jante de veille,
+
+**[01:01:56 - 01:01:56] speaker**
+il va utiliser un certain modèle, je crois que c'est ça,
+
+**[01:01:59 - 01:01:59] speaker**
+mais tu peux être de régler là.
+
+**[01:02:00 - 01:02:00] speaker**
+Ouais, c'est pas, mais en ce temps,
+
+**[01:02:02 - 01:02:02] speaker**
+mon mal-foutil, moi, j'en fasse de frein même pas via ce panneula
+
+**[01:02:06 - 01:02:06] speaker**
+parce que c'est mon psychatastrophique.
+
+**[01:02:09 - 01:02:09] speaker**
+En fait, tu vas dans le chat,
+
+**[01:02:10 - 01:02:10] speaker**
+j'aimerais créer un nouveau agent,
+
+**[01:02:12 - 01:02:12] speaker**
+t'as qu'est-à-dire qu'il va être créé,
+
+**[01:02:14 - 01:02:14] speaker**
+on va y comprendre ce que tu veux, hein.
+
+**[01:02:15 - 01:02:15] speaker**
+Ma prédisaffis, là, ouais.
+
+**[01:02:17 - 01:02:17] speaker**
+Après, ça fait, ça fait, ça fait, ça fait, ça fait, ça fait, c'est juste.
+
+**[01:02:19 - 01:02:19] speaker**
+Mais c'est juste que l'interfacetat, et, ouais, c'est...
+
+**[01:02:23 - 01:02:23] speaker**
+C'est rigolo, ouais, mais c'est...
+
+**[01:02:24 - 01:02:24] speaker**
+Alors, en fait, tu peux tout passer par le chat,
+
+**[01:02:26 - 01:02:26] speaker**
+et vous recommande de passer par le chat, pas.
+
+**[01:02:29 - 01:02:29] speaker**
+Donc, les cronges vont plus ajouter comme ça,
+
+**[01:02:31 - 01:02:31] speaker**
+puis t'appeler ce qu'on veut, mais ça revient même
+
+**[01:02:32 - 01:02:32] speaker**
+que d'aller dans le chat, puis d'y crê, un congeau,
+
+**[01:02:34 - 01:02:34] speaker**
+pour qu'elle n'a pas trop la différence, soit.
+
+**[01:02:37 - 01:02:37] speaker**
+C'est juste une nuit, en fait, pour nous avoir un t'arface,
+
+**[01:02:40 - 01:02:40] speaker**
+pour s'être fainc à quoi.
+
+**[01:02:42 - 01:02:42] speaker**
+Après, les différents agents, les skids,
+
+**[01:02:44 - 01:02:44] speaker**
+alors là, il y a tous les skids.
+
+**[01:02:47 - 01:02:47] speaker**
+Là, vous pouvez les créer à l'avoler,
+
+**[01:02:48 - 01:02:48] speaker**
+à moi, je vous conseille de parler...
+
+**[01:02:50 - 01:02:50] speaker**
+Bon, il y a des trucs spéciaux pour obsidian,
+
+**[01:02:52 - 01:02:52] speaker**
+ou les trucs comme ça, mais ils sont déjà inclus,
+
+**[01:02:53 - 01:02:53] speaker**
+donc pourquoi pas.
+
+**[01:02:55 - 01:02:55] speaker**
+Mais, à un part, vous pouvez aussi dire,
+
+**[01:02:57 - 01:02:57] speaker**
+utilise obsidian, à un façade sur sa changeur,
+
+**[01:02:59 - 01:02:59] speaker**
+rien, et vous crée un skid, spécial pour obsidian.
+
+**[01:03:02 - 01:03:02] speaker**
+C'est trop pas.
+
+**[01:03:04 - 01:03:04] speaker**
 Il n'y a pas besoin, en fait, de passer 20 ans,
 
-**[01:03:06 - 01:03:08] _redsun**  
-je ne passe tout par le chat, mais après,
+**[01:03:06 - 01:03:06] speaker**
+je ne suis pas super le chat, mais après,
 
-**[01:03:08 - 01:03:10] _redsun**  
-les deux sont juste, on peut faire là,
+**[01:03:08 - 01:03:08] speaker**
+les deux sont juste, on peut faire là, puis je pense qu'on peut...
 
-**[01:03:12 - 01:03:15] _redsun**  
-Bah je ne rempeis que les ajoutés, il y a un interfrce,
+**[01:03:12 - 01:03:12] speaker**
+Je ne remercie pas que les ajoutés, il y a un temps de frein,
 
-**[01:03:15 - 01:03:16] _redsun**  
+**[01:03:15 - 01:03:15] speaker**
 non, il y a ce de base, c'est tout quoi.
 
-**[01:03:17 - 01:03:19] _redsun**  
+**[01:03:17 - 01:03:17] speaker**
 En fait, il peut aller chercher sur Clo-Hab,
 
-**[01:03:19 - 01:03:22] _redsun**  
-même en... c'est tellement de merder.
+**[01:03:20 - 01:03:20] speaker**
+même en fait, tellement de meurder.
 
-**[01:03:22 - 01:03:23] _redsun**  
-Ce bon, c'est mieux de l'effaire, soit même,
+**[01:03:22 - 01:03:22] speaker**
+Souvent, c'est mieux de l'effort soit même,
 
-**[01:03:23 - 01:03:26] _redsun**  
-on fait créer moins un skill pour faire ça, terminer quoi.
+**[01:03:23 - 01:03:23] speaker**
+en fait, c'est crée moins un skid pour faire ça, terminé.
 
-**[01:03:28 - 01:03:31] _redsun**  
-Après les nodes, ça ne peut pas faire du périn de divaise,
+**[01:03:28 - 01:03:28] speaker**
+Après, les nôds,
 
-**[01:03:33 - 01:03:36] _redsun**  
-Le draming franchement, ça c'était le truc, j'aurais eu une équilage ou pas.
+**[01:03:29 - 01:03:29] speaker**
+ça ne fait pour faire du périn de divaise,
 
-**[01:03:36 - 01:03:38] _redsun**  
+**[01:03:31 - 01:03:31] speaker**
+donc c'est un peu le bordel.
+
+**[01:03:33 - 01:03:33] speaker**
+Le drimin, franchement, ça c'était le truc.
+
+**[01:03:35 - 01:03:35] speaker**
+J'aurais donné qu'il n'a vu pas.
+
+**[01:03:36 - 01:03:36] speaker**
 C'est censé être un truc que quand tu le dises pas,
 
-**[01:03:38 - 01:03:40] _redsun**  
-il va faire des trucs, j'ai pas quoi.
+**[01:03:38 - 01:03:38] speaker**
+il va faire des trucs, je sais pas quoi.
 
-**[01:03:45 - 01:03:47] _redsun**  
-Oui, justement, alors, je cramais tes tokens,
+**[01:03:41 - 01:03:41] speaker**
+Enfin, je...
 
-**[01:03:47 - 01:03:49] _redsun**  
-là, ça va être dans le top de ton bon,
+**[01:03:42 - 01:03:42] speaker**
+Et il va se que tu es token?
 
-**[01:03:51 - 01:03:56] _redsun**  
-Tu vas rêver la nuit, donc moi je suis rien, on va se faire, on va se faire mes tourons.
+**[01:03:45 - 01:03:45] speaker**
+Oui, justement, alors, je vais crer en métier de tekan,
 
-**[01:03:58 - 01:04:01] _redsun**  
-En gros, il est censé quitter le savoir de...
+**[01:03:47 - 01:03:47] speaker**
+là, ça va être dans le top du top pour tout boulouler ton aboc.
 
-**[01:04:01 - 01:04:05] _redsun**  
-En fait que quand tu rêves, c'est la même chose, il est censé quitter,
+**[01:03:51 - 01:03:51] speaker**
+Tu vas rêver la nuit, pendant quoi je fais,
 
-**[01:04:05 - 01:04:08] _redsun**  
-figer la même oire, etc., faire certaines actions.
+**[01:03:53 - 01:03:53] speaker**
+on va y avoir un super, on va crer en métier.
 
-**[01:04:08 - 01:04:11] _redsun**  
-Mais du coup, tu ne t'as pas tellement de contre-latus,
+**[01:03:56 - 01:03:56] speaker**
+Mais la plus qualité.
 
-**[01:04:11 - 01:04:14] _redsun**  
-bah moi, c'est un truc que je ne dis pas.
+**[01:03:58 - 01:03:58] speaker**
+En gros, il est censé quitter le savoir
 
-**[01:04:14 - 01:04:17] _redsun**  
-Mais encore une fois, tu peux te prendre des usages,
+**[01:04:01 - 01:04:01] speaker**
+en fait que, quand tu rêves, c'est la mostre,
 
-**[01:04:17 - 01:04:19] _redsun**  
-tu as déjà qu'on ne besoin de ça, je ne suis pas.
+**[01:04:04 - 01:04:04] speaker**
+il est censé quitter, figer la même mois, etc.
 
-**[01:04:20 - 01:04:23] pollux8888**  
-et utiliser un moment pour même pas.
+**[01:04:07 - 01:04:07] speaker**
+Car certaines actions,
 
-**[01:04:26 - 01:04:31] pollux8888**  
-Est-ce que t'as un outpource qui est avec dreaming qui est de permet l'obtenuilleux?
+**[01:04:08 - 01:04:08] speaker**
+mais du coup, tu ne t'as pas tellement de contre-latue,
 
-**[01:04:28 - 01:04:37] _redsun**  
-On rose à dire, tous les quand je vais me coucher, tu vas faire tels actions, tu vas faire
+**[01:04:11 - 01:04:11] speaker**
+bah, moi, c'est un truc que je dises pas.
 
-**[01:04:38 - 01:04:40] _redsun**  
-Puis, aussi, c'est toujours la même moi.
+**[01:04:14 - 01:04:14] speaker**
+Mais encore une fois, tu peux prendre des usages,
 
-**[01:04:41 - 01:04:55] gilles_35307**  
-Et c'est pour intérider la mémoire.
+**[01:04:16 - 01:04:16] speaker**
+tu as des gens qu'on ne besoin de ça, je ne sais pas.
 
-**[01:04:42 - 01:04:47] _redsun**  
-En fait, c'est simple par ça, il y a plein de trucs qui sont comme ça.
+**[01:04:19 - 01:04:19] speaker**
+J'ai un autre truc qui est utilisable le rendement-mata pour même pas.
 
-**[01:04:47 - 01:04:51] _redsun**  
-C'est en fait souvent c'est tout mode si tu fais dans le proyomatique, je passais vraiment
+**[01:04:24 - 01:04:24] speaker**
+De quoi, je ne vais pas compris.
 
-**[01:04:55 - 01:04:58] gilles_35307**  
-Je ne comprends pas trop ce que vous faites des bacopes.
+**[01:04:26 - 01:04:26] speaker**
+On se retrouve avec du admin.
 
-**[01:04:58 - 01:05:02] gilles_35307**  
-Mais maintenant que tu le fais, la instruction, tu le dis à qui a Rohris, ça l'entendémoire.
+**[01:04:30 - 01:04:30] speaker**
+C'est bien sûr.
 
-**[01:05:03 - 01:05:05] gilles_35307**  
-ou l'heure c'est ça se le manière de l'autobatiser ça ?
+**[01:04:31 - 01:04:31] speaker**
+En gros, c'est de dire,
 
-**[01:05:08 - 01:05:12] _redsun**  
-Enfin, je ne vais même pas être problémique pour lui, quand vous voulez le truc,
+**[01:04:33 - 01:04:33] speaker**
+tous les quand je vais me coucher,
 
-**[01:05:12 - 01:05:15] _redsun**  
-je ne vais pas compris le plus, parce que en plus ça m'a eu moi,
+**[01:04:35 - 01:04:35] speaker**
+tu vas faire tes actions, tu vas faire ça,
 
-**[01:05:15 - 01:05:19] _redsun**  
-dans les marches d'armes. Je vous dis, mais à quoi ça c'est ?
+**[01:04:38 - 01:04:38] speaker**
+puis, aussi, c'est figer la même mois.
 
-**[01:05:19 - 01:05:23] _redsun**  
-Je ne sais pas bien piser, je suis pas le seul, mais pas les seuls n'a pas
+**[01:04:41 - 01:04:41] speaker**
+Mais c'est un truc que,
 
-**[01:05:23 - 01:05:27] _redsun**  
-compris, on a exactement pourquoi, comment il est à quoi ça c'est exactement.
+**[01:04:43 - 01:04:43] speaker**
+en fait, c'est simple, c'est rigolo,
 
-**[01:05:27 - 01:05:32] _redsun**  
-Mais tu vois, des lilles logs, bon ok, oi, t'es une fois pour me son.
+**[01:04:45 - 01:04:45] speaker**
+il y a plein de trucs qui sont comme ça.
 
-**[01:05:32 - 01:05:36] _redsun**  
-Il y a peut-être des cas où, peut-être ça, voilà, des cas où c'est utile.
+**[01:04:47 - 01:04:47] speaker**
+C'est, en fait, souvent, c'est tout moi,
 
-**[01:05:36 - 01:05:40] _redsun**  
-Je ne sais pas dire, mais en tout cas moi j'ai jamais eu besoin de faire ça quoi.
+**[01:04:48 - 01:04:48] speaker**
+tu自ais dans le pragmatique,
 
-**[01:05:40 - 01:05:44] _redsun**  
-Il y a juste une partie, je vous remontrai, qui est peut-être la plus importante,
+**[01:04:50 - 01:04:50] speaker**
+je sais pas si vraiment, j'avais besoin de faire ça.
 
-**[01:05:44 - 01:05:49] _redsun**  
-mais c'est plus le moment de terre façze, recédant, confiliations.
+**[01:04:53 - 01:04:53] speaker**
+Et c'est pour trouver de les mois,
 
-**[01:05:50 - 01:05:53] _redsun**  
-Je cherche le déficit md et son dent,
+**[01:04:55 - 01:04:55] speaker**
+je suis vraiment heureux que ça,
 
-**[01:06:04 - 01:06:05] _redsun**  
-Parlement, on voit ce qui a donc fait
+**[01:04:57 - 01:04:57] speaker**
+je fais des backup.
 
-**[01:06:12 - 01:06:15] _redsun**  
-et puis là on a le fameux agent pour en salle.
+**[01:04:58 - 01:04:58] speaker**
+Mais maintenant, je fais la instruction,
 
-**[01:06:18 - 01:06:20] _redsun**  
-A des trucs les plus importants, c'est...
+**[01:05:00 - 01:05:00] speaker**
+tu lui dis, au quir ouhisto, ça,
 
-**[01:06:20 - 01:06:24] _redsun**  
-Donc en fait, c'est des fisciers principaux.
+**[01:05:01 - 01:05:01] speaker**
+dans ta mémoire, il a fait,
 
-**[01:06:24 - 01:06:29] _redsun**  
-Donc il y a l'âme de votre Pente-Clo, il y a le user, ce que vous,
+**[01:05:03 - 01:05:03] speaker**
+ou alors, c'est ça, c'est une manière de l'autobatiser ça.
 
-**[01:06:29 - 01:06:31] _redsun**  
-qui vous êtes, qu'est-ce que vous voulez, etc.
+**[01:05:07 - 01:05:07] speaker**
+En fond, je ne le mets pas,
 
-**[01:06:31 - 01:06:34] _redsun**  
-Et ces fisciers m'arrivent en l'un, c'est vraiment super, super important de donner
+**[01:05:09 - 01:05:09] speaker**
+et quand les pets, je me rendais mieux le truc,
 
-**[01:06:35 - 01:06:38] _redsun**  
-Mais de toute façon, au début, je vous demande de les confierer.
+**[01:05:11 - 01:05:11] speaker**
+je ne vois pas compris, non plus,
 
-**[01:06:38 - 01:06:40] _redsun**  
-Donc vous êtes obligés de les confierer énormément.
+**[01:05:13 - 01:05:13] speaker**
+parce qu'en plus, ça m'a eu moi,
 
-**[01:06:40 - 01:06:46] _redsun**  
-Donc il y a le fiché Sarl, agente, tout le système, ça c'est des skils, des dents
+**[01:05:14 - 01:05:14] speaker**
+j'ai rédent dans les marches d'armes.
 
-**[01:06:46 - 01:06:49] _redsun**  
-cités, voilà on peut voir, moi j'ai rien fait, donc laissait pas le plau, ça
+**[01:05:17 - 01:05:17] speaker**
+Je me dis, mais ça, c'est...
 
-**[01:06:49 - 01:06:53] _redsun**  
-c'est tout le part des fois, les modiciens Sarl, etc. Tout ça vous pouvez pas
+**[01:05:19 - 01:05:19] speaker**
+Je ne sais pas bien piser,
 
-**[01:06:53 - 01:06:58] _redsun**  
-remettre le orbite, c'est tous les événements qui va faire par exemple toutes
+**[01:05:21 - 01:05:21] speaker**
+je suis pas le seul,
 
-**[01:06:58 - 01:07:02] _redsun**  
-les 10 minutes, qui peut faire 14 choses, et le batement de coeur pour les faire
+**[01:05:22 - 01:05:22] speaker**
+on ne me parlez ça,
 
-**[01:07:02 - 01:07:13] _redsun**  
-de tout expié, c'est fait. Après, il y a même mort et vraiment, parce que là, j'arrère
+**[01:05:23 - 01:05:23] speaker**
+la pas comprendre,
 
-**[01:07:13 - 01:07:20] _redsun**  
-foutu avec un clage pour y aussi décrire en dehors. Non, non, non, justement,
+**[01:05:23 - 01:05:23] speaker**
+exactement pourquoi,
 
-**[01:07:20 - 01:07:25] _redsun**  
-bah, j'ai utilisé pour les démôts, pour faire des SL, parce que sinon, si vous
+**[01:05:25 - 01:05:25] speaker**
+comment, et à quoi ça, ça exactement,
 
-**[01:07:25 - 01:07:29] _redsun**  
-le truc que je coupe, ça peut foutre caméra possible.
+**[01:05:27 - 01:05:27] speaker**
+mais tu vois, des l'hylogs,
 
-**[01:07:29 - 01:07:33] _redsun**  
-Donc là tu peux éclair le compte du allamant, mais je ne pensais pas non plus.
+**[01:05:29 - 01:05:29] speaker**
+bon, ok, on est une fois promotion.
 
-**[01:07:33 - 01:07:35] _redsun**  
-Ce que je fais, moi c'est simplement normal.
+**[01:05:33 - 01:05:33] speaker**
+Il y a peut-être des cas,
 
-**[01:07:35 - 01:07:41] _redsun**  
-Même aurait-je dit sauvre, sauvre mon nom, sauf cette date à, et c'est un, enfin du père, là tout ça, c'est un bon
+**[01:05:34 - 01:05:34] speaker**
+ou, peut-être, c'est, voilà,
 
-**[01:07:41 - 01:07:44] _redsun**  
-on va, c'est le but aussi quoi, c'est d'avoir un usage courant.
+**[01:05:35 - 01:05:35] speaker**
+des cas, ou c'est l'util.
 
-**[01:07:44 - 01:07:46] _redsun**  
-C'est-à-dire, on va pas être plus strict.
+**[01:05:36 - 01:05:36] speaker**
+Je ne peux pas dire,
 
-**[01:07:46 - 01:07:51] nano1992_**  
-Toi tu utilises tout le temps le chat que les affichés ici pour parler avec,
+**[01:05:37 - 01:05:37] speaker**
+mais en tout cas, moi, j'ai jamais
 
-**[01:07:46 - 01:07:47] _redsun**  
-C'est-à-dire qu'on va être plus strict.
+**[01:05:39 - 01:05:39] speaker**
+le besoin de faire ça, quoi.
 
-**[01:07:55 - 01:08:00] _redsun**  
-C'est pas pourquoi peut-être ça c'est moi qui s'y bizarre mais j'ai un moment où les réponses
+**[01:05:41 - 01:05:41] speaker**
+Il y a juste une partie, je vous remontrai,
 
-**[01:08:00 - 01:08:03] _redsun**  
-étaient meilleures sur le contrôle.
+**[01:05:43 - 01:05:43] speaker**
+qui est peut-être la plus importante,
 
-**[01:08:03 - 01:08:08] _redsun**  
-Alors pour que d'échre que d'elle, je ne sais pas pourquoi vraiment j'ai fait des tests
+**[01:05:44 - 01:05:44] speaker**
+mais c'est plus là,
 
-**[01:08:08 - 01:08:12] _redsun**  
-et je trouvais que les réponses sur Discord parce qu'il était connecté à Discord,
+**[01:05:46 - 01:05:46] speaker**
+un peu en tarface,
 
-**[01:08:12 - 01:08:15] _redsun**  
-sont moins bonnes que les réponses sur le dashboard.
+**[01:05:47 - 01:05:47] speaker**
+soit que c'est dans l'infiliation.
 
-**[01:08:19 - 01:08:27] nano1992_**  
-Et tu peux ouvrir plusieurs questions ici, par exemple, en parallèle, si tu a plusieurs
+**[01:05:49 - 01:05:49] speaker**
+Mais bon,
 
-**[01:08:36 - 01:08:38] _redsun**  
-Mais là justement, c'est ce qu'on sait,
+**[01:05:50 - 01:05:50] speaker**
+je cherche les fissiers de me dé,
 
-**[01:08:38 - 01:08:40] _redsun**  
-les gens s'équipent faire plusieurs agents.
+**[01:05:52 - 01:05:52] speaker**
+ils sont dans,
 
-**[01:08:41 - 01:08:46] _redsun**  
-C'est pour faire plusieurs tâches séparées, mais honnêtement, faut vraiment faire attention
+**[01:05:53 - 01:05:53] speaker**
+suppuis donc, ils sont...
 
-**[01:08:46 - 01:08:50] _redsun**  
-à ces trucs-là, parce qu'il y a beaucoup de gens qui s'il en savent dans, ils font 10 agents
+**[01:05:56 - 01:05:56] speaker**
+C'est si on...
 
-**[01:08:50 - 01:08:54] _redsun**  
-d'hage et 10 agents qui travaillent pour moi, c'est cool à dire sur le papier, mais j'ai
+**[01:05:57 - 01:05:57] speaker**
+non...
 
-**[01:08:54 - 01:09:00] _redsun**  
-récemment dit un vite un bordel, c'est de faire un propre, qui vous sert à quelque chose
+**[01:05:59 - 01:05:59] speaker**
+Ouais, alors ça,
 
-**[01:09:00 - 01:09:04] _redsun**  
-et si ça vous suffit, regardez le comme ça, mais encore une fois ça dépend de votre
+**[01:06:00 - 01:06:00] speaker**
+Chanel,
 
-**[01:09:04 - 01:09:08] _redsun**  
-usage, il y a des mecs qui ont besoin d'hage, plusieurs agents, donc en fait ce truc
+**[01:06:01 - 01:06:01] speaker**
+Instance,
 
-**[01:09:08 - 01:09:13] _redsun**  
-il convient à un multitude du zage et en fait ne nombre pour son des gens ils vont avoir
+**[01:06:02 - 01:06:02] speaker**
+va, va, vous y ou?
 
-**[01:09:13 - 01:09:20] _redsun**  
-des achissants en fait donc voilà ça ça pour le petit tour d'horizon il y a plein de choses
+**[01:06:04 - 01:06:04] speaker**
+Parlement, on voit ce qui a donc fissier
 
-**[01:09:20 - 01:09:42] pollux8888**  
-Je l'ai vu en démo, parce qu'il y a un ami qui m'avait montré, mais je l'ai pas encore testé.
+**[01:06:05 - 01:06:05] speaker**
+margant de ça, c'est intéressant,
 
-**[01:09:20 - 01:09:26] _redsun**  
-c'est encore des questions on peut avoir ça va j'aurais dû essayer je vois quelque chose
+**[01:06:07 - 01:06:07] speaker**
+mais c'est là,
 
-**[01:09:26 - 01:09:34] _redsun**  
-dans le chap ça va un peu pour vous on prend un peu un peu un peu le clob à cheva
+**[01:06:08 - 01:06:08] speaker**
+voilà.
 
-**[01:09:34 - 01:09:36] _redsun**  
-pas à Paul, tu l'avais jamais ouvert, toi, non ?
+**[01:06:10 - 01:06:10] speaker**
+Tout le ski de ce à n'avis cron,
 
-**[01:09:42 - 01:09:47] pollux8888**  
-Ok, j'attends une nouvelle install,
+**[01:06:12 - 01:06:12] speaker**
+elle pide en allent,
 
-**[01:09:47 - 01:09:51] pollux8888**  
-il n'est pas une nouvelle install d'un vieux ordinateur.
+**[01:06:13 - 01:06:13] speaker**
+femme,
 
-**[01:09:51 - 01:09:55] _redsun**  
-Ah mais n'est pas tant peur que ça, parce que tu vois, moi je l'ai mis sur, sur l'aille,
+**[01:06:13 - 01:06:13] speaker**
+agent,
 
-**[01:09:57 - 01:10:01] _redsun**  
-Donc on va être ça dépend ce que tu fermes, mais je ne vais pas lui demander de faire des bréscolages,
+**[01:06:14 - 01:06:14] speaker**
+penseur,
 
-**[01:10:01 - 01:10:05] _redsun**  
-si je ne me rends pas, il n'a pas non plus de faire des conneries tout seul.
+**[01:06:15 - 01:06:15] speaker**
+blanche que vous le montrez,
 
-**[01:10:15 - 01:10:18] _redsun**  
-Alors justement ça c'est un tas sans de temps parle parce que d'après ce que j'ai compris
+**[01:06:17 - 01:06:17] speaker**
+ça, c'est le plus important,
 
-**[01:10:18 - 01:10:20] _redsun**  
-mais ça a vérifié en tout ce que je vais dire là,
+**[01:06:18 - 01:06:18] speaker**
+des trucs,
 
-**[01:10:20 - 01:10:24] _redsun**  
-les maques aussi ont une très très forte sécurité de base
+**[01:06:19 - 01:06:19] speaker**
+plus important,
 
-**[01:10:26 - 01:10:29] _redsun**  
-Donc, pour prendre le contrôle de la machine à distance, tu peux toujours,
+**[01:06:20 - 01:06:20] speaker**
+c'est...
 
-**[01:10:29 - 01:10:33] _redsun**  
-toujours, mais il y a toujours moyen de m'ont éné, mais il faut se réveiller de bonheur.
+**[01:06:20 - 01:06:20] speaker**
+Donc en fait,
 
-**[01:10:35 - 01:10:44] _redsun**  
-Donc, si il n'y a pas de fuite de la gaite-way qu'il est de contrôle de ça,
+**[01:06:22 - 01:06:22] speaker**
+c'est des fissiers principaux,
 
-**[01:10:44 - 01:10:51] _redsun**  
-en fait, normalement, c'est assez tranquille et justement, là, il n'y a pas mal d'avantage.
+**[01:06:24 - 01:06:24] speaker**
+donc il y a l'âme de votre
 
-**[01:10:51 - 01:10:55] _redsun**  
-J'ai utilisé le maquillapac que la puissance doit y avoir plusieurs critères,
+**[01:06:25 - 01:06:25] speaker**
+pente-cloth,
 
-**[01:10:55 - 01:10:58] _redsun**  
-parce qu'il y a un mec studio aussi,
+**[01:06:27 - 01:06:27] speaker**
+il y a le user,
 
-**[01:10:58 - 01:11:00] _redsun**  
-au enach mini ça ne fait pas de bruit.
+**[01:06:28 - 01:06:28] speaker**
+ce que vous,
 
-**[01:11:00 - 01:11:03] _redsun**  
-Ça comme ça me très peu en se tombe.
+**[01:06:29 - 01:06:29] speaker**
+qui vous êtes,
 
-**[01:11:03 - 01:11:06] _redsun**  
-Ça s'arrête jamais, ça peut tourner comment ça revoir.
+**[01:06:29 - 01:06:29] speaker**
+qu'est-ce que vous voulez, etc.
 
-**[01:11:06 - 01:11:08] _redsun**  
-Ça va y avoir plein de petites trucs.
+**[01:06:31 - 01:06:31] speaker**
+Et ces fissiers margant de là,
 
-**[01:11:08 - 01:11:13] _redsun**  
-Après il y a d'autres pour ceux qui sont vraiment en timac,
+**[01:06:32 - 01:06:32] speaker**
+c'est vraiment super, super important de donner
 
-**[01:11:16 - 01:11:19] _redsun**  
-Aller à ça, c'est vous le vous abonner.
+**[01:06:34 - 01:06:34] speaker**
+confiurez,
 
-**[01:11:26 - 01:11:31] _redsun**  
-Là on peut faire tourner des LM 800.
+**[01:06:35 - 01:06:35] speaker**
+mais de toute façon,
 
-**[01:11:28 - 01:11:38] nano1992_**  
-Et là ce serait pas mieux qu'à ma expérience, ça.
+**[01:06:36 - 01:06:36] speaker**
+au début,
 
-**[01:11:44 - 01:11:47] _redsun**  
-Parce que là il n'y a pas de question de même à unifier.
+**[01:06:37 - 01:06:37] speaker**
+il vous demande de les conflirer,
 
-**[01:11:47 - 01:11:57] _redsun**  
-Et donc ça serait pas mais alors on est pas loin, donc plusieurs attention, je ne parlais que ça c'est de la d'eau, c'est une vidéo, on ne sait pas de la mer de mes,
+**[01:06:38 - 01:06:38] speaker**
+donc vous êtes obligés de les conflirer,
 
-**[01:12:01 - 01:12:05] _redsun**  
-T'as quand même... c'est quand même mieux, c'est quand même toujours mieux sur un maxi, j'ai aucun.
+**[01:06:39 - 01:06:39] speaker**
+non, non, non, non, non, non,
 
-**[01:12:05 - 01:12:15] _redsun**  
-Après moi, je suis pas forcément... Bah si j'aime bien les rappels, là, depuis toujours mais quand même il faut se rendre en toi,
+**[01:06:41 - 01:06:41] speaker**
+donc il y a le fiché sale,
 
-**[01:12:15 - 01:12:18] _redsun**  
-Ah, c'est pas que une question de j'aime ou j'aime pas quand même.
+**[01:06:42 - 01:06:42] speaker**
+agent,
 
-**[01:12:19 - 01:12:22] _redsun**  
-Voilà les maxitis-dios là il y a celui-là qui était très très intéressant.
+**[01:06:43 - 01:06:43] speaker**
+tout le temps,
 
-**[01:12:26 - 01:12:28] _redsun**  
-Et là tu peux faire tourner des gros modèles là.
+**[01:06:44 - 01:06:44] speaker**
+ça,
 
-**[01:12:30 - 01:12:36] pchartois**  
-Mais mercredi dernier on avait parlé de surostingur aussi, mais j'ai un hébergement
+**[01:06:44 - 01:06:44] speaker**
+c'est des skils,
 
-**[01:12:36 - 01:12:40] pchartois**  
-Stingur, un clas startup, et il propose d'opènes clôt.
+**[01:06:45 - 01:06:45] speaker**
+d'identité,
 
-**[01:12:40 - 01:12:45] pchartois**  
-Je sais pas si quelqu'un a fait ça sur un comme genre, j'ai mes...
+**[01:06:46 - 01:06:46] speaker**
+voilà, on peut voir,
 
-**[01:12:43 - 01:12:44] _redsun**  
-Alors moi j'en ai fait plusieurs ans.
+**[01:06:47 - 01:06:47] speaker**
+moi j'ai rien fait,
 
-**[01:12:50 - 01:13:02] _redsun**  
-Moi, je ne me suis pas du tout parce que, alors je vais essayer d'expliquer pourquoi,
+**[01:06:48 - 01:06:48] speaker**
+donc là,
 
-**[01:12:52 - 01:12:56] pchartois**  
-Qu'est-ce que ton pensent plutôt bien...
+**[01:06:48 - 01:06:48] speaker**
+c'est ça pas le plau,
 
-**[01:13:02 - 01:13:04] _redsun**  
-parce que, alors effectivement, c'est hyper simple.
+**[01:06:49 - 01:06:49] speaker**
+ça, c'est tout le part des faux,
 
-**[01:13:04 - 01:13:09] _redsun**  
-Il y a tu fais one click, t'es bon, tout mon 2 seconde à cet octobre ton bonclo.
+**[01:06:50 - 01:06:50] speaker**
+les modices, c'est ça, etc.
 
-**[01:13:10 - 01:13:15] _redsun**  
-En fait, tu sortes complètement de l'intérêt de Penclaw,
+**[01:06:52 - 01:06:52] speaker**
+Tout ça, vous pouvez pas rameter,
 
-**[01:13:15 - 01:13:19] _redsun**  
-parce que autant tu vas prendre clout de code à l'endance carage,
+**[01:06:54 - 01:06:54] speaker**
+le orbite, c'est,
 
-**[01:13:21 - 01:13:24] _redsun**  
-Petit austé sur ma chine qui t'appartient pas,
+**[01:06:56 - 01:06:56] speaker**
+c'est tous les événements
 
-**[01:13:26 - 01:13:34] pchartois**  
-C'était surtout la spécurité aussi qui était sous lignée tout à l'heure.
+**[01:06:57 - 01:06:57] speaker**
+qui va faire, par exemple,
 
-**[01:13:28 - 01:13:30] _redsun**  
-c'est super tout plus indavant, je crois.
+**[01:06:58 - 01:06:58] speaker**
+toutes les 10 minutes,
 
-**[01:13:34 - 01:13:36] pchartois**  
-J'ai juste pour un peu une prise en main.
+**[01:06:58 - 01:06:58] speaker**
+il peut faire quelque chose,
 
-**[01:13:36 - 01:13:38] pchartois**  
-Tu vois, je vais voyeler plus comme une prise en main.
+**[01:07:00 - 01:07:00] speaker**
+de battre mon coeur,
 
-**[01:13:38 - 01:13:41] pchartois**  
-Tu vois, de l'outil avant de le migrer.
+**[01:07:01 - 01:07:01] speaker**
+vous pouvez faire de tout expérimenter.
 
-**[01:13:40 - 01:13:44] _redsun**  
-C'est ce que je conseille d'abord comme ça que vous ne pas cher.
+**[01:07:03 - 01:07:03] speaker**
+Et,
 
-**[01:13:44 - 01:13:48] _redsun**  
-Je ne peux pas être une clore, ou une pique, c'est ça que ne me parle pas.
+**[01:07:04 - 01:07:04] speaker**
+est-ce que,
 
-**[01:13:49 - 01:13:52] _redsun**  
-Il y a un peu de commence à marcher, mais déjà t'as un experience,
+**[01:07:05 - 01:07:05] speaker**
+est-ce que,
 
-**[01:13:52 - 01:13:57] _redsun**  
-mais je trouve que au moins tu peux tester pas cher, on va dire.
+**[01:07:06 - 01:07:06] speaker**
+il y a rien,
 
-**[01:13:56 - 01:14:13] pchartois**  
-Je pense que l'ophan chlor est dans tout ce qui est local, effectivement, pour justement éviditer avec du LLM local tout ce qui est token.
+**[01:07:06 - 01:07:06] speaker**
+on doit aussi mes moris,
 
-**[01:13:57 - 01:14:03] _redsun**  
-tu peux décider si tu te sens à l'aise après de passer à l'étape suivante.
+**[01:07:08 - 01:07:08] speaker**
+à oui,
 
-**[01:14:13 - 01:14:15] pchartois**  
-Je ne peux pas te prendre avec toi.
+**[01:07:08 - 01:07:08] speaker**
+à mes moris.
 
-**[01:14:13 - 01:14:20] _redsun**  
-C'était le stingera, mais c'était pas fortement facilement plus.
+**[01:07:09 - 01:07:09] speaker**
+Ouais,
 
-**[01:14:20 - 01:14:22] _redsun**  
-Et il y a des gens qui sont tout en vingt et eux-l'uils,
+**[01:07:09 - 01:07:09] speaker**
+mes moris,
 
-**[01:14:22 - 01:14:27] _redsun**  
-un truc boule qui marche effectivement après
+**[01:07:10 - 01:07:10] speaker**
+vraiment,
 
-**[01:14:27 - 01:14:32] _redsun**  
-d'accord, je peux pas dire, mais en termes d'expérience,
+**[01:07:12 - 01:07:12] speaker**
+parce que là,
 
-**[01:14:32 - 01:14:34] _redsun**  
-moi j'ai une expérience radicalement différent depuis
+**[01:07:13 - 01:07:13] speaker**
+j'ai rien foutu avec un,
 
-**[01:14:36 - 01:14:40] _redsun**  
-Pour le revoir, tester déjà comme ça.
+**[01:07:15 - 01:07:15] speaker**
+donc là,
 
-**[01:14:40 - 01:14:45] _redsun**  
-Il y avait aussi 10 cent de notre ami,
+**[01:07:15 - 01:07:15] speaker**
+je pourrais...
 
-**[01:14:45 - 01:14:47] _redsun**  
-de notre ami Ben, qui proposait leur des dernières
+**[01:07:16 - 01:07:16] speaker**
+Je ne peux pas le faire,
 
-**[01:14:47 - 01:14:54] _redsun**  
-ça prendra une première approche puis de voir si ça ne peut pas.
+**[01:07:17 - 01:07:17] speaker**
+c'est pas au ta collée.
 
-**[01:14:54 - 01:15:04] _redsun**  
-Parce que c'est enchine. Normalement, c'est de là, il faut que c'est de bien
+**[01:07:18 - 01:07:18] speaker**
+Non, non, non,
 
-**[01:14:55 - 01:15:13] bensmart**  
-le serveur en Europe s'il a à Frankfort en fait
+**[01:07:19 - 01:07:19] speaker**
+justement,
 
-**[01:15:04 - 01:15:08] _redsun**  
-il a plus d'info, mais après, c'est peut-être enchine.
+**[01:07:20 - 01:07:20] speaker**
+bah, je dis,
 
-**[01:15:08 - 01:15:16] _redsun**  
-à avoir ou qu'elle n'a pas dit pour le revenu ça change rien parce que
+**[01:07:21 - 01:07:21] speaker**
+c'est pour les démôts,
 
-**[01:15:16 - 01:15:19] _redsun**  
-est ingaise on se sert à fond de voir dans le revenu ça change quelque chose
+**[01:07:21 - 01:07:21] speaker**
+donc,
 
-**[01:15:19 - 01:15:26] _redsun**  
-par contre il faut savoir un truc c'est que la chine donc si je vais sur
+**[01:07:22 - 01:07:22] speaker**
+pour faire de restes,
 
-**[01:15:26 - 01:15:34] _redsun**  
-le github op et le cluo c'est que j'ai vu aujourd'hui il faut savoir que là
+**[01:07:24 - 01:07:24] speaker**
+parce que sinon,
 
-**[01:15:34 - 01:15:37] _redsun**  
-ça c'est le guitare, on ne peut pas une clove officielle, donc vous avez tout le code source de
+**[01:07:24 - 01:07:24] speaker**
+c'est bricole,
 
-**[01:15:37 - 01:15:41] _redsun**  
-plainclore. Et si vous regardez, moi ce qui est intéressant, c'était les contributers,
+**[01:07:25 - 01:07:25] speaker**
+le truc que je code,
 
-**[01:15:41 - 01:15:44] _redsun**  
-c'est qu'il doit se la dessus, en fait.
+**[01:07:26 - 01:07:26] speaker**
+ça peut foutre,
 
-**[01:15:44 - 01:15:49] _redsun**  
-On aura déjà des milliers de codeurs qui va s'adure, ça c'est une clare inate.
+**[01:07:28 - 01:07:28] speaker**
+mais on peut pas possible,
 
-**[01:15:49 - 01:15:56] _redsun**  
-Mais surtout ce que j'ai découvert un peu plus sans rappel, c'est que les sponsors de
+**[01:07:28 - 01:07:28] speaker**
+quoi.
 
-**[01:15:56 - 01:16:01] _redsun**  
-ça, ce qui cote le plus là dessus, c'est les mecs de tancelles, de NVIDIA,
+**[01:07:29 - 01:07:29] speaker**
+Donc là,
 
-**[01:16:01 - 01:16:07] _redsun**  
-a beaucoup quoi. Je ne plus j'avais vu ça. C'est pas de sorte d'espoir
+**[01:07:30 - 01:07:30] speaker**
+tu peux y faire le compte du,
 
-**[01:16:07 - 01:16:15] _redsun**  
-directe. C'est la, donc les gars qui, oui, ils boissent à dessus quoi.
+**[01:07:31 - 01:07:31] speaker**
+à la main,
 
-**[01:16:15 - 01:16:23] _redsun**  
-Il n'y a pas des Google, c'est vraiment des 4 avonds de crédor qui bossa tu.
+**[01:07:32 - 01:07:32] speaker**
+mais je ne pensais pas non plus,
 
-**[01:16:29 - 01:16:33] _redsun**  
-Après ils font de sois mais ils ne connaissent pas ceci.
+**[01:07:33 - 01:07:33] speaker**
+ce que je fais,
 
-**[01:16:33 - 01:16:35] _redsun**  
-Ils apportent des tunes, ils apportent pas que ça.
+**[01:07:34 - 01:07:34] speaker**
+moi, c'est simplement normal,
 
-**[01:16:35 - 01:16:38] _redsun**  
-Ils apportent aussi des connaissances, puis des développeurs.
+**[01:07:35 - 01:07:35] speaker**
+même en réjudier,
 
-**[01:16:38 - 01:16:44] _redsun**  
-Donc voilà pour le petit tour d'horizon.
+**[01:07:36 - 01:07:36] speaker**
+sauve,
 
-**[01:16:44 - 01:16:47] _redsun**  
-Ah, n'hésitez pas à rassurer des questions, on ferait un mesure,
+**[01:07:37 - 01:07:37] speaker**
+sauve mon nom,
 
-**[01:16:47 - 01:16:50] _redsun**  
-si je peux rassurer, mais aussi quelqu'un d'autre aura pas.
+**[01:07:38 - 01:07:38] speaker**
+ou sauve cette date,
 
-**[01:17:14 - 01:17:22] bensmart**  
-Par contre, si on a vraiment besoin de développer des projets de codés sur tout un coulisse,
+**[01:07:39 - 01:07:39] speaker**
+etc.
 
-**[01:17:22 - 01:17:29] bensmart**  
-un sang qui, voilà, pour regarder vraiment 100% la spère privéci, là effectivement,
+**[01:07:39 - 01:07:39] speaker**
+Enfin, j'ai eu peur,
 
-**[01:17:29 - 01:17:32] bensmart**  
-on a de la terresse de cette tournée sur l'occal.
+**[01:07:40 - 01:07:40] speaker**
+là, tout simplement,
 
-**[01:17:35 - 01:17:43] bensmart**  
-Mais voilà, après ça dépend de niveau des gens, moi je dirais tout le monde pour démocratiser cette rue qui il faut vraiment un truc simple.
+**[01:07:41 - 01:07:41] speaker**
+enfin,
 
-**[01:17:43 - 01:17:49] bensmart**  
-Sur tout au niveau de coup d'acquisition, au niveau d'installation, etc.
+**[01:07:41 - 01:07:41] speaker**
+c'est le but aussi,
 
-**[01:17:49 - 01:18:00] bensmart**  
-Je pense que la plupart des gens qui arrivent quand même par payez 5 dollars, dit de la part moi et faire un essai sur le clode.
+**[01:07:42 - 01:07:42] speaker**
+quoi,
 
-**[01:18:00 - 01:18:05] bensmart**  
-Et énormément, la plupart des gens après ils trouvent qu'ils ont pas besoin en fait.
+**[01:07:42 - 01:07:42] speaker**
+c'est d'avoir un usage courant,
 
-**[01:18:10 - 01:18:14] bensmart**  
-ce qui s'est passé en Chine avec au point de clore
+**[01:07:45 - 01:07:45] speaker**
+ça ne va pas.
 
-**[01:18:16 - 01:18:20] bensmart**  
-ah ouais il y a une nouvelle technologie apparemment avec ça on peut donner un risque
+**[01:07:45 - 01:07:45] speaker**
+C'est juste,
 
-**[01:18:20 - 01:18:25] bensmart**  
-et nous que les gens y payaient presque les qui valent de s'endre la francise
+**[01:07:46 - 01:07:46] speaker**
+c'est pas ça.
 
-**[01:18:26 - 01:18:33] bensmart**  
-de payer les gens qui les aient d'installer au point de clore sur leur machine
+**[01:07:47 - 01:07:47] speaker**
+Toi tu utilises tout le temps,
 
-**[01:18:33 - 01:18:40] bensmart**  
-et deux semaines après il est repayé 20, 20 francs lesquivalents pour des installés
+**[01:07:49 - 01:07:49] speaker**
+le chat que les cas fichées ici,
 
-**[01:18:40 - 01:18:45] bensmart**  
-trop, c'est vrai que parce qu'il se trouve qu'en fait ils ont pas besoin.
+**[01:07:50 - 01:07:50] speaker**
+pour parler avec,
 
-**[01:18:45 - 01:18:51] bensmart**  
-Voilà et en fait si on n'arrive même pas tout seul installé sur sa propre machine
+**[01:07:51 - 01:07:51] speaker**
+tu ne peux-tu parler pas de plus meilleures?
 
-**[01:18:51 - 01:18:58] bensmart**  
-au plancleur ça montre le niveau en IT et ça montre qu'on n'a pas vraiment besoin
+**[01:07:53 - 01:07:53] speaker**
+Non, alors j'utilise les deux,
 
-**[01:18:58 - 01:19:02] bensmart**  
-de ces outils quoi on n'a pas compris ce que c'est au plancleur quoi.
+**[01:07:56 - 01:07:56] speaker**
+c'est pas pourquoi,
 
-**[01:19:02 - 01:19:05] bensmart**  
-Donc c'était juste une petite anecdote.
+**[01:07:57 - 01:07:57] speaker**
+peut-être ça,
 
-**[01:19:07 - 01:19:10] bensmart**  
-Pour essayer vraiment connaître ce que c'est,
+**[01:07:57 - 01:07:57] speaker**
+c'est moi qui s'y bizarre,
 
-**[01:19:10 - 01:19:16] bensmart**  
-on paye 5, 5, 1, par mois pendant 2-3 mois, ça suffit l'arrêtement.
+**[01:07:59 - 01:07:59] speaker**
+mais j'ai un moment où les réponses,
 
-**[01:19:16 - 01:19:22] bensmart**  
-Et surtout étant donné que maintenant la acquisition du maquette tellement difficile,
+**[01:08:00 - 01:08:00] speaker**
+c'était meilleur sur le contrôle,
 
-**[01:19:22 - 01:19:25] bensmart**  
-elle peut être en attendant, c'est déjà de...
+**[01:08:03 - 01:08:03] speaker**
+ce,
 
-**[01:19:25 - 01:19:28] bensmart**  
-Voilà, ce famille l'araiser a peu ce que c'est.
+**[01:08:03 - 01:08:03] speaker**
+ici,
 
-**[01:19:31 - 01:19:35] _redsun**  
-Il y a juste une question de Jean-Propfitte de Rien, parce que j'avais pas vu là.
+**[01:08:04 - 01:08:04] speaker**
+alors,
 
-**[01:19:35 - 01:19:39] _redsun**  
-Et une VM, virtuel machin sur un petit, on me s'a avair sous Prox Mox.
+**[01:08:05 - 01:08:05] speaker**
+pour que d'acheter que d'elle,
 
-**[01:19:39 - 01:19:45] _redsun**  
-Si t'as vu la fin ça, Rien fait la totout de suite, c'est pour moi le top, c'était tranquille.
+**[01:08:06 - 01:08:06] speaker**
+je ne sais pas pourquoi,
 
-**[01:19:45 - 01:19:48] _redsun**  
-C'est compliqué à faire, pour tout le monde,
+**[01:08:07 - 01:08:07] speaker**
+vraiment, j'ai fait des tests,
 
-**[01:19:48 - 01:19:50] _redsun**  
-si vous êtes à l'art de tout chaimpe,
+**[01:08:08 - 01:08:08] speaker**
+et je trouvais que les réponses sur Discord,
 
-**[01:19:53 - 01:19:56] _redsun**  
-pour reprendre, mais tu feras rien de locale, en part contre.
+**[01:08:10 - 01:08:10] speaker**
+parce qu'il était connectat d'escore,
 
-**[01:19:59 - 01:20:02] _redsun**  
-l'emmple encore, je m'arbre, c'est à moins de 16 guards,
+**[01:08:12 - 01:08:12] speaker**
+son moins bonne,
 
-**[01:20:12 - 01:20:14] _redsun**  
-un peu de source, qui est très très bon aussi.
+**[01:08:13 - 01:08:13] speaker**
+c'est que la réponse sur le d'achet-bore.
 
-**[01:20:14 - 01:20:19] _redsun**  
-et en dessous de 16, donc sur le ras peut lui pire, je ne sais pas combien d'âmes,
+**[01:08:15 - 01:08:15] speaker**
+Et puis,
 
-**[01:20:19 - 01:20:21] _redsun**  
-mais on lui fait 16 ans, ça me semble.
+**[01:08:16 - 01:08:16] speaker**
+je crois que tu m'as fait,
 
-**[01:20:22 - 01:20:25] _redsun**  
-Enfin, de ce que je m'en rappelle des ras peut lui pire, on s'adapte,
+**[01:08:17 - 01:08:17] speaker**
+ouais,
 
-**[01:20:29 - 01:20:32] _redsun**  
-Juste pour la petite histoire, ça c'est Peter,
+**[01:08:18 - 01:08:18] speaker**
+j'ai dit.
 
-**[01:20:32 - 01:20:34] _redsun**  
-en ce qui connaissent pas, c'est le développeur,
+**[01:08:19 - 01:08:19] speaker**
+Non, c'est,
 
-**[01:20:36 - 01:20:39] _redsun**  
-puisqu'il regarde le nombre de trucs qu'il a fait avant de faire au Pentello.
+**[01:08:19 - 01:08:19] speaker**
+c'est fidèle,
 
-**[01:20:39 - 01:20:46] _redsun**  
-Il était déjà multimilénaire avant de faire un peu, il a fait tous ces trucs là avant de que des open-clocs.
+**[01:08:20 - 01:08:20] speaker**
+en fait,
 
-**[01:20:46 - 01:20:52] _redsun**  
-Donc ça ne veut pas ne lui part, c'est ça un aboutissement d'un gros truc.
+**[01:08:21 - 01:08:21] speaker**
+ça marche maintenant.
 
-**[01:20:52 - 01:21:01] _redsun**  
-Et puis maintenant, il sont des très, très gros supports et c'était très intéressant, c'est que c'est une fondation en open-cloc.
+**[01:08:23 - 01:08:23] speaker**
+Et tu peux ouvrir plusieurs sessions ici,
 
-**[01:21:01 - 01:21:07] _redsun**  
-donc c'est complètement une fondation, c'est ça va pas se transformer en
+**[01:08:25 - 01:08:25] speaker**
+par exemple,
 
-**[01:21:09 - 01:21:14] _redsun**  
-Et dans le moment ça va rester, enfin, je espère que je dis, je suis pas
+**[01:08:26 - 01:08:26] speaker**
+on parlait-le,
 
-**[01:21:14 - 01:21:22] _redsun**  
-trop malin de porter là, mais lui, c'est faire acheter lui, c'est faire
+**[01:08:27 - 01:08:27] speaker**
+c'est la plusieurs choses à faire en même temps.
 
-**[01:21:16 - 01:21:24] pollux8888**  
-et ça fait un asté, mais ça, non mais je dis à...
+**[01:08:30 - 01:08:30] speaker**
+Ah ouais,
 
-**[01:21:24 - 01:21:28] _redsun**  
-Et donc il y a un milliard à priori parce qu'on a compris mon détruit
+**[01:08:31 - 01:08:31] speaker**
+la même,
 
-**[01:21:28 - 01:21:33] _redsun**  
-dédérant, mais à lui, ils s'étaient que ça reste au pente source et de création.
+**[01:08:32 - 01:08:32] speaker**
+pas,
 
-**[01:21:33 - 01:21:38] _redsun**  
-Et on a priori, c'est aussi un truc très très important aujourd'hui parce que si autant
+**[01:08:32 - 01:08:32] speaker**
+après,
 
-**[01:21:38 - 01:21:43] _redsun**  
-de l'opheur chinois ne t'aiment qu'à d'ordre le pente source, c'est qu'il soit fond
+**[01:08:33 - 01:08:33] speaker**
+oui oui.
 
-**[01:21:43 - 01:21:47] _redsun**  
-là-dedans et il participe à ça, c'est pas pour rien, c'est parce que justement,
+**[01:08:34 - 01:08:34] speaker**
+D'accord.
 
-**[01:21:47 - 01:21:49] _redsun**  
-on va tout le monde peut en profiter quoi.
+**[01:08:35 - 01:08:35] speaker**
+Mais là justement,
 
-**[01:21:49 - 01:21:55] _redsun**  
-Et puis il y a des travaux de codore aussi qui lui fait tout le monde en disait pas le faire.
+**[01:08:36 - 01:08:36] speaker**
+c'est ce qu'on sait,
 
-**[01:21:55 - 01:21:59] _redsun**  
-Alors attend, les déjà des VMs qui tournent, je ferai ça soir aller.
+**[01:08:38 - 01:08:38] speaker**
+les gens,
 
-**[01:21:59 - 01:22:03] _redsun**  
-Pour l'instant, je fais le compromis sur les modèles locaux, le temps de tester, et prendre en moins
+**[01:08:38 - 01:08:38] speaker**
+c'est qu'ils peuvent faire plusieurs agents,
 
-**[01:22:03 - 01:22:06] _redsun**  
-au pierre, je suis démodale friche sur un peu en outreur.
+**[01:08:40 - 01:08:40] speaker**
+en fait.
 
-**[01:22:06 - 01:22:09] _redsun**  
-Voilà, c'est une très bonne idée, ça ce qui dit à William.
+**[01:08:42 - 01:08:42] speaker**
+C'est pour faire plusieurs tâches,
 
-**[01:22:09 - 01:22:15] _redsun**  
-Je fais au monde que a peine en outreur, alors moi j'ai un petit compte-op, à l'en route
+**[01:08:43 - 01:08:43] speaker**
+c'est pareil,
 
-**[01:22:15 - 01:22:18] _redsun**  
-ur, que j'utilise de temps en temps pour faire des tests.
+**[01:08:43 - 01:08:43] speaker**
+mais honnêtement,
 
-**[01:22:18 - 01:22:22] _redsun**  
-Et là vous avez des modèles fris en fait.
+**[01:08:45 - 01:08:45] speaker**
+faut vraiment faire attention à ces trucs là,
 
-**[01:22:22 - 01:22:25] _redsun**  
-Ababaidou qui finne, voilà, tu l'as des gratos.
+**[01:08:47 - 01:08:47] speaker**
+parce qu'il y a beaucoup de gens
 
-**[01:22:26 - 01:22:29] _redsun**  
-Il y a beaucoup de restrictions, mais au moins ça vous permet de tester Pune-Clo,
+**[01:08:48 - 01:08:48] speaker**
+qui s'y lancent ça dans,
 
-**[01:22:32 - 01:22:37] _redsun**  
-Et puis ensuite de tester au Pune-Clo-Dair,
+**[01:08:49 - 01:08:49] speaker**
+ils font 10 agents,
 
-**[01:22:37 - 01:22:40] _redsun**  
-sont un peu Pune-Clo sur un panne-router.
+**[01:08:50 - 01:08:50] speaker**
+ah j'ai 10 agents qui travaillent
 
-**[01:22:43 - 01:22:46] _redsun**  
-Alors, ils ont encore changé d'interface.
+**[01:08:51 - 01:08:51] speaker**
+pour moi,
 
-**[01:22:46 - 01:22:50] _redsun**  
-Il y a un remès, sans qu'un concurrent qui est très très en vrai,
+**[01:08:52 - 01:08:52] speaker**
+c'est cool à dire sur le papier.
 
-**[01:22:50 - 01:22:53] _redsun**  
-et quand on se demande, c'est d'ailleurs.
+**[01:08:54 - 01:08:54] speaker**
+Mais j'ai récemment dit un vite,
 
-**[01:22:59 - 01:23:03] _redsun**  
-Ce qui avait un truc, on voyait les modèles plus utilisés en fonction.
+**[01:08:55 - 01:08:55] speaker**
+un bordel,
 
-**[01:23:05 - 01:23:07] _redsun**  
-Donc les deux, la Hermes-Alan, il prend.
+**[01:08:57 - 01:08:57] speaker**
+c'est de faire un propre,
 
-**[01:23:07 - 01:23:11] _redsun**  
-Comment ça prend de la truc qui est très bien aussi ?
+**[01:08:59 - 01:08:59] speaker**
+qui vous sert à quelque chose,
 
-**[01:23:11 - 01:23:14] _redsun**  
-Donc, là, vous avez les modèles plus utilisés.
+**[01:09:00 - 01:09:00] speaker**
+et si ça vous suffit,
 
-**[01:23:14 - 01:23:17] _redsun**  
-Donc, sur un panneuteur, c'est GLM50,
+**[01:09:01 - 01:09:01] speaker**
+regardez-le comme ça.
 
-**[01:23:17 - 01:23:21] _redsun**  
-Minimax de Pancate, l'autre sonnel cassie, c'est Nemotron super.
+**[01:09:02 - 01:09:02] speaker**
+Mais encore une fois,
 
-**[01:23:23 - 01:23:28] _redsun**  
-Ce qu'on a parlé, c'est intéressant de voir ce que les autres utilisent.
+**[01:09:03 - 01:09:03] speaker**
+ça dépend de votre usage.
 
-**[01:23:29 - 01:23:33] _redsun**  
-Comme d'elle en fonction des modes, il change le mode à l'hélicie, plutôt autre chose.
+**[01:09:04 - 01:09:04] speaker**
+Il y a des mecs,
 
-**[01:23:34 - 01:23:37] _redsun**  
-Je crois qu'il y avait Nemotron fris sur un pannerotor.
+**[01:09:05 - 01:09:05] speaker**
+ils ont besoin d'art plus d'en charge,
 
-**[01:23:39 - 01:23:44] _redsun**  
-Tu pas si l'est toujours fris, on peut utiliser sur la salle tempagne clore,
+**[01:09:07 - 01:09:07] speaker**
+donc en fait,
 
-**[01:23:44 - 01:23:51] _redsun**  
-Tu me suis dit à un peu de moteur de faire la connexion, c'est parti.
+**[01:09:07 - 01:09:07] speaker**
+ce truc-là,
 
-**[01:23:57 - 01:24:00] _redsun**  
-Voilà un petit peu à temps de réagir.
+**[01:09:08 - 01:09:08] speaker**
+il convient à un
 
-**[01:24:00 - 01:24:04] _redsun**  
-Gros conseillers, pas de moteur, j'étais dit de l'art de crédit même si vous dis que les modèles
+**[01:09:09 - 01:09:09] speaker**
+nulutitude du zage.
 
-**[01:24:04 - 01:24:08] _redsun**  
-gratuits, ça ne fait pas c'est les cotats de vainque, 4 par jour a 1000 a ça ça ne fait pas.
+**[01:09:11 - 01:09:11] speaker**
+Et en fait,
 
-**[01:24:08 - 01:24:15] _redsun**  
-Et on a moins d'éroits qu'à 100 ans, enfin, qu'il faut voir le voir comme au paix de moteur qui vérifie que ce n'est pas du fris l'odeur.
+**[01:09:11 - 01:09:11] speaker**
+ne nombre pour son des gens,
 
-**[01:24:17 - 01:24:21] _redsun**  
-Ça, ça intéressant, rien n'y de dire en gros, même si vous dis les versions ratuils,
+**[01:09:12 - 01:09:12] speaker**
+ils vont avoir un usage simple,
 
-**[01:24:21 - 01:24:23] _redsun**  
-vous m'avez très dit balles, la sur au paix de moteur.
+**[01:09:14 - 01:09:14] speaker**
+en fait,
 
-**[01:24:25 - 01:24:28] _redsun**  
-Par rapport à l'utilisation des modèles fréquents.
+**[01:09:14 - 01:09:14] speaker**
+quoi.
 
-**[01:24:28 - 01:24:34] _redsun**  
-Donc, je sais pas si on a parlé un peu de jemard, ou là, ça devient 20h en 12, on a déjà...
+**[01:09:16 - 01:09:16] speaker**
+Donc voilà,
 
-**[01:24:34 - 01:24:38] _redsun**  
-Donc, voilà, on a fait déjà des mots en live.
+**[01:09:18 - 01:09:18] speaker**
+voilà,
 
-**[01:24:38 - 01:24:43] _redsun**  
-en fait. Ah oui je voulais vous parler d'un autre truc mais alors bon normalement ça fait
+**[01:09:18 - 01:09:18] speaker**
+ça,
 
-**[01:24:43 - 01:24:47] _redsun**  
-jusqu'à 20h mais souvent on déborde un petit peu donc si vous voulez partir vous pouvez
+**[01:09:18 - 01:09:18] speaker**
+pour le petit tour d'horizon,
 
-**[01:24:47 - 01:24:52] _redsun**  
-partir bah c'est ce qui veut rester bah je veux montrer un peu de trois trucs moi je vais
+**[01:09:19 - 01:09:19] speaker**
+il y a plein de choses,
 
-**[01:24:52 - 01:24:55] _redsun**  
-montrer un petit tout qui est intéressant tant que j'ai l'écran puis si vous avez des
+**[01:09:20 - 01:09:20] speaker**
+c'est facile,
 
-**[01:24:55 - 01:24:58] _redsun**  
-trucs à montrer et c'était pas un moment de demander un moment où pas c'est grand et on
+**[01:09:21 - 01:09:21] speaker**
+encore des questions,
 
-**[01:24:58 - 01:25:03] _redsun**  
-vous montrer donc que juste un petit peu un petit peu de contexte comme ça vous allez voir un
+**[01:09:21 - 01:09:21] speaker**
+ou pas,
 
-**[01:25:03 - 01:25:10] _redsun**  
-je vais essayer de faire. Donc là c'est parce que c'est meshys et meshys à l'urgicelle
+**[01:09:22 - 01:09:22] speaker**
+ça va?
 
-**[01:25:10 - 01:25:14] _redsun**  
-qui permet à y déprongent de créer des modèles 3D là autant vous dire que les modèles 3D sont
+**[01:09:24 - 01:09:24] speaker**
+J'aurais perdu,
 
-**[01:25:14 - 01:25:22] _redsun**  
-ultra bonne qualité, c'est dingue, voilà on a vu d'avoir un truc, ouais, tu fais
+**[01:09:25 - 01:09:25] speaker**
+je vois,
 
-**[01:25:22 - 01:25:28] _redsun**  
-un peu de 3D. Il y a tout le process de création, tu peux même les animés, voilà j'ai
+**[01:09:26 - 01:09:26] speaker**
+quelque chose dans le chap.
 
-**[01:25:28 - 01:25:32] _redsun**  
-fait récemment un cours là dessus, donc on te mettrai à gêne-le-dessus.
+**[01:09:29 - 01:09:29] speaker**
+Ça va un peu pour vous,
 
-**[01:25:33 - 01:25:35] _redsun**  
-Alors attend, c'est là où c'est intéressant.
+**[01:09:31 - 01:09:31] speaker**
+on prend un peu,
 
-**[01:25:35 - 01:25:38] _redsun**  
-En fait, c'est un site qui permet de faire des modèles 3 des.
+**[01:09:33 - 01:09:33] speaker**
+un peu le clou,
 
-**[01:25:38 - 01:25:41] _redsun**  
-Donc là, j'ai fait un astronot, je fais plein de trucs,
+**[01:09:33 - 01:09:33] speaker**
+bah je sais pas,
 
-**[01:25:43 - 01:25:50] _redsun**  
-Et ce qui est super intéressant, tu sais que tu peux les animer également.
+**[01:09:34 - 01:09:34] speaker**
+pas le tu l'avais jamais ouvert,
 
-**[01:25:50 - 01:25:52] _redsun**  
-Donc là, j'ai fait une version animée.
+**[01:09:35 - 01:09:35] speaker**
+pendant.
 
-**[01:25:52 - 01:25:54] _redsun**  
-On tu peux les intégrer dans les moteurs de jeu aussi,
+**[01:09:36 - 01:09:36] speaker**
+Alors,
 
-**[01:25:54 - 01:25:59] _redsun**  
-je veux aussi, donc tu peux faire des exportations et tu peux les
+**[01:09:37 - 01:09:37] speaker**
+je l'ai vu en démo,
 
-**[01:25:59 - 01:26:04] _redsun**  
-exporter avec Blender, GoDat, Unity, Unreal, Maya ou 3DS pour
+**[01:09:38 - 01:09:38] speaker**
+parce qu'il y a un ami
 
-**[01:26:06 - 01:26:10] _redsun**  
-Toute, tu peux créer en un prontant avec des images, là, j'ai
+**[01:09:40 - 01:09:40] speaker**
+qui m'avait montré,
 
-**[01:26:10 - 01:26:13] _redsun**  
-fait ça aussi avec une image GPT2 et là, je vous montre
+**[01:09:41 - 01:09:41] speaker**
+mais je l'ai pas encore testé.
 
-**[01:26:13 - 01:26:17] _redsun**  
-ce que j'ai fait comme une image sur GPT2, il m'a j'ai
+**[01:09:42 - 01:09:42] speaker**
+OK,
 
-**[01:26:19 - 01:26:25] _redsun**  
-Voilà, et résultat, c'est assez barge quand on franchement...
+**[01:09:43 - 01:09:43] speaker**
+j'attends,
 
-**[01:26:25 - 01:26:30] _redsun**  
-Moi, j'ai fait de la 3D pendant 15 ans, et franchement, je suis un peu solculat.
+**[01:09:45 - 01:09:45] speaker**
+j'attends une nouvelle install,
 
-**[01:26:38 - 01:26:43] _redsun**  
-Ah, bah, en fait, c'est fait pour ça, c'est parti peu fort ton pont.
+**[01:09:47 - 01:09:47] speaker**
+il n'est pas une install d'un vieux
 
-**[01:26:43 - 01:26:49] _redsun**  
-Et puis tu peux l'envoyer sur un métier de crains de la vidéo ou un gré dans le gên.
+**[01:09:49 - 01:09:49] speaker**
+en devient ordinary inter.
 
-**[01:26:49 - 01:26:52] _redsun**  
-Que le Sahm-Mathor a un pire en fait, tu vois ton modèle là-bas.
+**[01:09:51 - 01:09:51] speaker**
+Ah, mais,
 
-**[01:26:52 - 01:26:57] _redsun**  
-Le 7-aporn-rigue, ça a dire tu vas les paramétrer à tous son scolapes.
+**[01:09:52 - 01:09:52] speaker**
+n'est pas tant perche-sa,
 
-**[01:26:57 - 01:27:03] _redsun**  
-Et ensuite tu balances dans ton métier de jeu, pita un péngie ou un personnage où on va voir.
+**[01:09:53 - 01:09:53] speaker**
+parce que tu vois,
 
-**[01:27:03 - 01:27:06] _redsun**  
-Ah mais laisse tomber moi, je me laisse.
+**[01:09:54 - 01:09:54] speaker**
+moi, je l'ai mis sur,
 
-**[01:27:06 - 01:27:15] _redsun**  
-Tu pète les bruits, ce qui est là, il suffit maintenant de t'affaire un peu, puis tu peux faire des trucs de fou.
+**[01:09:55 - 01:09:55] speaker**
+sur l'aille,
 
-**[01:27:15 - 01:27:22] _redsun**  
-Et puis ce n'est pas tout, parce que là, moi je me suis dit, avec mes élèves, on a fait ça, je dis bah attends, on va se marrer un peu.
+**[01:09:55 - 01:09:55] speaker**
+et sur mon ordinateur principal.
 
-**[01:27:22 - 01:27:28] _redsun**  
-Et ben on a, en fait, il y a une autre chose là-dedans, c'est que tu peux plager ça, et d'ailleurs c'est d'y dispos aussi dans la pays.
+**[01:09:57 - 01:09:57] speaker**
+Donc on va être ça dépend ce que tu fais,
 
-**[01:27:28 - 01:27:33] _redsun**  
-Tu peux le mettre en scène, c'est-à-dire tu peux le mettre en mode d'elle 3D, tu vas le mettre en scène.
+**[01:09:58 - 01:09:58] speaker**
+mais je ne vais pas lui demander
 
-**[01:27:33 - 01:27:39] _redsun**  
-tu peux utiliser un aloeins un anard où j'ai pété image.
+**[01:10:00 - 01:10:00] speaker**
+de faire des bréscolages,
 
-**[01:27:39 - 01:27:43] _redsun**  
-En fait, tu m'en sens que tu t'applèves prendre ce que tu veux comme
+**[01:10:01 - 01:10:01] speaker**
+si je lui demanderai un spécial,
 
-**[01:27:43 - 01:27:45] _redsun**  
-background pour que je voulais faire vite pour pas prendre trop de temps.
+**[01:10:02 - 01:10:02] speaker**
+ils n'a pas non plus
 
-**[01:27:45 - 01:27:53] _redsun**  
-Tu génères, t'as que là, ensuite là où c'est trop, trop incroyable,
+**[01:10:03 - 01:10:03] speaker**
+faire des conneries tout seul.
 
-**[01:27:53 - 01:28:00] _redsun**  
-c'est qu'ils ont intérêt si d'un 2, donc ce qui parlait avant, et moi j'ai
+**[01:10:05 - 01:10:05] speaker**
+Wow,
 
-**[01:28:00 - 01:28:03] _redsun**  
-à m'user à faire des vidéos avec mes objets 3D.
+**[01:10:05 - 01:10:05] speaker**
+J'ai toujours cher,
 
-**[01:28:03 - 01:28:07] _redsun**  
-Donc là c'est une vidéo que j'ai réalisé à partir de l'astronaute que vous avez
+**[01:10:06 - 01:10:06] speaker**
+parce que je me dis toujours,
 
-**[01:28:07 - 01:28:11] _redsun**  
-en 3D, donc tu es le contexte et complètement conservé.
+**[01:10:07 - 01:10:07] speaker**
+et tant,
 
-**[01:28:12 - 01:28:14] _redsun**  
-Je ne sais pas si vous avez le fond que je pense pas.
+**[01:10:09 - 01:10:09] speaker**
+étant,
 
-**[01:28:21 - 01:28:31] gilles_35307**  
-et donc ça, c'est simplement tu as un port de ton image et que tu balances un petit
+**[01:10:10 - 01:10:10] speaker**
+arrête dans tout ce qui est si bien
 
-**[01:28:29 - 01:28:35] _redsun**  
-Franchement, c'est pas plus que ça.
+**[01:10:11 - 01:10:11] speaker**
+c'est que vous aurez été,
 
-**[01:28:31 - 01:28:33] gilles_35307**  
-pourront animer moi ça et puis là, c'est parti.
+**[01:10:12 - 01:10:12] speaker**
+je me dis,
 
-**[01:28:35 - 01:28:39] _redsun**  
-Et puis quand il nous disait, si d'être la révolution, bien, il a complètement raison,
+**[01:10:12 - 01:10:12] speaker**
+y a toujours un bac d'or,
 
-**[01:28:40 - 01:28:43] _redsun**  
-Là on les voit, si d'être deux, si d'être fast,
+**[01:10:13 - 01:10:13] speaker**
+quelque part.
 
-**[01:28:43 - 01:28:45] _redsun**  
-veu, trois things, et teams de très bien aussi.
+**[01:10:14 - 01:10:14] speaker**
+Alors, justement,
 
-**[01:28:45 - 01:28:48] _redsun**  
-Et beaucoup moins cher, parce que c'est un sacout,
+**[01:10:15 - 01:10:15] speaker**
+ça s'intéresse en ne pas en parle,
 
-**[01:28:49 - 01:28:51] _redsun**  
-C'est ça que je parle de la pubg vidéo là.
+**[01:10:17 - 01:10:17] speaker**
+parce que,
 
-**[01:28:50 - 01:28:54] pollux8888**  
-C'est un peu ce qu'il n'a pas un moment pas plein pour les tests.
+**[01:10:17 - 01:10:17] speaker**
+d'après ce que j'ai compris,
 
-**[01:28:54 - 01:28:59] pchartois**  
-Et ton mes chie, c'est à côté 5, c'est ça.
+**[01:10:18 - 01:10:18] speaker**
+mais ça a vérifié,
 
-**[01:29:01 - 01:29:05] _redsun**  
-La vidéo là, le coup de en visérant, on ne reste pas comment quantitif.
+**[01:10:19 - 01:10:19] speaker**
+en tout ce que je vais dire,
 
-**[01:29:05 - 01:29:09] _redsun**  
-C'est difficile, c'est des tokens, mais on grow entre 3 et 5 quoi.
+**[01:10:21 - 01:10:21] speaker**
+les maques,
 
-**[01:29:13 - 01:29:17] _redsun**  
-Et là il y a un mes élèves, il travaille sur une marque avec un crocodile.
+**[01:10:21 - 01:10:21] speaker**
+aussi,
 
-**[01:29:17 - 01:29:24] _redsun**  
-Donc, qui création de trucs et c'est juste un pactif vol au début, mais ça en a pas plus corréjé.
+**[01:10:22 - 01:10:22] speaker**
+on a une très très forte sécurité
 
-**[01:29:24 - 01:29:31] _redsun**  
-Et puis on roue, ils veulent utiliser pour sa marque de vêtements, qui y a un crocodile spécial qui est gentil, je ne sais pas quoi.
+**[01:10:23 - 01:10:23] speaker**
+de base,
 
-**[01:29:32 - 01:29:58] bensmart**  
-En fait, sur cet après un abonnement, là je vois ta 1300, cet ensemble crédit.
+**[01:10:24 - 01:10:24] speaker**
+c'est-à-dire dans la machine,
 
-**[01:29:34 - 01:29:37] _redsun**  
-Ouais, il y a déjà qu'au gêné, c'est qui.
+**[01:10:25 - 01:10:25] speaker**
+oui.
 
-**[01:29:38 - 01:29:40] _redsun**  
-Et puis là il y a qui vous est débitjou.
+**[01:10:25 - 01:10:25] speaker**
+On va,
 
-**[01:29:40 - 01:29:45] _redsun**  
-Et puis on a fait ça ensemble, donc là, franchement, la qualité, moi je peux te faire un pont.
+**[01:10:26 - 01:10:26] speaker**
+donc,
 
-**[01:29:45 - 01:29:49] _redsun**  
-Ce qui on fait de la vidéo, qui s'avent un peu comme ça coûte ce genre de truc,
+**[01:10:26 - 01:10:26] speaker**
+on prend le contrôle
 
-**[01:29:58 - 01:30:02] bensmart**  
-En fait, tu peux appartir au plus près à modèle 3D,
+**[01:10:27 - 01:10:27] speaker**
+de la machine à distance,
 
-**[01:30:02 - 01:30:06] bensmart**  
-et en plus, à partir de ce modèle 3D, tu peux le jeu.
+**[01:10:28 - 01:10:28] speaker**
+tu peux toujours,
 
-**[01:30:14 - 01:30:18] bensmart**  
-En plus, il est prêt à être imprimé par les machines,
+**[01:10:29 - 01:10:29] speaker**
+on rentre toujours
 
-**[01:30:21 - 01:30:25] _redsun**  
-Mais tu peux garder le contexte et conserver aussi ton personnage.
+**[01:10:30 - 01:10:30] speaker**
+au moyen de m'ont aimé,
 
-**[01:30:22 - 01:30:37] gilles_35307**  
-Et le lien a le copain qui est au rassemble.
+**[01:10:31 - 01:10:31] speaker**
+mais,
 
-**[01:30:25 - 01:30:29] _redsun**  
-Tu as tu crés ton perso et du coup, tu es dans tous les angles.
+**[01:10:32 - 01:10:32] speaker**
+il faut se révêter,
 
-**[01:30:29 - 01:30:31] _redsun**  
-Peu importe-ils en haut en bas à gauche à droite.
+**[01:10:33 - 01:10:33] speaker**
+alors,
 
-**[01:30:31 - 01:30:34] _redsun**  
-Tout sera cohérent pour la vidéo, tu as.
+**[01:10:33 - 01:10:33] speaker**
+ça,
 
-**[01:30:36 - 01:30:39] _redsun**  
-Alors, attend, j'ai un gigit bon jusuit de syllèmes, j'ai mal.
+**[01:10:33 - 01:10:33] speaker**
+c'est difficile.
 
-**[01:30:44 - 01:30:46] _redsun**  
-Donc là, je vais s'immer à faire ça.
+**[01:10:35 - 01:10:35] speaker**
+Donc,
 
-**[01:30:46 - 01:30:50] _redsun**  
-Et après, je te explique pourquoi ça indère avec un peu de temps.
+**[01:10:36 - 01:10:36] speaker**
+si,
 
-**[01:30:49 - 01:30:55] gilles_35307**  
-Ça, tu couches, tu peux faire des vidéos avec des tèmes, des expliquatives, façon,
+**[01:10:36 - 01:10:36] speaker**
+à pas de,
 
-**[01:30:50 - 01:31:09] _redsun**  
-Je me suis amusée à faire un petit perso, en 3D pour c'est une démour, c'est un plus qu'une démour,
+**[01:10:37 - 01:10:37] speaker**
+de suite,
 
-**[01:30:55 - 01:30:59] gilles_35307**  
-un podcast de vidéos comme un autre bouquet d'hèmes.
+**[01:10:38 - 01:10:38] speaker**
+de la,
 
-**[01:31:09 - 01:31:13] _redsun**  
-mais ce qui est incroyable, c'est que là-dedans il y a un petit truc qui s'appelle la pays, ça va se que c'est une
+**[01:10:40 - 01:10:40] speaker**
+surtout de la gaite-way,
 
-**[01:31:16 - 01:31:24] _redsun**  
-Alors, justement, je fais une client pays, c'est balancez sur un penclon et du coup,
+**[01:10:41 - 01:10:41] speaker**
+qu'il,
 
-**[01:31:24 - 01:31:28] _redsun**  
-cette vidéo que vous avez vu là, elle est 100% créée par un penclon.
+**[01:10:42 - 01:10:42] speaker**
+qui est la clé de contrôle de ça,
 
-**[01:31:35 - 01:31:41] _redsun**  
-Donc du coup tu peux créer de la vidéo à la demande et du coup tu peux créer des
+**[01:10:44 - 01:10:44] speaker**
+en fait,
 
-**[01:31:41 - 01:31:48] _redsun**  
-moi j'ai utilisé ça pour faire un truc sur mon LinkedIn pour faire de, voilà, tu peux
+**[01:10:45 - 01:10:45] speaker**
+normalement,
 
-**[01:31:48 - 01:31:53] _redsun**  
-faire de mon, tu peux faire des trucs, je fais ça pour tester mais en fait pas 1000
+**[01:10:46 - 01:10:46] speaker**
+c'est assez tranquille,
 
-**[01:31:53 - 01:31:57] _redsun**  
-000 possibilités, tu fais de la vendre de produits, tu peux te faire des trucs super
+**[01:10:47 - 01:10:47] speaker**
+et justement,
 
-**[01:31:57 - 01:32:27] _redsun**  
-en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de faire en train de
+**[01:10:48 - 01:10:48] speaker**
+là,
 
-**[01:32:01 - 01:32:10] pollux8888**  
-C'est une question, c'est-ce que je peux me permettre à quelqu'un qui a un lien avec ça,
+**[01:10:49 - 01:10:49] speaker**
+il n'y a pas mal d'avantage,
 
-**[01:32:10 - 01:32:18] pollux8888**  
-c'est que les modèles 3D, est-ce que tu peux créer une montre et puis un premier montre avec tous les composantes ou les mouvements.
+**[01:10:51 - 01:10:51] speaker**
+aussi,
 
-**[01:32:20 - 01:32:22] pollux8888**  
-Je vous le souhaite, je vous le souhaite.
+**[01:10:51 - 01:10:51] speaker**
+a utilisé les maques,
 
-**[01:32:22 - 01:32:24] pollux8888**  
-Oui, mais je vous le souhaite de le faire depuis que je suis gamma.
+**[01:10:52 - 01:10:52] speaker**
+à fact,
 
-**[01:32:25 - 01:32:31] pollux8888**  
-En fait, les torbillons, etc., de New Year, sans vingt-genre de chose, mais quand j'aimerais être aimant.
+**[01:10:52 - 01:10:52] speaker**
+que la puissance
 
-**[01:32:27 - 01:32:41] _redsun**  
-Je ne sais pas, mais le problème, ça va jamais être la même qualité quoi.
+**[01:10:53 - 01:10:53] speaker**
+doit y avoir un jour critère,
 
-**[01:32:41 - 01:32:46] _redsun**  
-C'est vrai que moi, une relacité, on va faire vraiment le pronte qu'il faut jamais faire.
+**[01:10:55 - 01:10:55] speaker**
+qui font que,
 
-**[01:32:46 - 01:32:48] _redsun**  
-et puis il ne le disait mais je sais, c'est...
+**[01:10:57 - 01:10:57] speaker**
+parce que,
 
-**[01:32:54 - 01:32:57] _redsun**  
-Ça va voir déjà, tu vas comprendre pourquoi c'est...
+**[01:10:57 - 01:10:57] speaker**
+un mec,
 
-**[01:33:01 - 01:33:03] _redsun**  
-C'est qu'après tu peux aussi parce que en impression 3-2,
+**[01:10:57 - 01:10:57] speaker**
+studio,
 
-**[01:33:03 - 01:33:06] _redsun**  
+**[01:10:58 - 01:10:58] speaker**
+aussi,
+
+**[01:10:58 - 01:10:58] speaker**
+au moins,
+
+**[01:10:59 - 01:10:59] speaker**
+il n'y a fait pas bruit,
+
+**[01:11:00 - 01:11:00] speaker**
+ça,
+
+**[01:11:00 - 01:11:00] speaker**
+comme ça,
+
+**[01:11:00 - 01:11:00] speaker**
+me très peu,
+
+**[01:11:01 - 01:11:01] speaker**
+en ce moment-bas,
+
+**[01:11:03 - 01:11:03] speaker**
+ça s'arrête jamais,
+
+**[01:11:04 - 01:11:04] speaker**
+ça peut tourner comment ça revient,
+
+**[01:11:06 - 01:11:06] speaker**
+tu vas y avoir plein de,
+
+**[01:11:07 - 01:11:07] speaker**
+de petits trucs,
+
+**[01:11:09 - 01:11:09] speaker**
+après il y a d'autres,
+
+**[01:11:10 - 01:11:10] speaker**
+pour ceux qui,
+
+**[01:11:11 - 01:11:11] speaker**
+ils sont vraiment en timac,
+
+**[01:11:13 - 01:11:13] speaker**
+il y a aussi les,
+
+**[01:11:15 - 01:11:15] speaker**
+vers,
+
+**[01:11:16 - 01:11:16] speaker**
+spark,
+
+**[01:11:17 - 01:11:17] speaker**
+à la y a ça,
+
+**[01:11:18 - 01:11:18] speaker**
+qui voulait vous improviser.
+
+**[01:11:19 - 01:11:19] speaker**
+J'ai vu ça,
+
+**[01:11:22 - 01:11:22] speaker**
+mais,
+
+**[01:11:23 - 01:11:23] speaker**
+donc là, on est surdu de l'eau,
+
+**[01:11:26 - 01:11:26] speaker**
+par contre,
+
+**[01:11:27 - 01:11:27] speaker**
+là, on peut faire tourner
+
+**[01:11:28 - 01:11:28] speaker**
+des,
+
+**[01:11:28 - 01:11:28] speaker**
+des,
+
+**[01:11:29 - 01:11:29] speaker**
+elle est même,
+
+**[01:11:30 - 01:11:30] speaker**
+plus sang,
+
+**[01:11:31 - 01:11:31] speaker**
+là, on peut y aller quoi,
+
+**[01:11:34 - 01:11:34] speaker**
+sans,
+
+**[01:11:34 - 01:11:34] speaker**
+et là,
+
+**[01:11:35 - 01:11:35] speaker**
+ça serait,
+
+**[01:11:36 - 01:11:36] speaker**
+ce serait pas mieux qu'un
+
+**[01:11:37 - 01:11:37] speaker**
+ma explédiote, ça?
+
+**[01:11:39 - 01:11:39] speaker**
+Non.
+
+**[01:11:41 - 01:11:41] speaker**
+Alors,
+
+**[01:11:41 - 01:11:41] speaker**
+d'après des blanes,
+
+**[01:11:43 - 01:11:43] speaker**
+et tout,
+
+**[01:11:44 - 01:11:44] speaker**
+non,
+
+**[01:11:44 - 01:11:44] speaker**
+parce que là,
+
+**[01:11:45 - 01:11:45] speaker**
+il n'y a pas de question de même
+
+**[01:11:46 - 01:11:46] speaker**
+à uneifier,
+
+**[01:11:47 - 01:11:47] speaker**
+et donc,
+
+**[01:11:48 - 01:11:48] speaker**
+ça serait pas,
+
+**[01:11:49 - 01:11:49] speaker**
+mais alors,
+
+**[01:11:50 - 01:11:50] speaker**
+on est pas loin,
+
+**[01:11:50 - 01:11:50] speaker**
+on peut y avoir un plus attention,
+
+**[01:11:51 - 01:11:51] speaker**
+on ne peut pas être
+
+**[01:11:52 - 01:11:52] speaker**
+que ça,
+
+**[01:11:52 - 01:11:52] speaker**
+c'est de la doule,
+
+**[01:11:53 - 01:11:53] speaker**
+c'est,
+
+**[01:11:53 - 01:11:53] speaker**
+n'oublie pas,
+
+**[01:11:54 - 01:11:54] speaker**
+on ne sait pas,
+
+**[01:11:55 - 01:11:55] speaker**
+pas de la mer,
+
+**[01:11:56 - 01:11:56] speaker**
+de mes,
+
+**[01:11:57 - 01:11:57] speaker**
+d'adécuter,
+
+**[01:11:58 - 01:11:58] speaker**
+d'ici,
+
+**[01:11:59 - 01:11:59] speaker**
+ça,
+
+**[01:12:00 - 01:12:00] speaker**
+ah,
+
+**[01:12:01 - 01:12:01] speaker**
+t'as quand même,
+
+**[01:12:02 - 01:12:02] speaker**
+c'est quand même mieux,
+
+**[01:12:03 - 01:12:03] speaker**
+c'est quand même toujours mieux,
+
+**[01:12:04 - 01:12:04] speaker**
+sur un maxi,
+
+**[01:12:05 - 01:12:05] speaker**
+j'ai encore.
+
+**[01:12:08 - 01:12:08] speaker**
+Après,
+
+**[01:12:08 - 01:12:08] speaker**
+moi,
+
+**[01:12:09 - 01:12:09] speaker**
+je suis pas forcément,
+
+**[01:12:10 - 01:12:10] speaker**
+bah,
+
+**[01:12:10 - 01:12:10] speaker**
+si j'aime bien les appels,
+
+**[01:12:11 - 01:12:11] speaker**
+là,
+
+**[01:12:11 - 01:12:11] speaker**
+depuis toujours,
+
+**[01:12:12 - 01:12:12] speaker**
+mais quand même,
+
+**[01:12:13 - 01:12:13] speaker**
+ah,
+
+**[01:12:13 - 01:12:13] speaker**
+il faut se rendre en toi,
+
+**[01:12:15 - 01:12:15] speaker**
+ah,
+
+**[01:12:15 - 01:12:15] speaker**
+c'est pas que une question de j'aime,
+
+**[01:12:17 - 01:12:17] speaker**
+ou j'aime pas quoi,
+
+**[01:12:19 - 01:12:19] speaker**
+voilà, les maxi,
+
+**[01:12:20 - 01:12:20] speaker**
+là,
+
+**[01:12:21 - 01:12:21] speaker**
+il y a celui-là qui était très,
+
+**[01:12:22 - 01:12:22] speaker**
+très intéressant,
+
+**[01:12:23 - 01:12:23] speaker**
+cela t'a sans,
+
+**[01:12:24 - 01:12:24] speaker**
+ensuite,
+
+**[01:12:26 - 01:12:26] speaker**
+et là,
+
+**[01:12:26 - 01:12:26] speaker**
+tu peux faire tourner des gros modèles là,
+
+**[01:12:30 - 01:12:30] speaker**
+il ne faut pas faire.
+
+**[01:12:30 - 01:12:30] speaker**
+Non,
+
+**[01:12:31 - 01:12:31] speaker**
+mais,
+
+**[01:12:31 - 01:12:31] speaker**
+mercredi dernier,
+
+**[01:12:32 - 01:12:32] speaker**
+on avait parlé de surostingue,
+
+**[01:12:33 - 01:12:33] speaker**
+aussi,
+
+**[01:12:34 - 01:12:34] speaker**
+mais j'aime,
+
+**[01:12:34 - 01:12:34] speaker**
+un hébergement,
+
+**[01:12:35 - 01:12:35] speaker**
+stingue,
+
+**[01:12:36 - 01:12:36] speaker**
+un clas start-up,
+
+**[01:12:37 - 01:12:37] speaker**
+et il prouet,
+
+**[01:12:38 - 01:12:38] speaker**
+genre de la chose,
+
+**[01:12:40 - 01:12:40] speaker**
+pas,
+
+**[01:12:40 - 01:12:40] speaker**
+ouais,
+
+**[01:12:40 - 01:12:40] speaker**
+mais je sais pas si quelqu'un
+
+**[01:12:42 - 01:12:42] speaker**
+a fait ça sur,
+
+**[01:12:42 - 01:12:42] speaker**
+alors moi,
+
+**[01:12:43 - 01:12:43] speaker**
+genre de fait,
+
+**[01:12:43 - 01:12:43] speaker**
+j'en ai fait,
+
+**[01:12:45 - 01:12:45] speaker**
+surostingue,
+
+**[01:12:46 - 01:12:46] speaker**
+dans,
+
+**[01:12:46 - 01:12:46] speaker**
+dans,
+
+**[01:12:47 - 01:12:47] speaker**
+dans la faix,
+
+**[01:12:48 - 01:12:48] speaker**
+voilà,
+
+**[01:12:48 - 01:12:48] speaker**
+ok,
+
+**[01:12:49 - 01:12:49] speaker**
+et j'aime pas,
+
+**[01:12:50 - 01:12:50] speaker**
+et c'est plutôt,
+
+**[01:12:51 - 01:12:51] speaker**
+c'est,
+
+**[01:12:52 - 01:12:52] speaker**
+c'est,
+
+**[01:12:52 - 01:12:52] speaker**
+c'est ce que t'en pense,
+
+**[01:12:53 - 01:12:53] speaker**
+plutôt,
+
+**[01:12:54 - 01:12:54] speaker**
+plutôt bien,
+
+**[01:12:55 - 01:12:55] speaker**
+moi,
+
+**[01:12:55 - 01:12:55] speaker**
+j'aime pas du tour,
+
+**[01:12:57 - 01:12:57] speaker**
+pas du tour,
+
+**[01:12:58 - 01:12:58] speaker**
+parce que,
+
+**[01:12:58 - 01:12:58] speaker**
+c'est pas,
+
+**[01:12:58 - 01:12:58] speaker**
+c'est pas,
+
+**[01:12:59 - 01:12:59] speaker**
+alors je vais essayer d'expliquer
+
+**[01:13:00 - 01:13:00] speaker**
+pourquoi,
+
+**[01:13:01 - 01:13:01] speaker**
+parce que,
+
+**[01:13:02 - 01:13:02] speaker**
+alors effectivement,
+
+**[01:13:03 - 01:13:03] speaker**
+c'est hyper simple,
+
+**[01:13:04 - 01:13:04] speaker**
+il y a,
+
+**[01:13:04 - 01:13:04] speaker**
+tu fais one click,
+
+**[01:13:05 - 01:13:05] speaker**
+tu es bon,
+
+**[01:13:06 - 01:13:06] speaker**
+tout mon deux gronds
+
+**[01:13:07 - 01:13:07] speaker**
+pas cet opteur
+
+**[01:13:08 - 01:13:08] speaker**
+au bonheclo,
+
+**[01:13:09 - 01:13:09] speaker**
+tu dis génial et tout,
+
+**[01:13:10 - 01:13:10] speaker**
+moi,
+
+**[01:13:10 - 01:13:10] speaker**
+en fait,
+
+**[01:13:10 - 01:13:10] speaker**
+tu sortes complètement
+
+**[01:13:11 - 01:13:11] speaker**
+de l'intérêt
+
+**[01:13:13 - 01:13:13] speaker**
+de bonheclo,
+
+**[01:13:15 - 01:13:15] speaker**
+parce que,
+
+**[01:13:15 - 01:13:15] speaker**
+autant,
+
+**[01:13:16 - 01:13:16] speaker**
+tu vas prendre
+
+**[01:13:17 - 01:13:17] speaker**
+clote-code,
+
+**[01:13:17 - 01:13:17] speaker**
+alors dans ce garage,
+
+**[01:13:18 - 01:13:18] speaker**
+on ne pas,
+
+**[01:13:19 - 01:13:19] speaker**
+le truc,
+
+**[01:13:20 - 01:13:20] speaker**
+quoi,
+
+**[01:13:21 - 01:13:21] speaker**
+petit,
+
+**[01:13:21 - 01:13:21] speaker**
+osté sur ma chine,
+
+**[01:13:23 - 01:13:23] speaker**
+qui t'appartient pas,
+
+**[01:13:24 - 01:13:24] speaker**
+que les dates
+
+**[01:13:25 - 01:13:25] speaker**
+transissent par eux,
+
+**[01:13:27 - 01:13:27] speaker**
+tu vois,
+
+**[01:13:28 - 01:13:28] speaker**
+tu permets c'était tout,
+
+**[01:13:29 - 01:13:29] speaker**
+en fait,
+
+**[01:13:30 - 01:13:30] speaker**
+c'était la spécurité aussi,
+
+**[01:13:32 - 01:13:32] speaker**
+qui était sous l'ignée,
+
+**[01:13:33 - 01:13:33] speaker**
+tout à l'heure,
+
+**[01:13:33 - 01:13:33] speaker**
+là,
+
+**[01:13:34 - 01:13:34] speaker**
+juste pour un peu
+
+**[01:13:35 - 01:13:35] speaker**
+une prise en main,
+
+**[01:13:35 - 01:13:35] speaker**
+tu vois,
+
+**[01:13:36 - 01:13:36] speaker**
+je le voyais plus comme une prise en main,
+
+**[01:13:37 - 01:13:37] speaker**
+tu vois,
+
+**[01:13:37 - 01:13:37] speaker**
+du loutil,
+
+**[01:13:38 - 01:13:38] speaker**
+avant de...
+
+**[01:13:39 - 01:13:39] speaker**
+Justement,
+
+**[01:13:39 - 01:13:39] speaker**
+c'est tout le monde,
+
+**[01:13:41 - 01:13:41] speaker**
+c'est ce que je conseille,
+
+**[01:13:42 - 01:13:42] speaker**
+d'abord,
+
+**[01:13:43 - 01:13:43] speaker**
+comme ça,
+
+**[01:13:43 - 01:13:43] speaker**
+c'est une coude pas cher,
+
+**[01:13:44 - 01:13:44] speaker**
+prenez au paix de clôt,
+
+**[01:13:45 - 01:13:45] speaker**
+ouais,
+
+**[01:13:45 - 01:13:45] speaker**
+ouais,
+
+**[01:13:45 - 01:13:45] speaker**
+une pique,
+
+**[01:13:46 - 01:13:46] speaker**
+c'est cinq balles par mois,
+
+**[01:13:47 - 01:13:47] speaker**
+tu fais un mois,
+
+**[01:13:48 - 01:13:48] speaker**
+tu vois,
+
+**[01:13:49 - 01:13:49] speaker**
+il y a un peu comme en s'amarce,
+
+**[01:13:50 - 01:13:50] speaker**
+mais déjà,
+
+**[01:13:50 - 01:13:50] speaker**
+t'as rien expérience,
+
+**[01:13:51 - 01:13:51] speaker**
+les pas génèles,
+
+**[01:13:52 - 01:13:52] speaker**
+moi, je trouve,
+
+**[01:13:52 - 01:13:52] speaker**
+parce que,
+
+**[01:13:53 - 01:13:53] speaker**
+bon, bon,
+
+**[01:13:54 - 01:13:54] speaker**
+au moins,
+
+**[01:13:55 - 01:13:55] speaker**
+tu peux tester par cher,
+
+**[01:13:55 - 01:13:55] speaker**
+on va dire,
+
+**[01:13:56 - 01:13:56] speaker**
+et puis ensuite,
+
+**[01:13:57 - 01:13:57] speaker**
+tu peux...
+
+**[01:13:58 - 01:13:58] speaker**
+tu peux décider
+
+**[01:13:59 - 01:13:59] speaker**
+si...
+
+**[01:14:00 - 01:14:00] speaker**
+tu te sens à l'aise,
+
+**[01:14:01 - 01:14:01] speaker**
+après,
+
+**[01:14:01 - 01:14:01] speaker**
+de passer à l'étape suivante.
+
+**[01:14:03 - 01:14:03] speaker**
+C'est une autre côté,
+
+**[01:14:04 - 01:14:04] speaker**
+c'est un raison,
+
+**[01:14:04 - 01:14:04] speaker**
+je pense que l'openclou
+
+**[01:14:05 - 01:14:05] speaker**
+et la toute la place
+
+**[01:14:06 - 01:14:06] speaker**
+dans tout ce qui est local,
+
+**[01:14:07 - 01:14:07] speaker**
+effectivement,
+
+**[01:14:08 - 01:14:08] speaker**
+pour justement,
+
+**[01:14:09 - 01:14:09] speaker**
+et éviter,
+
+**[01:14:09 - 01:14:09] speaker**
+avec du l'élème locale,
+
+**[01:14:11 - 01:14:11] speaker**
+tout ce qui est...
+
+**[01:14:12 - 01:14:12] speaker**
+Tocaine.
+
+**[01:14:13 - 01:14:13] speaker**
+C'était le...
+
+**[01:14:14 - 01:14:14] speaker**
+c'était le stingera,
+
+**[01:14:15 - 01:14:15] speaker**
+le quoi,
+
+**[01:14:16 - 01:14:16] speaker**
+mais c'était...
+
+**[01:14:18 - 01:14:18] speaker**
+c'était pas fortement facile,
+
+**[01:14:19 - 01:14:19] speaker**
+non plus,
+
+**[01:14:20 - 01:14:20] speaker**
+et il y a des gens,
+
+**[01:14:21 - 01:14:21] speaker**
+ils sont foutues,
+
+**[01:14:21 - 01:14:21] speaker**
+on va te évoluer,
+
+**[01:14:22 - 01:14:22] speaker**
+je suis un truc,
+
+**[01:14:23 - 01:14:23] speaker**
+tout le qui marche,
+
+**[01:14:24 - 01:14:24] speaker**
+effectivement,
+
+**[01:14:25 - 01:14:25] speaker**
+après...
+
+**[01:14:28 - 01:14:28] speaker**
+c'est...
+
+**[01:14:28 - 01:14:28] speaker**
+d'accord,
+
+**[01:14:29 - 01:14:29] speaker**
+moi, je ne peux pas dire,
+
+**[01:14:30 - 01:14:30] speaker**
+mais,
+
+**[01:14:31 - 01:14:31] speaker**
+on termes d'expérience,
+
+**[01:14:32 - 01:14:32] speaker**
+moi,
+
+**[01:14:32 - 01:14:32] speaker**
+j'ai une expérience radicalement
+
+**[01:14:33 - 01:14:33] speaker**
+différente,
+
+**[01:14:34 - 01:14:34] speaker**
+depuis que j'ai le sur ma petite,
+
+**[01:14:35 - 01:14:35] speaker**
+toi.
+
+**[01:14:36 - 01:14:36] speaker**
+Euh...
+
+**[01:14:37 - 01:14:37] speaker**
+Pour le voir,
+
+**[01:14:38 - 01:14:38] speaker**
+t'est-ce que tu as déjà comme ça,
+
+**[01:14:40 - 01:14:40] speaker**
+il y avait aussi
+
+**[01:14:41 - 01:14:41] speaker**
+t'encentre de notre ami...
+
+**[01:14:44 - 01:14:44] speaker**
+de notre ami Ben,
+
+**[01:14:45 - 01:14:45] speaker**
+ce qui proposait
+
+**[01:14:46 - 01:14:46] speaker**
+lors du déanement,
+
+**[01:14:48 - 01:14:48] speaker**
+50 $ pour tester,
+
+**[01:14:49 - 01:14:49] speaker**
+eux, ils font aussi.
+
+**[01:14:51 - 01:14:51] speaker**
+Ça permet de faire
+
+**[01:14:52 - 01:14:52] speaker**
+une première approche,
+
+**[01:14:53 - 01:14:53] speaker**
+puis de voir si ça ne peut pas quoi.
+
+**[01:14:56 - 01:14:56] speaker**
+Peut-être de clou.
+
+**[01:14:58 - 01:14:58] speaker**
+Parce que...
+
+**[01:14:59 - 01:14:59] speaker**
+C'est super chez vous.
+
+**[01:15:01 - 01:15:01] speaker**
+C'est en Chine.
+
+**[01:15:01 - 01:15:01] speaker**
+Normalement,
+
+**[01:15:02 - 01:15:02] speaker**
+c'est de là,
+
+**[01:15:03 - 01:15:03] speaker**
+il faut...
+
+**[01:15:04 - 01:15:04] speaker**
+peut-être ben,
+
+**[01:15:05 - 01:15:05] speaker**
+il a plus d'infos,
+
+**[01:15:05 - 01:15:05] speaker**
+ma priorité, c'est peut-être en Chine.
+
+**[01:15:07 - 01:15:07] speaker**
+Le serveur,
+
+**[01:15:08 - 01:15:08] speaker**
+en Europe,
+
+**[01:15:09 - 01:15:09] speaker**
+c'est à Afrancfort,
+
+**[01:15:11 - 01:15:11] speaker**
+en fait.
+
+**[01:15:11 - 01:15:11] speaker**
+Ah ouais,
+
+**[01:15:12 - 01:15:12] speaker**
+il y a des gens,
+
+**[01:15:12 - 01:15:12] speaker**
+on peut-être,
+
+**[01:15:13 - 01:15:13] speaker**
+c'est à Afrancfort.
+
+**[01:15:13 - 01:15:13] speaker**
+Et quoi?
+
+**[01:15:15 - 01:15:15] speaker**
+Le rouverce a changé en
+
+**[01:15:15 - 01:15:15] speaker**
+genre,
+
+**[01:15:16 - 01:15:16] speaker**
+parce que Steam Gear,
+
+**[01:15:17 - 01:15:17] speaker**
+ils ont sauvre en ford,
+
+**[01:15:18 - 01:15:18] speaker**
+on va se change,
+
+**[01:15:19 - 01:15:19] speaker**
+que d'un le quoi.
+
+**[01:15:20 - 01:15:20] speaker**
+Par contre,
+
+**[01:15:21 - 01:15:21] speaker**
+il faut savoir un truc.
+
+**[01:15:23 - 01:15:23] speaker**
+C'est que...
+
+**[01:15:24 - 01:15:24] speaker**
+la Chine,
+
+**[01:15:25 - 01:15:25] speaker**
+donc, si je vais sur
+
+**[01:15:26 - 01:15:26] speaker**
+une guit...
+
+**[01:15:27 - 01:15:27] speaker**
+Ab,
+
+**[01:15:28 - 01:15:28] speaker**
+Ab,
+
+**[01:15:28 - 01:15:28] speaker**
+Ab,
+
+**[01:15:28 - 01:15:28] speaker**
+Padme de Clouau.
+
+**[01:15:31 - 01:15:31] speaker**
+C'est-à-dire que j'ai vu aujourd'hui,
+
+**[01:15:32 - 01:15:32] speaker**
+il faut savoir
+
+**[01:15:33 - 01:15:33] speaker**
+que là,
+
+**[01:15:34 - 01:15:34] speaker**
+ça s'est le guitab,
+
+**[01:15:35 - 01:15:35] speaker**
+pas une clou officielle,
+
+**[01:15:36 - 01:15:36] speaker**
+donc,
+
+**[01:15:36 - 01:15:36] speaker**
+vous avez tout le cas de source de pente-là.
+
+**[01:15:38 - 01:15:38] speaker**
+Et si vous regardez,
+
+**[01:15:39 - 01:15:39] speaker**
+moi ce qui est intéressant,
+
+**[01:15:40 - 01:15:40] speaker**
+c'était les contribuiteurs,
+
+**[01:15:41 - 01:15:41] speaker**
+c'est qui boisse la dessus,
+
+**[01:15:43 - 01:15:43] speaker**
+en fait.
+
+**[01:15:44 - 01:15:44] speaker**
+Au revoir déjà,
+
+**[01:15:44 - 01:15:44] speaker**
+vous avez des milities de codeur,
+
+**[01:15:46 - 01:15:46] speaker**
+qui va s'atture,
+
+**[01:15:47 - 01:15:47] speaker**
+ça, c'est les clarenates.
+
+**[01:15:49 - 01:15:49] speaker**
+Mais surtout,
+
+**[01:15:50 - 01:15:50] speaker**
+ce que j'ai découvert un peu plus en rattant,
+
+**[01:15:53 - 01:15:53] speaker**
+c'est que les sponsors de ça,
+
+**[01:15:56 - 01:15:56] speaker**
+ce qui cote le plus là dessus,
+
+**[01:15:59 - 01:15:59] speaker**
+c'est les magles de Tenset,
+
+**[01:16:00 - 01:16:00] speaker**
+une de NVIDIA,
+
+**[01:16:01 - 01:16:01] speaker**
+après,
+
+**[01:16:02 - 01:16:02] speaker**
+un beaucoup quoi.
+
+**[01:16:04 - 01:16:04] speaker**
+Ah, je suis plus j'avais vu ça,
+
+**[01:16:05 - 01:16:05] speaker**
+ce point de s'enregistre.
+
+**[01:16:09 - 01:16:09] speaker**
+Tu plus,
+
+**[01:16:09 - 01:16:09] speaker**
+voilà, c'est là.
+
+**[01:16:10 - 01:16:10] speaker**
+C'est là.
+
+**[01:16:11 - 01:16:11] speaker**
+Donc,
+
+**[01:16:11 - 01:16:11] speaker**
+les gars qui...
+
+**[01:16:12 - 01:16:12] speaker**
+Ouais,
+
+**[01:16:13 - 01:16:13] speaker**
+eux, ils boissent ça dessus quoi.
+
+**[01:16:17 - 01:16:17] speaker**
+Ah, et aussi au panneur,
+
+**[01:16:18 - 01:16:18] speaker**
+donc il n'y a pas des gars,
+
+**[01:16:20 - 01:16:20] speaker**
+le vrai, c'est vraiment,
+
+**[01:16:20 - 01:16:20] speaker**
+des cas très bons credures qui boissent ça dessus.
+
+**[01:16:24 - 01:16:24] speaker**
+Ah, il y a aussi singular aussi,
+
+**[01:16:25 - 01:16:25] speaker**
+là on va...
+
+**[01:16:27 - 01:16:27] speaker**
+qui se prend de saur un peu le truc.
+
+**[01:16:29 - 01:16:29] speaker**
+Après, ils se font de saur,
+
+**[01:16:30 - 01:16:30] speaker**
+mais ils se coûtent aussi,
+
+**[01:16:31 - 01:16:31] speaker**
+en force,
+
+**[01:16:32 - 01:16:32] speaker**
+on se que ils apporte des tunes,
+
+**[01:16:34 - 01:16:34] speaker**
+ils apporte pas que ça,
+
+**[01:16:35 - 01:16:35] speaker**
+ils apporte aussi,
+
+**[01:16:36 - 01:16:36] speaker**
+des connaissances,
+
+**[01:16:37 - 01:16:37] speaker**
+puis des développeurs.
+
+**[01:16:41 - 01:16:41] speaker**
+Donc,
+
+**[01:16:42 - 01:16:42] speaker**
+voilà pour le petit tour d'horizon.
+
+**[01:16:45 - 01:16:45] speaker**
+Ah, ils étaient pas à un saur des questions
+
+**[01:16:46 - 01:16:46] speaker**
+sur un mesure,
+
+**[01:16:47 - 01:16:47] speaker**
+si je peux rappeler,
+
+**[01:16:48 - 01:16:48] speaker**
+mais aussi quelqu'un doit rappeler.
+
+**[01:16:49 - 01:16:49] speaker**
+Ah ouais, en fait,
+
+**[01:16:51 - 01:16:51] speaker**
+c'est sûr,
+
+**[01:16:51 - 01:16:51] speaker**
+ouais, toujours ça n'est pas,
+
+**[01:16:53 - 01:16:53] speaker**
+et t'arnelle,
+
+**[01:16:55 - 01:16:55] speaker**
+sur est-ce que sur l'ocal,
+
+**[01:16:57 - 01:16:57] speaker**
+ou sur cloud,
+
+**[01:16:58 - 01:16:58] speaker**
+moi je dis,
+
+**[01:16:59 - 01:16:59] speaker**
+ça dépend vraiment des tâches,
+
+**[01:17:00 - 01:17:00] speaker**
+ça dépend vraiment ce qu'on fait.
+
+**[01:17:02 - 01:17:02] speaker**
+Typiquement,
+
+**[01:17:03 - 01:17:03] speaker**
+générer des rapports,
+
+**[01:17:04 - 01:17:04] speaker**
+j'ai on a allé sur la marché financier,
+
+**[01:17:06 - 01:17:06] speaker**
+c'est-à-dire,
+
+**[01:17:07 - 01:17:07] speaker**
+ça on peut l'argentement faire
+
+**[01:17:08 - 01:17:08] speaker**
+avec un VPN sur un cloud,
+
+**[01:17:10 - 01:17:10] speaker**
+de pardon de un truc qui tourne sur l'ocal,
+
+**[01:17:14 - 01:17:14] speaker**
+par contre,
+
+**[01:17:15 - 01:17:15] speaker**
+si on a vraiment besoin de développer des projets
+
+**[01:17:18 - 01:17:18] speaker**
+de coder sur tout un coulis,
+
+**[01:17:21 - 01:17:21] speaker**
+sans que,
+
+**[01:17:23 - 01:17:23] speaker**
+voilà,
+
+**[01:17:24 - 01:17:24] speaker**
+on regardait vraiment 100%
+
+**[01:17:27 - 01:17:27] speaker**
+la spère privée ici,
+
+**[01:17:28 - 01:17:28] speaker**
+là effectivement,
+
+**[01:17:29 - 01:17:29] speaker**
+on a de la terresse,
+
+**[01:17:30 - 01:17:30] speaker**
+cette tournée sur l'ocal.
+
+**[01:17:33 - 01:17:33] speaker**
+Installez au funcler sur l'ocal.
+
+**[01:17:37 - 01:17:37] speaker**
+Mais voilà,
+
+**[01:17:37 - 01:17:37] speaker**
+après,
+
+**[01:17:37 - 01:17:37] speaker**
+ça dépend de niveau des gens,
+
+**[01:17:39 - 01:17:39] speaker**
+moi,
+
+**[01:17:39 - 01:17:39] speaker**
+je dirais tout le monde pour démocratiser cette rue,
+
+**[01:17:42 - 01:17:42] speaker**
+qui il faut vraiment un truc simple,
+
+**[01:17:45 - 01:17:45] speaker**
+surtout au niveau de coup d'acquisition,
+
+**[01:17:47 - 01:17:47] speaker**
+au niveau d'installation, etc.
+
+**[01:17:50 - 01:17:50] speaker**
+Je pense que la plupart des gens
+
+**[01:17:52 - 01:17:52] speaker**
+ils arrivent quand même par,
+
+**[01:17:55 - 01:17:55] speaker**
+payez 5 dollars,
+
+**[01:17:56 - 01:17:56] speaker**
+dit de la par mois,
+
+**[01:17:57 - 01:17:57] speaker**
+et faire un essai sur le cloud.
+
+**[01:18:00 - 01:18:00] speaker**
+Et énormément,
+
+**[01:18:01 - 01:18:01] speaker**
+la plupart des gens,
+
+**[01:18:02 - 01:18:02] speaker**
+après, ils trouvent qu'ils ont pas besoin,
+
+**[01:18:04 - 01:18:04] speaker**
+en fait,
+
+**[01:18:05 - 01:18:05] speaker**
+ça juste,
+
+**[01:18:07 - 01:18:07] speaker**
+je me prends toujours la anecdote,
+
+**[01:18:11 - 01:18:11] speaker**
+ce qui s'est passé en Chine avec au fond de clore,
+
+**[01:18:14 - 01:18:14] speaker**
+les gens, ils étaient ratholes.
+
+**[01:18:16 - 01:18:16] speaker**
+Ah ouais, il y a une nouvelle technologie,
+
+**[01:18:17 - 01:18:17] speaker**
+apparemment,
+
+**[01:18:18 - 01:18:18] speaker**
+avec ça, on peut donner un risque.
+
+**[01:18:19 - 01:18:19] speaker**
+Voilà.
+
+**[01:18:21 - 01:18:21] speaker**
+Les gens, il payaient presque
+
+**[01:18:22 - 01:18:22] speaker**
+les qui valent de s'endre la François,
+
+**[01:18:25 - 01:18:25] speaker**
+il est beaucoup d'argent,
+
+**[01:18:26 - 01:18:26] speaker**
+de payer les gens,
+
+**[01:18:29 - 01:18:29] speaker**
+qu'ils les aient d'installer au fond de clore sur leur machine.
+
+**[01:18:33 - 01:18:33] speaker**
+Et deux semaines après,
+
+**[01:18:35 - 01:18:35] speaker**
+il est repéré 20 francs les qui valent
+
+**[01:18:39 - 01:18:39] speaker**
+pour des installés,
+
+**[01:18:40 - 01:18:40] speaker**
+c'est trop vrai que parce qu'il se trouve qu'en fait,
+
+**[01:18:43 - 01:18:43] speaker**
+ils ont pas besoin de cette histoire.
+
+**[01:18:45 - 01:18:45] speaker**
+Voilà.
+
+**[01:18:45 - 01:18:45] speaker**
+Et en fait, si on arrive même pas
+
+**[01:18:48 - 01:18:48] speaker**
+tout seul, installé sur sa propre machine,
+
+**[01:18:51 - 01:18:51] speaker**
+on peut donc là,
+
+**[01:18:52 - 01:18:52] speaker**
+ça montre le niveau en IT,
+
+**[01:18:56 - 01:18:56] speaker**
+et ça montre qu'on n'a pas vraiment besoin de ces outils.
+
+**[01:18:59 - 01:18:59] speaker**
+On n'a pas compris ce que c'est au fond de clore.
+
+**[01:19:02 - 01:19:02] speaker**
+Donc, c'était juste une petite anecdote.
+
+**[01:19:05 - 01:19:05] speaker**
+Je pense que,
+
+**[01:19:07 - 01:19:07] speaker**
+pour essayer vraiment connaître ce que c'est,
+
+**[01:19:11 - 01:19:11] speaker**
+on paye 5, 5,
+
+**[01:19:12 - 01:19:12] speaker**
+viola, par mois, pendant 2, 3 mois,
+
+**[01:19:14 - 01:19:14] speaker**
+ça suffit l'arrêtement.
+
+**[01:19:16 - 01:19:16] speaker**
+Et surtout étant donné que maintenant,
+
+**[01:19:18 - 01:19:18] speaker**
+la acquisition du maquet est tellement difficile,
+
+**[01:19:22 - 01:19:22] speaker**
+peut-être en attendant,
+
+**[01:19:24 - 01:19:24] speaker**
+c'est déjà de,
+
+**[01:19:25 - 01:19:25] speaker**
+de, de, de, de, de,
+
+**[01:19:25 - 01:19:25] speaker**
+voilà, cette famille la réalisée un peu,
+
+**[01:19:27 - 01:19:27] speaker**
+ce que c'est.
+
+**[01:19:31 - 01:19:31] speaker**
+Alors, il y a juste une question de,
+
+**[01:19:33 - 01:19:33] speaker**
+j'en profite de rien,
+
+**[01:19:34 - 01:19:34] speaker**
+parce que j'avais pas vu là,
+
+**[01:19:35 - 01:19:35] speaker**
+et une VM,
+
+**[01:19:36 - 01:19:36] speaker**
+une virtuelle machine sur un petit,
+
+**[01:19:37 - 01:19:37] speaker**
+on me saver sous Prox Mox.
+
+**[01:19:39 - 01:19:39] speaker**
+Si tu arriveras à faire ça,
+
+**[01:19:40 - 01:19:40] speaker**
+rien fait la totout de suite,
+
+**[01:19:42 - 01:19:42] speaker**
+c'est pour moi le top,
+
+**[01:19:43 - 01:19:43] speaker**
+ça t'est tranquille.
+
+**[01:19:45 - 01:19:45] speaker**
+C'est compliqué à faire,
+
+**[01:19:46 - 01:19:46] speaker**
+pour qu'on ne sait pas pour tout le monde,
+
+**[01:19:47 - 01:19:47] speaker**
+tu vois,
+
+**[01:19:48 - 01:19:48] speaker**
+si, et toi,
+
+**[01:19:48 - 01:19:48] speaker**
+t'as l'air de,
+
+**[01:19:49 - 01:19:49] speaker**
+voilà, de tout chapeau,
+
+**[01:19:50 - 01:19:50] speaker**
+donc tu peux t'amuser un peu,
+
+**[01:19:51 - 01:19:51] speaker**
+à spérer pitié très bien aussi,
+
+**[01:19:53 - 01:19:53] speaker**
+pour reprendre,
+
+**[01:19:53 - 01:19:53] speaker**
+mais tu feras rien de le calme,
+
+**[01:19:55 - 01:19:55] speaker**
+par contre.
+
+**[01:19:57 - 01:19:57] speaker**
+Qu'est-ce que ça la configue,
+
+**[01:19:58 - 01:19:58] speaker**
+minimum,
+
+**[01:19:59 - 01:19:59] speaker**
+on va encore votre son,
+
+**[01:20:00 - 01:20:00] speaker**
+j'ai marre,
+
+**[01:20:01 - 01:20:01] speaker**
+c'est à moins de 16,
+
+**[01:20:02 - 01:20:02] speaker**
+tu vois,
+
+**[01:20:03 - 01:20:03] speaker**
+quand même bien galère,
+
+**[01:20:04 - 01:20:04] speaker**
+donc,
+
+**[01:20:05 - 01:20:05] speaker**
+au même n'est mottrou,
+
+**[01:20:07 - 01:20:07] speaker**
+qui est excellents aussi,
+
+**[01:20:08 - 01:20:08] speaker**
+d'ailleurs,
+
+**[01:20:08 - 01:20:08] speaker**
+celui de une VM,
+
+**[01:20:09 - 01:20:09] speaker**
+c'est un petit modèle local,
+
+**[01:20:11 - 01:20:11] speaker**
+un peu de source,
+
+**[01:20:12 - 01:20:12] speaker**
+qui est très très bon,
+
+**[01:20:13 - 01:20:13] speaker**
+et en dessous de 16,
+
+**[01:20:16 - 01:20:16] speaker**
+donc sur le raspeur,
+
+**[01:20:17 - 01:20:17] speaker**
+je ne sais pas combien d'âmes,
+
+**[01:20:19 - 01:20:19] speaker**
+mon avis, c'est moins de 16 ans,
+
+**[01:20:20 - 01:20:20] speaker**
+sans bon.
+
+**[01:20:21 - 01:20:21] speaker**
+Enfin,
+
+**[01:20:22 - 01:20:22] speaker**
+de ce que je m'en rappelle,
+
+**[01:20:23 - 01:20:23] speaker**
+des raspeur,
+
+**[01:20:24 - 01:20:24] speaker**
+et puis,
+
+**[01:20:24 - 01:20:24] speaker**
+on s'adate d'un petit moment,
+
+**[01:20:26 - 01:20:26] speaker**
+encore.
+
+**[01:20:26 - 01:20:26] speaker**
+Je suis là,
+
+**[01:20:29 - 01:20:29] speaker**
+juste pour la petite histoire,
+
+**[01:20:30 - 01:20:30] speaker**
+ça c'est pitaire,
+
+**[01:20:32 - 01:20:32] speaker**
+on se trouve qu'il ne se passe,
+
+**[01:20:33 - 01:20:33] speaker**
+c'est le développeur,
+
+**[01:20:34 - 01:20:34] speaker**
+encore de l'oport de PEN-CLO,
+
+**[01:20:36 - 01:20:36] speaker**
+puisqu'il a eu de nombre de trucs
+
+**[01:20:37 - 01:20:37] speaker**
+qui l'a fait avant de faire au PEN-CLO,
+
+**[01:20:40 - 01:20:40] speaker**
+qui était déjà multiménénaire,
+
+**[01:20:42 - 01:20:42] speaker**
+avant de faire au PEN-CLO,
+
+**[01:20:43 - 01:20:43] speaker**
+il a fait tous ces trucs là,
+
+**[01:20:44 - 01:20:44] speaker**
+avant de que de PEN-CLO,
+
+**[01:20:47 - 01:20:47] speaker**
+donc ça ne veut pas nulle part,
+
+**[01:20:49 - 01:20:49] speaker**
+c'est ça,
+
+**[01:20:50 - 01:20:50] speaker**
+un aboutissement d'un gros truc,
+
+**[01:20:53 - 01:20:53] speaker**
+et puis maintenant,
+
+**[01:20:53 - 01:20:53] speaker**
+ils sont,
+
+**[01:20:54 - 01:20:54] speaker**
+il a des très, très gros supports,
+
+**[01:20:56 - 01:20:56] speaker**
+et c'était très l'interessant,
+
+**[01:20:58 - 01:20:58] speaker**
+c'est que c'était une fondation,
+
+**[01:21:01 - 01:21:01] speaker**
+on peut une clôt,
+
+**[01:21:02 - 01:21:02] speaker**
+donc c'est complètement une fondation,
+
+**[01:21:04 - 01:21:04] speaker**
+c'est,
+
+**[01:21:05 - 01:21:05] speaker**
+ça va pas se transformer en PEN-CLO,
+
+**[01:21:08 - 01:21:08] speaker**
+V2,
+
+**[01:21:10 - 01:21:10] speaker**
+mais dans le moment, ça va rester,
+
+**[01:21:11 - 01:21:11] speaker**
+enfin,
+
+**[01:21:12 - 01:21:12] speaker**
+je espère que je dis,
+
+**[01:21:14 - 01:21:14] speaker**
+je suis pas vraiment,
+
+**[01:21:15 - 01:21:15] speaker**
+voilà,
+
+**[01:21:15 - 01:21:15] speaker**
+de
+
+**[01:21:16 - 01:21:16] speaker**
+ça fait resté,
+
+**[01:21:17 - 01:21:17] speaker**
+par exemple,
+
+**[01:21:19 - 01:21:19] speaker**
+mais
+
+**[01:21:20 - 01:21:20] speaker**
+l'i c'est faire acheter,
+
+**[01:21:21 - 01:21:21] speaker**
+lui, c'est faire acheter,
+
+**[01:21:22 - 01:21:22] speaker**
+non, mais c'est,
+
+**[01:21:25 - 01:21:25] speaker**
+il est un milliard,
+
+**[01:21:26 - 01:21:26] speaker**
+à priori,
+
+**[01:21:27 - 01:21:27] speaker**
+parce qu'on a compris mon détruite des dirants,
+
+**[01:21:29 - 01:21:29] speaker**
+mais lui,
+
+**[01:21:30 - 01:21:30] speaker**
+ils sont dit,
+
+**[01:21:30 - 01:21:30] speaker**
+c'était que ça reste
+
+**[01:21:31 - 01:21:31] speaker**
+PEN-CLO,
+
+**[01:21:32 - 01:21:32] speaker**
+et de crée une fondation,
+
+**[01:21:33 - 01:21:33] speaker**
+et à priori,
+
+**[01:21:35 - 01:21:35] speaker**
+c'est aussi un truc très, très important,
+
+**[01:21:37 - 01:21:37] speaker**
+aujourd'hui,
+
+**[01:21:38 - 01:21:38] speaker**
+parce que si autant de développeurs,
+
+**[01:21:39 - 01:21:39] speaker**
+chinois,
+
+**[01:21:39 - 01:21:39] speaker**
+ne t'avons qu'à d'ordre PEN-CLO,
+
+**[01:21:41 - 01:21:41] speaker**
+c'est qui,
+
+**[01:21:42 - 01:21:42] speaker**
+tu vois, fond la dedans,
+
+**[01:21:43 - 01:21:43] speaker**
+et c'est,
+
+**[01:21:43 - 01:21:43] speaker**
+ils participent à ça,
+
+**[01:21:44 - 01:21:44] speaker**
+c'est pas pour rien,
+
+**[01:21:45 - 01:21:45] speaker**
+c'est parce que justement,
+
+**[01:21:46 - 01:21:46] speaker**
+on bat tout,
+
+**[01:21:47 - 01:21:47] speaker**
+on peut en profiter quoi,
+
+**[01:21:50 - 01:21:50] speaker**
+et puis,
+
+**[01:21:51 - 01:21:51] speaker**
+il y a des très bons codors aussi,
+
+**[01:21:52 - 01:21:52] speaker**
+qui,
+
+**[01:21:52 - 01:21:52] speaker**
+il faut à tout monter,
+
+**[01:21:53 - 01:21:53] speaker**
+pour le faire,
+
+**[01:21:55 - 01:21:55] speaker**
+à leur attend,
+
+**[01:21:57 - 01:21:57] speaker**
+les déjà des VM qui tournent,
+
+**[01:21:58 - 01:21:58] speaker**
+je ferai ça soir,
+
+**[01:21:59 - 01:21:59] speaker**
+allez,
+
+**[01:21:59 - 01:21:59] speaker**
+pour l'instant,
+
+**[01:22:00 - 01:22:00] speaker**
+je fais les compromis sur les modèles,
+
+**[01:22:01 - 01:22:01] speaker**
+le coût,
+
+**[01:22:01 - 01:22:01] speaker**
+le temps de tester,
+
+**[01:22:02 - 01:22:02] speaker**
+et prendre en m'en est au pierre,
+
+**[01:22:04 - 01:22:04] speaker**
+je suis démodal frie sur un peu en routeur,
+
+**[01:22:05 - 01:22:05] speaker**
+ouais, voilà,
+
+**[01:22:06 - 01:22:06] speaker**
+c'est une très bonne idée,
+
+**[01:22:07 - 01:22:07] speaker**
+ça, ce qui est dit,
+
+**[01:22:08 - 01:22:08] speaker**
+à William,
+
+**[01:22:10 - 01:22:10] speaker**
+à HFW,
+
+**[01:22:10 - 01:22:10] speaker**
+mont de crée,
+
+**[01:22:11 - 01:22:11] speaker**
+PEN-Routeur,
+
+**[01:22:13 - 01:22:13] speaker**
+alors moi,
+
+**[01:22:14 - 01:22:14] speaker**
+j'ai un petit compte-op,
+
+**[01:22:15 - 01:22:15] speaker**
+PEN-Routeur,
+
+**[01:22:15 - 01:22:15] speaker**
+que j'utilise de temps en temps,
+
+**[01:22:17 - 01:22:17] speaker**
+pour faire des tests,
+
+**[01:22:18 - 01:22:18] speaker**
+et avant,
+
+**[01:22:19 - 01:22:19] speaker**
+vous avez des modèles frie,
+
+**[01:22:21 - 01:22:21] speaker**
+en fait,
+
+**[01:22:22 - 01:22:22] speaker**
+à Bob-Idou,
+
+**[01:22:23 - 01:22:23] speaker**
+qui finent,
+
+**[01:22:23 - 01:22:23] speaker**
+voilà,
+
+**[01:22:24 - 01:22:24] speaker**
+tu l'as des gratos,
+
+**[01:22:26 - 01:22:26] speaker**
+alors il y a beaucoup de restrictions,
+
+**[01:22:27 - 01:22:27] speaker**
+mais au moins,
+
+**[01:22:27 - 01:22:27] speaker**
+ça vous permet de tester PEN-Rout,
+
+**[01:22:30 - 01:22:30] speaker**
+de plugger jour de truc,
+
+**[01:22:32 - 01:22:32] speaker**
+et puis ensuite,
+
+**[01:22:34 - 01:22:34] speaker**
+de tester
+
+**[01:22:37 - 01:22:37] speaker**
+PEN-Routeur,
+
+**[01:22:37 - 01:22:37] speaker**
+ce sont un peu PEN-Routeur,
+
+**[01:22:40 - 01:22:40] speaker**
+Clot,
+
+**[01:22:41 - 01:22:41] speaker**
+une semblée,
+
+**[01:22:43 - 01:22:43] speaker**
+alors,
+
+**[01:22:43 - 01:22:43] speaker**
+c'est,
+
+**[01:22:44 - 01:22:44] speaker**
+ils ont encore changé d'interface,
+
+**[01:22:46 - 01:22:46] speaker**
+il y a un remesse,
+
+**[01:22:47 - 01:22:47] speaker**
+un concurrent,
+
+**[01:22:49 - 01:22:49] speaker**
+qui est très, très en vrai,
+
+**[01:22:50 - 01:22:50] speaker**
+quand c'est un moment,
+
+**[01:22:51 - 01:22:51] speaker**
+au CDR,
+
+**[01:22:56 - 01:22:56] speaker**
+j'utilise de retrouver,
+
+**[01:23:00 - 01:23:00] speaker**
+ce qui a vintre,
+
+**[01:23:01 - 01:23:01] speaker**
+on voyait les modèles,
+
+**[01:23:01 - 01:23:01] speaker**
+les plus utilisés en fonction,
+
+**[01:23:04 - 01:23:04] speaker**
+à Bob-Idou,
+
+**[01:23:05 - 01:23:05] speaker**
+donc les deux,
+
+**[01:23:05 - 01:23:05] speaker**
+la Hermes-Alan,
+
+**[01:23:06 - 01:23:06] speaker**
+ils prend,
+
+**[01:23:07 - 01:23:07] speaker**
+ils commencent à prendre,
+
+**[01:23:08 - 01:23:08] speaker**
+du point,
+
+**[01:23:09 - 01:23:09] speaker**
+le truc qui est très bien aussi,
+
+**[01:23:13 - 01:23:13] speaker**
+donc,
+
+**[01:23:13 - 01:23:13] speaker**
+là, vous avez les modèles,
+
+**[01:23:14 - 01:23:14] speaker**
+les plus utilisés,
+
+**[01:23:15 - 01:23:15] speaker**
+donc,
+
+**[01:23:15 - 01:23:15] speaker**
+sur un panneau-outeur,
+
+**[01:23:16 - 01:23:16] speaker**
+c'est GLM-5-ur-Bau,
+
+**[01:23:17 - 01:23:17] speaker**
+mini-max-de-pense,
+
+**[01:23:19 - 01:23:19] speaker**
+Clot,
+
+**[01:23:19 - 01:23:19] speaker**
+son alcatie,
+
+**[01:23:20 - 01:23:20] speaker**
+c'est Nemot-Trône Super,
+
+**[01:23:23 - 01:23:23] speaker**
+donc c'est ce qu'on a parlé,
+
+**[01:23:25 - 01:23:25] speaker**
+et donc là,
+
+**[01:23:26 - 01:23:26] speaker**
+c'est intéressant de voir
+
+**[01:23:27 - 01:23:27] speaker**
+ce que les autres utilisent,
+
+**[01:23:29 - 01:23:29] speaker**
+comme d'elle en fonction des modèles,
+
+**[01:23:30 - 01:23:30] speaker**
+ils changent le modèles,
+
+**[01:23:32 - 01:23:32] speaker**
+ils utilisent plutôt autre chose,
+
+**[01:23:34 - 01:23:34] speaker**
+et je crois qu'il y avait une Nemot-Trône Fré,
+
+**[01:23:35 - 01:23:35] speaker**
+hein,
+
+**[01:23:36 - 01:23:36] speaker**
+sur un panneau-outeur,
+
+**[01:23:39 - 01:23:39] speaker**
+qui passe,
+
+**[01:23:39 - 01:23:39] speaker**
+il est toujours fris,
+
+**[01:23:40 - 01:23:40] speaker**
+ouais,
+
+**[01:23:40 - 01:23:40] speaker**
+et là,
+
+**[01:23:41 - 01:23:41] speaker**
+on peut utiliser sur la,
+
+**[01:23:43 - 01:23:43] speaker**
+dans sa� de temps,
+
+**[01:23:44 - 01:23:44] speaker**
+on peut une clore,
+
+**[01:23:44 - 01:23:44] speaker**
+tu m'as un Nemot-Trône,
+
+**[01:23:46 - 01:23:46] speaker**
+un Mifri,
+
+**[01:23:47 - 01:23:47] speaker**
+tu plagues,
+
+**[01:23:48 - 01:23:48] speaker**
+tu dis un panneau-outeur
+
+**[01:23:49 - 01:23:49] speaker**
+de faire la connexon,
+
+**[01:23:50 - 01:23:50] speaker**
+c'est parti,
+
+**[01:23:51 - 01:23:51] speaker**
+qu'on,
+
+**[01:23:52 - 01:23:52] speaker**
+pas la panneau-outeur,
+
+**[01:23:53 - 01:23:53] speaker**
+pas le clore.
+
+**[01:23:57 - 01:23:57] speaker**
+Voilà un petit peu,
+
+**[01:23:59 - 01:23:59] speaker**
+à temps,
+
+**[01:23:59 - 01:23:59] speaker**
+je vous réagisse,
+
+**[01:24:00 - 01:24:00] speaker**
+gros conseils panneau-outeur,
+
+**[01:24:01 - 01:24:01] speaker**
+j'étais dit de l'art de crédit,
+
+**[01:24:02 - 01:24:02] speaker**
+même si vous dis que les modèles
+
+**[01:24:03 - 01:24:03] speaker**
+gratuits,
+
+**[01:24:04 - 01:24:04] speaker**
+ça fait passer les cotats de vingt,
+
+**[01:24:06 - 01:24:06] speaker**
+qu'est-ce pas en jouant à 1,
+
+**[01:24:07 - 01:24:07] speaker**
+à 1,
+
+**[01:24:07 - 01:24:07] speaker**
+ça ne se reparera,
+
+**[01:24:08 - 01:24:08] speaker**
+ok,
+
+**[01:24:08 - 01:24:08] speaker**
+et on a un moins d'éroits,
+
+**[01:24:09 - 01:24:09] speaker**
+qu'à 100 ans,
+
+**[01:24:10 - 01:24:10] speaker**
+à 5,
+
+**[01:24:11 - 01:24:11] speaker**
+ok,
+
+**[01:24:11 - 01:24:11] speaker**
+il faut voir,
+
+**[01:24:12 - 01:24:12] speaker**
+le voir comme,
+
+**[01:24:13 - 01:24:13] speaker**
+au panneau-outeur,
+
+**[01:24:14 - 01:24:14] speaker**
+qu'il vérifique,
+
+**[01:24:14 - 01:24:14] speaker**
+c'est pas du fris-laudeur,
+
+**[01:24:15 - 01:24:15] speaker**
+ah ouais,
+
+**[01:24:16 - 01:24:16] speaker**
+pas qu'on ne s'en,
+
+**[01:24:17 - 01:24:17] speaker**
+bah ça,
+
+**[01:24:17 - 01:24:17] speaker**
+ça, ça intéressant,
+
+**[01:24:18 - 01:24:18] speaker**
+rien,
+
+**[01:24:18 - 01:24:18] speaker**
+ni de dire en gros,
+
+**[01:24:19 - 01:24:19] speaker**
+même si vous dis
+
+**[01:24:20 - 01:24:20] speaker**
+les versions gratuits,
+
+**[01:24:21 - 01:24:21] speaker**
+vous mettre
+
+**[01:24:21 - 01:24:21] speaker**
+au niveau de l'art,
+
+**[01:24:21 - 01:24:21] speaker**
+la sur-opèneau-outeur,
+
+**[01:24:23 - 01:24:23] speaker**
+comme ça,
+
+**[01:24:23 - 01:24:23] speaker**
+vous êtes tranquille,
+
+**[01:24:25 - 01:24:25] speaker**
+par rapport à l'utilisation
+
+**[01:24:26 - 01:24:26] speaker**
+des modèles fréquents.
+
+**[01:24:29 - 01:24:29] speaker**
+Donc,
+
+**[01:24:29 - 01:24:29] speaker**
+je sais pas,
+
+**[01:24:30 - 01:24:30] speaker**
+si on a parlé un peu de jemins,
+
+**[01:24:31 - 01:24:31] speaker**
+ou là,
+
+**[01:24:31 - 01:24:31] speaker**
+ça devient vingté en douze,
+
+**[01:24:32 - 01:24:32] speaker**
+on a déjà,
+
+**[01:24:34 - 01:24:34] speaker**
+donc,
+
+**[01:24:36 - 01:24:36] speaker**
+voilà,
+
+**[01:24:36 - 01:24:36] speaker**
+on a fait déjà
+
+**[01:24:37 - 01:24:37] speaker**
+des mots en live,
+
+**[01:24:38 - 01:24:38] speaker**
+on fait temps,
+
+**[01:24:39 - 01:24:39] speaker**
+ah oui, je voulais vous parler d'un autre truc,
+
+**[01:24:42 - 01:24:42] speaker**
+mais,
+
+**[01:24:43 - 01:24:43] speaker**
+bon, normalement,
+
+**[01:24:43 - 01:24:43] speaker**
+ça fait jusqu'à vingtaineurs,
+
+**[01:24:44 - 01:24:44] speaker**
+mais souvent,
+
+**[01:24:45 - 01:24:45] speaker**
+on déborde un petit peu,
+
+**[01:24:46 - 01:24:46] speaker**
+donc,
+
+**[01:24:46 - 01:24:46] speaker**
+si vous voulez partir,
+
+**[01:24:47 - 01:24:47] speaker**
+vous pouvez partir,
+
+**[01:24:48 - 01:24:48] speaker**
+bah,
+
+**[01:24:48 - 01:24:48] speaker**
+bah,
+
+**[01:24:48 - 01:24:48] speaker**
+c'est aussi,
+
+**[01:24:49 - 01:24:49] speaker**
+ce qui veut rester,
+
+**[01:24:49 - 01:24:49] speaker**
+bah, je veux montrer un peu de trois trucs,
+
+**[01:24:52 - 01:24:52] speaker**
+moi,
+
+**[01:24:52 - 01:24:52] speaker**
+je vais montrer un petit tout qui intéressant,
+
+**[01:24:54 - 01:24:54] speaker**
+tant que j'ai l'écran,
+
+**[01:24:55 - 01:24:55] speaker**
+pis si vous avez des trucs à montrer,
+
+**[01:24:56 - 01:24:56] speaker**
+et c'était pas à me demander,
+
+**[01:24:57 - 01:24:57] speaker**
+alors,
+
+**[01:24:57 - 01:24:57] speaker**
+je ne veux pas s'écran,
+
+**[01:24:58 - 01:24:58] speaker**
+et on vous remontrait,
+
+**[01:25:00 - 01:25:00] speaker**
+donc,
+
+**[01:25:00 - 01:25:00] speaker**
+juste un petit peu,
+
+**[01:25:01 - 01:25:01] speaker**
+un petit peu de contexte,
+
+**[01:25:02 - 01:25:02] speaker**
+comme ça,
+
+**[01:25:02 - 01:25:02] speaker**
+vous allez voir un peu,
+
+**[01:25:04 - 01:25:04] speaker**
+ce que moi, j'ai essayé de faire,
+
+**[01:25:06 - 01:25:06] speaker**
+donc là, c'est parce que,
+
+**[01:25:07 - 01:25:07] speaker**
+c'était,
+
+**[01:25:07 - 01:25:07] speaker**
+mes chiffres,
+
+**[01:25:09 - 01:25:09] speaker**
+et mes chiffres,
+
+**[01:25:09 - 01:25:09] speaker**
+c'est un logiciel qui permet
+
+**[01:25:11 - 01:25:11] speaker**
+à y déprongent de créer des
+
+**[01:25:12 - 01:25:12] speaker**
+modèles 3D,
+
+**[01:25:13 - 01:25:13] speaker**
+à autant,
+
+**[01:25:13 - 01:25:13] speaker**
+vous dire que les modèles 3D sont
+
+**[01:25:14 - 01:25:14] speaker**
+ultra bonnes qualité,
+
+**[01:25:16 - 01:25:16] speaker**
+c'est dingue,
+
+**[01:25:18 - 01:25:18] speaker**
+maintenant,
+
+**[01:25:19 - 01:25:19] speaker**
+on a eu d'avoir un truc,
+
+**[01:25:20 - 01:25:20] speaker**
+tu peux un premier après,
+
+**[01:25:22 - 01:25:22] speaker**
+ouais,
+
+**[01:25:22 - 01:25:22] speaker**
+tu peux les enprémirer en 3D,
+
+**[01:25:25 - 01:25:25] speaker**
+y'a tout le process de création,
+
+**[01:25:27 - 01:25:27] speaker**
+tu peux même les animés,
+
+**[01:25:28 - 01:25:28] speaker**
+bah là,
+
+**[01:25:28 - 01:25:28] speaker**
+j'ai fait récemment un cours là-dessus,
+
+**[01:25:30 - 01:25:30] speaker**
+on fait au montré,
+
+**[01:25:31 - 01:25:31] speaker**
+là,
+
+**[01:25:32 - 01:25:32] speaker**
+j'ai fait avec son open tour,
+
+**[01:25:33 - 01:25:33] speaker**
+alors attend,
+
+**[01:25:34 - 01:25:34] speaker**
+c'est là où c'est intéressant,
+
+**[01:25:35 - 01:25:35] speaker**
+en fait,
+
+**[01:25:35 - 01:25:35] speaker**
+c'est un site qui permet
+
+**[01:25:37 - 01:25:37] speaker**
+de faire des modèles 3D,
+
+**[01:25:39 - 01:25:39] speaker**
+donc là,
+
+**[01:25:39 - 01:25:39] speaker**
+j'ai fait un astronot,
+
+**[01:25:41 - 01:25:41] speaker**
+je fais plein de trucs,
+
+**[01:25:42 - 01:25:42] speaker**
+comme ça,
+
+**[01:25:43 - 01:25:43] speaker**
+pour marrer,
+
+**[01:25:44 - 01:25:44] speaker**
+et,
+
+**[01:25:47 - 01:25:47] speaker**
+ce qui est super intéressant,
+
+**[01:25:49 - 01:25:49] speaker**
+tu sais que tu peux les animer également,
+
+**[01:25:51 - 01:25:51] speaker**
+donc là,
+
+**[01:25:51 - 01:25:51] speaker**
+j'ai fait une version animée,
+
+**[01:25:53 - 01:25:53] speaker**
+on tu peux les intégrer dans les
+
+**[01:25:54 - 01:25:54] speaker**
+moteurs de jeu,
+
+**[01:25:55 - 01:25:55] speaker**
+aussi,
+
+**[01:25:55 - 01:25:55] speaker**
+donc tu peux faire des exportations,
+
+**[01:25:58 - 01:25:58] speaker**
+et tu peux les exporter avec Blender,
+
+**[01:26:00 - 01:26:00] speaker**
+goda,
+
+**[01:26:01 - 01:26:01] speaker**
+tu dis un real Maya
+
+**[01:26:02 - 01:26:02] speaker**
+ou 3Ds,
+
+**[01:26:04 - 01:26:04] speaker**
+au robloque,
+
+**[01:26:04 - 01:26:04] speaker**
+ceci,
+
+**[01:26:06 - 01:26:06] speaker**
+tu peux créer en un
+
+**[01:26:08 - 01:26:08] speaker**
+prontain,
+
+**[01:26:09 - 01:26:09] speaker**
+avec des images,
+
+**[01:26:10 - 01:26:10] speaker**
+là,
+
+**[01:26:10 - 01:26:10] speaker**
+j'ai fait ça,
+
+**[01:26:11 - 01:26:11] speaker**
+aussi avec une image
+
+**[01:26:11 - 01:26:11] speaker**
+j'ai pété 2,
+
+**[01:26:12 - 01:26:12] speaker**
+et là, je vous montre d'images,
+
+**[01:26:13 - 01:26:13] speaker**
+ça,
+
+**[01:26:14 - 01:26:14] speaker**
+c'est ce que j'ai fait,
+
+**[01:26:15 - 01:26:15] speaker**
+comme une image sur j'ai pété 2,
+
+**[01:26:17 - 01:26:17] speaker**
+il m'a j'ai pété 2,
+
+**[01:26:18 - 01:26:18] speaker**
+il m'a j'en a deux,
+
+**[01:26:19 - 01:26:19] speaker**
+ouais,
+
+**[01:26:20 - 01:26:20] speaker**
+voilà,
+
+**[01:26:21 - 01:26:21] speaker**
+et un résultat,
+
+**[01:26:22 - 01:26:22] speaker**
+il est là,
+
+**[01:26:22 - 01:26:22] speaker**
+c'est assez barge quand,
+
+**[01:26:24 - 01:26:24] speaker**
+franchement,
+
+**[01:26:26 - 01:26:26] speaker**
+moi, j'ai fait de la 3D,
+
+**[01:26:27 - 01:26:27] speaker**
+pendant 15 ans,
+
+**[01:26:28 - 01:26:28] speaker**
+franchement,
+
+**[01:26:29 - 01:26:29] speaker**
+c'est un peu sur le cul,
+
+**[01:26:30 - 01:26:30] speaker**
+là,
+
+**[01:26:31 - 01:26:31] speaker**
+il est un peu qui vont perdre la roue bouleau,
+
+**[01:26:33 - 01:26:33] speaker**
+c'est ça que je comprends,
+
+**[01:26:36 - 01:26:36] speaker**
+mais,
+
+**[01:26:36 - 01:26:36] speaker**
+ce qui est...
+
+**[01:26:37 - 01:26:37] speaker**
+Ah,
+
+**[01:26:37 - 01:26:37] speaker**
+c'est pas...
+
+**[01:26:38 - 01:26:38] speaker**
+Et je...
+
+**[01:26:39 - 01:26:39] speaker**
+Ah,
+
+**[01:26:40 - 01:26:40] speaker**
+bah, en fait,
+
+**[01:26:41 - 01:26:41] speaker**
+c'est fait pour ça,
+
+**[01:26:42 - 01:26:42] speaker**
+c'est parti,
+
+**[01:26:42 - 01:26:42] speaker**
+peut-être,
+
+**[01:26:43 - 01:26:43] speaker**
+ton pont,
+
+**[01:26:44 - 01:26:44] speaker**
+et puis tu peux l'envoyer sur
+
+**[01:26:45 - 01:26:45] speaker**
+un métier de crainte de vidéos,
+
+**[01:26:48 - 01:26:48] speaker**
+ou un vrai engene,
+
+**[01:26:49 - 01:26:49] speaker**
+qui a eu ça à ma tente,
+
+**[01:26:50 - 01:26:50] speaker**
+un pide,
+
+**[01:26:50 - 01:26:50] speaker**
+en fait,
+
+**[01:26:51 - 01:26:51] speaker**
+tu le vois en mode à le la barre,
+
+**[01:26:52 - 01:26:52] speaker**
+et le 7e pour rigue,
+
+**[01:26:54 - 01:26:54] speaker**
+c'est à dire,
+
+**[01:26:54 - 01:26:54] speaker**
+tu vas le paramétrer
+
+**[01:26:56 - 01:26:56] speaker**
+tout son scolette,
+
+**[01:26:58 - 01:26:58] speaker**
+et ensuite,
+
+**[01:26:58 - 01:26:58] speaker**
+tu balances dans ton moteur de jeu,
+
+**[01:27:00 - 01:27:00] speaker**
+pita un péngie,
+
+**[01:27:01 - 01:27:01] speaker**
+ou un personnage joueur,
+
+**[01:27:03 - 01:27:03] speaker**
+enfin,
+
+**[01:27:04 - 01:27:04] speaker**
+Ah, mais laisse tomber
+
+**[01:27:05 - 01:27:05] speaker**
+et c'est un petit peu...
+
+**[01:27:06 - 01:27:06] speaker**
+Tu veux refaire
+
+**[01:27:07 - 01:27:07] speaker**
+dans un dragon,
+
+**[01:27:08 - 01:27:08] speaker**
+person...
+
+**[01:27:09 - 01:27:09] speaker**
+Tu pète les bruits,
+
+**[01:27:11 - 01:27:11] speaker**
+voilà.
+
+**[01:27:12 - 01:27:12] speaker**
+Ce qui est là,
+
+**[01:27:12 - 01:27:12] speaker**
+il suffit maintenant de ta fait un peu,
+
+**[01:27:14 - 01:27:14] speaker**
+puis tu peux faire des trucs de fou.
+
+**[01:27:16 - 01:27:16] speaker**
+Et puis, c'est pas tout,
+
+**[01:27:16 - 01:27:16] speaker**
+parce que là,
+
+**[01:27:17 - 01:27:17] speaker**
+moi, je me suis dit,
+
+**[01:27:18 - 01:27:18] speaker**
+bah,
+
+**[01:27:19 - 01:27:19] speaker**
+avec mes élèves,
+
+**[01:27:19 - 01:27:19] speaker**
+on a fait ça,
+
+**[01:27:20 - 01:27:20] speaker**
+je dis,
+
+**[01:27:21 - 01:27:21] speaker**
+bah,
+
+**[01:27:21 - 01:27:21] speaker**
+t'en vas se marrer un peu.
+
+**[01:27:23 - 01:27:23] speaker**
+Et bah,
+
+**[01:27:23 - 01:27:23] speaker**
+on a...
+
+**[01:27:24 - 01:27:24] speaker**
+En fait,
+
+**[01:27:24 - 01:27:24] speaker**
+il y a une autre chose,
+
+**[01:27:25 - 01:27:25] speaker**
+là-dedans,
+
+**[01:27:26 - 01:27:26] speaker**
+c'est que tu peux pluguer ça,
+
+**[01:27:27 - 01:27:27] speaker**
+et d'ailleurs,
+
+**[01:27:27 - 01:27:27] speaker**
+c'est d'y disposer dans la pays.
+
+**[01:27:29 - 01:27:29] speaker**
+Tu peux le mettre en scène,
+
+**[01:27:30 - 01:27:30] speaker**
+et tu peux être en modèle 3D.
+
+**[01:27:32 - 01:27:32] speaker**
+Tu vas le mettre en scène.
+
+**[01:27:35 - 01:27:35] speaker**
+Tu peux utiliser
+
+**[01:27:36 - 01:27:36] speaker**
+un oubana,
+
+**[01:27:36 - 01:27:36] speaker**
+ou j'ai pété image.
+
+**[01:27:38 - 01:27:38] speaker**
+OK?
+
+**[01:27:40 - 01:27:40] speaker**
+Et en fait,
+
+**[01:27:40 - 01:27:40] speaker**
+donc là, tu m'en sens,
+
+**[01:27:41 - 01:27:41] speaker**
+tu t'appelais prendre,
+
+**[01:27:42 - 01:27:42] speaker**
+de ce que tu veux comme background,
+
+**[01:27:43 - 01:27:43] speaker**
+je voulais faire vite,
+
+**[01:27:44 - 01:27:44] speaker**
+pour pas prendre trop de camp.
+
+**[01:27:46 - 01:27:46] speaker**
+Tu génères,
+
+**[01:27:47 - 01:27:47] speaker**
+t'as...
+
+**[01:27:48 - 01:27:48] speaker**
+Voilà.
+
+**[01:27:49 - 01:27:49] speaker**
+Et ensuite,
+
+**[01:27:50 - 01:27:50] speaker**
+là où c'est trop, trop incroyable,
+
+**[01:27:53 - 01:27:53] speaker**
+c'est que eux,
+
+**[01:27:54 - 01:27:54] speaker**
+ils ont intérêt
+
+**[01:27:55 - 01:27:55] speaker**
+si d'un de deux,
+
+**[01:27:56 - 01:27:56] speaker**
+donc ce qui parlait avant...
+
+**[01:27:59 - 01:27:59] speaker**
+Et moi,
+
+**[01:27:59 - 01:27:59] speaker**
+j'ai...
+
+**[01:28:00 - 01:28:00] speaker**
+J'ai...
+
+**[01:28:00 - 01:28:00] speaker**
+Amusé à faire des vidéos
+
+**[01:28:01 - 01:28:01] speaker**
+avec mes objets 3D.
+
+**[01:28:03 - 01:28:03] speaker**
+Donc là, c'est une vidéo
+
+**[01:28:04 - 01:28:04] speaker**
+que j'ai réalisé
+
+**[01:28:06 - 01:28:06] speaker**
+à partir de l'astronote
+
+**[01:28:07 - 01:28:07] speaker**
+que vous avez eu en 3D,
+
+**[01:28:08 - 01:28:08] speaker**
+donc,
+
+**[01:28:08 - 01:28:08] speaker**
+que le contexte
+
+**[01:28:09 - 01:28:09] speaker**
+est complètement conservé.
+
+**[01:28:12 - 01:28:12] speaker**
+Je ne sais pas si l'on ne pense pas.
+
+**[01:28:14 - 01:28:14] speaker**
+Oui, on a le sang où on a pas.
+
+**[01:28:18 - 01:28:18] speaker**
+Eh, là-bas.
+
+**[01:28:19 - 01:28:19] speaker**
+C'est un mécopterliste.
+
+**[01:28:23 - 01:28:23] speaker**
+Oh, sans fous,
+
+**[01:28:23 - 01:28:23] speaker**
+c'est sur Maro,
+
+**[01:28:24 - 01:28:24] speaker**
+on te fait.
+
+**[01:28:27 - 01:28:27] speaker**
+Ok, et donc ça va simplement tu es un port de ton image
+
+**[01:28:30 - 01:28:30] speaker**
+et que tu balances un petit front anim,
+
+**[01:28:32 - 01:28:32] speaker**
+un animo à ça et puis là, c'est parti.
+
+**[01:28:33 - 01:28:33] speaker**
+Franchement, c'est pas plus ça.
+
+**[01:28:35 - 01:28:35] speaker**
+Et puis quand tu nous disais,
+
+**[01:28:37 - 01:28:37] speaker**
+si d'ense� la révolution de Ben,
+
+**[01:28:38 - 01:28:38] speaker**
+il a complètement raison,
+
+**[01:28:39 - 01:28:39] speaker**
+c'est un modèle...
+
+**[01:28:41 - 01:28:41] speaker**
+Là, on les voit,
+
+**[01:28:42 - 01:28:42] speaker**
+si d'ense�, si d'ense�,
+
+**[01:28:43 - 01:28:43] speaker**
+le véot 3-ing,
+
+**[01:28:45 - 01:28:45] speaker**
+avec dingue et très bien,
+
+**[01:28:45 - 01:28:45] speaker**
+si...
+
+**[01:28:46 - 01:28:46] speaker**
+Et beaucoup moins cher,
+
+**[01:28:47 - 01:28:47] speaker**
+parce que c'est à la coutine blan d'asse.
+
+**[01:28:50 - 01:28:50] speaker**
+C'est simple la plus grande.
+
+**[01:28:51 - 01:28:51] speaker**
+Alors on va pas y plein pour les tests.
+
+**[01:28:54 - 01:28:54] speaker**
+Et donc,
+
+**[01:28:54 - 01:28:54] speaker**
+on est ici,
+
+**[01:28:56 - 01:28:56] speaker**
+cet accouté 5 balles, c'est ça.
+
+**[01:28:59 - 01:28:59] speaker**
+Ta vidéo...
+
+**[01:29:00 - 01:29:00] speaker**
+Alors...
+
+**[01:29:01 - 01:29:01] speaker**
+La vidéo là,
+
+**[01:29:02 - 01:29:02] speaker**
+le coute en visérant,
+
+**[01:29:03 - 01:29:03] speaker**
+on ne reste pas comment quantitif.
+
+**[01:29:05 - 01:29:05] speaker**
+C'est difficile, c'est des tokens,
+
+**[01:29:06 - 01:29:06] speaker**
+mais on gros entre 3 et 5.
+
+**[01:29:09 - 01:29:09] speaker**
+Non, donc on est qu'à faire ça.
+
+**[01:29:11 - 01:29:11] speaker**
+Un café.
+
+**[01:29:12 - 01:29:12] speaker**
+Oui.
+
+**[01:29:12 - 01:29:12] speaker**
+Ok, à quel point est-elle?
+
+**[01:29:13 - 01:29:13] speaker**
+Et là, il y a mes élèves,
+
+**[01:29:15 - 01:29:15] speaker**
+il travaille sur une marque avec un crocodile.
+
+**[01:29:17 - 01:29:17] speaker**
+Donc, qui création de trucs
+
+**[01:29:20 - 01:29:20] speaker**
+et c'est juste un impact niveau au début,
+
+**[01:29:23 - 01:29:23] speaker**
+mais ça ne va pas plus corriger.
+
+**[01:29:24 - 01:29:24] speaker**
+Et puis on roue, il veut l'utiliser pour sa marque de vêtements,
+
+**[01:29:27 - 01:29:27] speaker**
+qui y a un crocodile spécial qui est gentil.
+
+**[01:29:30 - 01:29:30] speaker**
+C'est grave.
+
+**[01:29:31 - 01:29:31] speaker**
+C'est déjà été déposé,
+
+**[01:29:33 - 01:29:33] speaker**
+un crocodile pour une marque de frais.
+
+**[01:29:34 - 01:29:34] speaker**
+Et là,
+
+**[01:29:35 - 01:29:35] speaker**
+on a déjà corrévé le rac,
+
+**[01:29:36 - 01:29:36] speaker**
+quand j'ai essayé.
+
+**[01:29:38 - 01:29:38] speaker**
+Et puis là, il y a quelques,
+
+**[01:29:39 - 01:29:39] speaker**
+qui s'est débitis jouu.
+
+**[01:29:40 - 01:29:40] speaker**
+Et puis on a fait ça ensemble.
+
+**[01:29:42 - 01:29:42] speaker**
+Donc, la France en la qualité,
+
+**[01:29:44 - 01:29:44] speaker**
+moi je peux être un pont.
+
+**[01:29:45 - 01:29:45] speaker**
+Ce qui ont fait de la vidéo,
+
+**[01:29:46 - 01:29:46] speaker**
+qui s'arrant un peu,
+
+**[01:29:47 - 01:29:47] speaker**
+qu'on a sa coutte,
+
+**[01:29:48 - 01:29:48] speaker**
+ce genre de trucs.
+
+**[01:29:49 - 01:29:49] speaker**
+C'est un autre chose.
+
+**[01:29:51 - 01:29:51] speaker**
+Ça, ça coutte.
+
+**[01:29:51 - 01:29:51] speaker**
+En fait, sur cet après,
+
+**[01:29:53 - 01:29:53] speaker**
+un abonnement, la joie t'as 1.375 crédits.
+
+**[01:29:57 - 01:29:57] speaker**
+Oui.
+
+**[01:29:58 - 01:29:58] speaker**
+Oui.
+
+**[01:29:58 - 01:29:58] speaker**
+Avec ça,
+
+**[01:29:59 - 01:29:59] speaker**
+tu peux appartir au plus créer un modèle
+
+**[01:30:01 - 01:30:01] speaker**
+ou 3D.
+
+**[01:30:02 - 01:30:02] speaker**
+Et en plus,
+
+**[01:30:03 - 01:30:03] speaker**
+ça, à partir de ce modèle 3D,
+
+**[01:30:05 - 01:30:05] speaker**
+tu peux leger.
+
+**[01:30:06 - 01:30:06] speaker**
+L'injecté est dans
+
+**[01:30:07 - 01:30:07] speaker**
+6 dans ce de trois euros.
+
+**[01:30:08 - 01:30:08] speaker**
+Et là, ça te crée carrément,
+
+**[01:30:09 - 01:30:09] speaker**
+il vit des oeuvres.
+
+**[01:30:10 - 01:30:10] speaker**
+Comme ça, la boucle est boucée.
+
+**[01:30:12 - 01:30:12] speaker**
+Et ça,
+
+**[01:30:13 - 01:30:13] speaker**
+ça,
+
+**[01:30:13 - 01:30:13] speaker**
+vraiment.
+
+**[01:30:14 - 01:30:14] speaker**
+Et en plus,
+
+**[01:30:15 - 01:30:15] speaker**
+le fichier,
+
+**[01:30:15 - 01:30:15] speaker**
+il est prêt à être imprimé par les machines,
+
+**[01:30:18 - 01:30:18] speaker**
+les appris en 3D.
+
+**[01:30:19 - 01:30:19] speaker**
+C'est ça.
+
+**[01:30:20 - 01:30:20] speaker**
+Exactement.
+
+**[01:30:21 - 01:30:21] speaker**
+Mais tu peux garder
+
+**[01:30:22 - 01:30:22] speaker**
+les conserver aussi ton personnage.
+
+**[01:30:25 - 01:30:25] speaker**
+Tu as tu créé ton perso.
+
+**[01:30:27 - 01:30:27] speaker**
+Et du coup,
+
+**[01:30:27 - 01:30:27] speaker**
+tu es bon tout les angles.
+
+**[01:30:29 - 01:30:29] speaker**
+Peu importe-y,
+
+**[01:30:29 - 01:30:29] speaker**
+on va au bargou chabrote.
+
+**[01:30:31 - 01:30:31] speaker**
+Tout sera cohérent pour la vidéo, tu vois.
+
+**[01:30:34 - 01:30:34] speaker**
+Et le jeu est compréhensible.
+
+**[01:30:36 - 01:30:36] speaker**
+Alors,
+
+**[01:30:37 - 01:30:37] speaker**
+attend, j'ai un gigide.
+
+**[01:30:38 - 01:30:38] speaker**
+Je vais s'habler, je vais m'arranger.
+
+**[01:30:40 - 01:30:40] speaker**
+Et tu sais, j'ai une hiènes.
+
+**[01:30:44 - 01:30:44] speaker**
+Donc là,
+
+**[01:30:44 - 01:30:44] speaker**
+je vais s'imarrer à faire ça.
+
+**[01:30:46 - 01:30:46] speaker**
+Et après, je te explique pourquoi ça indère.
+
+**[01:30:48 - 01:30:48] speaker**
+Et que, au peu près de toi.
+
+**[01:30:49 - 01:30:49] speaker**
+Ça, tu coutes.
+
+**[01:30:50 - 01:30:50] speaker**
+Tu peux faire des vidéos avec des tèmes,
+
+**[01:30:53 - 01:30:53] speaker**
+des expliquatives,
+
+**[01:30:54 - 01:30:54] speaker**
+façon,
+
+**[01:30:55 - 01:30:55] speaker**
+à podcast de vidéos,
+
+**[01:30:57 - 01:30:57] speaker**
+comme un autre bouquet-l'aime.
+
+**[01:31:00 - 01:31:00] speaker**
+Alors,
+
+**[01:31:00 - 01:31:00] speaker**
+tu fais ce que tu veux.
+
+**[01:31:01 - 01:31:01] speaker**
+On va, là, je me suis amusée à faire un petit perso.
+
+**[01:31:04 - 01:31:04] speaker**
+C'est un peu ce qu'il y a.
+
+**[01:31:05 - 01:31:05] speaker**
+On te rejouerait pour c'est une démontre.
+
+**[01:31:07 - 01:31:07] speaker**
+Ça, un peu ce qu'il y a une démontre.
+
+**[01:31:09 - 01:31:09] speaker**
+Mais ce qui est incroyable,
+
+**[01:31:10 - 01:31:10] speaker**
+c'est que là-dedans,
+
+**[01:31:11 - 01:31:11] speaker**
+il y a un petit truc,
+
+**[01:31:11 - 01:31:11] speaker**
+qui s'appelle la pays.
+
+**[01:31:12 - 01:31:12] speaker**
+Ça va se que c'est une appaisy.
+
+**[01:31:14 - 01:31:14] speaker**
+Oui.
+
+**[01:31:14 - 01:31:14] speaker**
+Et donc,
+
+**[01:31:15 - 01:31:15] speaker**
+on peut m'accourder.
+
+**[01:31:16 - 01:31:16] speaker**
+On va t'arriver à ça.
+
+**[01:31:18 - 01:31:18] speaker**
+Et justement,
+
+**[01:31:19 - 01:31:19] speaker**
+moi, j'ai fait, j'ai une client pays.
+
+**[01:31:22 - 01:31:22] speaker**
+C'est balancez sur un panne-plot.
+
+**[01:31:23 - 01:31:23] speaker**
+Et du coup,
+
+**[01:31:24 - 01:31:24] speaker**
+cette vidéo vous a eu là,
+
+**[01:31:26 - 01:31:26] speaker**
+elle est 100% créé par un panne-plot.
+
+**[01:31:32 - 01:31:32] speaker**
+Là, vous ne suivez-la,
+
+**[01:31:33 - 01:31:33] speaker**
+vous?
+
+**[01:31:33 - 01:31:33] speaker**
+Je suis vraiment...
+
+**[01:31:34 - 01:31:34] speaker**
+Je vois bien, je...
+
+**[01:31:35 - 01:31:35] speaker**
+C'est...
+
+**[01:31:36 - 01:31:36] speaker**
+C'est un coup du coup.
+
+**[01:31:37 - 01:31:37] speaker**
+Du coup, tu peux créer de la vidéo
+
+**[01:31:39 - 01:31:39] speaker**
+à la demande.
+
+**[01:31:40 - 01:31:40] speaker**
+Et du coup, tu peux créer des,
+
+**[01:31:41 - 01:31:41] speaker**
+moi, j'ai utilisé ça pour faire un truc sur mon...
+
+**[01:31:44 - 01:31:44] speaker**
+sur mon...
+
+**[01:31:45 - 01:31:45] speaker**
+LinkedIn pour faire de même,
+
+**[01:31:47 - 01:31:47] speaker**
+voilà, tu...
+
+**[01:31:47 - 01:31:47] speaker**
+Je ne peux faire des trucs...
+
+**[01:31:50 - 01:31:50] speaker**
+Moi, je fais ça pour tester,
+
+**[01:31:52 - 01:31:52] speaker**
+mais en fait,
+
+**[01:31:52 - 01:31:52] speaker**
+t'as 1000,000 possibilités.
+
+**[01:31:54 - 01:31:54] speaker**
+Tu fais de la vente de produits.
+
+**[01:31:55 - 01:31:55] speaker**
+Tu peux te faire des trucs sur super-intervention.
+
+**[01:31:58 - 01:31:58] speaker**
+Ah, bien sûr.
+
+**[01:32:00 - 01:32:00] speaker**
+Donc,
+
+**[01:32:01 - 01:32:01] speaker**
+voilà, juste, c'est...
+
+**[01:32:03 - 01:32:03] speaker**
+Et puis...
+
+**[01:32:04 - 01:32:04] speaker**
+Une question, si je peux me permettre,
+
+**[01:32:07 - 01:32:07] speaker**
+à Mika,
+
+**[01:32:09 - 01:32:09] speaker**
+à Nia, avec ça,
+
+**[01:32:10 - 01:32:10] speaker**
+c'est que les modèles 3D,
+
+**[01:32:12 - 01:32:12] speaker**
+est-ce que tu peux créer une montre?
+
+**[01:32:14 - 01:32:14] speaker**
+Et puis, un premier,
+
+**[01:32:15 - 01:32:15] speaker**
+on te travaille tous les composantes,
+
+**[01:32:17 - 01:32:17] speaker**
+tous les mouvements.
+
+**[01:32:19 - 01:32:19] speaker**
+Oh, culture, bien sûr.
+
+**[01:32:21 - 01:32:21] speaker**
+Ouais, mais je...
+
+**[01:32:22 - 01:32:22] speaker**
+Je ne veux pas être plus...
+
+**[01:32:24 - 01:32:24] speaker**
+Je suis gamma.
+
+**[01:32:25 - 01:32:25] speaker**
+En fait, les tourbillons,
+
+**[01:32:26 - 01:32:26] speaker**
+etc.
+
+**[01:32:27 - 01:32:27] speaker**
+de New Year,
+
+**[01:32:28 - 01:32:28] speaker**
+sans vingt-genre de chose.
+
+**[01:32:29 - 01:32:29] speaker**
+Mais quand j'aimerais être aimant trop trop.
+
+**[01:32:32 - 01:32:32] speaker**
+Et ce que c'est...
+
+**[01:32:33 - 01:32:33] speaker**
+Est-ce que c'est à ton avis,
+
+**[01:32:34 - 01:32:34] speaker**
+c'est faisable?
+
+**[01:32:36 - 01:32:36] speaker**
+Ouais, mais le problème...
+
+**[01:32:37 - 01:32:37] speaker**
+Ouais.
+
+**[01:32:38 - 01:32:38] speaker**
+Ça va jamais être la même qualité quoi.
+
+**[01:32:41 - 01:32:41] speaker**
+C'est moi, une relève,
+
+**[01:32:42 - 01:32:42] speaker**
+c'était, on va faire vraiment le pronte
+
+**[01:32:44 - 01:32:44] speaker**
+qu'il faut jamais faire.
+
+**[01:32:45 - 01:32:45] speaker**
+Et puis, je ne le disais pas.
+
+**[01:32:47 - 01:32:47] speaker**
+Ah, mais c'est...
+
+**[01:32:48 - 01:32:48] speaker**
+C'est-à-dire, c'est pas une montre tourbillon
+
+**[01:32:51 - 01:32:51] speaker**
+avec quelques moments de maman.
+
+**[01:32:52 - 01:32:52] speaker**
+Ouais, mais déjà, on va voir.
+
+**[01:32:54 - 01:32:54] speaker**
+Attends, on va voir.
+
+**[01:32:55 - 01:32:55] speaker**
+Ouais, tu vas comprendre pourquoi,
+
+**[01:32:56 - 01:32:56] speaker**
+c'est comme me prendre encore là,
+
+**[01:32:58 - 01:32:58] speaker**
+mais on va y arriver gentiment.
+
+**[01:33:00 - 01:33:00] speaker**
+C'est qu'après tu peux aussi,
+
+**[01:33:02 - 01:33:02] speaker**
+parce que en impression 3D,
+
+**[01:33:03 - 01:33:03] speaker**
 tu vas avoir des pertes de qualité importants aussi.
 
-**[01:33:07 - 01:33:10] _redsun**  
-Et puis lui, va générer un mec qui est très bien franchement,
+**[01:33:06 - 01:33:06] speaker**
+Donc,
 
-**[01:33:14 - 01:33:17] pollux8888**  
-En Asine, bon, je suis en fan de montrer.
+**[01:33:06 - 01:33:06] speaker**
+et puis, il va générer un mesh,
 
-**[01:33:17 - 01:33:20] pollux8888**  
-Je ne sais pas un collectionnaire, mais je suis en fan de montrer.
+**[01:33:08 - 01:33:08] speaker**
+qui est très bien en fond de qui est...
 
-**[01:33:20 - 01:33:25] pollux8888**  
-Et j'en regarde beaucoup en fait les mantees qui sont maillons et les chinois, qui sont vraiment
+**[01:33:10 - 01:33:10] speaker**
+Et là, la raison, elle est très simple.
 
-**[01:33:25 - 01:33:32] pollux8888**  
-Je l'ai dit qu'il y en a des marques, qu'ils sont pas occidentaux,
+**[01:33:13 - 01:33:13] speaker**
+C'est qu'en Asine,
 
-**[01:33:32 - 01:33:35] pollux8888**  
-mais ni en moins qu'ils sont comme de bonne qualité.
+**[01:33:15 - 01:33:15] speaker**
+bon, je suis un fan de m'entra.
 
-**[01:33:38 - 01:33:40] pollux8888**  
-mais tiens, comment est-ce qu'il faut en pouvoir arriver à ça ?
+**[01:33:17 - 01:33:17] speaker**
+Je suis pas un collectionnaire,
 
-**[01:33:40 - 01:33:42] pollux8888**  
-Peut-être que ce soit des monde qui marche,
+**[01:33:18 - 01:33:18] speaker**
+mais je suis un fan de m'entra.
 
-**[01:33:50 - 01:33:54] pollux8888**  
-mais est-ce que avec ça, maintenant, c'est aller en un peu face pour ordre,
+**[01:33:20 - 01:33:20] speaker**
+Et j'en regarde beaucoup en fait les mantes,
 
-**[01:33:54 - 01:34:08] pollux8888**  
-C'est S avec ça en un mateur pour rien, j'oconnais les mouvements de base et puis j'aimerais que train de monde, parce que ça soit en pourra ou à preuve.
+**[01:33:22 - 01:33:22] speaker**
+qui sont maïdine china,
 
-**[01:34:05 - 01:34:10] gilles_35307**  
-On te donne rendez-vous dans une semaine et tu l'as dit.
+**[01:33:24 - 01:33:24] speaker**
+qui sont vraiment joli, qui ont des...
 
-**[01:34:07 - 01:34:25] _redsun**  
-C'est pas vous intéresse, là en ce moment c'est un de la bonne main.
+**[01:33:26 - 01:33:26] speaker**
+On a des marques, qui ont des noms,
 
-**[01:34:10 - 01:34:17] gilles_35307**  
-Ça va être courté, ça compte de l'art d'appui, mais ça ne coûte pas toujours moins cher.
+**[01:33:28 - 01:33:28] speaker**
+des noms, qui sont pas occidentaux,
 
-**[01:34:17 - 01:34:20] gilles_35307**  
-Il montre, et puis, effectivement, c'est...
+**[01:33:33 - 01:33:33] speaker**
+mais ni en moins, qui sont comme de bonne qualité.
 
-**[01:34:25 - 01:34:30] _redsun**  
-Si vous voulez tester pour vous marrer, ce n'est pas du tout une vision,
+**[01:33:36 - 01:33:36] speaker**
+Et puis, je me sais,
 
-**[01:34:30 - 01:34:35] _redsun**  
-je fais au le partage et comme ça parce que là en ce moment il y a les trois ans
+**[01:33:38 - 01:33:38] speaker**
+mais tiens,
 
-**[01:34:35 - 01:34:40] _redsun**  
-et ça coûte un dollar mais je ne sais pas du tout où j'ai testé ou quoi mais c'est ceux qui
+**[01:33:38 - 01:33:38] speaker**
+comment est-ce qu'il faut pour arriver à ça,
 
-**[01:34:40 - 01:34:46] _redsun**  
-s'intéressent et là on va pouvoir regarder ton résultat de maître et tu vas comprendre
+**[01:33:40 - 01:33:40] speaker**
+peut-être en plus que ce sont des mantes qui marchent,
 
-**[01:34:45 - 01:34:51] gilles_35307**  
-Du coup, c'est fluid pour faire de l'apparition sur l'incudin, etc.
+**[01:33:42 - 01:33:42] speaker**
+qui ont des mouvements?
 
-**[01:34:51 - 01:34:54] gilles_35307**  
-pour faire du... Je vais vu, je crois, je vais vous t'en film sur un codez.
+**[01:33:44 - 01:33:44] speaker**
+Et ça, ils ont raché les vieillis machines de production.
 
-**[01:34:54 - 01:34:56] pollux8888**  
-Moi, moi, je l'ai vu, c'est vrai que...
+**[01:33:47 - 01:33:47] speaker**
+Ils ont envoyé du style là-bas.
 
-**[01:34:55 - 01:35:00] gilles_35307**  
-C'est facile, ça prend, c'est pas leourd leur vidéo, c'est...
+**[01:33:49 - 01:33:49] speaker**
+Ouais, même maintenant, je me dit,
 
-**[01:35:00 - 01:35:07] _redsun**  
-C'est qu'un second, c'est très légère, c'est du MP4, c'est généré après un employeur,
+**[01:33:50 - 01:33:50] speaker**
+mais est-ce que avec ça, maintenant,
 
-**[01:35:07 - 01:35:12] _redsun**  
-on regarde spécial, tu vas l'invent, tu demandais exécuter les écoutes terminés.
+**[01:33:51 - 01:33:51] speaker**
+c'est à aller en un peu face pour avoir,
 
-**[01:35:12 - 01:35:18] _redsun**  
-C'est juste que je trouve ça cool de pouvoir en retécommer un jouté une corde à l'art qui peut
+**[01:33:54 - 01:33:54] speaker**
+c'est est-ce qu'avec ça en un matore,
 
-**[01:35:18 - 01:35:22] _redsun**  
-ne clôt, à qui peut faire des sites clubs, ça y peut le faire, ça y peut faire des documents,
+**[01:33:57 - 01:33:57] speaker**
+pour être, j'oconnais les mouvements de base,
 
-**[01:35:21 - 01:35:26] gilles_35307**  
-C'est ça la magie de Pongklu, c'est quand même plus long grave, plus on se perd sur que le potentiel
+**[01:34:02 - 01:34:02] speaker**
+et puis, j'aimerais que train de mante,
 
-**[01:35:24 - 01:35:37] _redsun**  
-D'ailleurs, ce document-là que vous voyez là, qui nous dit qu'on a repère mon
+**[01:34:04 - 01:34:04] speaker**
+parce que ça soit en pourra ou...
 
-**[01:35:27 - 01:35:31] gilles_35307**  
-Alors, à l'un Star des agendiers, de verson de l'air.
+**[01:34:06 - 01:34:06] speaker**
+Ouais.
 
-**[01:35:37 - 01:35:43] _redsun**  
-serve, exactement, c'est tout généréable, je me plonge le plan.
+**[01:34:07 - 01:34:07] speaker**
+Ouais.
 
-**[01:35:43 - 01:35:45] _redsun**  
-Tout ça, c'est généré par un peu de clon.
+**[01:34:07 - 01:34:07] speaker**
+On te donne rendez-vous dans une semaine et tu l'as eu,
 
-**[01:35:45 - 01:35:49] _redsun**  
-Et puis là, après, à la fin de la session, voilà, vous avez les participants d'ailleurs
+**[01:34:11 - 01:34:11] speaker**
+ça, ça, ça, ça, ça, ça.
 
-**[01:35:49 - 01:35:52] _redsun**  
-qui ont été là-dedans, vous serez qui sont...
+**[01:34:13 - 01:34:13] speaker**
+Je ne l'ai pas de côté, ça comme de l'art d'appui,
 
-**[01:35:52 - 01:35:57] _redsun**  
-Et le transcript est fait via notre améliorce,
+**[01:34:15 - 01:34:15] speaker**
+mais ça ne coûtera toujours moins cher.
 
-**[01:35:57 - 01:35:59] _redsun**  
-qui s'appelle le jupelur comme un sable.
+**[01:34:17 - 01:34:17] speaker**
+Il montre et puis, j'ai dit, bon, c'est...
 
-**[01:36:03 - 01:36:05] _redsun**  
-Et en fait, il a un train d'écouter tout ce qu'on dit.
+**[01:34:19 - 01:34:19] speaker**
+Alors, si pas vous l'intéresse,
 
-**[01:36:05 - 01:36:09] _redsun**  
-Et ensuite, je ferai un transcript de tout ça.
+**[01:34:21 - 01:34:21] speaker**
+là, on se va m'encer un dollar,
 
-**[01:36:09 - 01:36:12] _redsun**  
-Et vous allez voir, l'élogici elle qu'on a été utilisé,
+**[01:34:23 - 01:34:23] speaker**
+là bon, bon, monsieur.
 
-**[01:36:12 - 01:36:14] _redsun**  
-et tout est tout lui qui va se démarre d'alcool.
+**[01:34:25 - 01:34:25] speaker**
+Tu voulais tester pour vous marrer,
 
-**[01:36:15 - 01:36:25] _redsun**  
-Alors après, je ne vais pas penser à ça.
+**[01:34:28 - 01:34:28] speaker**
+c'est pas une obligation.
 
-**[01:36:25 - 01:36:27] _redsun**  
-Je ne voulais pas que je vous mets de vos noms.
+**[01:34:30 - 01:34:30] speaker**
+Ouais.
 
-**[01:36:27 - 01:36:29] _redsun**  
-Vous ne vous me dire pas, ça ne vous vait pas.
+**[01:34:31 - 01:34:31] speaker**
+Ben, je fais vous le partager comme ça.
 
-**[01:36:29 - 01:36:32] _redsun**  
-Mais c'est pas mal quand on des savoir qu'il fait quoi.
+**[01:34:33 - 01:34:33] speaker**
+Parce que là, en ce moment, il y a les trois ans,
 
-**[01:36:32 - 01:36:38] _redsun**  
-Bah justement pour savoir, là, je sais que c'est brillou, celui ça a un spécialiste dans la vidéo.
+**[01:34:35 - 01:34:35] speaker**
+et ça coûte un dollar,
 
-**[01:36:38 - 01:36:42] _redsun**  
-Donc si j'ai une question vidéo que j'ai un client qui a besoin de faire un truc vidéo,
+**[01:34:37 - 01:34:37] speaker**
+mais je ne sais pas du tout,
 
-**[01:36:42 - 01:36:47] _redsun**  
-peut-être l'orienter sur la bruit, c'est ça, c'est ça.
+**[01:34:38 - 01:34:38] speaker**
+ou j'ai testé, c'est ce qui s'intéresse.
 
-**[01:36:49 - 01:36:53] _redsun**  
-Puis dans la résumée de ce qu'on a dit dans un fort aussi, donc comme ça,
+**[01:34:41 - 01:34:41] speaker**
+Et là, on va pouvoir regarder ton résultat de mettre.
 
-**[01:36:54 - 01:36:59] _redsun**  
-ça permet de garder une trace, mais je sais vrai que la prévencie,
+**[01:34:45 - 01:34:45] speaker**
+Et du coup, c'est fluide pour faire de la parution
 
-**[01:37:00 - 01:37:03] _redsun**  
-si tu ne pas que je te cite tout, quoi,
+**[01:34:48 - 01:34:48] speaker**
+sur l'incudine, etc.
 
-**[01:37:05 - 01:37:09] pollux8888**  
-On prend ici. On prend ici. On prend ici. On fait le compte de délement. On partit ici.
+**[01:34:51 - 01:34:51] speaker**
+Pour faire du...
 
-**[01:37:12 - 01:37:15] _redsun**  
-C'est ça, c'est ce que je me suis dit, quoi.
+**[01:34:52 - 01:34:52] speaker**
+Je vais vivre, je crois, j'ai vu ton film sur l'incudine.
 
-**[01:37:15 - 01:37:20] _redsun**  
-Donc, voilà, c'est un newscase de Pado-Clo, qui est sympa.
+**[01:34:54 - 01:34:54] speaker**
+Ouais, je l'ai vu, c'est vrai, c'est vrai que...
 
-**[01:37:27 - 01:37:29] _redsun**  
-Bon, en fait, j'ai fait une texture.
+**[01:34:55 - 01:34:55] speaker**
+C'est facile, c'est pas...
 
-**[01:37:29 - 01:37:32] _redsun**  
-Ah, tu vas pleurer, hein, on avait.
+**[01:34:57 - 01:34:57] speaker**
+Ça, c'est pas...
 
-**[01:37:32 - 01:37:35] _redsun**  
-Donc, il manque, je ne veux pas pourquoi,
+**[01:34:58 - 01:34:58] speaker**
+Non, c'est pas leourd, leur vidéo, c'est...
 
-**[01:37:35 - 01:37:37] _redsun**  
-et on va y avoir une partie de la scope
+**[01:35:00 - 01:35:00] speaker**
+Bon, ça se passe.
 
-**[01:37:42 - 01:37:47] _redsun**  
-Vativa, déjà le mesh, c'est de regarder un chvason
+**[01:35:01 - 01:35:01] speaker**
+C'est qu'un second, de cette réligé, c'est du MP4.
 
-**[01:37:48 - 01:37:50] _redsun**  
-On ne peut pas le voir, on voit là, ok
+**[01:35:05 - 01:35:05] speaker**
+C'est généré, après, en plan.
 
-**[01:37:51 - 01:38:06] gilles_35307**  
-pour une seule chose pour une semaine.
+**[01:35:06 - 01:35:06] speaker**
+On va regarder...
 
-**[01:37:53 - 01:37:56] _redsun**  
-Alors attention, on veut la texture, ça va
+**[01:35:07 - 01:35:07] speaker**
+Oui, c'est à l'heure.
 
-**[01:37:57 - 01:38:00] _redsun**  
-C'est un série Guru, mais tu ne vas pas travailler avec
+**[01:35:08 - 01:35:08] speaker**
+OK.
 
-**[01:38:00 - 01:38:15] _redsun**  
-pour qu'il y a un seconde voiture, c'est pour voir faire une demo à Protô ou à un truc ou une idée
+**[01:35:09 - 01:35:09] speaker**
+Je vais aller demander,
 
-**[01:38:15 - 01:38:21] _redsun**  
-tu vois, fidier ton idée, la faire tourner en 3D, c'est de conséptualiser en fait pas monté assez
+**[01:35:10 - 01:35:10] speaker**
+on les écouter, les écoutes, terminons.
 
-**[01:38:28 - 01:38:36] bensmart**  
-parce que ça, de faire tourner à modèle en 3D dans les entreprises dans l'enjeur, ça
+**[01:35:12 - 01:35:12] speaker**
+C'est juste que je trouve ça cool de pouvoir en mettre,
 
-**[01:38:36 - 01:38:40] bensmart**  
-c'est des années de formation, on s'est là, on a fait un bromp.
+**[01:35:16 - 01:35:16] speaker**
+c'est comme un rajouté une cordale arc,
 
-**[01:38:40 - 01:38:49] bensmart**  
-Tous les gens ont envoyé des plateformes, des logiciels et des modèles qui nous font
+**[01:35:17 - 01:35:17] speaker**
+de penclos,
 
-**[01:38:49 - 01:38:54] bensmart**  
-parce que la période de travail c'est durée là.
+**[01:35:18 - 01:35:18] speaker**
+qui va se faire des sites quoi pour ça,
 
-**[01:38:54 - 01:39:00] bensmart**  
-Mais d'année de formation à faire preiner c'est dans de l'agitiel.
+**[01:35:20 - 01:35:20] speaker**
+il va le faire, enfin.
 
-**[01:38:58 - 01:39:27] _redsun**  
-J'ai juste ma misère de faire tourner, mais c'est pour l'exemple parce qu'elle n'a pas très
+**[01:35:21 - 01:35:21] speaker**
+Peu faire des documents, on s'aille peut-être faire.
 
-**[01:39:00 - 01:39:04] lelio1213**  
-Je ne sais pas si il y a un peu de duplication rapidement.
+**[01:35:23 - 01:35:23] speaker**
+C'est ça la magie de penclos,
 
-**[01:39:04 - 01:39:08] lelio1213**  
-Le mieux c'est d'abord de poser la question aux heures sur répétés ou pour qu'elle
+**[01:35:24 - 01:35:24] speaker**
+c'est que ça peut-être plus on grape,
 
-**[01:39:08 - 01:39:12] lelio1213**  
-elle est même, juste pour avoir une compte de qualité vraiment complexe d'étagé.
+**[01:35:25 - 01:35:25] speaker**
+on se perce que je potent s'il y ait des du moment à ce point.
 
-**[01:39:12 - 01:39:15] lelio1213**  
-Et ensuite je mets cette point directement dans le luchel-mart.
+**[01:35:27 - 01:35:27] speaker**
+Oui.
 
-**[01:39:27 - 01:39:32] _redsun**  
-j'ai l'imais juste pour essayer de s'imaginer les jusqu'à ce cas.
+**[01:35:28 - 01:35:28] speaker**
+Voilà, à l'un start des agenies, hein.
 
-**[01:39:32 - 01:39:36] _redsun**  
-Parce que ça part compte, je peux vous dire un truc, moi ce qui m'intéresse à la création
+**[01:35:31 - 01:35:31] speaker**
+D'ailleurs,
 
-**[01:39:36 - 01:39:40] _redsun**  
-de contenu pour les réseaux sociaux, ça soit pour vos personnels, brentings, pour vous montrer
+**[01:35:32 - 01:35:32] speaker**
+ce document-là que vous voyez là,
 
-**[01:39:40 - 01:39:44] _redsun**  
-ce que vous savez faire, vous simplement pour générer du clic, pour que les gens
+**[01:35:34 - 01:35:34] speaker**
+qui nous dit qu'on a repère mon serait...
 
-**[01:39:44 - 01:39:46] _redsun**  
-disent, c'est que vous voulez tout.
+**[01:35:38 - 01:35:38] speaker**
+Et ben, je n'ai pas...
 
-**[01:39:46 - 01:39:50] _redsun**  
-La France-Pantie peut faire des trucs super cool pour ça, en tout cas je trouve ça
+**[01:35:39 - 01:35:39] speaker**
+Exactement, c'est tout généré,
 
-**[01:39:50 - 01:39:55] _redsun**  
-parce que voilà, si tu fais un truc je lis qui dénonvie,
+**[01:35:42 - 01:35:42] speaker**
+moi je me plonge.
 
-**[01:39:57 - 01:40:02] _redsun**  
-et bah, t'as reforsement un taux de clique de vue qui sera vachement plus élevé,
+**[01:35:43 - 01:35:43] speaker**
+Tout ça, c'est généré par un peu de clôt.
 
-**[01:40:02 - 01:40:05] _redsun**  
-en faisant une petite vidéo en trois secondes avec mes chinois,
+**[01:35:45 - 01:35:45] speaker**
+Et puis là, après, à la fin de la session,
 
-**[01:40:06 - 01:40:09] _redsun**  
-Bah si la grivette nous a avoir des jeux littroups,
+**[01:35:47 - 01:35:47] speaker**
+voilà, vous avez les participants d'ailleurs,
 
-**[01:40:10 - 01:40:14] _redsun**  
-parce que là, c'est ça reste quand même chère,
+**[01:35:49 - 01:35:49] speaker**
+qui étaient là-dedans, enfin, vous s'en réckisons.
 
-**[01:40:14 - 01:40:16] _redsun**  
-mais à quoi ne t'es pas obligé d'utiliser si d'être sou.
+**[01:35:52 - 01:35:52] speaker**
+Et le transcript est fait via notre amie l'ource,
 
-**[01:40:16 - 01:40:18] _redsun**  
-Là, je peux récupérer la photo qu'on a fait,
+**[01:35:57 - 01:35:57] speaker**
+qui s'appelle le jupelux, comme on est sa belle.
 
-**[01:40:18 - 01:40:20] _redsun**  
-donc là, il a fini à juste un fond blanc propre,
+**[01:35:59 - 01:35:59] speaker**
+C'est une crague qui est là, qui nous écoute.
 
-**[01:40:20 - 01:40:27] _redsun**  
-je veux dire, tu peux me faire un éclater de mon trou, je sais pas,
+**[01:36:03 - 01:36:03] speaker**
+Et en fait, il est un train d'écouter tout ce qu'on dit.
 
-**[01:40:27 - 01:40:36] _redsun**  
-asine en port que vous allez, je veux ça, la rache, de faire un éclater de mon, de mouvement
+**[01:36:06 - 01:36:06] speaker**
+Et ensuite, je suis un transcript de tout ça.
 
-**[01:40:30 - 01:40:39] bensmart**  
-de mouvement, de mouvement, de mouvement, c'est plus de premier.
+**[01:36:09 - 01:36:09] speaker**
+Et vous allez voir, les logiciels qu'on a été utilisés,
 
-**[01:40:36 - 01:40:46] _redsun**  
-ou de mon trou, il va comprendre, tu crois, ok, moi je vais faire 10 secondes
+**[01:36:12 - 01:36:12] speaker**
+tout et c'est tout lui qui va se démarre d'Alexa, en j'y a rien.
 
-**[01:40:39 - 01:40:55] bensmart**  
-Par rapport à l'autre, parce que faire un écla té de mouvement entre
+**[01:36:18 - 01:36:18] speaker**
+Bonjour, la prête va s'y.
 
-**[01:40:46 - 01:40:52] _redsun**  
-plus je le jenais alors aucune avée parce que t'as un peu con et faut faire
+**[01:36:21 - 01:36:21] speaker**
+Alors après,
 
-**[01:40:55 - 01:41:00] bensmart**  
-ça toutes les marques les maisons à la hauteur il ne font
+**[01:36:23 - 01:36:23] speaker**
+c'est vrai que je n'ai pas pensé à ta...
 
-**[01:41:00 - 01:41:07] bensmart**  
-et ça coûte moins juste mon expérience il y a 15 ans
+**[01:36:25 - 01:36:25] speaker**
+Je ne l'ai pas que je vous mets de bon nom,
 
-**[01:41:07 - 01:41:11] bensmart**  
-j'ai mis une en plus c'est qu'elle maison
+**[01:36:27 - 01:36:27] speaker**
+vous ne vous me dire pas,
 
-**[01:41:11 - 01:41:17] bensmart**  
-l'orbuget était de 2-5-4 francises pour une vidéo de 20 fonds
+**[01:36:29 - 01:36:29] speaker**
+mais c'est pas mal, quand on se savoir
 
-**[01:41:16 - 01:41:27] _redsun**  
-Et ce que tu peux faire là aussi, c'est tout simplement prendre le vrai modèle 3D de la marque,
+**[01:36:30 - 01:36:30] speaker**
+il fait quoi,
 
-**[01:41:17 - 01:41:22] bensmart**  
-ça c'était l'orbuget il y a 15 ans encore
+**[01:36:32 - 01:36:32] speaker**
+justement pour savoir,
 
-**[01:41:27 - 01:41:35] _redsun**  
-et puis faire ça directement. Là, ça marche très très bien parce que les pièces sont bien définies par le modèle,
+**[01:36:34 - 01:36:34] speaker**
+là, je sais que c'est brillou, celui-là,
 
-**[01:41:35 - 01:41:39] _redsun**  
-et du coup il pourra comprendre la structure de la montre complètement.
+**[01:36:35 - 01:36:35] speaker**
+c'est un spécialiste dans la vidéo.
 
-**[01:41:39 - 01:41:52] _redsun**  
-Mais bon, on va voir là, à sa tourne, on live là je vous prend là, donc ça peut donner un truc dégueulasse, je ne sais pas du tout ce qui ça va faire.
+**[01:36:38 - 01:36:38] speaker**
+Donc, si j'ai une question vidéo,
 
-**[01:41:52 - 01:41:57] _redsun**  
-C'est juste que j'ai pris Cdn2 en 10 secondes, à genre du phalodium, c'est pas là.
+**[01:36:39 - 01:36:39] speaker**
+que j'ai un client,
 
-**[01:41:57 - 01:41:59] _redsun**  
-Bon, ce n'est pas très important de le dieu.
+**[01:36:40 - 01:36:40] speaker**
+qui a besoin de faire un truc vidéo,
 
-**[01:42:03 - 01:42:06] _redsun**  
-Rage du mal à me rendre compte qu'on vient ça faire
+**[01:36:42 - 01:36:42] speaker**
+je peux le rentrer sur la grouille,
 
-**[01:42:04 - 01:42:09] pollux8888**  
-Je suis en train de vous faire du débat.
+**[01:36:43 - 01:36:43] speaker**
+et c'est ça, c'est ça,
 
-**[01:42:08 - 01:42:13] bensmart**  
-parce que avant, tu étais 13 ans avec la manante de 1200
+**[01:36:45 - 01:36:45] speaker**
+c'est...
 
-**[01:42:20 - 01:42:23] _redsun**  
-la c'est intéressant, bien accord, mais s'ammentarrasse de voir
+**[01:36:47 - 01:36:47] speaker**
+Ah, mais c'est très bon.
 
-**[01:42:26 - 01:42:30] bensmart**  
-tu disais, tu as référeux pour ressent comme ça on peut tester la terre
+**[01:36:49 - 01:36:49] speaker**
+Puis dans la résumée de ce qu'on a dit d'un train,
 
-**[01:42:30 - 01:42:32] bensmart**  
-référeux qui donne après un prépensiel
+**[01:36:51 - 01:36:51] speaker**
+enfin aussi, donc comme ça,
 
-**[01:42:54 - 01:42:58] pollux8888**  
-en attendant j'arrive juste à partager juste un infoto
+**[01:36:54 - 01:36:54] speaker**
+ça permet de garder une trace,
 
-**[01:42:58 - 01:43:04] _redsun**  
-Après, il est tellement... ce qu'on a été maintenant, justement, c'est que tu me
+**[01:36:57 - 01:36:57] speaker**
+mais c'est vrai que la prête va s'y,
 
-**[01:43:04 - 01:43:07] _redsun**  
-donne la photo de la montre et la chancule.
+**[01:37:00 - 01:37:00] speaker**
+si tu ne pas que je te cite,
 
-**[01:43:08 - 01:43:16] _redsun**  
-On ne parle pas si j'aurais... voilà, je ne suis vraiment... c'est vraiment ma trisson.
+**[01:37:02 - 01:37:02] speaker**
+ou quoi,
 
-**[01:43:16 - 01:43:23] _redsun**  
-Ce que je... c'est beau, mais... est-ce que j'aurais eu un direct direct?
+**[01:37:03 - 01:37:03] speaker**
+je te veux dire que je te veux dire
 
-**[01:43:27 - 01:43:30] _redsun**  
-Moi, je vois rien en tout que je passe les autres qui voyent.
+**[01:37:05 - 01:37:05] speaker**
+mais en principe, en fait,
 
-**[01:43:34 - 01:43:38] _redsun**  
-Et tant, j'ai juste... j'ai la vidéo, regarde où on...
+**[01:37:08 - 01:37:08] speaker**
+quand on peut d'elle m'ont participé,
 
-**[01:43:53 - 01:43:56] _redsun**  
-On va aller quand on va pas toujours.
+**[01:37:10 - 01:37:10] speaker**
+c'est...
 
-**[01:44:00 - 01:44:04] _redsun**  
-Alors si t'as des belles photos, je pense que c'est pas...
+**[01:37:11 - 01:37:11] speaker**
+Voilà, c'est ça,
 
-**[01:44:06 - 01:44:10] _redsun**  
-Il faut d'aller belles photos de la montre réelle sur plusieurs angles et à du t'es clattant.
+**[01:37:13 - 01:37:13] speaker**
+c'est ce que je me suis dit,
 
-**[01:44:15 - 01:44:17] gilles_35307**  
-Je vais vous montrer, c'est un peu plus important.
+**[01:37:16 - 01:37:16] speaker**
+donc...
 
-**[01:44:17 - 01:44:19] _redsun**  
-Ça va faire le petit mouvement des blois.
+**[01:37:17 - 01:37:17] speaker**
+Donc voilà, c'est un,
 
-**[01:44:19 - 01:44:21] gilles_35307**  
-Je vais vous montrer, c'est un peu plus important.
+**[01:37:17 - 01:37:17] speaker**
+nous, ce qui est,
 
-**[01:44:43 - 01:44:50] gilles_35307**  
-Et donc du coup en fait tu peux envoyer une photo d'un produit et puis le monde est
+**[01:37:18 - 01:37:18] speaker**
+peut-être, du clou,
 
-**[01:44:49 - 01:45:02] _redsun**  
-On fait justement, c'est ça qui est super intérance en danger d'order les trucs qui sont un peu multiples.
+**[01:37:19 - 01:37:19] speaker**
+qui est sympa,
 
-**[01:44:50 - 01:44:52] gilles_35307**  
-venu animé et c'était rare de faire un film d'un autre talent.
+**[01:37:21 - 01:37:21] speaker**
+ou ça vous...
 
-**[01:44:53 - 01:44:56] gilles_35307**  
-Et le tout vient notre chéropole clon.
+**[01:37:23 - 01:37:23] speaker**
+Aller mon problème,
 
-**[01:44:54 - 01:45:21] pchartois**  
-Et il y a un peu de temps de plait sur mes chilles par exemple.
+**[01:37:23 - 01:37:23] speaker**
+j'ajenais quoi,
 
-**[01:45:02 - 01:45:09] _redsun**  
-Tu peux le faire avec d'autres tools, mais bizarrement par exemple, je dis Jean Spark et Jean Spark le coup de la vidéo et plus évec chez Messier.
+**[01:37:24 - 01:37:24] speaker**
+déjà,
 
-**[01:45:09 - 01:45:12] _redsun**  
-Je n'ai pas compris mais c'est plus élevé.
+**[01:37:25 - 01:37:25] speaker**
+juste pour revenir.
 
-**[01:45:12 - 01:45:14] _redsun**  
-Donc du coup je passe par Messier pour générer la vidéo.
+**[01:37:26 - 01:37:26] speaker**
+Ah, bon, ton temps.
 
-**[01:45:24 - 01:45:29] _redsun**  
-non parce que la tote tote tote un train de vouloir des trucs
+**[01:37:27 - 01:37:27] speaker**
+Bah, là, en fait, j'ai fait une texture,
 
-**[01:45:29 - 01:45:32] _redsun**  
-je vais vous dire que je vais faire ça
+**[01:37:29 - 01:37:29] speaker**
+en fait, en pleut, mais...
 
-**[01:45:39 - 01:45:42] _redsun**  
-une plateforme spéciale pour faire de la vidéo
+**[01:37:31 - 01:37:31] speaker**
+Ah, ouais, ouais, ouais, ouais,
 
-**[01:45:42 - 01:45:46] _redsun**  
-Là, tu as des templé-tic-toc, ça c'est la bombe, la dingue,
+**[01:37:33 - 01:37:33] speaker**
+donc, et moi,
 
-**[01:45:43 - 01:45:56] gilles_35307**  
-Je suis en train de faire un blanc.
+**[01:37:34 - 01:37:34] speaker**
+je veux pourquoi,
 
-**[01:45:46 - 01:45:49] _redsun**  
-des géniales pour faire la création vidéo par contre les guiles,
+**[01:37:35 - 01:37:35] speaker**
+et moi,
 
-**[01:45:51 - 01:45:54] _redsun**  
-Ça coûte une blande, mais ça en truc de fou quoi.
+**[01:37:35 - 01:37:35] speaker**
+et moi,
 
-**[01:45:56 - 01:46:07] gilles_35307**  
-ça dépend, c'est une vie à sa coule d'hide de l'âtre de Ken, c'est toujours rien par
+**[01:37:36 - 01:37:36] speaker**
+je sais comment,
 
-**[01:45:58 - 01:46:02] _redsun**  
-Il n'a pas d'impréhélever, moi, multiplieu de part de...
+**[01:37:37 - 01:37:37] speaker**
+et puis,
 
-**[01:46:04 - 01:46:14] _redsun**  
-Pour te dire, moi, j'ai fait une vidéo avec que je peux vous montrer, c'est, je suis
+**[01:37:37 - 01:37:37] speaker**
+le métal liquide,
 
-**[01:46:07 - 01:46:09] gilles_35307**  
-pour la vraie vie, c'est ça c'est une autre problème.
+**[01:37:39 - 01:37:39] speaker**
+et le reste,
 
-**[01:46:16 - 01:46:20] _redsun**  
-Je voulais tester un truc, j'ai pris un abonnement, un moi, j'ai dit, je teste.
+**[01:37:40 - 01:37:40] speaker**
+il sera...
 
-**[01:46:20 - 01:46:23] _redsun**  
-Allez, j'ai bien regardé ce que ça donne.
+**[01:37:42 - 01:37:42] speaker**
+Bah tu vois,
 
-**[01:46:23 - 01:46:28] _redsun**  
-Et puis, d'ailleurs, je pense qu'il est long de n'appuie aussi, je pense qu'ils ont
+**[01:37:42 - 01:37:42] speaker**
+il y a,
 
-**[01:46:26 - 01:46:54] gilles_35307**  
-Donc, dans le méchite, tu peux faire le match sur ça, dans le méchite, tu peux utiliser
+**[01:37:43 - 01:37:43] speaker**
+et il y a le mesh,
 
-**[01:46:28 - 01:46:35] _redsun**  
-appais, avéreux si un, et là, je suis allé dans le vidéo, on monte déjà
+**[01:37:45 - 01:37:45] speaker**
+c'est de te regarder...
 
-**[01:46:35 - 01:46:41] _redsun**  
-l'interface, c'est un bon bordel quoi, je ne trouve pas le même pas mes vidéos,
+**[01:37:46 - 01:37:46] speaker**
+Ouais, je sais pas.
 
-**[01:46:41 - 01:46:57] _redsun**  
-c'est quand même, quoi je ne sais pas du vidéo, là, ouais, mais là aussi,
+**[01:37:48 - 01:37:48] speaker**
+En plus,
 
-**[01:46:54 - 01:47:24] gilles_35307**  
-d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un petit d'un
+**[01:37:48 - 01:37:48] speaker**
+on ne peut pas,
 
-**[01:46:57 - 01:47:14] _redsun**  
-Mais alors en torçant mes chi, de l'intérêt, c'est de passer la 3D.
+**[01:37:49 - 01:37:49] speaker**
+ah oui, on voit là,
 
-**[01:47:14 - 01:47:20] _redsun**  
-Moi je trouve ça intéressant, c'est une façon de dire, je passe de la 3D à la vidéo
+**[01:37:50 - 01:37:50] speaker**
+ok.
 
-**[01:47:20 - 01:47:25] _redsun**  
-que du coup t'as une truc qui peut faire un personnage qui existe ou art.
+**[01:37:50 - 01:37:50] speaker**
+Voilà, oui.
 
-**[01:47:25 - 01:47:34] _redsun**  
-Et tu vas y aller, mcp, cp pour aller y aller, c'est l'ababa, la ternère, mais ça j'en a un peu une clove,
+**[01:37:53 - 01:37:53] speaker**
+Alors, attends, j'ai envie de la texture,
 
-**[01:47:34 - 01:47:41] _redsun**  
-voilà ça, même pas, des mots clôt parce qu'il y a un, donc tu en fais tu peux passer par
+**[01:37:54 - 01:37:54] speaker**
+ça,
 
-**[01:47:41 - 01:47:46] _redsun**  
-expi de, pour générer de la vidéo, à la voler avec ton peu de clove et faire des trucs aussi
+**[01:37:55 - 01:37:55] speaker**
+voilà.
 
-**[01:47:46 - 01:47:52] _redsun**  
-dedans, voilà, attention ça bonne barre de le prix, je m'en jettez, je m'en dis
+**[01:37:56 - 01:37:56] speaker**
+C'est...
 
-**[01:47:52 - 01:47:56] _redsun**  
-parce que je sais qu'il y a mon pot qui fait la vidéo pro, il travaille pour moi,
+**[01:37:58 - 01:37:58] speaker**
+C'est rigolo, mais tu peux pas travailler avec.
 
-**[01:47:56 - 01:48:00] _redsun**  
-c'est japonne, japonne tabacourt, comme ça, au zb.
+**[01:38:01 - 01:38:01] speaker**
+Ah ouais, merci.
 
-**[01:48:00 - 01:48:11] _redsun**  
-Lui, j'ai dit ça pour, c'était vachement, je m'en ai par contre, pour les prix pour se marrer, c'est trop cher pour rigoler quoi.
+**[01:38:02 - 01:38:02] speaker**
+Merci.
 
-**[01:48:11 - 01:48:17] _redsun**  
-Après, c'est pas un ben train, on va remerger un moment sur sidelines de toi.
+**[01:38:03 - 01:38:03] speaker**
+Ah, pour...
 
-**[01:48:17 - 01:48:19] _redsun**  
-Tu sais déjà, ou plutôt qu'une des.
+**[01:38:04 - 01:38:04] speaker**
+Ah, pour...
 
-**[01:48:23 - 01:48:28] bensmart**  
-J'ai pas encore le président, mais sûrement au moins cher que les...
+**[01:38:04 - 01:38:04] speaker**
+Une seule chose de pourre, c'est comme une planète.
 
-**[01:48:33 - 01:48:39] bensmart**  
-C'est un peu moins cher que les prix de HX-field et compagnies.
+**[01:38:06 - 01:38:06] speaker**
+Ouais, c'est...
 
-**[01:48:39 - 01:48:57] bensmart**  
-Et si l'année, c'est un train de préparer le 3.0.
+**[01:38:07 - 01:38:07] speaker**
+Ouais, bon.
 
-**[01:48:41 - 01:48:44] _redsun**  
-Ce que là aujourd'hui, vous avez si dense et les autres.
+**[01:38:08 - 01:38:08] speaker**
+Ouais, bien.
 
-**[01:48:44 - 01:48:47] _redsun**  
-D'ailleurs, à pire, ça j'ai testé ces nuits en...
+**[01:38:08 - 01:38:08] speaker**
+Pour 15 secondes,
 
-**[01:48:57 - 01:49:06] bensmart**  
-J'ai entendu parler à par amont, enfin je vois, tu as fait comme ça.
+**[01:38:09 - 01:38:09] speaker**
+on doit être,
 
-**[01:49:06 - 01:49:10] bensmart**  
-Je te tourne en préparer comme on dirait
+**[01:38:10 - 01:38:10] speaker**
+bah, quand c'est intéressant,
 
-**[01:49:10 - 01:49:14] bensmart**  
-les arbres secrets, t'as cité en tropique
+**[01:38:11 - 01:38:11] speaker**
+c'est pour voir faire une demo,
 
-**[01:49:14 - 01:49:17] bensmart**  
-avec le clod, comment ça pèse la mythique,
+**[01:38:12 - 01:38:12] speaker**
+à protôt,
 
-**[01:49:22 - 01:49:25] bensmart**  
-On ne tourne pas en préparer leur truc
+**[01:38:14 - 01:38:14] speaker**
+ou à un truc où une idée,
 
-**[01:49:25 - 01:49:29] bensmart**  
-en colise pour vraiment attendre au bon moment de sortir.
+**[01:38:15 - 01:38:15] speaker**
+tu vois,
 
-**[01:49:31 - 01:49:36] _redsun**  
-Je peux montrer à Piers, parce que c'est notre, il y a, d'ailleurs,
+**[01:38:15 - 01:38:15] speaker**
+figé ton idée,
 
-**[01:49:36 - 01:49:39] _redsun**  
-je pense que je fente des suites de Piers, par rapport à Cidance,
+**[01:38:16 - 01:38:16] speaker**
+la faire tourner en 3D,
 
-**[01:49:39 - 01:49:42] _redsun**  
-aussi Chinois, social, je n'en intervidez-vous.
+**[01:38:18 - 01:38:18] speaker**
+c'est de conccepter,
 
-**[01:49:45 - 01:49:49] _redsun**  
-Bon, ce sont ces transmetes en maquillement.
+**[01:38:19 - 01:38:19] speaker**
+à l'hésion,
 
-**[01:49:54 - 01:49:58] _redsun**  
-C'est pas mal, mais c'est d'être largement, c'est moi-même.
+**[01:38:20 - 01:38:20] speaker**
+en fait,
 
-**[01:49:57 - 01:50:03] bensmart**  
-Parce que ce que c'est d'un, c'est en fait, c'est Biden, donc la maison mère de TikTok,
+**[01:38:20 - 01:38:20] speaker**
+pas mon passé excellent,
 
-**[01:50:03 - 01:50:09] bensmart**  
-qui est vraiment le pionnier dans tout ce qui est alboeux.
+**[01:38:21 - 01:38:21] speaker**
+on va rentre,
 
-**[01:50:09 - 01:50:13] bensmart**  
-Donc ils ont un alboeux extrêmement puissant.
+**[01:38:22 - 01:38:22] speaker**
+pour ça.
 
-**[01:50:15 - 01:50:19] bensmart**  
-Ils investissent largement aussi, quand ça.
+**[01:38:24 - 01:38:24] speaker**
+Mais...
 
-**[01:50:19 - 01:50:33] bensmart**  
-À par mois ils ont vendu un société fille de jeu vidéo, un société à rame,
+**[01:38:24 - 01:38:24] speaker**
+On va pouvoir laisser
 
-**[01:50:33 - 01:50:38] bensmart**  
-par un moment où j'ai entendu parler pour pouvoir capitaliser et réinvestir dans
+**[01:38:25 - 01:38:25] speaker**
+c'est un crayon,
 
-**[01:50:38 - 01:50:47] bensmart**  
-Donc là il prenne vraiment de l'âge et ils investissent massivement dans ce truc.
+**[01:38:26 - 01:38:26] speaker**
+là,
 
-**[01:50:47 - 01:50:54] bensmart**  
-Il y en a tendance peut-être de sortir aussi à modèle qui a un peu plus on va dire
+**[01:38:26 - 01:38:26] speaker**
+là,
 
-**[01:50:54 - 01:51:00] bensmart**  
-éthique étant donné que ça a eu un clash avec les studios de production de
+**[01:38:26 - 01:38:26] speaker**
+là,
 
-**[01:51:00 - 01:51:04] bensmart**  
-les roues, etc., sur les droits d'auteur, etc.,
+**[01:38:27 - 01:38:27] speaker**
+là, là, là, là,
 
-**[01:51:04 - 01:51:08] bensmart**  
-donc là il se met un peu en retraite,
+**[01:38:30 - 01:38:30] speaker**
+parce que ça, de faire tourner
 
-**[01:51:08 - 01:51:11] bensmart**  
-mais pour mieux travailler un peu tout ce qui est,
+**[01:38:31 - 01:38:31] speaker**
+à modèle en 3D,
 
-**[01:51:15 - 01:51:27] _redsun**  
-Ok, bah, à voir, là je ferais mon trait, j'ai fait une petite vidéo avec
+**[01:38:32 - 01:38:32] speaker**
+dans les entreprises dans l'roger,
 
-**[01:51:29 - 01:51:34] _redsun**  
-J'vous l'ai fait un vidéo pour les 5 000 abonnés que j'ai sur l'ingline.
+**[01:38:35 - 01:38:35] speaker**
+ça, c'est des années de formation,
 
-**[01:51:34 - 01:51:38] _redsun**  
-Et je voulais faire un tout, on voyait sur plusieurs acts, il a fait un truc, mais
+**[01:38:37 - 01:38:37] speaker**
+on s'a...
 
-**[01:51:40 - 01:51:44] _redsun**  
-Mais ce qui est vachement bien fait, c'est qu'il a fait les seines,
+**[01:38:38 - 01:38:38] speaker**
+Là, on a fait, on a un prompt.
 
-**[01:51:44 - 01:51:47] _redsun**  
-d'ailleurs, rien n'y a ni tout ça, et tout ça c'est le lien.
+**[01:38:40 - 01:38:40] speaker**
+Ah,
 
-**[01:51:47 - 01:51:50] _redsun**  
-Pour ce moment on voit pas tellement, c'est de c'est du sidène, c'est au sein.
+**[01:38:42 - 01:38:42] speaker**
+là, là, on peut se faire.
 
-**[01:51:50 - 01:51:53] pollux8888**  
-La douze ans, elle va être facile à l'hierida.
+**[01:38:44 - 01:38:44] speaker**
+Pour les gens, on voit des plateformes
 
-**[01:51:50 - 01:52:02] gilles_35307**  
-Non, tu me n'étais pas la vidéo de l'astronautique.
+**[01:38:46 - 01:38:46] speaker**
+des délosiciels,
 
-**[01:51:55 - 01:51:57] _redsun**  
-C'est parce qu'il a pas, mais on dirait que je suis trilé,
+**[01:38:47 - 01:38:47] speaker**
+au-delà,
 
-**[01:52:02 - 01:52:06] gilles_35307**  
-C'est cette problème, bon, je comprends, mais c'est pas vrai, c'est bien.
+**[01:38:48 - 01:38:48] speaker**
+qui nous font peur,
 
-**[01:52:06 - 01:52:08] _redsun**  
-c'est bien foutu, par contre les plans séquences.
+**[01:38:50 - 01:38:50] speaker**
+quoi.
 
-**[01:52:06 - 01:52:10] gilles_35307**  
-Et ça tu l'as juste de l'une photo ?
+**[01:38:50 - 01:38:50] speaker**
+Parce que...
 
-**[01:52:10 - 01:52:13] _redsun**  
-Alors j'ai montré quatre photos. Je fais des stories, bon.
+**[01:38:51 - 01:38:51] speaker**
+la part de notre travail,
 
-**[01:52:19 - 01:52:23] _redsun**  
-Moi je vais m'a mis un peu. Je découvre, je fais des trucs comme ça pour tester un peu.
+**[01:38:52 - 01:38:52] speaker**
+c'est durée,
 
-**[01:52:24 - 01:52:27] _redsun**  
-Ah, j'ai plus le sens, les photos...
+**[01:38:53 - 01:38:53] speaker**
+là.
 
-**[01:52:27 - 01:52:29] pchartois**  
-j'ai tout de suite juste tout de suite
+**[01:38:54 - 01:38:54] speaker**
+Ah, là, je suis prépôt.
 
-**[01:52:33 - 01:52:36] _redsun**  
-J'ai pris ces photos là. J'ai pas l'encement.
+**[01:38:56 - 01:38:56] speaker**
+D'année de formation,
 
-**[01:52:36 - 01:52:38] _redsun**  
-Et je lui dis, bah, en fait, des meurs, toi.
+**[01:38:57 - 01:38:57] speaker**
+à faire tourner,
 
-**[01:52:45 - 01:52:47] _redsun**  
-Donc, c'est juste pour dire, en fait,
+**[01:38:59 - 01:38:59] speaker**
+c'est l'harde de l'asile,
 
-**[01:52:47 - 01:52:50] _redsun**  
-on peut une clôt comme orchestrateur,
+**[01:39:01 - 01:39:01] speaker**
+là...
 
-**[01:53:01 - 01:53:02] _redsun**  
-et comme ça, vous pouvez faire des vidéos
+**[01:39:02 - 01:39:02] speaker**
+On peut-être du temps,
 
-**[01:53:09 - 01:53:14] _redsun**  
-parce que là on peut faire décide, on peut faire des applications, on peut faire des vidéos, on peut faire de la 3D après
+**[01:39:03 - 01:39:03] speaker**
+rapidement,
 
-**[01:53:14 - 01:53:19] _redsun**  
-les recherches plus qu'ils vont le qu'ils vont qu'ils vont qu'ils vont qu'ils vont pas grandfois en faisant,
+**[01:39:04 - 01:39:04] speaker**
+le mieux, c'est d'abord,
 
-**[01:53:20 - 01:53:22] _redsun**  
-à des sortements on va apporter un peu un peu un peu un peu un peu
+**[01:39:05 - 01:39:05] speaker**
+de poser ta question,
 
-**[01:53:32 - 01:53:35] _redsun**  
-juste essayer avec les images qui nous a affronté pas là,
+**[01:39:06 - 01:39:06] speaker**
+genre, sur répétée ou de
 
-**[01:53:39 - 01:53:43] _redsun**  
-C'est ça qu'il faudrait faire avec la montre, ça le multiplie.
+**[01:39:08 - 01:39:08] speaker**
+un prochain élède,
 
-**[01:53:43 - 01:53:47] _redsun**  
-Comme pas, plusieurs photos, là, je le fais vraiment, il te fait quoi.
+**[01:39:09 - 01:39:09] speaker**
+juste pour avoir une compte de qualité,
 
-**[01:53:47 - 01:53:51] _redsun**  
-Alors, vraiment, il est d'allemand, tu fais multiplie comme ça, t'as derrière devant,
+**[01:39:11 - 01:39:11] speaker**
+vraiment complègue d'Étatillé,
 
-**[01:53:51 - 01:53:53] _redsun**  
-qui est, puisqu'il va imaginer derrière, mais il n'y a pas,
+**[01:39:12 - 01:39:12] speaker**
+et ensuite,
 
-**[01:53:53 - 01:53:58] _redsun**  
-et pas encore assez magique pour créer des trucs comme ça.
+**[01:39:13 - 01:39:13] speaker**
+je me suis dit,
 
-**[01:53:58 - 01:54:01] _redsun**  
-Tu as eu la reconnaissance, c'est un copeur dragon,
+**[01:39:14 - 01:39:14] speaker**
+directement dans le l'huile,
 
-**[01:54:01 - 01:54:06] _redsun**  
-T'as une piste, c'est fou qu'il comprend tout sur les mages et qu'on prend la structure et on prend tout
+**[01:39:15 - 01:39:15] speaker**
+là.
 
-**[01:54:11 - 01:54:18] _redsun**  
-Mais voilà donc c'est parce que Arnaut on va parler d'un arfor et Arnaut on disait
+**[01:39:16 - 01:39:16] speaker**
+Ouais.
 
-**[01:54:18 - 01:54:24] _redsun**  
-ouais tu te rémondrez les jusqu'à ce que c'est un peu de pencours et je me suis dit
+**[01:39:16 - 01:39:16] speaker**
+On lui disant qu'on veut faire
 
-**[01:54:24 - 01:54:31] _redsun**  
-Voilà, on crée quoi, on crée, on se voit un peu de j'en ai des idées quoi.
+**[01:39:18 - 01:39:18] speaker**
+ça sur mes chiffres,
 
-**[01:54:35 - 01:54:38] _redsun**  
-Voilà, on va juste attendre un petit peu et je vais regarder juste.
+**[01:39:18 - 01:39:18] speaker**
+c'était un peu le plus bien.
 
-**[01:54:38 - 01:54:41] _redsun**  
-Si on a bien en tout le même choix qu'on a tous les gens.
+**[01:39:20 - 01:39:20] speaker**
+Exactement.
 
-**[01:54:44 - 01:54:46] _redsun**  
-Ah ouais, là, t'as des vidéos carrément.
+**[01:39:21 - 01:39:21] speaker**
+Ah, ça, ça,
 
-**[01:54:46 - 01:54:52] _redsun**  
-à l'endive vidéo ça marche pas encore et au tout 3D ça le sont bien là
+**[01:39:21 - 01:39:21] speaker**
+tout à fait juste.
 
-**[01:55:01 - 01:55:05] _redsun**  
-mais c'est pour le marché chinois vous non c'est pour tout le monde
+**[01:39:22 - 01:39:22] speaker**
+J'ai juste ma muselle,
 
-**[01:55:02 - 01:55:32] pollux8888**  
-Non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non
+**[01:39:23 - 01:39:23] speaker**
+faire tourner,
 
-**[01:55:05 - 01:55:09] _redsun**  
-d'avoir des difficultes et dragon chinois,
+**[01:39:24 - 01:39:24] speaker**
+mais c'est pour l'exemple,
 
-**[01:55:44 - 01:55:47] pollux8888**  
-Moi, moi, pas comme ça, mais avec tout plein de diamants,
+**[01:39:26 - 01:39:26] speaker**
+parce qu'elle n'aille pas très
 
-**[01:55:47 - 01:55:49] pollux8888**  
-je crois, je sais plus combien de diamants, mais beaucoup.
+**[01:39:27 - 01:39:27] speaker**
+jolie,
 
-**[01:55:50 - 01:55:53] pollux8888**  
-Puis, voilà, du week-m'en est à ça,
+**[01:39:27 - 01:39:27] speaker**
+mais juste pour essayer de
 
-**[01:56:02 - 01:56:07] pollux8888**  
-Oui, c'est ça. Et en fin de compte, c'est un peu mon but parce que j'ai toujours rêvé de pouvoir créer une
+**[01:39:29 - 01:39:29] speaker**
+s'imaginer les jusqu'à
 
-**[01:56:07 - 01:56:13] pollux8888**  
-demande depuis de pique chez Gama. Mais d'abord, j'avais pas les outils. Je suis pas obligé non plus.
+**[01:39:31 - 01:39:31] speaker**
+ce cas,
 
-**[01:56:13 - 01:56:17] pollux8888**  
-Je suis un petit affront matéciant pour mentir.
+**[01:39:32 - 01:39:32] speaker**
+parce que ça,
 
-**[01:56:17 - 01:56:20] _redsun**  
-Moi, mettez-vous, c'est un design intéressant,
+**[01:39:32 - 01:39:32] speaker**
+par contre,
 
-**[01:56:20 - 01:56:22] _redsun**  
-bien pas justement, c'est ce moment,
+**[01:39:33 - 01:39:33] speaker**
+je peux vous dire un truc,
 
-**[01:56:22 - 01:56:24] _redsun**  
-on te fait un peu sur les réseaux sociaux,
+**[01:39:34 - 01:39:34] speaker**
+moi ce qui m'intéresse,
 
-**[01:56:24 - 01:56:27] _redsun**  
-tu dis, on va s'y m'inversions d'une Jacob,
+**[01:39:35 - 01:39:35] speaker**
+c'est la création de contenu
 
-**[01:56:28 - 01:56:30] _redsun**  
-puis là, tu vas être un peu chataire,
+**[01:39:36 - 01:39:36] speaker**
+pour les réseaux sociaux.
 
-**[01:56:30 - 01:56:35] _redsun**  
-avec le GPT2 puis faire des images de ce que t'aimerais dans ton rêve puis ensuite
+**[01:39:37 - 01:39:37] speaker**
+Ça soit pour vous personnel,
 
-**[01:56:35 - 01:56:43] _redsun**  
-t'arrêt de l'équipe. Mais ça ne sera pas fabriqué là on a d'accord. Alors regarde
+**[01:39:38 - 01:39:38] speaker**
+brenting,
 
-**[01:56:43 - 01:56:56] _redsun**  
-on l'a, ok. C'est passé là. Alors la texture en fonction de l'image. Après être
+**[01:39:39 - 01:39:39] speaker**
+pour vous montrer ce que vous savez
 
-**[01:56:56 - 01:57:01] _redsun**  
-comme c'est du modelien, encore, mais moi je pense que là on est dans une histoire.
+**[01:39:41 - 01:39:41] speaker**
+faire,
 
-**[01:57:04 - 01:57:09] pollux8888**  
-On passe le verre, le verre, il est en brom, il est bon, c'est à fil, mais bon,
+**[01:39:41 - 01:39:41] speaker**
+vous simplement,
 
-**[01:57:05 - 01:57:07] _redsun**  
-On est dans une histoire, une amour.
+**[01:39:42 - 01:39:42] speaker**
+pour générer du clic,
 
-**[01:57:09 - 01:57:11] pollux8888**  
-là c'est déjà bien fait, va se la târe.
+**[01:39:43 - 01:39:43] speaker**
+pour que les gens disent,
 
-**[01:57:11 - 01:57:13] pollux8888**  
-Et je vais vous l'imagine de t'aider.
+**[01:39:44 - 01:39:44] speaker**
+ah, c'est que vous voulez
 
-**[01:57:12 - 01:57:15] _redsun**  
-Mais là tu mets trois quatre images, c'est un truc de fou,
+**[01:39:45 - 01:39:45] speaker**
+tout.
 
-**[01:57:17 - 01:57:20] _redsun**  
-Mais moi ce que j'imagine, c'est toujours dans une année, tu vois.
+**[01:39:46 - 01:39:46] speaker**
+La France-Pantue peut faire des
 
-**[01:57:21 - 01:57:32] pchartois**  
-on a la content sera palé pour ton frappe les images d'hier un an on a tu fais c'est d'influir
+**[01:39:47 - 01:39:47] speaker**
+trucs super cool pour ça,
 
-**[01:57:22 - 01:57:28] _redsun**  
-On est là au nord des cas, on ne faisait pas au plus temps.
+**[01:39:49 - 01:39:49] speaker**
+en tout cas,
 
-**[01:57:23 - 01:57:37] pollux8888**  
-je pense que la vidéo de Wilson mais ce qui mange des spaghetti
+**[01:39:50 - 01:39:50] speaker**
+je trouve ça un vrai...
 
-**[01:57:42 - 01:57:44] _redsun**  
-à première version, je vais en mettre à test,
+**[01:39:52 - 01:39:52] speaker**
+Parce que...
 
-**[01:57:46 - 01:57:48] _redsun**  
-Les toutes premières versions, et juste pour vous donner une idée,
+**[01:39:53 - 01:39:53] speaker**
+Voilà,
 
-**[01:57:48 - 01:57:51] _redsun**  
-la version 5, donc c'est là que vous allez comprendre
+**[01:39:53 - 01:39:53] speaker**
+ce qui fait un truc,
 
-**[01:57:51 - 01:57:55] _redsun**  
-parce que je vais dire que cette version là, on est la différence avec les dragons qu'on avait avant.
+**[01:39:54 - 01:39:54] speaker**
+je lis qui dénonvie,
 
-**[01:58:09 - 01:58:14] pollux8888**  
-En fait, c'est la nime à la réel en OVCA.
+**[01:39:55 - 01:39:55] speaker**
+ou un truc marrant,
 
-**[01:58:15 - 01:58:19] _redsun**  
-Ouais, bah, après, tu fais un export.
+**[01:39:56 - 01:39:56] speaker**
+ou on vous faut là,
 
-**[01:58:19 - 01:58:21] _redsun**  
-la qualité des tests sur les communs.
+**[01:39:57 - 01:39:57] speaker**
+et bah,
 
-**[01:58:22 - 01:58:24] _redsun**  
-Et là tu peux faire du ril machine aussi.
+**[01:39:58 - 01:39:58] speaker**
+t'as reforçamment un taux
 
-**[01:58:24 - 01:58:26] _redsun**  
-Et tu peux l'imprimer en 3 des ça, c'est cool aussi.
+**[01:39:59 - 01:39:59] speaker**
+de clic ou de vu
 
-**[01:58:29 - 01:58:34] _redsun**  
-Tu peux mettre un sec, faire la rotation, faire gérer les échelles.
+**[01:40:00 - 01:40:00] speaker**
+qui sera vachement plus élevé,
 
-**[01:58:35 - 01:58:38] _redsun**  
-Puis en plus tu peux l'envoyer directement à forme,
+**[01:40:02 - 01:40:02] speaker**
+en faisant une petite vidéo
 
-**[01:58:42 - 01:58:44] _redsun**  
-Si tu veux le faire à la maison, c'est le machine.
+**[01:40:03 - 01:40:03] speaker**
+en trois secondes,
 
-**[01:58:44 - 01:58:48] _redsun**  
-Si tu as assez cool, franchement, t'as un peu un petit tour, non, ça, c'est pas.
+**[01:40:04 - 01:40:04] speaker**
+avec mes chinois,
 
-**[01:58:48 - 01:58:52] _redsun**  
-Je vais juste regarder ce que ça donne pour ça.
+**[01:40:05 - 01:40:05] speaker**
+au train,
 
-**[01:58:52 - 01:59:03] _redsun**  
-Ça aurait fait se retrouver tout qui a testé, quoi, après il faut aller plus loin pour un faire 200-2 g de la rache puis faire ça un peu propre avec plusieurs images et tout.
+**[01:40:05 - 01:40:05] speaker**
+avec si d'un soupe.
 
-**[01:59:03 - 01:59:09] pollux8888**  
-Il va revenir à mon écran, je vais te montrer à une démonte que j'aime bien.
+**[01:40:06 - 01:40:06] speaker**
+Parce qu'il a,
 
-**[01:59:09 - 01:59:13] pollux8888**  
-La face d'entirios de chez Jacob avec deux tourbillons.
+**[01:40:07 - 01:40:07] speaker**
+si la grivonne nous avoir des
 
-**[01:59:19 - 01:59:22] pollux8888**  
-C'est vraiment les modèles face d'entirios.
+**[01:40:08 - 01:40:08] speaker**
+jeux litrus de bène,
 
-**[01:59:24 - 01:59:28] _redsun**  
-m'a il y a beaucoup d'étails donc il faudrait beaucoup beaucoup d'image en fait
+**[01:40:09 - 01:40:09] speaker**
+ça pourrait être intéressant,
 
-**[01:59:28 - 01:59:32] _redsun**  
-ta moyen des avoir dans les mains où c'est un touchable c'est ma chanla
+**[01:40:10 - 01:40:10] speaker**
+on devra...
 
-**[01:59:32 - 01:59:37] pollux8888**  
-Faut tourner au magazine qui se trouve à la rue du rône, mais après je sais pas si vous
+**[01:40:11 - 01:40:11] speaker**
+Parce que là,
 
-**[01:59:39 - 01:59:43] _redsun**  
-et elle va pas travailler ce qui fait lui
+**[01:40:12 - 01:40:12] speaker**
+c'est ça,
 
-**[01:59:44 - 01:59:47] pollux8888**  
-Mais bah, on peut s'arrêter de me l'étrouver.
+**[01:40:12 - 01:40:12] speaker**
+reste quand même
 
-**[01:59:55 - 01:59:57] _redsun**  
-C'est vrai que tu peux attendre j'en voyage,
+**[01:40:13 - 01:40:13] speaker**
+cher,
 
-**[01:59:57 - 01:59:58] _redsun**  
-parce que là, tu as des types d'éclairages,
+**[01:40:13 - 01:40:13] speaker**
+mais au cas,
 
-**[01:59:58 - 02:00:01] _redsun**  
-que les chambles beaucoup aussi en fonction des.
+**[01:40:14 - 01:40:14] speaker**
+t'es pas obligé de
 
-**[02:00:17 - 02:00:20] pollux8888**  
-Je vais le faire une marque de mon trastisanaire que j'aime beaucoup.
+**[01:40:14 - 01:40:14] speaker**
+utiliser si d'un son plus,
 
-**[02:00:24 - 02:00:28] pollux8888**  
-Je ne suis pas en train de faire de leur promotion, mais je les ai un peu.
+**[01:40:15 - 01:40:15] speaker**
+quoi.
 
-**[02:00:31 - 02:00:34] _redsun**  
-On a pas les foutre, je comprends pas.
+**[01:40:16 - 01:40:16] speaker**
+Là, je peux récupérer la
 
-**[02:00:34 - 02:00:39] _redsun**  
-J'ai fait 500 000 millions, je peux faire la promo.
+**[01:40:17 - 01:40:17] speaker**
+photo qu'on l'a fait,
 
-**[02:00:37 - 02:00:39] pollux8888**  
-Non, non, non, non, non, non, non, non, non, non, non, non, non, du tout.
+**[01:40:18 - 01:40:18] speaker**
+donc là il a fini à juste un fond
 
-**[02:00:41 - 02:00:44] pollux8888**  
-Il se trouve à ne chaîtez, le c'est une petite trastisanale.
+**[01:40:19 - 01:40:19] speaker**
+blanc propre.
 
-**[02:00:44 - 02:00:48] pollux8888**  
-ça commence à, on a tellement ça commence à 400 je crois.
+**[01:40:20 - 01:40:20] speaker**
+Puis là je peux
 
-**[02:00:48 - 02:00:53] pollux8888**  
-Et puis le plus cher de tête je crois qu'il doit être à 8 000.
+**[01:40:21 - 01:40:21] speaker**
+dire,
 
-**[02:00:53 - 02:00:56] pollux8888**  
-Ça va pas, on ne sait pas les, on se fait excès.
+**[01:40:22 - 01:40:22] speaker**
+tu peux me faire
 
-**[02:00:56 - 02:01:06] pollux8888**  
-Moi, il y a une vague connaît le patron, des diners,
+**[01:40:24 - 01:40:24] speaker**
+un éclater de
 
-**[02:01:06 - 02:01:12] pollux8888**  
-après je sais de trouver des idées pour y nover
+**[01:40:26 - 01:40:26] speaker**
+montrer,
 
-**[02:01:13 - 02:01:21] _redsun**  
-En compte, le post que tu peux faire là en disant, j'ai un style de plus de l'oseau de maquinée,
+**[01:40:26 - 01:40:26] speaker**
+je sais pas,
 
-**[02:01:21 - 02:01:25] _redsun**  
-j'ai demandé de créer le monde, je disant, on va y aller les photos, voilà ce qui m'a fait, ça va,
+**[01:40:26 - 01:40:26] speaker**
+hasine en porte quoi,
 
-**[02:01:25 - 02:01:28] _redsun**  
-ça va tout le process en fait de création.
+**[01:40:27 - 01:40:27] speaker**
+là-dessus.
 
-**[02:01:28 - 02:01:34] _redsun**  
-Je trouve ça va être, il te veut faire la promo sur les réseaux, moi je ne dégue dis,
+**[01:40:28 - 01:40:28] speaker**
+Je me sens.
 
-**[02:01:34 - 02:01:37] _redsun**  
-je ne sais pas du tout la communication, quelque chose à votre boulot,
+**[01:40:29 - 01:40:29] speaker**
+Un éclater,
 
-**[02:01:36 - 02:01:40] pollux8888**  
-mais je sais pas si j'accobles l'aimer.
+**[01:40:29 - 01:40:29] speaker**
+un éclater,
 
-**[02:01:39 - 02:01:42] _redsun**  
-Ah, c'est pas si... Ah, ou tu peux les t'agir, hein?
+**[01:40:30 - 01:40:30] speaker**
+un éclater,
 
-**[02:01:40 - 02:01:47] pollux8888**  
-Non mais, non mais je sais pas si j'accobles là,
+**[01:40:30 - 01:40:30] speaker**
+un mouvement de mouvement,
 
-**[02:01:42 - 02:01:45] _redsun**  
-C'est-à-dire, tu peux les tânguer ?
+**[01:40:31 - 01:40:31] speaker**
+ouais.
 
-**[02:01:47 - 02:01:51] pollux8888**  
-cette photo avec le dragon lui l'aimer il appréciera ça ou pas.
+**[01:40:31 - 01:40:31] speaker**
+Ouais.
 
-**[02:01:53 - 02:01:56] pollux8888**  
-C'est pour ça que c'est de comment je ne ferais pas,
+**[01:40:32 - 01:40:32] speaker**
+De...
 
-**[02:01:56 - 02:01:59] pollux8888**  
-mais ça au moins pour voir qu'est-ce qui est possible.
+**[01:40:33 - 01:40:33] speaker**
+De...
 
-**[02:01:59 - 02:02:04] _redsun**  
-C'est exactement ça parce que j'accueil à l'évier, à l'aqué des têtes du match ou les trucs comme...
+**[01:40:33 - 01:40:33] speaker**
+De...
 
-**[02:02:04 - 02:02:06] pollux8888**  
-Je ne vais même pas s'il va y apprécier.
+**[01:40:34 - 01:40:34] speaker**
+De...
 
-**[02:02:07 - 02:02:09] _redsun**  
-Non, non, ils ne vont pas du tout à quoi c'est.
+**[01:40:35 - 01:40:35] speaker**
+De mouvement,
 
-**[02:02:09 - 02:02:16] _redsun**  
-C'est pas du tout pour lui, c'est pas ça, mais c'est pour faire de la comme sur les réseaux.
+**[01:40:35 - 01:40:35] speaker**
+de mouvement,
 
-**[02:02:18 - 02:02:22] _redsun**  
-Pour ça, mais c'est pas ça que les mondes c'est tellement précis.
+**[01:40:36 - 01:40:36] speaker**
+ou de montre,
 
-**[02:02:22 - 02:02:26] _redsun**  
-Par contre, il y a quelqu'un, même à faire son visage entre 1-3 et pour en cours,
+**[01:40:37 - 01:40:37] speaker**
+c'est...
 
-**[02:02:26 - 02:02:29] _redsun**  
-des franchements, ça va super, super bien.
+**[01:40:37 - 01:40:37] speaker**
+De mouvement,
 
-**[02:02:28 - 02:02:41] pollux8888**  
-On va me la faire chancer, c'est bien.
+**[01:40:37 - 01:40:37] speaker**
+de mouvement,
 
-**[02:02:29 - 02:02:35] _redsun**  
-C'est un personne, on va se soit toi-même, soit un personne connu, tu fais tournant en 3-4,
+**[01:40:38 - 01:40:38] speaker**
+c'est bon.
 
-**[02:02:35 - 02:02:40] _redsun**  
-tu ne fais pas, je ne suis pas en 1000 façons, mais non.
+**[01:40:39 - 01:40:39] speaker**
+Et puis,
 
-**[02:02:41 - 02:02:46] pollux8888**  
-Ah ouais, on va vraiment être extru.
+**[01:40:40 - 01:40:40] speaker**
+il va comprendre
 
-**[02:02:46 - 02:02:51] pollux8888**  
-Il y a un peu la finage, mais, hey, merci.
+**[01:40:41 - 01:40:41] speaker**
+du quoi.
 
-**[02:02:51 - 02:02:53] _redsun**  
-Je ne vais pas faire un peu comme la structure.
+**[01:40:41 - 01:40:41] speaker**
+Ouais,
 
-**[02:02:53 - 02:03:05] _redsun**  
-On a pas vraiment éclaté dans la vidéo.
+**[01:40:41 - 01:40:41] speaker**
+qui est ça?
 
-**[02:02:54 - 02:02:57] pollux8888**  
-Je pense que les clattés, ce que tu disais...
+**[01:40:42 - 01:40:42] speaker**
+On y va,
 
-**[02:02:57 - 02:03:00] pollux8888**  
-Avec les clattés pour voir les mouvements.
+**[01:40:43 - 01:40:43] speaker**
+là, là, là.
 
-**[02:03:10 - 02:03:14] _redsun**  
-La personne peut plus en ce que là, il fait ça, parce que c'est une petite tourne.
+**[01:40:45 - 01:40:45] speaker**
+Moi,
 
-**[02:03:14 - 02:03:18] _redsun**  
-Je fais vraiment essayer de faire un peu sérieusement,
+**[01:40:45 - 01:40:45] speaker**
+je vais faire
 
-**[02:03:18 - 02:03:20] _redsun**  
-on va un petit moment pour le faire,
+**[01:40:45 - 01:40:45] speaker**
+10 secondes pas plus,
 
-**[02:03:20 - 02:03:22] _redsun**  
-et tout est encore plus en profondeur.
+**[01:40:46 - 01:40:46] speaker**
+je le jenaire,
 
-**[02:03:21 - 02:03:26] pollux8888**  
-Je suis en train de faire une vie qui t'aura fait.
+**[01:40:47 - 01:40:47] speaker**
+alors aucune avis de
 
-**[02:03:48 - 02:03:51] pollux8888**  
-et puis qui sert à rien, pas qui sert à rien mais.
+**[01:40:48 - 01:40:48] speaker**
+ce que...
 
-**[02:04:00 - 02:04:02] pchartois**  
-T'as pas vu dans la réelle, elle a le sport, c'est bien.
+**[01:40:50 - 01:40:50] speaker**
+ça a un peu
 
-**[02:04:04 - 02:04:07] _redsun**  
-C'est remonte-le, poigné, c'est vraiment le saussi.
+**[01:40:51 - 01:40:51] speaker**
+con,
 
-**[02:04:09 - 02:04:14] _redsun**  
-Donc, voilà, mais c'est... Est-ce qu'il y a encore des questions par rapport à ce soir, est-ce que vous voulez encore poser quelque chose ?
+**[01:40:51 - 01:40:51] speaker**
+il faut faire.
 
-**[02:04:19 - 02:04:25] gilles_35307**  
-Au début, on parle de JMA4 et puis les autres modèles.
+**[01:40:52 - 01:40:52] speaker**
+Non.
 
-**[02:04:25 - 02:04:29] gilles_35307**  
-Juste pour ma comprension qui suitent vraiment un peu néochite.
+**[01:40:53 - 01:40:53] speaker**
+Parce que faire un éclater
 
-**[02:04:29 - 02:04:34] gilles_35307**  
-Comment tu arrives à utiliser les deux ? Donc il y a avoir JMA4 en local
+**[01:40:54 - 01:40:54] speaker**
+de mouvement
 
-**[02:04:34 - 02:04:41] gilles_35307**  
-et utiliser d'autres meuls plus complexe comme j'ai pété 5, 5 et Claude.
+**[01:40:55 - 01:40:55] speaker**
+en 3D,
 
-**[02:04:48 - 02:04:50] gilles_35307**  
-C'est ça c'est sur eux. On est d'accord c'est sur eux même maquemignaire.
+**[01:40:56 - 01:40:56] speaker**
+ça toutes les...
 
-**[02:04:53 - 02:04:59] _redsun**  
-J'ai pléter 54, via autres, connections, et tâches, il m'a quatre points.
+**[01:40:57 - 01:40:57] speaker**
+toutes les marques,
 
-**[02:04:58 - 02:05:08] gilles_35307**  
-Ok, et ça elle a du tout dû en acheminer simple, ça ne s'attompare.
+**[01:40:58 - 01:40:58] speaker**
+les maisons,
 
-**[02:04:59 - 02:05:02] _redsun**  
-Quand on veut dire, on fait un lème studio.
+**[01:40:58 - 01:40:58] speaker**
+alors,
 
-**[02:05:02 - 02:05:04] _redsun**  
-Il y a besoin d'elle est le studio.
+**[01:40:58 - 01:40:58] speaker**
+là,
 
-**[02:05:09 - 02:05:12] _redsun**  
-C'est ici, c'est bon, justement, je le fais.
+**[01:40:59 - 01:40:59] speaker**
+il ne faut.
 
-**[02:05:12 - 02:05:18] _redsun**  
-J'ai ma 4e 2b, la version 2, elle tente très bien sur ma culée, elle va me la carte.
+**[01:41:00 - 01:41:00] speaker**
+Les voitures...
 
-**[02:05:19 - 02:05:22] _redsun**  
-4, c'est le milieu de paramètres en fait.
+**[01:41:01 - 01:41:01] speaker**
+Ah,
 
-**[02:05:23 - 02:05:29] _redsun**  
-Donc plus tate paramètres en même temps, elle pute à des bonnes calités de résultats en route pour simplifier quoi.
+**[01:41:01 - 01:41:01] speaker**
+ça coûte,
 
-**[02:05:29 - 02:05:33] _redsun**  
-En haut, plus les lourdes, plus les balaises, on va dire ça comme ça.
+**[01:41:03 - 01:41:03] speaker**
+moins,
 
-**[02:05:42 - 02:05:45] _redsun**  
-Et tu peux faire né mot tron aussi,
+**[01:41:04 - 01:41:04] speaker**
+juste le monde expérience
 
-**[02:05:46 - 02:05:50] _redsun**  
-né mot tron cadets, qu'elle a excellente, je sais, à vis-à-dire,
+**[01:41:05 - 01:41:05] speaker**
+y a 15 ans,
 
-**[02:05:51 - 02:05:54] _redsun**  
-qu'on ne va pas t'en 35 bé, ça ne va pas bon,
+**[01:41:07 - 01:41:07] speaker**
+je me sens plus,
 
-**[02:05:55 - 02:05:58] _redsun**  
-9 bé, ça ne marche pas mon plus, c'est trop lourant,
+**[01:41:08 - 01:41:08] speaker**
+c'est qu'elle,
 
-**[02:05:59 - 02:06:03] _redsun**  
-il y a le LFM un végal de bé, d'ailleurs il fait de n'importe quoi, mais il y a rigolo,
+**[01:41:09 - 01:41:09] speaker**
+quel maison,
 
-**[02:06:05 - 02:06:09] _redsun**  
-il y a ministra, qui est marchoci et puis il y a,
+**[01:41:11 - 01:41:11] speaker**
+l'orbitge est
 
-**[02:06:09 - 02:06:14] _redsun**  
-Il y a quoi une 3, 4b qui est pas mal.
+**[01:41:11 - 01:41:11] speaker**
+de 2.5-4
 
-**[02:06:14 - 02:06:21] _redsun**  
-La réalité elle c'est un peu de béçu là c'est une tue, les coins 3, 26b mais malheureusement
+**[01:41:13 - 01:41:13] speaker**
+François,
 
-**[02:06:21 - 02:06:24] _redsun**  
-sur la hétourne à partir de 60 à 12h.
+**[01:41:13 - 01:41:13] speaker**
+pour une vidéo
 
-**[02:06:24 - 02:06:31] _redsun**  
-Il va y avoir des trucs hein, il va se passer des délirs à un je crois parce que
+**[01:41:14 - 01:41:14] speaker**
+de 20 fonds.
 
-**[02:06:30 - 02:07:00] pchartois**  
-C'est pas le fait que c'est pas le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait que c'est le fait
+**[01:41:17 - 01:41:17] speaker**
+Ça, c'était l'orbitge,
 
-**[02:06:31 - 02:06:35] _redsun**  
-tu es partagé, alors moi je partage des pâpes p'il est derrière, faut me dire
+**[01:41:17 - 01:41:17] speaker**
+il y a
 
-**[02:06:35 - 02:06:44] _redsun**  
-c'est trop compliqué. J'ai partagé un papier de recherche sur deux chefs ou gueuls,
+**[01:41:19 - 01:41:19] speaker**
+15 ans, quoi.
 
-**[02:06:44 - 02:06:51] _redsun**  
-où ça parle de l'innovation technologique et derrière, comment ils appelerent ça,
+**[01:41:22 - 01:41:22] speaker**
+Et ce que tu peux faire là aussi,
 
-**[02:06:51 - 02:06:56] _redsun**  
-les multitokens de tradition de raffter MTP.
+**[01:41:23 - 01:41:23] speaker**
+c'est tout simplement prendre
 
-**[02:06:56 - 02:07:01] _redsun**  
-Et en fait j'ai ma carte qui est déjà rapide, va faire trois fois la vitesse.
+**[01:41:24 - 01:41:24] speaker**
+le vrai modèle 3D de la marque,
 
-**[02:07:05 - 02:07:10] _redsun**  
-Donc, et puis c'est Google qui est derrière, moi je m'intéresse au euro.
+**[01:41:26 - 01:41:26] speaker**
+et puis faire ça directement.
 
-**[02:07:10 - 02:07:13] _redsun**  
-Alibaba, c'est quoi, une fois des très bonmédales.
+**[01:41:30 - 01:41:30] speaker**
+Là, ça marche très très bien,
 
-**[02:07:13 - 02:07:19] _redsun**  
-J'ai regardé à NVIDIA parce qu'il y a une émotron et NVIDIA puis j'ai ma carte.
+**[01:41:32 - 01:41:32] speaker**
+parce que les pièces
 
-**[02:07:19 - 02:07:23] _redsun**  
-Les autres qui sont coulussies mais ils n'ont pas des moyens de faire la compédition
+**[01:41:33 - 01:41:33] speaker**
+sont bien définies par le modèle,
 
-**[02:07:23 - 02:07:30] _redsun**  
-quand c'est mec là quoi, simplement. Alors, ouais, qu'est-ce qu'il faut que je ne sais pas si
+**[01:41:35 - 01:41:35] speaker**
+et du coup,
 
-**[02:07:30 - 02:07:37] _redsun**  
-il faut que je ne suis pas si en modèle local, je crois pas, il y a Kimi qui a des
+**[01:41:35 - 01:41:35] speaker**
+il pourra comprendre
 
-**[02:07:37 - 02:07:41] _redsun**  
-très bons modèles locaux, mais ils sont très gros donc, c'est pas pour nous, moi moi
+**[01:41:36 - 01:41:36] speaker**
+la structure
 
-**[02:07:41 - 02:07:45] _redsun**  
-le tann B, les tannes B, les tannes B, les tannes de guerre, puis le tannes, il y a, je crois
+**[01:41:37 - 01:41:37] speaker**
+de la montre complètement.
 
-**[02:07:45 - 02:07:49] _redsun**  
-que mes minimales, ils font pas de modèles au paine soir, c'est ouais, je crois pas qu'ils font
+**[01:41:41 - 01:41:41] speaker**
+Mais bon,
 
-**[02:07:58 - 02:08:27] nano1992_**  
-Il n'y a pas de réussir à faire tourner des modèles sur des puces Huawei,
+**[01:41:41 - 01:41:41] speaker**
+on est...
 
-**[02:08:00 - 02:08:10] bensmart**  
-C'est une entreprise chinoise concentrée de tech, qu'il y a une trabutie sans, mais ils sont un peu à part, pas à port.
+**[01:41:42 - 01:41:42] speaker**
+Attends là,
 
-**[02:08:02 - 02:08:32] pollux8888**  
-C'est ici, c'est parce que nous on a fait une compétition avec
+**[01:41:42 - 01:41:42] speaker**
+comme maintenant,
 
-**[02:08:10 - 02:08:13] bensmart**  
-Tout d'autres entreprise chinoise...
+**[01:41:43 - 01:41:43] speaker**
+ouais.
 
-**[02:08:15 - 02:08:19] bensmart**  
-Je ne veux pas aller plus loin, mais c'est pas comme les autres.
+**[01:41:43 - 01:41:43] speaker**
+Attends,
 
-**[02:08:32 - 02:08:38] pollux8888**  
-avec justement les assants ou les attaussants ou les aches puis il y a des benchmarks
+**[01:41:44 - 01:41:44] speaker**
+on l'aille,
 
-**[02:08:39 - 02:08:43] nano1992_**  
-J'en veux que j'attends justement le patron d'ennVIDIA avec fait une
+**[01:41:45 - 01:41:45] speaker**
+on a joué
 
-**[02:08:43 - 02:08:48] nano1992_**  
-répondeux à une question par rapport à ça et que justement la Chine avait
+**[01:41:45 - 01:41:45] speaker**
+pour aller.
 
-**[02:08:48 - 02:08:53] nano1992_**  
-plus tellement de retard malgré que les américains étaient encore des embarquaux
+**[01:41:47 - 01:41:47] speaker**
+Ça peut donner un truc des guerraces,
 
-**[02:08:53 - 02:08:56] nano1992_**  
-sur les plus puissantes que une vidéo fabriquée.
+**[01:41:49 - 01:41:49] speaker**
+je sais pas du tout ce que ça va faire.
 
-**[02:08:56 - 02:08:59] nano1992_**  
-pour ne pas les envoyer en Chine à cause justement de
+**[01:41:52 - 01:41:52] speaker**
+C'est juste que j'ai pris
 
-**[02:08:59 - 02:09:02] nano1992_**  
-pour préserver la lancé tecnologique puis que
+**[01:41:53 - 01:41:53] speaker**
+ces denses 2 en 10 secondes.
 
-**[02:09:02 - 02:09:04] nano1992_**  
-maintenant le retard était très pire.
+**[01:41:54 - 01:41:54] speaker**
+A genre du phalodium,
 
-**[02:09:08 - 02:09:12] pollux8888**  
-les studentes de même public, justement, de les bench-partes, les assants, les achessants
+**[01:41:55 - 01:41:55] speaker**
+c'est pas là.
 
-**[02:09:15 - 02:09:19] pollux8888**  
-Et puis nous, enfin, notre CTO avait décidé et puis,
+**[01:41:57 - 01:41:57] speaker**
+Bon, c'est pas très important,
 
-**[02:09:19 - 02:09:23] pollux8888**  
-pour l'utilisation qu'on en fait, ça suffit, en plus le monde.
+**[01:41:58 - 01:41:58] speaker**
+le dieu.
 
-**[02:09:29 - 02:09:32] _redsun**  
-Oui, alors tout à fait, il y a les plus soins-vahés qui vont arriver,
+**[01:41:59 - 01:41:59] speaker**
+Juste voir ce que ça fait,
 
-**[02:09:34 - 02:09:47] _redsun**  
-mais moi je pense surtout qu'il va se passer entre que c'est très spécifique, c'est que là les modèles vont réduire leur consommation de ce que ça peut la faire de contexte, c'est grâce au quavez cache,
+**[01:42:02 - 01:42:02] speaker**
+on de s'en crée
 
-**[02:09:47 - 02:10:04] _redsun**  
-c'est un peu compliqué mais c'est super cruciale et ce que je vous ai partagé, c'est le papier de recherche de Google, c'est belles turbo quantes qui permettent de compresser en fait le cache et donc d'utiliser beaucoup moins de type de contexte et c'est la clé pour faire des modèles justement
+**[01:42:03 - 01:42:03] speaker**
+10,
 
-**[02:10:04 - 02:10:11] _redsun**  
-de l'occu et c'est un game changer quoi il faut le comprendre
+**[01:42:03 - 01:42:03] speaker**
+règle du mal à me rendre compte,
 
-**[02:10:08 - 02:10:15] pollux8888**  
-J'ai justement exactement exactement pour revendre ce que tu viens de dire, eux ils ont
+**[01:42:05 - 01:42:05] speaker**
+qu'on vient ça faire.
 
-**[02:10:15 - 02:10:21] pollux8888**  
-parvêt à la développer pas mal de solution en pinceauir pour les LM, justement pour la gestion
+**[01:42:07 - 01:42:07] speaker**
+Je suis en fait un tel pour faire.
 
-**[02:10:23 - 02:10:28] _redsun**  
-je sais que par exemple d'y psique dans son dernier modèle
+**[01:42:08 - 01:42:08] speaker**
+Parce que avant,
 
-**[02:10:28 - 02:10:30] _redsun**  
-il a un truc très spécifique là dessus sur le quavec à ce
+**[01:42:09 - 01:42:09] speaker**
+tu étais 13 ans avec
 
-**[02:10:30 - 02:10:34] _redsun**  
-ça pandène non, mais toujours des non, j'ai plus une attellement.
+**[01:42:10 - 01:42:10] speaker**
+l'ammanente,
 
-**[02:10:34 - 02:10:36] _redsun**  
-Mais un rôle, c'est toujours la même idée quoi.
+**[01:42:11 - 01:42:11] speaker**
+1100.
 
-**[02:10:39 - 02:10:42] _redsun**  
-Après, c'est ma thé, et quand même, peut-être que je me gorge.
+**[01:42:13 - 01:42:13] speaker**
+Ouais,
 
-**[02:10:42 - 02:10:44] _redsun**  
-Mais un rôle, je suis sûr, qu'on va arriver dans un monde,
+**[01:42:13 - 01:42:13] speaker**
+qui se moi je m'en fous.
 
-**[02:10:44 - 02:10:48] _redsun**  
-où tu vas faire tourner ton opu sur ton esort à bacon à la maison.
+**[01:42:15 - 01:42:15] speaker**
+200, 200, 200, 200 clé d'hénie.
 
-**[02:10:51 - 02:11:11] bensmart**  
-Je suis pas vraiment de cet avila, mais ça te s'intéressant.
+**[01:42:18 - 01:42:18] speaker**
+Même ça m'intéresse de voir,
 
-**[02:10:51 - 02:10:53] _redsun**  
-Et à partir de jour là, il y a tout qui change.
+**[01:42:21 - 01:42:21] speaker**
+la fête est un test,
 
-**[02:10:55 - 02:10:58] _redsun**  
-C'est à plus besoin des mecs qui vont de leur truc une blinde,
+**[01:42:22 - 01:42:22] speaker**
+on est bien accord,
 
-**[02:10:58 - 02:11:00] _redsun**  
-Et puis, il était plus dépendante par ça de quoi.
+**[01:42:22 - 01:42:22] speaker**
+mais ça m'intéresse de voir
 
-**[02:11:11 - 02:11:19] bensmart**  
-parce que les esparlons, c'est tout le monde, fait tourner leur modèle localement,
+**[01:42:24 - 01:42:24] speaker**
+qu'est ce qui peut si vous êtes faire.
 
-**[02:11:19 - 02:11:23] bensmart**  
-sans payer un rond pour les toquelles.
+**[01:42:26 - 01:42:26] speaker**
+Tu disais par référol pour Roissar,
 
-**[02:11:23 - 02:11:29] bensmart**  
-Comment ils arrivent à randomiser, voir faire des profils sur leur aiméciement?
+**[01:42:28 - 01:42:28] speaker**
+comme ça on peut tester la terre.
 
-**[02:11:29 - 02:11:33] bensmart**  
-J'y conteste les aiméciement dans EI.
+**[01:42:30 - 01:42:30] speaker**
+référol qui donne après
 
-**[02:11:33 - 02:11:39] bensmart**  
-les cartes graphiques, les agénieurs,
+**[01:42:31 - 01:42:31] speaker**
+un prépensile.
 
-**[02:11:39 - 02:11:42] bensmart**  
-et les cartes graphiques, les agénieurs,
+**[01:42:33 - 01:42:33] speaker**
+Ouais.
 
-**[02:11:40 - 02:11:45] _redsun**  
-Ah, même pas ce que les chinois, il distile en fait en
+**[01:42:33 - 01:42:33] speaker**
+Tu l'as pas fait,
 
-**[02:11:42 - 02:11:46] bensmart**  
-et les cartes graphiques, les agénieurs,
+**[01:42:34 - 01:42:34] speaker**
+ok.
 
-**[02:11:45 - 02:11:49] _redsun**  
-dit, distile à mort, les modènes, et c'est très smarte, et franchement.
+**[01:42:34 - 01:42:34] speaker**
+On est sûrs.
 
-**[02:11:46 - 02:11:50] bensmart**  
-et les cartes graphiques, les agénieurs,
+**[01:42:35 - 01:42:35] speaker**
+Je l'ai mis sur tout,
 
-**[02:11:53 - 02:11:55] bensmart**  
-et les cartes graphiques, les agénieurs, les cartes graphiques, les agénieurs,
+**[01:42:37 - 01:42:37] speaker**
+ce qui est intéressant,
 
-**[02:11:55 - 02:12:00] bensmart**  
-de mon avis, c'est vraiment, c'est du bisesse, c'est pas un truc charitable.
+**[01:42:37 - 01:42:37] speaker**
+c'est que c'est un de là le premier mois.
 
-**[02:11:58 - 02:12:05] _redsun**  
-Je ne suis pas bien compris quand ça va se le couper, mais en tout cas ce que je vois,
+**[01:42:39 - 01:42:39] speaker**
+Donc,
 
-**[02:12:05 - 02:12:11] _redsun**  
-c'est que même quand même 27 b, aujourd'hui, il y a 90% des usages à jeune avres,
+**[01:42:39 - 01:42:39] speaker**
+franchement,
 
-**[02:12:11 - 02:12:14] _redsun**  
-je pense qu'il peut être conbée par ça madellable.
+**[01:42:42 - 01:42:42] speaker**
+il faut qu'on y fait.
 
-**[02:12:15 - 02:12:18] bensmart**  
-J'ai fait vraiment juste pour donner une idée
+**[01:42:43 - 01:42:43] speaker**
+On y va, on y va, j'ai pas compris.
 
-**[02:12:19 - 02:12:22] bensmart**  
-et il y a assistant qui s'appelle D'Obore
+**[01:42:45 - 01:42:45] speaker**
+C'est là,
 
-**[02:12:22 - 02:12:26] bensmart**  
-qui est utilisé par Améler de Chinois, quotidiennement,
+**[01:42:46 - 01:42:46] speaker**
+je fais là.
 
-**[02:12:29 - 02:12:36] bensmart**  
-et hier ils ont lancé, hier ils ont pu lier les abonnements payants.
+**[01:42:47 - 01:42:47] speaker**
+Je suis là.
 
-**[02:12:36 - 02:12:40] bensmart**  
-Donc voilà c'est ça d'orbao, c'est aussi, voilà.
+**[01:42:49 - 01:42:49] speaker**
+C'est que le proche est.
 
-**[02:12:40 - 02:12:47] bensmart**  
-Un autre pour la Anien de Fora, c'est à notre produit du même groupe TikTok,
+**[01:42:52 - 01:42:52] speaker**
+Voilà.
 
-**[02:12:50 - 02:12:54] bensmart**  
-Biden c'est Biden c'est encore Biden,
+**[01:42:52 - 01:42:52] speaker**
+Bon, quoi tu as?
 
-**[02:12:54 - 02:13:01] bensmart**  
-ils ont pris un large, ça fait que 10 ans, c'est dans les exeux. Ils sont en une prédent. Ils sont en une prédent.
+**[01:42:54 - 01:42:54] speaker**
+En juste en en attendant,
 
-**[02:12:57 - 02:13:00] _redsun**  
-et euh... Qu'est-ce qu'il faut là ?
+**[01:42:55 - 01:42:55] speaker**
+j'ai juste un partage,
 
-**[02:13:01 - 02:13:11] bensmart**  
-Et surtout pour le traitement de texte en Chinois, c'est sûrement ce numéro, c'est le numéro.
+**[01:42:57 - 01:42:57] speaker**
+juste un infoto.
 
-**[02:13:11 - 02:13:13] pollux8888**  
-La base en avantage de voir la masse critique.
+**[01:43:01 - 01:43:01] speaker**
+Après, il est tellement,
 
-**[02:13:16 - 02:13:20] _redsun**  
-Tout bas au p'tit... C'est agréable, ça a personne en tournit par les saïsiques, ouais...
+**[01:43:02 - 01:43:02] speaker**
+ce qu'on a été malin,
 
-**[02:13:18 - 02:13:26] bensmart**  
-Et bien, ils ont pas, ils ont pas, ils ne se radez pas, ils ont pas poussé ça à l'international.
+**[01:43:03 - 01:43:03] speaker**
+justement,
 
-**[02:13:26 - 02:13:28] bensmart**  
-C'est que utiliser un chine Continental.
+**[01:43:03 - 01:43:03] speaker**
+c'est que tu me donne la photo de la montre.
 
-**[02:13:27 - 02:13:33] _redsun**  
-à mes serres ben plus d'âtre, au moins pour un ou pas.
+**[01:43:05 - 01:43:05] speaker**
+Et là,
 
-**[02:13:29 - 02:13:35] bensmart**  
-Non, non, non, non, non, tu peux le relier, il y a un appui.
+**[01:43:05 - 01:43:05] speaker**
+ça.
 
-**[02:13:35 - 02:13:39] bensmart**  
-Non, mais je me rends tu vois, c'est vraiment un...
+**[01:43:06 - 01:43:06] speaker**
+Oui.
 
-**[02:13:39 - 02:13:42] bensmart**  
-Une se radezue d'investissement à très long terme.
+**[01:43:07 - 01:43:07] speaker**
+Oui.
 
-**[02:13:42 - 02:13:50] bensmart**  
-mais sur moi un jour ils vont sérer les filaires on va tous passer par payer quelque chose
+**[01:43:07 - 01:43:07] speaker**
+Oui.
 
-**[02:13:50 - 02:13:56] bensmart**  
-sinon tous ces investissements ne se propagent jamais
+**[01:43:07 - 01:43:07] speaker**
+Oui.
 
-**[02:13:54 - 02:13:57] _redsun**  
-Ouais mais la boîte de pendants est déjà horent.
+**[01:43:10 - 01:43:10] speaker**
+Alors.
 
-**[02:13:57 - 02:13:59] _redsun**  
-Les modèles peuvent être sortes, on déjà là.
+**[01:43:11 - 01:43:11] speaker**
+C'est quand je vois,
 
-**[02:13:59 - 02:14:03] _redsun**  
-Donc en fait, puis des améliorés maintenant.
+**[01:43:12 - 01:43:12] speaker**
+c'est genre.
 
-**[02:14:03 - 02:14:05] _redsun**  
-Il n'y a pas de la nouvelle technologie,
+**[01:43:14 - 01:43:14] speaker**
+Voilà, je ne vois pas.
 
-**[02:14:05 - 02:14:08] _redsun**  
-mais de la nouvelle façon de structurer les élènes.
+**[01:43:14 - 01:43:14] speaker**
+Je ne vois pas.
 
-**[02:14:08 - 02:14:13] _redsun**  
-On essaye d'être plus malin, on fait d'optimiser le camécage
+**[01:43:15 - 01:43:15] speaker**
+Très ça.
 
-**[02:14:15 - 02:14:18] _redsun**  
-Et en fait, je vois pas ce qui va empêcher
+**[01:43:16 - 01:43:16] speaker**
+Je ne sais pas.
 
-**[02:14:21 - 02:14:23] _redsun**  
-En fin tu prends une base qu'on a un petit coup
+**[01:43:17 - 01:43:17] speaker**
+Je te bouge.
 
-**[02:14:23 - 02:14:27] _redsun**  
-comment ça te m'arrête sur, puis tu commençais à développer notre IED-Suc.
+**[01:43:18 - 01:43:18] speaker**
+Je te bouge.
 
-**[02:14:27 - 02:14:36] _redsun**  
-Tu vois, on verra, on peut-être sur la production, mais moi je pense que les
+**[01:43:19 - 01:43:19] speaker**
+Mais.
 
-**[02:14:36 - 02:14:41] _redsun**  
-usquets sur les usages, quand tu vas en suivre cela, tout quand je n'avais ce que
+**[01:43:20 - 01:43:20] speaker**
+Est-ce que je regarde
 
-**[02:14:41 - 02:14:46] _redsun**  
-font les gens avec l'Ia, c'est normal, un truc qui vient à deux ans, il n'y aurait pas
+**[01:43:21 - 01:43:21] speaker**
+le direct,
 
-**[02:14:42 - 02:14:55] bensmart**  
-La T-shirt prend l'exemple, vraiment le plus, le moire représentatif sur terre.
+**[01:43:21 - 01:43:21] speaker**
+direct,
 
-**[02:14:46 - 02:14:50] _redsun**  
-la différence, ça va, c'est vrai, il y a des mecs.
+**[01:43:23 - 01:43:23] speaker**
+va?
 
-**[02:14:50 - 02:15:05] _redsun**  
-d'un mec, je vois que j'ai des gros entreprises, je sais qu'il y a des gros entreprises,
+**[01:43:24 - 01:43:24] speaker**
+C'est correct.
 
-**[02:15:05 - 02:15:13] _redsun**  
-si tu as du BT 4 ans, voilà, bah justement, c'est ce qu'est-ce qu'ils ont fait, alors
+**[01:43:25 - 01:43:25] speaker**
+Eh rien qui vient.
 
-**[02:15:18 - 02:15:21] _redsun**  
-Attends que mon terme est à d'être tous les plus écras...
+**[01:43:27 - 01:43:27] speaker**
+C'est correct.
 
-**[02:15:26 - 02:15:30] _redsun**  
-Je me dis, c'est un bon modèle de bonne source, peut-être.
+**[01:43:27 - 01:43:27] speaker**
+Tu ne vois pas.
 
-**[02:15:40 - 02:15:42] pollux8888**  
-En vrai, en vrai, c'est un autre type.
+**[01:43:28 - 01:43:28] speaker**
+Moi, je vois rien,
 
-**[02:15:40 - 02:15:47] _redsun**  
+**[01:43:29 - 01:43:29] speaker**
+tu veux que je passe,
+
+**[01:43:30 - 01:43:30] speaker**
+c'est des autres,
+
+**[01:43:30 - 01:43:30] speaker**
+et vrai.
+
+**[01:43:31 - 01:43:31] speaker**
+Non.
+
+**[01:43:33 - 01:43:33] speaker**
+Attends, t'as.
+
+**[01:43:35 - 01:43:35] speaker**
+Ah, j'ai...
+
+**[01:43:35 - 01:43:35] speaker**
+Attend, j'ai juste,
+
+**[01:43:36 - 01:43:36] speaker**
+j'ai la vidéo.
+
+**[01:43:37 - 01:43:37] speaker**
+Ah, regarde, vous?
+
+**[01:43:39 - 01:43:39] speaker**
+Oui.
+
+**[01:43:40 - 01:43:40] speaker**
+Ah, mais...
+
+**[01:43:41 - 01:43:41] speaker**
+On se...
+
+**[01:43:42 - 01:43:42] speaker**
+Oui, c'est très bon.
+
+**[01:43:43 - 01:43:43] speaker**
+Oui, c'est bon.
+
+**[01:43:45 - 01:43:45] speaker**
+Oh, là, là.
+
+**[01:43:46 - 01:43:46] speaker**
+Ouais.
+
+**[01:43:48 - 01:43:48] speaker**
+Puts.
+
+**[01:43:48 - 01:43:48] speaker**
+Ah, putain.
+
+**[01:43:49 - 01:43:49] speaker**
+Ah, putain.
+
+**[01:43:51 - 01:43:51] speaker**
+C'est pas...
+
+**[01:43:53 - 01:43:53] speaker**
+Oh, va, le corps.
+
+**[01:43:55 - 01:43:55] speaker**
+Franchement.
+
+**[01:43:56 - 01:43:56] speaker**
+J'ai du genre sérieux.
+
+**[01:43:57 - 01:43:57] speaker**
+Je peux, bon.
+
+**[01:43:57 - 01:43:57] speaker**
+Parce que ça, c'est beau.
+
+**[01:43:59 - 01:43:59] speaker**
+Oh, c'est...
+
+**[01:44:01 - 01:44:01] speaker**
+Alors, si tu as des belles photos,
+
+**[01:44:02 - 01:44:02] speaker**
+je pense que c'est parfois.
+
+**[01:44:06 - 01:44:06] speaker**
+Faut d'adébé le photo de la montre
+
+**[01:44:07 - 01:44:07] speaker**
+Réal, sur plusieurs angles.
+
+**[01:44:09 - 01:44:09] speaker**
+Et là, tu t'es clappable.
+
+**[01:44:10 - 01:44:10] speaker**
+Non, je...
+
+**[01:44:11 - 01:44:11] speaker**
+J'étais enjeu.
+
+**[01:44:12 - 01:44:12] speaker**
+Je vais être montré.
+
+**[01:44:13 - 01:44:13] speaker**
+Ah, là, t'as...
+
+**[01:44:15 - 01:44:15] speaker**
+Ça, c'est stylé.
+
+**[01:44:16 - 01:44:16] speaker**
+Je n'ai pas demandé.
+
+**[01:44:17 - 01:44:17] speaker**
+Ça, ça, ça, ça, ça, ça.
+
+**[01:44:18 - 01:44:18] speaker**
+Le petit...
+
+**[01:44:18 - 01:44:18] speaker**
+Le petit...
+
+**[01:44:18 - 01:44:18] speaker**
+Le petit...
+
+**[01:44:19 - 01:44:19] speaker**
+Le petit...
+
+**[01:44:19 - 01:44:19] speaker**
+Le petit...
+
+**[01:44:20 - 01:44:20] speaker**
+Ça, c'est agolo.
+
+**[01:44:21 - 01:44:21] speaker**
+Ah.
+
+**[01:44:22 - 01:44:22] speaker**
+Ah.
+
+**[01:44:22 - 01:44:22] speaker**
+Ah.
+
+**[01:44:23 - 01:44:23] speaker**
+Tu as révembre l'envoyer,
+
+**[01:44:23 - 01:44:23] speaker**
+c'est vrai, c'est le vidéo.
+
+**[01:44:25 - 01:44:25] speaker**
+Oh, ouais, bon, les dégueules, tu es...
+
+**[01:44:27 - 01:44:27] speaker**
+Non, il est bien, il est bien.
+
+**[01:44:28 - 01:44:28] speaker**
+Je connais quelqu'un qui,
+
+**[01:44:31 - 01:44:31] speaker**
+qui bossa à communication sur l'ext.
+
+**[01:44:32 - 01:44:32] speaker**
+Je vais demander combien ça coûte.
+
+**[01:44:34 - 01:44:34] speaker**
+Ah, je...
+
+**[01:44:35 - 01:44:35] speaker**
+J'ai une idée de l'envoyer.
+
+**[01:44:37 - 01:44:37] speaker**
+Ah, je...
+
+**[01:44:38 - 01:44:38] speaker**
+J'ai une idée de l'envoyer.
+
+**[01:44:40 - 01:44:40] speaker**
+Ah, oui.
+
+**[01:44:41 - 01:44:41] speaker**
+Et donc du coup, en fait, tu peux envoyer une photo d'un produit.
+
+**[01:44:48 - 01:44:48] speaker**
+Et puis le demander de l'animer, et c'était rare,
+
+**[01:44:51 - 01:44:51] speaker**
+de faire un film d'un autre talent.
+
+**[01:44:52 - 01:44:52] speaker**
+Peut-être, c'est pour pour me...
+
+**[01:44:54 - 01:44:54] speaker**
+Et le tout vient notre chier au peu le cœur.
+
+**[01:44:57 - 01:44:57] speaker**
+Ah, en fait, justement, c'est ça qui est super intéressant.
+
+**[01:45:00 - 01:45:00] speaker**
+Moi, j'adore les trucs qui sont un peu multiples.
+
+**[01:45:02 - 01:45:02] speaker**
+Tu peux le faire avec d'autres toulres.
+
+**[01:45:04 - 01:45:04] speaker**
+Mais bizarrement, par exemple,
+
+**[01:45:05 - 01:45:05] speaker**
+il y a une sparke, il y a une sparke,
+
+**[01:45:07 - 01:45:07] speaker**
+le coup de la vidéo est plus évec chez Messier.
+
+**[01:45:09 - 01:45:09] speaker**
+Tu m'as pourquoi, je ne sais pas compris.
+
+**[01:45:11 - 01:45:11] speaker**
+C'est plus élevé.
+
+**[01:45:12 - 01:45:12] speaker**
+Donc du coup, je passe par Messier pour générer la vidéo.
+
+**[01:45:15 - 01:45:15] speaker**
+Tu vois, bon, c'est...
+
+**[01:45:17 - 01:45:17] speaker**
+Et il y a...
+
+**[01:45:18 - 01:45:18] speaker**
+T'as des temps de plait sur Messier par exemple,
+
+**[01:45:20 - 01:45:20] speaker**
+petite oque, et ça, les trucs...
+
+**[01:45:24 - 01:45:24] speaker**
+Ils sont par...
+
+**[01:45:24 - 01:45:24] speaker**
+Non, parce que...
+
+**[01:45:25 - 01:45:25] speaker**
+Parce que là, tout à l'heure...
+
+**[01:45:27 - 01:45:27] speaker**
+T'as un train de vous l'ordétre.
+
+**[01:45:29 - 01:45:29] speaker**
+Je suis souvent...
+
+**[01:45:31 - 01:45:31] speaker**
+Non, va, tu te veux faire ça?
+
+**[01:45:32 - 01:45:32] speaker**
+Pas...
+
+**[01:45:33 - 01:45:33] speaker**
+Il te filise.
+
+**[01:45:35 - 01:45:35] speaker**
+Qui est, en fait, une place...
+
+**[01:45:38 - 01:45:38] speaker**
+Ouais.
+
+**[01:45:40 - 01:45:40] speaker**
+Une place, on se spéciale pour faire de la vidéo.
+
+**[01:45:42 - 01:45:42] speaker**
+Et là, tu as des temps de plait, petite oque,
+
+**[01:45:43 - 01:45:43] speaker**
+ça, c'est la bombe, la dingue.
+
+**[01:45:46 - 01:45:46] speaker**
+Des géniales pour faire la crainte sur vidéo,
+
+**[01:45:48 - 01:45:48] speaker**
+par contre les guènes,
+
+**[01:45:49 - 01:45:49] speaker**
+c'est régale sur les prix.
+
+**[01:45:51 - 01:45:51] speaker**
+T'as coup de ne blanc, mais c'est un truc de fou quoi.
+
+**[01:45:55 - 01:45:55] speaker**
+C'est ce que tu veux?
+
+**[01:45:57 - 01:45:57] speaker**
+C'est bon.
+
+**[01:45:58 - 01:45:58] speaker**
+Pas...
+
+**[01:45:59 - 01:45:59] speaker**
+Imagine, un prix élevé.
+
+**[01:46:00 - 01:46:00] speaker**
+Bon, multiplieu le part de...
+
+**[01:46:02 - 01:46:02] speaker**
+Bon, ça dépend.
+
+**[01:46:04 - 01:46:04] speaker**
+C'est une vie à sa coule d'hide de l'art tokens.
+
+**[01:46:06 - 01:46:06] speaker**
+C'est durien de part pour la vraie vie.
+
+**[01:46:08 - 01:46:08] speaker**
+C'est ça, c'est aussi notre problème.
+
+**[01:46:10 - 01:46:10] speaker**
+Pour te dire, moi, j'ai fait une vidéo avec...
+
+**[01:46:12 - 01:46:12] speaker**
+Je peux vous la montrer.
+
+**[01:46:13 - 01:46:13] speaker**
+C'est...
+
+**[01:46:13 - 01:46:13] speaker**
+Je suis dépressif de ces...
+
+**[01:46:16 - 01:46:16] speaker**
+Je voulais tester un truc, j'ai pris un abonnement, un mois,
+
+**[01:46:19 - 01:46:19] speaker**
+j'ai dis, je teste.
+
+**[01:46:20 - 01:46:20] speaker**
+Allez, j'aime bien, regardez ce que ça donne.
+
+**[01:46:24 - 01:46:24] speaker**
+Et puis, d'ailleurs,
+
+**[01:46:25 - 01:46:25] speaker**
+je pense qu'il est long de la pays aussi.
+
+**[01:46:27 - 01:46:27] speaker**
+Je pense qu'ils ont un appais.
+
+**[01:46:30 - 01:46:30] speaker**
+Avers ici, hein.
+
+**[01:46:32 - 01:46:32] speaker**
+Et là, je suis allé dans une vidéo.
+
+**[01:46:35 - 01:46:35] speaker**
+On monte déjà à l'interface.
+
+**[01:46:36 - 01:46:36] speaker**
+C'est à mon bordel quoi.
+
+**[01:46:39 - 01:46:39] speaker**
+Je ne retrouve pas mes vidéos, quoi.
+
+**[01:46:43 - 01:46:43] speaker**
+C'est quand même.
+
+**[01:46:45 - 01:46:45] speaker**
+Pourquoi je ne sais pas du vidéo, là?
+
+**[01:46:49 - 01:46:49] speaker**
+Ah...
+
+**[01:46:51 - 01:46:51] speaker**
+Donc, dans mes chides, tu peux finir je vais sur ça.
+
+**[01:46:53 - 01:46:53] speaker**
+Dans mes chides, tu peux utiliser Sidence 2.0.
+
+**[01:46:56 - 01:46:56] speaker**
+Oui, voilà.
+
+**[01:46:57 - 01:46:57] speaker**
+Donc, il y a une appaisie.
+
+**[01:46:58 - 01:46:58] speaker**
+Donc, ça veut dire que depuis ton opune clô,
+
+**[01:47:00 - 01:47:00] speaker**
+c'est-à-dire les processes communes,
+
+**[01:47:01 - 01:47:01] speaker**
+huitaines, etc.
+
+**[01:47:02 - 01:47:02] speaker**
+Les agents et tout.
+
+**[01:47:03 - 01:47:03] speaker**
+Tu peux automatiser la pollution de vidéo.
+
+**[01:47:08 - 01:47:08] speaker**
+Grâce à cet appais, etc.
+
+**[01:47:10 - 01:47:10] speaker**
+Exactement.
+
+**[01:47:11 - 01:47:11] speaker**
+Alors, en torçant mes chides,
+
+**[01:47:12 - 01:47:12] speaker**
+de l'interesse, c'est passé la 3D.
+
+**[01:47:15 - 01:47:15] speaker**
+Moi, je trouve ça intéressant.
+
+**[01:47:16 - 01:47:16] speaker**
+Ouais, je vois ça.
+
+**[01:47:17 - 01:47:17] speaker**
+De façon de dire, je passe de la 3D à la vidéo.
+
+**[01:47:20 - 01:47:20] speaker**
+Que ne soutenait une...
+
+**[01:47:21 - 01:47:21] speaker**
+T'as un truc qui, tu peux faire un personnage qui est...
+
+**[01:47:24 - 01:47:24] speaker**
+Les histoires.
+
+**[01:47:25 - 01:47:25] speaker**
+Hum.
+
+**[01:47:27 - 01:47:27] speaker**
+Ah...
+
+**[01:47:27 - 01:47:27] speaker**
+Et tu vas y, à MCP, à Y, à MCP.
+
+**[01:47:29 - 01:47:29] speaker**
+Pour eux.
+
+**[01:47:30 - 01:47:30] speaker**
+Voilà, y a un CD.
+
+**[01:47:32 - 01:47:32] speaker**
+Abau voilà.
+
+**[01:47:32 - 01:47:32] speaker**
+T'en hermes, ça j'en opune clô.
+
+**[01:47:34 - 01:47:34] speaker**
+Abau là, ça ne me prend.
+
+**[01:47:36 - 01:47:36] speaker**
+N'est-ce que l'hémoclô, parce que...
+
+**[01:47:38 - 01:47:38] speaker**
+Donc, tu peux passer par exemple,
+
+**[01:47:42 - 01:47:42] speaker**
+pour générer de la vidéo,
+
+**[01:47:43 - 01:47:43] speaker**
+à la voler avec ton opune clô.
+
+**[01:47:45 - 01:47:45] speaker**
+Et faire des trucs aussi dedans,
+
+**[01:47:47 - 01:47:47] speaker**
+voilà, attention, ça bonne barre de le prix.
+
+**[01:47:49 - 01:47:49] speaker**
+Je m'en ai...
+
+**[01:47:51 - 01:47:51] speaker**
+Moi, j'étais vachement des subes,
+
+**[01:47:52 - 01:47:52] speaker**
+parce que je sais qu'il y a mon pot,
+
+**[01:47:53 - 01:47:53] speaker**
+qu'il fait la vidéo pro,
+
+**[01:47:55 - 01:47:55] speaker**
+il travaille pro, je crois.
+
+**[01:47:56 - 01:47:56] speaker**
+C'est japon...
+
+**[01:47:57 - 01:47:57] speaker**
+Je n'apprends pas beaucoup,
+
+**[01:47:58 - 01:47:58] speaker**
+à tout comme ça,
+
+**[01:47:59 - 01:47:59] speaker**
+nous on vous boulotent.
+
+**[01:48:01 - 01:48:01] speaker**
+Lui, l'hétit de ça,
+
+**[01:48:02 - 01:48:02] speaker**
+pour...
+
+**[01:48:03 - 01:48:03] speaker**
+Ce qui est vachement vachement,
+
+**[01:48:05 - 01:48:05] speaker**
+par contre,
+
+**[01:48:06 - 01:48:06] speaker**
+bon,
+
+**[01:48:06 - 01:48:06] speaker**
+là,
+
+**[01:48:07 - 01:48:07] speaker**
+pour les prix pour se marrer,
+
+**[01:48:09 - 01:48:09] speaker**
+c'est trop cher pour rigoler quoi.
+
+**[01:48:13 - 01:48:13] speaker**
+Après, c'est pas un ben,
+
+**[01:48:14 - 01:48:14] speaker**
+t'as rien à voir.
+
+**[01:48:15 - 01:48:15] speaker**
+On me voit sur CDN2 toi.
+
+**[01:48:17 - 01:48:17] speaker**
+Tu sais déjà,
+
+**[01:48:18 - 01:48:18] speaker**
+ou votre opune d...
+
+**[01:48:22 - 01:48:22] speaker**
+Ah, et par fait, ben...
+
+**[01:48:24 - 01:48:24] speaker**
+Non, j'ai pas encore le prasim final,
+
+**[01:48:26 - 01:48:26] speaker**
+mais sûrement au moins cher que les...
+
+**[01:48:31 - 01:48:31] speaker**
+On entend là.
+
+**[01:48:33 - 01:48:33] speaker**
+Oui, oui.
+
+**[01:48:34 - 01:48:34] speaker**
+C'est un peu...
+
+**[01:48:35 - 01:48:35] speaker**
+sûrement au moins cher que les prix
+
+**[01:48:37 - 01:48:37] speaker**
+de la ex-file et compagnies.
+
+**[01:48:41 - 01:48:41] speaker**
+Parce que là, aujourd'hui,
+
+**[01:48:42 - 01:48:42] speaker**
+vous avez si DENSE et les autres.
+
+**[01:48:44 - 01:48:44] speaker**
+D'ailleurs, à pire,
+
+**[01:48:45 - 01:48:45] speaker**
+ça j'ai testé ces nulle ans.
+
+**[01:48:47 - 01:48:47] speaker**
+Par rapport à...
+
+**[01:48:49 - 01:48:49] speaker**
+Trojet des vidéos,
+
+**[01:48:50 - 01:48:50] speaker**
+là, je peux le montrer peut-être.
+
+**[01:48:52 - 01:48:52] speaker**
+Et si DENSE et en train de préparer
+
+**[01:48:55 - 01:48:55] speaker**
+le 3.0,
+
+**[01:48:56 - 01:48:56] speaker**
+Ah ouais.
+
+**[01:48:58 - 01:48:58] speaker**
+J'ai entendu parler,
+
+**[01:48:59 - 01:48:59] speaker**
+apparemment,
+
+**[01:49:01 - 01:49:01] speaker**
+donc...
+
+**[01:49:04 - 01:49:04] speaker**
+fin et juin,
+
+**[01:49:05 - 01:49:05] speaker**
+t'es trop,
+
+**[01:49:05 - 01:49:05] speaker**
+en tout cas,
+
+**[01:49:07 - 01:49:07] speaker**
+surtout, on prépare le...
+
+**[01:49:08 - 01:49:08] speaker**
+Comment dire,
+
+**[01:49:10 - 01:49:10] speaker**
+nous avons ça créé.
+
+**[01:49:11 - 01:49:11] speaker**
+T'as décidé en tropique,
+
+**[01:49:13 - 01:49:13] speaker**
+avec le clod,
+
+**[01:49:15 - 01:49:15] speaker**
+comment ça pèle la mythique,
+
+**[01:49:17 - 01:49:17] speaker**
+et...
+
+**[01:49:17 - 01:49:17] speaker**
+mythique.
+
+**[01:49:18 - 01:49:18] speaker**
+Oui,
+
+**[01:49:19 - 01:49:19] speaker**
+oui.
+
+**[01:49:20 - 01:49:20] speaker**
+Et t'es autre chose?
+
+**[01:49:21 - 01:49:21] speaker**
+Je ne suis pas...
+
+**[01:49:23 - 01:49:23] speaker**
+Tout le monde très part,
+
+**[01:49:24 - 01:49:24] speaker**
+alors,
+
+**[01:49:24 - 01:49:24] speaker**
+truc en colis,
+
+**[01:49:26 - 01:49:26] speaker**
+pour vraiment attendre
+
+**[01:49:28 - 01:49:28] speaker**
+au bon moment de sortir.
+
+**[01:49:31 - 01:49:31] speaker**
+Là, je peux montrer
+
+**[01:49:32 - 01:49:32] speaker**
+à pire,
+
+**[01:49:33 - 01:49:33] speaker**
+parce que c'est notre...
+
+**[01:49:34 - 01:49:34] speaker**
+il y a...
+
+**[01:49:35 - 01:49:35] speaker**
+DER,
+
+**[01:49:35 - 01:49:35] speaker**
+je pense,
+
+**[01:49:36 - 01:49:36] speaker**
+d'essus de pire,
+
+**[01:49:37 - 01:49:37] speaker**
+ce par rapport à CIDENSE.
+
+**[01:49:39 - 01:49:39] speaker**
+Aussi,
+
+**[01:49:39 - 01:49:39] speaker**
+chinois,
+
+**[01:49:40 - 01:49:40] speaker**
+social,
+
+**[01:49:40 - 01:49:40] speaker**
+je n'ai rien à intervier.
+
+**[01:49:42 - 01:49:42] speaker**
+Et voilà ce que ça donne.
+
+**[01:49:45 - 01:49:45] speaker**
+Bon, c'est pas...
+
+**[01:49:47 - 01:49:47] speaker**
+Ce que c'est qu'on se fait
+
+**[01:49:48 - 01:49:48] speaker**
+avec nous.
+
+**[01:49:49 - 01:49:49] speaker**
+C'est très sympa.
+
+**[01:49:51 - 01:49:51] speaker**
+C'est sympa,
+
+**[01:49:52 - 01:49:52] speaker**
+c'est faux.
+
+**[01:49:52 - 01:49:52] speaker**
+Non, c'est bien.
+
+**[01:49:54 - 01:49:54] speaker**
+C'est pas mal,
+
+**[01:49:55 - 01:49:55] speaker**
+mais CIDENSE,
+
+**[01:49:56 - 01:49:56] speaker**
+c'est l'argent de monde, c'est moi, je sais pas.
+
+**[01:49:57 - 01:49:57] speaker**
+Parce que CIDENSE,
+
+**[01:49:58 - 01:49:58] speaker**
+en fait, CIDENSE,
+
+**[01:49:59 - 01:49:59] speaker**
+c'est...
+
+**[01:50:00 - 01:50:00] speaker**
+c'est Biden,
+
+**[01:50:01 - 01:50:01] speaker**
+c'est donc la maison mère de Tik Tok,
+
+**[01:50:04 - 01:50:04] speaker**
+qui est vraiment
+
+**[01:50:06 - 01:50:06] speaker**
+le puyonnier,
+
+**[01:50:07 - 01:50:07] speaker**
+tant tout ce qui est alboeau quoi.
+
+**[01:50:10 - 01:50:10] speaker**
+Donc,
+
+**[01:50:10 - 01:50:10] speaker**
+ils ont un alboeux,
+
+**[01:50:11 - 01:50:11] speaker**
+extrêmement puissant.
+
+**[01:50:13 - 01:50:13] speaker**
+C'est ça,
+
+**[01:50:15 - 01:50:15] speaker**
+leur avantage.
+
+**[01:50:16 - 01:50:16] speaker**
+Et ils investissent largement aussi,
+
+**[01:50:18 - 01:50:18] speaker**
+quand ça.
+
+**[01:50:20 - 01:50:20] speaker**
+Apparemment, ils ont vendu
+
+**[01:50:23 - 01:50:23] speaker**
+une société fille
+
+**[01:50:25 - 01:50:25] speaker**
+de jeu vidéo
+
+**[01:50:28 - 01:50:28] speaker**
+à une société
+
+**[01:50:32 - 01:50:32] speaker**
+à rame,
+
+**[01:50:32 - 01:50:32] speaker**
+par un moment où j'ai entendu parler,
+
+**[01:50:34 - 01:50:34] speaker**
+pour pouvoir capitaliser
+
+**[01:50:36 - 01:50:36] speaker**
+et réinvestir dans CIDENSE.
+
+**[01:50:38 - 01:50:38] speaker**
+Donc,
+
+**[01:50:40 - 01:50:40] speaker**
+là, ils prennent vraiment
+
+**[01:50:41 - 01:50:41] speaker**
+de large.
+
+**[01:50:44 - 01:50:44] speaker**
+Ils investissent massiquement
+
+**[01:50:46 - 01:50:46] speaker**
+dans ce truc.
+
+**[01:50:48 - 01:50:48] speaker**
+Et on attendoir, en tête de sortir aussi,
+
+**[01:50:51 - 01:50:51] speaker**
+à modèle,
+
+**[01:50:52 - 01:50:52] speaker**
+qui est un peu plus, on va dire,
+
+**[01:50:54 - 01:50:54] speaker**
+éthique,
+
+**[01:50:56 - 01:50:56] speaker**
+étant donné que ça a eu un clash avec les studios,
+
+**[01:50:59 - 01:50:59] speaker**
+de production de Hollywood, etc.
+
+**[01:51:01 - 01:51:01] speaker**
+sur les droits d'auteur,
+
+**[01:51:02 - 01:51:02] speaker**
+ou c'est un...
+
+**[01:51:04 - 01:51:04] speaker**
+Donc, là, il se met un peu en retrait,
+
+**[01:51:08 - 01:51:08] speaker**
+mais pour mieux travailler un peu
+
+**[01:51:09 - 01:51:09] speaker**
+tout ce qui est,
+
+**[01:51:10 - 01:51:10] speaker**
+je pense,
+
+**[01:51:12 - 01:51:12] speaker**
+compléenne, etc.
+
+**[01:51:13 - 01:51:13] speaker**
+Mais, techniquement,
+
+**[01:51:14 - 01:51:14] speaker**
+ça va être
+
+**[01:51:16 - 01:51:16] speaker**
+ils sont abattables dans les...
+
+**[01:51:21 - 01:51:21] speaker**
+Ok, bah,
+
+**[01:51:23 - 01:51:23] speaker**
+à voir,
+
+**[01:51:23 - 01:51:23] speaker**
+là, je ferai mon tré,
+
+**[01:51:25 - 01:51:25] speaker**
+j'ai fait une petite vidéo
+
+**[01:51:26 - 01:51:26] speaker**
+avec X-field,
+
+**[01:51:27 - 01:51:27] speaker**
+et puis CIDENSE.
+
+**[01:51:29 - 01:51:29] speaker**
+Je voulais faire une vidéo
+
+**[01:51:30 - 01:51:30] speaker**
+pour les 5 000 abonnés
+
+**[01:51:31 - 01:51:31] speaker**
+que j'ai sur LinkedIn.
+
+**[01:51:35 - 01:51:35] speaker**
+Et je voulais faire un tout,
+
+**[01:51:35 - 01:51:35] speaker**
+on voyait sur plusieurs acts,
+
+**[01:51:37 - 01:51:37] speaker**
+il a fait un truc,
+
+**[01:51:38 - 01:51:38] speaker**
+mais je pense
+
+**[01:51:39 - 01:51:39] speaker**
+que c'est une plus pour la dépression,
+
+**[01:51:40 - 01:51:40] speaker**
+mais ce qui est vachement bien fait,
+
+**[01:51:42 - 01:51:42] speaker**
+c'est qu'il a fait les sènes,
+
+**[01:51:44 - 01:51:44] speaker**
+et d'ailleurs,
+
+**[01:51:44 - 01:51:44] speaker**
+on vienne les étouçats,
+
+**[01:51:45 - 01:51:45] speaker**
+et tout ça, c'est-à-dire,
+
+**[01:51:47 - 01:51:47] speaker**
+franchement, on ne voit pas tellement...
+
+**[01:51:49 - 01:51:49] speaker**
+C'est de ces du CIDENSE,
+
+**[01:51:50 - 01:51:50] speaker**
+c'est trop...
+
+**[01:51:51 - 01:51:51] speaker**
+A 12 ans,
+
+**[01:51:52 - 01:51:52] speaker**
+il va être facile et rédite.
+
+**[01:51:55 - 01:51:55] speaker**
+C'est parce qu'il a pas,
+
+**[01:51:56 - 01:51:56] speaker**
+mais on dirait que je suis utilisé,
+
+**[01:51:57 - 01:51:57] speaker**
+tout je sais pas,
+
+**[01:51:58 - 01:51:58] speaker**
+on se le bizarre,
+
+**[01:52:00 - 01:52:00] speaker**
+non,
+
+**[01:52:00 - 01:52:00] speaker**
+tu ne fais pas la vidéo de l'astroir d'un autre,
+
+**[01:52:02 - 01:52:02] speaker**
+tu as été pour même bon,
+
+**[01:52:04 - 01:52:04] speaker**
+je comprends,
+
+**[01:52:04 - 01:52:04] speaker**
+c'est pas bon,
+
+**[01:52:05 - 01:52:05] speaker**
+c'est bien?
+
+**[01:52:06 - 01:52:06] speaker**
+C'est bien,
+
+**[01:52:07 - 01:52:07] speaker**
+ça qui a juste de l'une photo?
+
+**[01:52:10 - 01:52:10] speaker**
+Alors, j'ai montré quatre photos,
+
+**[01:52:12 - 01:52:12] speaker**
+je dis,
+
+**[01:52:12 - 01:52:12] speaker**
+c'est horrible,
+
+**[01:52:15 - 01:52:15] speaker**
+c'est ça, les quatre photos,
+
+**[01:52:16 - 01:52:16] speaker**
+je peux...
+
+**[01:52:17 - 01:52:17] speaker**
+Passe-y, j'ai là,
+
+**[01:52:19 - 01:52:19] speaker**
+moi je vais m'us un peu,
+
+**[01:52:20 - 01:52:20] speaker**
+je découvre,
+
+**[01:52:21 - 01:52:21] speaker**
+enfin, je fais des trucs,
+
+**[01:52:22 - 01:52:22] speaker**
+comme ça,
+
+**[01:52:22 - 01:52:22] speaker**
+pour tester un peu,
+
+**[01:52:24 - 01:52:24] speaker**
+c'est plus le son,
+
+**[01:52:25 - 01:52:25] speaker**
+les photos...
+
+**[01:52:26 - 01:52:26] speaker**
+Ah, je suis noté, je suis noté,
+
+**[01:52:29 - 01:52:29] speaker**
+tu les avais,
+
+**[01:52:30 - 01:52:30] speaker**
+tu n'as même pas moi,
+
+**[01:52:30 - 01:52:30] speaker**
+je vois, sur la gauche,
+
+**[01:52:33 - 01:52:33] speaker**
+j'ai pris ces photos là,
+
+**[01:52:35 - 01:52:35] speaker**
+j'ai pas lancé,
+
+**[01:52:36 - 01:52:36] speaker**
+et je dis,
+
+**[01:52:37 - 01:52:37] speaker**
+on fait des meurs de voir,
+
+**[01:52:38 - 01:52:38] speaker**
+je suis au jeu,
+
+**[01:52:39 - 01:52:39] speaker**
+moi,
+
+**[01:52:39 - 01:52:39] speaker**
+le truc,
+
+**[01:52:40 - 01:52:40] speaker**
+et en fait,
+
+**[01:52:41 - 01:52:41] speaker**
+c'est un garde bien,
+
+**[01:52:42 - 01:52:42] speaker**
+et son,
+
+**[01:52:43 - 01:52:43] speaker**
+comme ça,
+
+**[01:52:44 - 01:52:44] speaker**
+avec...
+
+**[01:52:45 - 01:52:45] speaker**
+Donc,
+
+**[01:52:46 - 01:52:46] speaker**
+c'est juste pour dire,
+
+**[01:52:47 - 01:52:47] speaker**
+en fait,
+
+**[01:52:47 - 01:52:47] speaker**
+on peut une clôt,
+
+**[01:52:48 - 01:52:48] speaker**
+comme orchestre un peu,
+
+**[01:52:50 - 01:52:50] speaker**
+on peut lui plager ça,
+
+**[01:52:51 - 01:52:51] speaker**
+et faire des trucs dedans,
+
+**[01:52:53 - 01:52:53] speaker**
+parce que là,
+
+**[01:52:53 - 01:52:53] speaker**
+il a même ses pécédiques,
+
+**[01:52:54 - 01:52:54] speaker**
+il est fait pour une clôt,
+
+**[01:52:55 - 01:52:55] speaker**
+mais,
+
+**[01:52:56 - 01:52:56] speaker**
+or,
+
+**[01:52:56 - 01:52:56] speaker**
+clôt aussi,
+
+**[01:52:56 - 01:52:56] speaker**
+or,
+
+**[01:52:57 - 01:52:57] speaker**
+ma société,
+
+**[01:52:58 - 01:52:58] speaker**
+et comme ça,
+
+**[01:52:59 - 01:52:59] speaker**
+bah vous avez,
+
+**[01:53:00 - 01:53:00] speaker**
+voilà,
+
+**[01:53:00 - 01:53:00] speaker**
+un peu de clôt,
+
+**[01:53:01 - 01:53:01] speaker**
+et comme ça,
+
+**[01:53:01 - 01:53:01] speaker**
+vous pouvez faire des vidéos,
+
+**[01:53:02 - 01:53:02] speaker**
+à la voler,
+
+**[01:53:04 - 01:53:04] speaker**
+donc,
+
+**[01:53:07 - 01:53:07] speaker**
+voilà,
+
+**[01:53:07 - 01:53:07] speaker**
+ça fait,
+
+**[01:53:07 - 01:53:07] speaker**
+là,
+
+**[01:53:08 - 01:53:08] speaker**
+on va jusqu'à
+
+**[01:53:08 - 01:53:08] speaker**
+sans plus,
+
+**[01:53:09 - 01:53:09] speaker**
+parce que là,
+
+**[01:53:09 - 01:53:09] speaker**
+on peut faire des sites,
+
+**[01:53:10 - 01:53:10] speaker**
+on peut faire des applications,
+
+**[01:53:11 - 01:53:11] speaker**
+on peut faire des vidéos,
+
+**[01:53:12 - 01:53:12] speaker**
+on peut faire de la 3D,
+
+**[01:53:13 - 01:53:13] speaker**
+après,
+
+**[01:53:14 - 01:53:14] speaker**
+et on se pose,
+
+**[01:53:15 - 01:53:15] speaker**
+puisqu'il manque,
+
+**[01:53:15 - 01:53:15] speaker**
+on peut le qu'est-ce qui manque,
+
+**[01:53:16 - 01:53:16] speaker**
+ça,
+
+**[01:53:18 - 01:53:18] speaker**
+pas grand fonds,
+
+**[01:53:19 - 01:53:19] speaker**
+allez sur Mars,
+
+**[01:53:20 - 01:53:20] speaker**
+à des sur Mars,
+
+**[01:53:21 - 01:53:21] speaker**
+on va apporter un peu,
+
+**[01:53:23 - 01:53:23] speaker**
+ils montrent le budget,
+
+**[01:53:24 - 01:53:24] speaker**
+quoi,
+
+**[01:53:25 - 01:53:25] speaker**
+à des mots que peut-être,
+
+**[01:53:27 - 01:53:27] speaker**
+le rep,
+
+**[01:53:27 - 01:53:27] speaker**
+en...
+
+**[01:53:28 - 01:53:28] speaker**
+à quoi c'est peut-être,
+
+**[01:53:29 - 01:53:29] speaker**
+pendant,
+
+**[01:53:30 - 01:53:30] speaker**
+je fais vraiment la rach,
+
+**[01:53:31 - 01:53:31] speaker**
+j'ai juste essayé
+
+**[01:53:32 - 01:53:32] speaker**
+avec le dimage qui nous a frontnis de Paul,
+
+**[01:53:35 - 01:53:35] speaker**
+là,
+
+**[01:53:36 - 01:53:36] speaker**
+ouais.
+
+**[01:53:37 - 01:53:37] speaker**
+Pour lui,
+
+**[01:53:37 - 01:53:37] speaker**
+là,
+
+**[01:53:37 - 01:53:37] speaker**
+tu vois,
+
+**[01:53:39 - 01:53:39] speaker**
+ça,
+
+**[01:53:39 - 01:53:39] speaker**
+c'est ça qui faudrait faire avec la montre,
+
+**[01:53:41 - 01:53:41] speaker**
+ça le multivus.
+
+**[01:53:42 - 01:53:42] speaker**
+Oui,
+
+**[01:53:42 - 01:53:42] speaker**
+comme ça,
+
+**[01:53:43 - 01:53:43] speaker**
+plusieurs photos,
+
+**[01:53:44 - 01:53:44] speaker**
+là, je le fais,
+
+**[01:53:45 - 01:53:45] speaker**
+vraiment,
+
+**[01:53:46 - 01:53:46] speaker**
+on est de fait quoi.
+
+**[01:53:47 - 01:53:47] speaker**
+L'armane,
+
+**[01:53:47 - 01:53:47] speaker**
+on est d'allemand,
+
+**[01:53:48 - 01:53:48] speaker**
+on fait multivus,
+
+**[01:53:49 - 01:53:49] speaker**
+comme ça,
+
+**[01:53:49 - 01:53:49] speaker**
+t'as derrière devant,
+
+**[01:53:51 - 01:53:51] speaker**
+qui est,
+
+**[01:53:51 - 01:53:51] speaker**
+puisqu'il va imaginer derrière,
+
+**[01:53:52 - 01:53:52] speaker**
+mais il ne plus pas,
+
+**[01:53:53 - 01:53:53] speaker**
+et pas en croit,
+
+**[01:53:54 - 01:53:54] speaker**
+c'est magic pour créer des trucs,
+
+**[01:53:56 - 01:53:56] speaker**
+comme ça.
+
+**[01:53:58 - 01:53:58] speaker**
+Tu vois,
+
+**[01:53:59 - 01:53:59] speaker**
+la reconnaie,
+
+**[01:53:59 - 01:53:59] speaker**
+c'est un copère dragon,
+
+**[01:54:01 - 01:54:01] speaker**
+t'as une piste,
+
+**[01:54:02 - 01:54:02] speaker**
+c'est fou,
+
+**[01:54:02 - 01:54:02] speaker**
+qu'il comprend tout sur les mages,
+
+**[01:54:04 - 01:54:04] speaker**
+et qu'on prend la structure,
+
+**[01:54:05 - 01:54:05] speaker**
+et qu'on prend tout.
+
+**[01:54:08 - 01:54:08] speaker**
+Et voilà, ça,
+
+**[01:54:08 - 01:54:08] speaker**
+je vais avoir.
+
+**[01:54:11 - 01:54:11] speaker**
+Mais voilà,
+
+**[01:54:13 - 01:54:13] speaker**
+donc,
+
+**[01:54:13 - 01:54:13] speaker**
+ça,
+
+**[01:54:14 - 01:54:14] speaker**
+c'est parce que,
+
+**[01:54:15 - 01:54:15] speaker**
+Arnaud,
+
+**[01:54:15 - 01:54:15] speaker**
+on va parler d'un arfor,
+
+**[01:54:17 - 01:54:17] speaker**
+et Arnaud,
+
+**[01:54:17 - 01:54:17] speaker**
+on disait,
+
+**[01:54:18 - 01:54:18] speaker**
+ouais,
+
+**[01:54:18 - 01:54:18] speaker**
+tu te rémondrez les justquets,
+
+**[01:54:20 - 01:54:20] speaker**
+c'est un peu de,
+
+**[01:54:21 - 01:54:21] speaker**
+de,
+
+**[01:54:21 - 01:54:21] speaker**
+de,
+
+**[01:54:22 - 01:54:22] speaker**
+peu de clôt,
+
+**[01:54:23 - 01:54:23] speaker**
+et je me suis dit,
+
+**[01:54:24 - 01:54:24] speaker**
+voilà,
+
+**[01:54:24 - 01:54:24] speaker**
+là,
+
+**[01:54:25 - 01:54:25] speaker**
+c'est une très croix,
+
+**[01:54:27 - 01:54:27] speaker**
+voilà,
+
+**[01:54:27 - 01:54:27] speaker**
+c'est une très,
+
+**[01:54:28 - 01:54:28] speaker**
+bien,
+
+**[01:54:29 - 01:54:29] speaker**
+on se voit un peu,
+
+**[01:54:29 - 01:54:29] speaker**
+ça peut donner des idées,
+
+**[01:54:31 - 01:54:31] speaker**
+quoi,
+
+**[01:54:32 - 01:54:32] speaker**
+ça a aussi de but,
+
+**[01:54:33 - 01:54:33] speaker**
+quoi,
+
+**[01:54:35 - 01:54:35] speaker**
+alors,
+
+**[01:54:36 - 01:54:36] speaker**
+va juste attendre un petit peu,
+
+**[01:54:37 - 01:54:37] speaker**
+et je vais regarder juste,
+
+**[01:54:38 - 01:54:38] speaker**
+c'est quand même,
+
+**[01:54:39 - 01:54:39] speaker**
+tout,
+
+**[01:54:40 - 01:54:40] speaker**
+je vais choisir,
+
+**[01:54:40 - 01:54:40] speaker**
+on a tous les ordres,
+
+**[01:54:41 - 01:54:41] speaker**
+ouais,
+
+**[01:54:44 - 01:54:44] speaker**
+ouais,
+
+**[01:54:45 - 01:54:45] speaker**
+la tate des vidéos,
+
+**[01:54:46 - 01:54:46] speaker**
+car Arnaud,
+
+**[01:54:46 - 01:54:46] speaker**
+ouais,
+
+**[01:54:48 - 01:54:48] speaker**
+alors les vidéos,
+
+**[01:54:49 - 01:54:49] speaker**
+ça marche vraiment grand,
+
+**[01:54:50 - 01:54:50] speaker**
+et au tout 3D,
+
+**[01:54:51 - 01:54:51] speaker**
+ça me semble,
+
+**[01:54:52 - 01:54:52] speaker**
+là,
+
+**[01:54:52 - 01:54:52] speaker**
+il faut,
+
+**[01:54:53 - 01:54:53] speaker**
+c'est chez moi ça,
+
+**[01:54:54 - 01:54:54] speaker**
+mais,
+
+**[01:54:54 - 01:54:54] speaker**
+là,
+
+**[01:54:54 - 01:54:54] speaker**
+bon,
+
+**[01:54:55 - 01:54:55] speaker**
+c'est,
+
+**[01:54:56 - 01:54:56] speaker**
+j'acome,
+
+**[01:54:57 - 01:54:57] speaker**
+ah,
+
+**[01:54:57 - 01:54:57] speaker**
+ouais,
+
+**[01:54:58 - 01:54:58] speaker**
+Donc,
+
+**[01:54:59 - 01:54:59] speaker**
+c'est trop horrible,
+
+**[01:55:00 - 01:55:00] speaker**
+je sais,
+
+**[01:55:02 - 01:55:02] speaker**
+C'est pour le marché son вход,
+
+**[01:55:03 - 01:55:03] speaker**
+pour tout!
+
+**[01:55:06 - 01:55:06] speaker**
+Et non ben!!!
+
+**[01:55:06 - 01:55:06] speaker**
+Oui,
+
+**[01:55:07 - 01:55:07] speaker**
+je fais de dragon,
+
+**[01:55:08 - 01:55:08] speaker**
+si,
+
+**[01:55:08 - 01:55:08] speaker**
+desgorons,
+
+**[01:55:08 - 01:55:08] speaker**
+toi fais de dragon,
+
+**[01:55:09 - 01:55:09] speaker**
+je veux fixer de dragon,
+
+**[01:55:10 - 01:55:10] speaker**
+moi je want,
+
+**[01:55:11 - 01:55:11] speaker**
+je ne sais pas du dragon,
+
+**[01:55:12 - 01:55:12] speaker**
+euh,
+
+**[01:55:12 - 01:55:12] speaker**
+j'ai un fan de dragon,
+
+**[01:55:13 - 01:55:13] speaker**
+Et donc juste,
+
+**[01:55:15 - 01:55:15] speaker**
+j'achète et Rupert,
+
+**[01:55:16 - 01:55:16] speaker**
+je memories qu'il y a anni ici,
+
+**[01:55:17 - 01:55:17] speaker**
+ça fait assembler,
+
+**[01:55:18 - 01:55:18] speaker**
+car il fallait y les heavenly animap�ustes,
+
+**[01:55:19 - 01:55:19] speaker**
+et puis le cinquième
+
+**[01:55:20 - 01:55:20] speaker**
+fickement,
+
+**[01:55:21 - 01:55:21] speaker**
+nous avons rendu
+
+**[01:55:23 - 01:55:23] speaker**
+notre
+
+**[01:55:23 - 01:55:23] speaker**
+repris à latat,
+
+**[01:55:25 - 01:55:25] speaker**
+parce qu'il n'est pas
+
+**[01:55:26 - 01:55:26] speaker**
+euh,
+
+**[01:55:28 - 01:55:28] speaker**
+Ça c'est à y pensant un peu.
+
+**[01:55:31 - 01:55:31] speaker**
+Ah bah, pratiquement pour le galat du week en dernier,
+
+**[01:55:37 - 01:55:37] speaker**
+de rock, il avait un récob, un jack-ob,
+
+**[01:55:41 - 01:55:41] speaker**
+à 10 millions de croix.
+
+**[01:55:43 - 01:55:43] speaker**
+Ah ouais.
+
+**[01:55:44 - 01:55:44] speaker**
+On va pas comme ça, mais avec tout plein de diamants,
+
+**[01:55:47 - 01:55:47] speaker**
+je crois, je sais plus combien de diamants.
+
+**[01:55:49 - 01:55:49] speaker**
+Pourquoi?
+
+**[01:55:50 - 01:55:50] speaker**
+Oui.
+
+**[01:55:51 - 01:55:51] speaker**
+Voilà, habitement, et à la salle.
+
+**[01:55:54 - 01:55:54] speaker**
+Bon, là, c'est du long.
+
+**[01:55:56 - 01:55:56] speaker**
+Tu vois, par exemple, je pense de le jusque,
+
+**[01:55:59 - 01:55:59] speaker**
+ça pourrait être imaginez une montre qui existe pas.
+
+**[01:56:02 - 01:56:02] speaker**
+Oui, ça.
+
+**[01:56:03 - 01:56:03] speaker**
+Et enfin, quand c'est mon peu mon but, parce que j'ai toujours rêvé de pouvoir créer une montre,
+
+**[01:56:07 - 01:56:07] speaker**
+depuis que je suis gamma.
+
+**[01:56:09 - 01:56:09] speaker**
+Mais d'abord, j'avais pas les outils.
+
+**[01:56:12 - 01:56:12] speaker**
+Et je suis pas le génant plus, je suis un petit informatique,
+
+**[01:56:16 - 01:56:16] speaker**
+un commentaire.
+
+**[01:56:17 - 01:56:17] speaker**
+Ouais, mais tu peux créer un design intéressant,
+
+**[01:56:20 - 01:56:20] speaker**
+bien après, justement, c'est marrant.
+
+**[01:56:22 - 01:56:22] speaker**
+Tu fais un peu sur les réseaux sociaux.
+
+**[01:56:24 - 01:56:24] speaker**
+Tu dis, on voit si ma version du jack-ob,
+
+**[01:56:27 - 01:56:27] speaker**
+où je l'ai essayé de créer.
+
+**[01:56:28 - 01:56:28] speaker**
+Puis là, tu vas tout petit à terre,
+
+**[01:56:31 - 01:56:31] speaker**
+et je vais peut-être faire des images de ce que t'aimerais,
+
+**[01:56:34 - 01:56:34] speaker**
+dans ton rêve, puis tu t'arrives.
+
+**[01:56:37 - 01:56:37] speaker**
+Mais, il y a ça pas de la couche.
+
+**[01:56:38 - 01:56:38] speaker**
+Et là, on va d'accord.
+
+**[01:56:42 - 01:56:42] speaker**
+Alors, regarde-on là?
+
+**[01:56:43 - 01:56:43] speaker**
+OK.
+
+**[01:56:44 - 01:56:44] speaker**
+Et, bien, avec un film.
+
+**[01:56:47 - 01:56:47] speaker**
+OK.
+
+**[01:56:49 - 01:56:49] speaker**
+Alors, on va t'exyre en fonction de l'image.
+
+**[01:56:52 - 01:56:52] speaker**
+On va appréhétera comme c'est du model,
+
+**[01:56:58 - 01:56:58] speaker**
+et encore, mais moi, je pense que là, on est dans une...
+
+**[01:57:00 - 01:57:00] speaker**
+C'est bien fait, bien fait.
+
+**[01:57:03 - 01:57:03] speaker**
+Donc, comment c'était déjà bien fait, hein?
+
+**[01:57:05 - 01:57:05] speaker**
+On va dans une histoire.
+
+**[01:57:06 - 01:57:06] speaker**
+Et, le derrière, il est un bon, il est bon,
+
+**[01:57:08 - 01:57:08] speaker**
+mais ça fira, mais bon, là, c'est déjà bien fait,
+
+**[01:57:10 - 01:57:10] speaker**
+va se la t'abrire.
+
+**[01:57:11 - 01:57:11] speaker**
+Et le film, je l'ai.
+
+**[01:57:13 - 01:57:13] speaker**
+Mais là, tu mets trois, quatre images,
+
+**[01:57:14 - 01:57:14] speaker**
+c'est un truc de fou.
+
+**[01:57:15 - 01:57:15] speaker**
+C'est un acteur.
+
+**[01:57:17 - 01:57:17] speaker**
+Mais, moi, ce que j'imagine, c'est toujours dans une année, tu vois.
+
+**[01:57:20 - 01:57:20] speaker**
+Tu me projettes, tu vois.
+
+**[01:57:22 - 01:57:22] speaker**
+C'est aussi bon.
+
+**[01:57:24 - 01:57:24] speaker**
+Bon, mais là, aujourd'hui, c'est pas...
+
+**[01:57:28 - 01:57:28] speaker**
+On ten sera pas les images, dire un an.
+
+**[01:57:31 - 01:57:31] speaker**
+Ouais, je pense que ça va être tous les vidéos de William Smith,
+
+**[01:57:35 - 01:57:35] speaker**
+qui mange des spaghetti, hein?
+
+**[01:57:36 - 01:57:36] speaker**
+Ouais, ouais.
+
+**[01:57:37 - 01:57:37] speaker**
+Voilà, c'est ça.
+
+**[01:57:38 - 01:57:38] speaker**
+Alors, juste moi, j'ai découvert mes chies,
+
+**[01:57:42 - 01:57:42] speaker**
+à première version, j'ai en beta-test,
+
+**[01:57:44 - 01:57:44] speaker**
+j'ai parlé à mes élèves.
+
+**[01:57:45 - 01:57:45] speaker**
+Elle est toute première version,
+
+**[01:57:47 - 01:57:47] speaker**
+et juste pour vous donner une idée,
+
+**[01:57:48 - 01:57:48] speaker**
+et la version 5, donc c'est là,
+
+**[01:57:50 - 01:57:50] speaker**
+vous allez comprendre en plus que je vais dire,
+
+**[01:57:52 - 01:57:52] speaker**
+c'est de version là,
+
+**[01:57:53 - 01:57:53] speaker**
+on est la différence avec le dragon qu'on avait avant.
+
+**[01:57:55 - 01:57:55] speaker**
+Ouais.
+
+**[01:57:56 - 01:57:56] speaker**
+C'est de version là, la 6 mois.
+
+**[01:57:58 - 01:57:58] speaker**
+Donc, en 6 mois, on est passé de ça.
+
+**[01:58:01 - 01:58:01] speaker**
+À ça.
+
+**[01:58:03 - 01:58:03] speaker**
+OK. OK.
+
+**[01:58:05 - 01:58:05] speaker**
+Donc, dans 6 mois, on est ou quoi?
+
+**[01:58:08 - 01:58:08] speaker**
+Ah, non.
+
+**[01:58:10 - 01:58:10] speaker**
+Vous savez, c'est tout le monde.
+
+**[01:58:11 - 01:58:11] speaker**
+C'est l'animal réel en 8 ans.
+
+**[01:58:15 - 01:58:15] speaker**
+Ouais, bah, après, tu fais un effet.
+
+**[01:58:18 - 01:58:18] speaker**
+C'est pas là, la qualité des tests sur les communs.
+
+**[01:58:21 - 01:58:21] speaker**
+Bon, pas mal.
+
+**[01:58:21 - 01:58:21] speaker**
+Et là, tu peux faire du ril machine aussi.
+
+**[01:58:23 - 01:58:23] speaker**
+Et tu peux l'imprimer en 3,
+
+**[01:58:24 - 01:58:24] speaker**
+et ça, c'est assez cool aussi.
+
+**[01:58:26 - 01:58:26] speaker**
+Donc, tu peux faire un sec.
+
+**[01:58:28 - 01:58:28] speaker**
+Tu peux mettre un sec,
+
+**[01:58:30 - 01:58:30] speaker**
+faire la rotation, faire gérer les échelles.
+
+**[01:58:34 - 01:58:34] speaker**
+Puis en plus, tu peux l'envoyer directement
+
+**[01:58:37 - 01:58:37] speaker**
+à forme, formne,
+
+**[01:58:38 - 01:58:38] speaker**
+là, qui est dans ma l'imprimer.
+
+**[01:58:39 - 01:58:39] speaker**
+Ou le style, c'est toi-même quoi.
+
+**[01:58:41 - 01:58:41] speaker**
+Si tu veux le faire à la maison, c'est-à-dire le machine.
+
+**[01:58:44 - 01:58:44] speaker**
+C'est assez cool.
+
+**[01:58:45 - 01:58:45] speaker**
+Il faut enchante un peu à notre titore,
+
+**[01:58:46 - 01:58:46] speaker**
+non, c'est pas.
+
+**[01:58:48 - 01:58:48] speaker**
+Je suis juste regarder ce que ça donne pour ça.
+
+**[01:58:52 - 01:58:52] speaker**
+Ça aurait eu sa retrue qui a testé,
+
+**[01:58:54 - 01:58:54] speaker**
+quoi, après, il faut aller plus loin,
+
+**[01:58:56 - 01:58:56] speaker**
+pour pas faire 200 secondes.
+
+**[01:58:58 - 01:58:58] speaker**
+Là, je puis faire ça un peu propre
+
+**[01:59:00 - 01:59:00] speaker**
+avec plusieurs images et tout.
+
+**[01:59:03 - 01:59:03] speaker**
+Allez, va revenir à mon écran.
+
+**[01:59:05 - 01:59:05] speaker**
+Je vais te montrer une démonte que j'aime bien.
+
+**[01:59:09 - 01:59:09] speaker**
+La face d'une furieuse de chez Jacob.
+
+**[01:59:12 - 01:59:12] speaker**
+Avec deux tourbillants.
+
+**[01:59:16 - 01:59:16] speaker**
+C'est vraiment les modèles face d'inturias.
+
+**[01:59:21 - 01:59:21] speaker**
+Ah, son ballo.
+
+**[01:59:22 - 01:59:22] speaker**
+Mais il y a beaucoup de détails.
+
+**[01:59:25 - 01:59:25] speaker**
+Donc il faudrait beaucoup, beaucoup d'images.
+
+**[01:59:27 - 01:59:27] speaker**
+En fait, tu as moyen de les avoir vendre les mains
+
+**[01:59:29 - 01:59:29] speaker**
+ou c'est un touchable, c'est ma chambre.
+
+**[01:59:31 - 01:59:31] speaker**
+Faut tourner au maigazin qui se trouve à la rue du rône,
+
+**[01:59:34 - 01:59:34] speaker**
+mais après, je sais pas si il voudra que...
+
+**[01:59:37 - 01:59:37] speaker**
+Je suis prête de la touchure.
+
+**[01:59:39 - 01:59:39] speaker**
+Ouais, il va pas travailler avec ce qui fait lui.
+
+**[01:59:44 - 01:59:44] speaker**
+On peut certaines mois les trouver.
+
+**[01:59:46 - 01:59:46] speaker**
+Ah ouais.
+
+**[01:59:47 - 01:59:47] speaker**
+Ah ouais.
+
+**[01:59:49 - 01:59:49] speaker**
+Moi ce que va.
+
+**[01:59:51 - 01:59:51] speaker**
+Non mais c'est balesse.
+
+**[01:59:53 - 01:59:53] speaker**
+On a le de moi, c'est super.
+
+**[01:59:55 - 01:59:55] speaker**
+Là tu peux attendre, je vais regarder.
+
+**[01:59:57 - 01:59:57] speaker**
+Parce que là, tu as des types d'éclairages
+
+**[01:59:58 - 01:59:58] speaker**
+qui chambent beaucoup,
+
+**[01:59:59 - 01:59:59] speaker**
+si on fonctionnent à la s'un peu mieux.
+
+**[02:00:04 - 02:00:04] speaker**
+Et franchement, ça a un problème.
+
+**[02:00:06 - 02:00:06] speaker**
+Mais c'est...
+
+**[02:00:07 - 02:00:07] speaker**
+Mais c'est...
+
+**[02:00:09 - 02:00:09] speaker**
+C'est plus qu'encore hiable.
+
+**[02:00:11 - 02:00:11] speaker**
+Parce que...
+
+**[02:00:12 - 02:00:12] speaker**
+Je...
+
+**[02:00:14 - 02:00:14] speaker**
+Ouais, j'ai...
+
+**[02:00:16 - 02:00:16] speaker**
+Il y a une marque de mon trastis anarche,
+
+**[02:00:19 - 02:00:19] speaker**
+que j'aime beaucoup.
+
+**[02:00:21 - 02:00:21] speaker**
+Et...
+
+**[02:00:22 - 02:00:22] speaker**
+Et puis, je...
+
+**[02:00:24 - 02:00:24] speaker**
+Je ne sais pas en train de faire de leur promotion,
+
+**[02:00:27 - 02:00:27] speaker**
+mais je les aide un peu.
+
+**[02:00:29 - 02:00:29] speaker**
+Attends, qui est dans la palémoire.
+
+**[02:00:31 - 02:00:31] speaker**
+Par exemple, tu...
+
+**[02:00:32 - 02:00:32] speaker**
+On a palé sur toi, je sais pas.
+
+**[02:00:34 - 02:00:34] speaker**
+Tu fais la...
+
+**[02:00:35 - 02:00:35] speaker**
+J'ai sensé cette vidéo.
+
+**[02:00:37 - 02:00:37] speaker**
+Non, non, non, non, non, non, non, du tout.
+
+**[02:00:39 - 02:00:39] speaker**
+Et tout, on se sent en part.
+
+**[02:00:40 - 02:00:40] speaker**
+C'est...
+
+**[02:00:41 - 02:00:41] speaker**
+Ils se sont vanocentes,
+
+**[02:00:42 - 02:00:42] speaker**
+c'est une petite...
+
+**[02:00:43 - 02:00:43] speaker**
+entre le quartisanal.
+
+**[02:00:45 - 02:00:45] speaker**
+Ça commence à...
+
+**[02:00:46 - 02:00:46] speaker**
+On est tellement ça commence à 400, je crois.
+
+**[02:00:48 - 02:00:48] speaker**
+Ah bon, ça va.
+
+**[02:00:49 - 02:00:49] speaker**
+Le plus cher, ça de tête,
+
+**[02:00:51 - 02:00:51] speaker**
+je crois qu'il doit être à 8 000.
+
+**[02:00:53 - 02:00:53] speaker**
+Ça va pas.
+
+**[02:00:54 - 02:00:54] speaker**
+On ne sait pas les...
+
+**[02:00:55 - 02:00:55] speaker**
+On se fait excesser.
+
+**[02:00:56 - 02:00:56] speaker**
+Moi, il y a...
+
+**[02:00:57 - 02:00:57] speaker**
+C'est vraiment...
+
+**[02:00:59 - 02:00:59] speaker**
+Mais...
+
+**[02:01:00 - 02:01:00] speaker**
+Isina, je connais le patron...
+
+**[02:01:05 - 02:01:05] speaker**
+Isina...
+
+**[02:01:06 - 02:01:06] speaker**
+Ah...
+
+**[02:01:07 - 02:01:07] speaker**
+Ah...
+
+**[02:01:08 - 02:01:08] speaker**
+Ça, je sais de trouver des...
+
+**[02:01:10 - 02:01:10] speaker**
+la des idées pour y nover
+
+**[02:01:12 - 02:01:12] speaker**
+à peu la fabrication.
+
+**[02:01:14 - 02:01:14] speaker**
+Un messepien.
+
+**[02:01:15 - 02:01:15] speaker**
+Le...
+
+**[02:01:16 - 02:01:16] speaker**
+Le...
+
+**[02:01:16 - 02:01:16] speaker**
+Le...
+
+**[02:01:17 - 02:01:17] speaker**
+Le...
+
+**[02:01:18 - 02:01:18] speaker**
+Le...
+
+**[02:01:18 - 02:01:18] speaker**
+Le...
+
+**[02:01:19 - 02:01:19] speaker**
+Le...
+
+**[02:01:20 - 02:01:20] speaker**
+Le...
+
+**[02:01:21 - 02:01:21] speaker**
+Je vais demander de créer le monde.
+
+**[02:01:22 - 02:01:22] speaker**
+Je vais envoyer les photos.
+
+**[02:01:23 - 02:01:23] speaker**
+Voilà ce qui m'a fait.
+
+**[02:01:24 - 02:01:24] speaker**
+Ça...
+
+**[02:01:25 - 02:01:25] speaker**
+Ça...
+
+**[02:01:25 - 02:01:25] speaker**
+Ça...
+
+**[02:01:26 - 02:01:26] speaker**
+Tout le process en fait de création.
+
+**[02:01:30 - 02:01:30] speaker**
+Moi, sur ça...
+
+**[02:01:31 - 02:01:31] speaker**
+Va-tu...
+
+**[02:01:31 - 02:01:31] speaker**
+Et tu veux faire la promo sur les réseaux.
+
+**[02:01:33 - 02:01:33] speaker**
+Moi, je ne déglierai pas du tout la communication.
+
+**[02:01:35 - 02:01:35] speaker**
+C'est un peu de que ça va vous de boulot.
+
+**[02:01:37 - 02:01:37] speaker**
+Ça va.
+
+**[02:01:38 - 02:01:38] speaker**
+Mais je sais pas si j'accobles l'aimer.
+
+**[02:01:40 - 02:01:40] speaker**
+Ah, c'est pas...
+
+**[02:01:41 - 02:01:41] speaker**
+Ah, ou tu peux les târir, hein?
+
+**[02:01:42 - 02:01:42] speaker**
+C'est-à-dire...
+
+**[02:01:44 - 02:01:44] speaker**
+Non, mais...
+
+**[02:01:45 - 02:01:45] speaker**
+Non, mais...
+
+**[02:01:46 - 02:01:46] speaker**
+Et je sais pas si j'accobles là,
+
+**[02:01:47 - 02:01:47] speaker**
+cette photo avec le dragon lui l'aimer.
+
+**[02:01:49 - 02:01:49] speaker**
+Il a pressi récent au...
+
+**[02:01:51 - 02:01:51] speaker**
+Non, non, non, non, non.
+
+**[02:01:51 - 02:01:51] speaker**
+J'ai sa...
+
+**[02:01:52 - 02:01:52] speaker**
+Je pense pas.
+
+**[02:01:53 - 02:01:53] speaker**
+C'est pas que...
+
+**[02:01:54 - 02:01:54] speaker**
+C'est...
+
+**[02:01:55 - 02:01:55] speaker**
+C'est comme moi, je ne ferai pas.
+
+**[02:01:56 - 02:01:56] speaker**
+Mais ça, au moins, pour voir, qu'est-ce qui est possible.
+
+**[02:01:59 - 02:01:59] speaker**
+C'est...
+
+**[02:02:00 - 02:02:00] speaker**
+C'est exactement ça parce que j'accobles,
+
+**[02:02:01 - 02:02:01] speaker**
+j'ai réagolé quand tu vois la...
+
+**[02:02:03 - 02:02:03] speaker**
+La qualité du même...
+
+**[02:02:04 - 02:02:04] speaker**
+Je sais pas si il va aimer.
+
+**[02:02:05 - 02:02:05] speaker**
+Je ne le même pas si il va y apprécier.
+
+**[02:02:07 - 02:02:07] speaker**
+Non, non, il va pas du tout apprécier.
+
+**[02:02:09 - 02:02:09] speaker**
+Non, là.
+
+**[02:02:10 - 02:02:10] speaker**
+Ouais.
+
+**[02:02:10 - 02:02:10] speaker**
+C'est pas du tout pour lui, et toi, c'est pas ça.
+
+**[02:02:13 - 02:02:13] speaker**
+C'est pour faire de la com, sur les réseaux.
+
+**[02:02:16 - 02:02:16] speaker**
+Ouais.
+
+**[02:02:16 - 02:02:16] speaker**
+Ouais.
+
+**[02:02:17 - 02:02:17] speaker**
+Ouais.
+
+**[02:02:18 - 02:02:18] speaker**
+Ouais.
+
+**[02:02:19 - 02:02:19] speaker**
+Pour ça que les montes se tellent,
+
+**[02:02:22 - 02:02:22] speaker**
+c'est tellement précis.
+
+**[02:02:22 - 02:02:22] speaker**
+Par contre, il y a quelqu'un aussi.
+
+**[02:02:24 - 02:02:24] speaker**
+Il y a fait son visal entre-à-dire,
+
+**[02:02:25 - 02:02:25] speaker**
+pour en cours.
+
+**[02:02:26 - 02:02:26] speaker**
+Et c'est vrai.
+
+**[02:02:27 - 02:02:27] speaker**
+Ça va super super bien.
+
+**[02:02:29 - 02:02:29] speaker**
+Ça va une personne...
+
+**[02:02:32 - 02:02:32] speaker**
+Ça va être soit toi-même,
+
+**[02:02:33 - 02:02:33] speaker**
+soit une personne cognite.
+
+**[02:02:34 - 02:02:34] speaker**
+C'est tournant en 3D,
+
+**[02:02:35 - 02:02:35] speaker**
+20, tout de suite.
+
+**[02:02:35 - 02:02:35] speaker**
+Ça va pas.
+
+**[02:02:37 - 02:02:37] speaker**
+Je ne sais pas,
+
+**[02:02:38 - 02:02:38] speaker**
+on va mieux le faire.
+
+**[02:02:39 - 02:02:39] speaker**
+Ça va bien.
+
+**[02:02:40 - 02:02:40] speaker**
+Enchant, c'est bien.
+
+**[02:02:42 - 02:02:42] speaker**
+C'est...
+
+**[02:02:44 - 02:02:44] speaker**
+Ouais.
+
+**[02:02:44 - 02:02:44] speaker**
+Ouais, on va...
+
+**[02:02:45 - 02:02:45] speaker**
+On va la texture.
+
+**[02:02:46 - 02:02:46] speaker**
+Après, il y a un peu de la finage,
+
+**[02:02:48 - 02:02:48] speaker**
+mais...
+
+**[02:02:48 - 02:02:48] speaker**
+Ouais.
+
+**[02:02:51 - 02:02:51] speaker**
+Ça va être comme dans le futur.
+
+**[02:02:53 - 02:02:53] speaker**
+Ouais.
+
+**[02:02:54 - 02:02:54] speaker**
+Ça va être...
+
+**[02:02:55 - 02:02:55] speaker**
+C'est pour ça que les clattés,
+
+**[02:02:56 - 02:02:56] speaker**
+ce que disaient...
+
+**[02:02:57 - 02:02:57] speaker**
+Tout à l'heure,
+
+**[02:02:58 - 02:02:58] speaker**
+à l'heure,
+
+**[02:02:59 - 02:02:59] speaker**
+avec les clattés pour voir les mourances.
+
+**[02:03:02 - 02:03:02] speaker**
+Voilà, il n'a pas vraiment eu clatté.
+
+**[02:03:04 - 02:03:04] speaker**
+Non, on se dit...
+
+**[02:03:05 - 02:03:05] speaker**
+Non, on se dit...
+
+**[02:03:05 - 02:03:05] speaker**
+Et la plutôt tournant,
+
+**[02:03:06 - 02:03:06] speaker**
+en fait, on va...
+
+**[02:03:08 - 02:03:08] speaker**
+Ça va y en faire ça.
+
+**[02:03:10 - 02:03:10] speaker**
+La ça peut plus dire ce que là,
+
+**[02:03:11 - 02:03:11] speaker**
+il fait ça, parce que tu tournes.
+
+**[02:03:14 - 02:03:14] speaker**
+Je vais...
+
+**[02:03:15 - 02:03:15] speaker**
+Et je faudrais vraiment essayer de le faire
+
+**[02:03:17 - 02:03:17] speaker**
+un peu sérieusement,
+
+**[02:03:18 - 02:03:18] speaker**
+on prend un petit moment pour le faire,
+
+**[02:03:19 - 02:03:19] speaker**
+puis,
+
+**[02:03:20 - 02:03:20] speaker**
+c'était encore plus en profondeur.
+
+**[02:03:23 - 02:03:23] speaker**
+À terre,
+
+**[02:03:24 - 02:03:24] speaker**
+je suis en sens...
+
+**[02:03:25 - 02:03:25] speaker**
+Ça...
+
+**[02:03:25 - 02:03:25] speaker**
+En truc que j'ai juste essayé,
+
+**[02:03:27 - 02:03:27] speaker**
+j'ai juste pour le côté fun,
+
+**[02:03:28 - 02:03:28] speaker**
+pour ça, c'est une musique ta...
+
+**[02:03:30 - 02:03:30] speaker**
+de quelqu'un.
+
+**[02:03:31 - 02:03:31] speaker**
+Que vais acheter...
+
+**[02:03:32 - 02:03:32] speaker**
+Je suis bon de vœu, ça me...
+
+**[02:03:33 - 02:03:33] speaker**
+Oh, le dragon,
+
+**[02:03:34 - 02:03:34] speaker**
+on va chez très très dragon,
+
+**[02:03:35 - 02:03:35] speaker**
+donc c'est pour ça que...
+
+**[02:03:37 - 02:03:37] speaker**
+Autant de mon chè dragon,
+
+**[02:03:38 - 02:03:38] speaker**
+mais...
+
+**[02:03:39 - 02:03:39] speaker**
+C'était juste pour montrer,
+
+**[02:03:40 - 02:03:40] speaker**
+en fait, une montre,
+
+**[02:03:41 - 02:03:41] speaker**
+c'est blink blink,
+
+**[02:03:43 - 02:03:43] speaker**
+il avait acheté sur Amazon,
+
+**[02:03:44 - 02:03:44] speaker**
+après,
+
+**[02:03:44 - 02:03:44] speaker**
+chose comme 350 de la,
+
+**[02:03:46 - 02:03:46] speaker**
+au ce motore.
+
+**[02:03:48 - 02:03:48] speaker**
+Mais c'est une moitié.
+
+**[02:03:48 - 02:03:48] speaker**
+Alors, l'autre,
+
+**[02:03:49 - 02:03:49] speaker**
+des piquissaires arrirent,
+
+**[02:03:50 - 02:03:50] speaker**
+encore,
+
+**[02:03:50 - 02:03:50] speaker**
+pas qu'ils s'y arrirent,
+
+**[02:03:51 - 02:03:51] speaker**
+mais...
+
+**[02:03:52 - 02:03:52] speaker**
+Il y a plus 3 kilos là.
+
+**[02:03:53 - 02:03:53] speaker**
+Ouais, c'est ça.
+
+**[02:03:57 - 02:03:57] speaker**
+Ok, ok.
+
+**[02:03:59 - 02:03:59] speaker**
+C'est pas vraiment d'aller à la telle de sport, c'est bien.
+
+**[02:04:04 - 02:04:04] speaker**
+C'est remonte-le poigné,
+
+**[02:04:05 - 02:04:05] speaker**
+c'est vraiment...
+
+**[02:04:06 - 02:04:06] speaker**
+c'est...
+
+**[02:04:09 - 02:04:09] speaker**
+Donc voilà,
+
+**[02:04:10 - 02:04:10] speaker**
+mais c'est...
+
+**[02:04:10 - 02:04:10] speaker**
+Est-ce qu'il y a encore des questions
+
+**[02:04:11 - 02:04:11] speaker**
+par rapport à ce soir,
+
+**[02:04:12 - 02:04:12] speaker**
+est-ce que vous voulez
+
+**[02:04:13 - 02:04:13] speaker**
+encore poser quelque chose,
+
+**[02:04:14 - 02:04:14] speaker**
+donc on est encore là,
+
+**[02:04:15 - 02:04:15] speaker**
+ou est-ce qu'on a fait un peu de tour,
+
+**[02:04:17 - 02:04:17] speaker**
+au plus juste une dernière tour,
+
+**[02:04:19 - 02:04:19] speaker**
+c'est-à-dire...
+
+**[02:04:20 - 02:04:20] speaker**
+Ouais.
+
+**[02:04:21 - 02:04:21] speaker**
+Le...
+
+**[02:04:22 - 02:04:22] speaker**
+Au début, on parle de doule,
+
+**[02:04:23 - 02:04:23] speaker**
+j'ai ma quatri-puis,
+
+**[02:04:24 - 02:04:24] speaker**
+et puis les autres modèles,
+
+**[02:04:26 - 02:04:26] speaker**
+juste pour ma comprension,
+
+**[02:04:28 - 02:04:28] speaker**
+qui suitent vraiment un peu néo-chite.
+
+**[02:04:30 - 02:04:30] speaker**
+Comment tu arrives à utiliser les deux,
+
+**[02:04:32 - 02:04:32] speaker**
+donc il y a avoir j'ai ma quatre en local,
+
+**[02:04:34 - 02:04:34] speaker**
+et utiliser d'autres meuls plus complexes,
+
+**[02:04:38 - 02:04:38] speaker**
+comme j'ai pété cinq, cinq,
+
+**[02:04:40 - 02:04:40] speaker**
+et...
+
+**[02:04:41 - 02:04:41] speaker**
+Claude.
+
+**[02:04:43 - 02:04:43] speaker**
+Ah, je pense.
+
+**[02:04:44 - 02:04:44] speaker**
+C'est quoi, hein?
+
+**[02:04:45 - 02:04:45] speaker**
+Sur le même...
+
+**[02:04:46 - 02:04:46] speaker**
+Ouais, je vois.
+
+**[02:04:48 - 02:04:48] speaker**
+C'est ça, c'est sur...
+
+**[02:04:49 - 02:04:49] speaker**
+On est d'accord, c'est sur le même Macminien.
+
+**[02:04:51 - 02:04:51] speaker**
+C'est sur Mac Studio,
+
+**[02:04:52 - 02:04:52] speaker**
+c'est... c'était gal,
+
+**[02:04:53 - 02:04:53] speaker**
+c'est-à-dire, j'ai pété des sens...
+
+**[02:04:55 - 02:04:55] speaker**
+Viens...
+
+**[02:04:57 - 02:04:57] speaker**
+Autre, connecteur,
+
+**[02:04:58 - 02:04:58] speaker**
+il est âgé Maca,
+
+**[02:04:59 - 02:04:59] speaker**
+pendant que...
+
+**[02:05:01 - 02:05:01] speaker**
+qui est visage en fait à la même studio,
+
+**[02:05:02 - 02:05:02] speaker**
+donc il y a besoin d'a la même studio.
+
+**[02:05:05 - 02:05:05] speaker**
+Ok.
+
+**[02:05:05 - 02:05:05] speaker**
+On s'a, elle a du studio,
+
+**[02:05:06 - 02:05:06] speaker**
+on a une mini simple,
+
+**[02:05:07 - 02:05:07] speaker**
+ça, ça, ça, ça, ça, ça ne t'ont pas.
+
+**[02:05:09 - 02:05:09] speaker**
+Si, si, si, si, si, si,
+
+**[02:05:10 - 02:05:10] speaker**
+bah, juste le fait,
+
+**[02:05:11 - 02:05:11] speaker**
+c'est le bon...
+
+**[02:05:12 - 02:05:12] speaker**
+J'ai Maca-4,
+
+**[02:05:13 - 02:05:13] speaker**
+O2B,
+
+**[02:05:14 - 02:05:14] speaker**
+la version 2,
+
+**[02:05:15 - 02:05:15] speaker**
+le ton très très bien sur Macminien.
+
+**[02:05:17 - 02:05:17] speaker**
+La même Maca-4.
+
+**[02:05:19 - 02:05:19] speaker**
+C'est le milliard de paramètres en fait.
+
+**[02:05:21 - 02:05:21] speaker**
+J'ai donc plus d'aide par un maître,
+
+**[02:05:24 - 02:05:24] speaker**
+en même temps,
+
+**[02:05:24 - 02:05:24] speaker**
+elle plus tard,
+
+**[02:05:25 - 02:05:25] speaker**
+des bonnes cadétés de résultats,
+
+**[02:05:27 - 02:05:27] speaker**
+on veut pour simple plus ses coins.
+
+**[02:05:29 - 02:05:29] speaker**
+En haut, plus les lourdes, plus les balaises.
+
+**[02:05:31 - 02:05:31] speaker**
+Ouais, ça, comme ça.
+
+**[02:05:34 - 02:05:34] speaker**
+Mais sur Macminie,
+
+**[02:05:35 - 02:05:35] speaker**
+comme le bien,
+
+**[02:05:35 - 02:05:35] speaker**
+qu'il n'entraîte gamin,
+
+**[02:05:38 - 02:05:38] speaker**
+ça tourne.
+
+**[02:05:39 - 02:05:39] speaker**
+N'est qu'elle?
+
+**[02:05:40 - 02:05:40] speaker**
+4B, 2B,
+
+**[02:05:41 - 02:05:41] speaker**
+nickel.
+
+**[02:05:42 - 02:05:42] speaker**
+Et tu peux faire némotron aussi,
+
+**[02:05:46 - 02:05:46] speaker**
+némotron 4B,
+
+**[02:05:47 - 02:05:47] speaker**
+qu'elle a,
+
+**[02:05:48 - 02:05:48] speaker**
+excellent.
+
+**[02:05:48 - 02:05:48] speaker**
+Osset,
+
+**[02:05:49 - 02:05:49] speaker**
+vis-à-dire,
+
+**[02:05:51 - 02:05:51] speaker**
+coin,
+
+**[02:05:51 - 02:05:51] speaker**
+alors,
+
+**[02:05:52 - 02:05:52] speaker**
+pas 35B,
+
+**[02:05:53 - 02:05:53] speaker**
+ça, c'est pas bon,
+
+**[02:05:55 - 02:05:55] speaker**
+9B, ça marche pas mon plus,
+
+**[02:05:56 - 02:05:56] speaker**
+j'ai déjà,
+
+**[02:05:57 - 02:05:57] speaker**
+c'est trop lourde, en fait.
+
+**[02:05:59 - 02:05:59] speaker**
+Y'a le LFM,
+
+**[02:06:00 - 02:06:00] speaker**
+un végal de B,
+
+**[02:06:01 - 02:06:01] speaker**
+des fêtes n'importe quoi,
+
+**[02:06:02 - 02:06:02] speaker**
+mais il y a rigolo,
+
+**[02:06:03 - 02:06:03] speaker**
+parce qu'il est ultra rapide,
+
+**[02:06:05 - 02:06:05] speaker**
+d'amis-traules,
+
+**[02:06:06 - 02:06:06] speaker**
+qui est marchoci,
+
+**[02:06:07 - 02:06:07] speaker**
+et puis,
+
+**[02:06:09 - 02:06:09] speaker**
+y'a voilà,
+
+**[02:06:10 - 02:06:10] speaker**
+il y'a coin 3,
+
+**[02:06:11 - 02:06:11] speaker**
+4B,
+
+**[02:06:13 - 02:06:13] speaker**
+que pas mal.
+
+**[02:06:16 - 02:06:16] speaker**
+Malideur, c'est 27B,
+
+**[02:06:17 - 02:06:17] speaker**
+sur la c'est une ture,
+
+**[02:06:18 - 02:06:18] speaker**
+les coin 3,
+
+**[02:06:19 - 02:06:19] speaker**
+pour un 6B,
+
+**[02:06:21 - 02:06:21] speaker**
+mais malheureusement,
+
+**[02:06:21 - 02:06:21] speaker**
+sur la hétourne,
+
+**[02:06:22 - 02:06:22] speaker**
+un partiant de 60A du gars.
+
+**[02:06:24 - 02:06:24] speaker**
+OK.
+
+**[02:06:25 - 02:06:25] speaker**
+Donc,
+
+**[02:06:27 - 02:06:27] speaker**
+mais il va y avoir des trucs,
+
+**[02:06:28 - 02:06:28] speaker**
+et va se passer des délirs,
+
+**[02:06:30 - 02:06:30] speaker**
+rachos,
+
+**[02:06:30 - 02:06:30] speaker**
+parce que,
+
+**[02:06:32 - 02:06:32] speaker**
+c'est partager,
+
+**[02:06:33 - 02:06:33] speaker**
+alors moi,
+
+**[02:06:33 - 02:06:33] speaker**
+je partage des pâpes,
+
+**[02:06:34 - 02:06:34] speaker**
+les durs,
+
+**[02:06:34 - 02:06:34] speaker**
+faut me dire,
+
+**[02:06:34 - 02:06:34] speaker**
+c'est trop compliqué.
+
+**[02:06:36 - 02:06:36] speaker**
+J'ai partagé un papier de recherche
+
+**[02:06:38 - 02:06:38] speaker**
+sur,
+
+**[02:06:40 - 02:06:40] speaker**
+de chez,
+
+**[02:06:42 - 02:06:42] speaker**
+un,
+
+**[02:06:43 - 02:06:43] speaker**
+ou gueule.
+
+**[02:06:45 - 02:06:45] speaker**
+Oui,
+
+**[02:06:45 - 02:06:45] speaker**
+ou ça parle de,
+
+**[02:06:47 - 02:06:47] speaker**
+voilà,
+
+**[02:06:47 - 02:06:47] speaker**
+de l'innovation technologique,
+
+**[02:06:49 - 02:06:49] speaker**
+derrière,
+
+**[02:06:50 - 02:06:50] speaker**
+c'est comment ils appelerent ça,
+
+**[02:06:51 - 02:06:51] speaker**
+les,
+
+**[02:06:52 - 02:06:52] speaker**
+multitoquaines,
+
+**[02:06:53 - 02:06:53] speaker**
+pré-diction,
+
+**[02:06:53 - 02:06:53] speaker**
+de rachos,
+
+**[02:06:54 - 02:06:54] speaker**
+mtp.
+
+**[02:06:57 - 02:06:57] speaker**
+Et en fait,
+
+**[02:06:57 - 02:06:57] speaker**
+j'ai ma carte,
+
+**[02:06:58 - 02:06:58] speaker**
+qui est déjà rapide,
+
+**[02:07:00 - 02:07:00] speaker**
+va faire trois fois la vitesse.
+
+**[02:07:02 - 02:07:02] speaker**
+Ah, sois?
+
+**[02:07:04 - 02:07:04] speaker**
+Ah, sois.
+
+**[02:07:05 - 02:07:05] speaker**
+Donc,
+
+**[02:07:07 - 02:07:07] speaker**
+et puis,
+
+**[02:07:07 - 02:07:07] speaker**
+c'est Google,
+
+**[02:07:08 - 02:07:08] speaker**
+qui est derrière,
+
+**[02:07:08 - 02:07:08] speaker**
+donc moi,
+
+**[02:07:08 - 02:07:08] speaker**
+je m'intéresse au gros,
+
+**[02:07:09 - 02:07:09] speaker**
+à Libaba,
+
+**[02:07:10 - 02:07:10] speaker**
+c'est coin,
+
+**[02:07:11 - 02:07:11] speaker**
+font des très bonnes modales.
+
+**[02:07:14 - 02:07:14] speaker**
+J'ai regardé,
+
+**[02:07:15 - 02:07:15] speaker**
+à NVIDIA,
+
+**[02:07:15 - 02:07:15] speaker**
+parce que,
+
+**[02:07:16 - 02:07:16] speaker**
+il y'a un mot de rond
+
+**[02:07:17 - 02:07:17] speaker**
+en NVIDIA,
+
+**[02:07:17 - 02:07:17] speaker**
+puis,
+
+**[02:07:18 - 02:07:18] speaker**
+j'ai ma carte,
+
+**[02:07:19 - 02:07:19] speaker**
+les autres,
+
+**[02:07:20 - 02:07:20] speaker**
+ils sont coulussies,
+
+**[02:07:21 - 02:07:21] speaker**
+mais ils ont pas
+
+**[02:07:21 - 02:07:21] speaker**
+des moyens de,
+
+**[02:07:22 - 02:07:22] speaker**
+ça de la compétition,
+
+**[02:07:23 - 02:07:23] speaker**
+contre ce mec,
+
+**[02:07:24 - 02:07:24] speaker**
+là-bas.
+
+**[02:07:25 - 02:07:25] speaker**
+Et puis,
+
+**[02:07:25 - 02:07:25] speaker**
+moi,
+
+**[02:07:26 - 02:07:26] speaker**
+oui.
+
+**[02:07:27 - 02:07:27] speaker**
+Alors,
+
+**[02:07:28 - 02:07:28] speaker**
+moi,
+
+**[02:07:28 - 02:07:28] speaker**
+qui est ce qui foutent,
+
+**[02:07:29 - 02:07:29] speaker**
+je ne sais pas si il foutent,
+
+**[02:07:30 - 02:07:30] speaker**
+je ne sais pas si il foutent,
+
+**[02:07:31 - 02:07:31] speaker**
+ils sont,
+
+**[02:07:31 - 02:07:31] speaker**
+moi,
+
+**[02:07:32 - 02:07:32] speaker**
+oui.
+
+**[02:07:33 - 02:07:33] speaker**
+Je ne sais pas si j'ai un modèle local,
+
+**[02:07:35 - 02:07:35] speaker**
+là,
+
+**[02:07:35 - 02:07:35] speaker**
+je crois pas,
+
+**[02:07:36 - 02:07:36] speaker**
+il y a chimique,
+
+**[02:07:36 - 02:07:36] speaker**
+il y a des très bons modales locaux,
+
+**[02:07:38 - 02:07:38] speaker**
+mais ils sont très gros,
+
+**[02:07:39 - 02:07:39] speaker**
+donc,
+
+**[02:07:39 - 02:07:39] speaker**
+c'est pas pour nous,
+
+**[02:07:41 - 02:07:41] speaker**
+ou à moins le thème b,
+
+**[02:07:42 - 02:07:42] speaker**
+les cas de de guerre,
+
+**[02:07:42 - 02:07:42] speaker**
+et puis,
+
+**[02:07:43 - 02:07:43] speaker**
+ils ont été très bons,
+
+**[02:07:44 - 02:07:44] speaker**
+et je crois que mes minimales,
+
+**[02:07:46 - 02:07:46] speaker**
+ils ne font pas le modèle de l'opensure,
+
+**[02:07:47 - 02:07:47] speaker**
+c'est,
+
+**[02:07:48 - 02:07:48] speaker**
+et moi,
+
+**[02:07:48 - 02:07:48] speaker**
+et je crois pas qu'ils font le modèle de l'opensure,
+
+**[02:07:49 - 02:07:49] speaker**
+c'est un mec,
+
+**[02:07:50 - 02:07:50] speaker**
+à naissance.
+
+**[02:07:52 - 02:07:52] speaker**
+Ce qui est fonds pour que je vais
+
+**[02:07:53 - 02:07:53] speaker**
+faire chimement,
+
+**[02:07:53 - 02:07:53] speaker**
+puis ils ont,
+
+**[02:07:54 - 02:07:54] speaker**
+je ne sais pas,
+
+**[02:07:54 - 02:07:54] speaker**
+même tout de t'sis,
+
+**[02:07:56 - 02:07:56] speaker**
+c'est à dire.
+
+**[02:07:56 - 02:07:56] speaker**
+Moi,
+
+**[02:07:56 - 02:07:56] speaker**
+oui,
+
+**[02:07:56 - 02:07:56] speaker**
+moi,
+
+**[02:07:57 - 02:07:57] speaker**
+oui,
+
+**[02:07:57 - 02:07:57] speaker**
+il faut vraiment le traiter,
+
+**[02:07:58 - 02:07:58] speaker**
+à part,
+
+**[02:07:58 - 02:07:58] speaker**
+c'est à dire
+
+**[02:07:59 - 02:07:59] speaker**
+que c'est d'une entreprise
+
+**[02:08:01 - 02:08:01] speaker**
+chinoise concentrée de tech,
+
+**[02:08:04 - 02:08:04] speaker**
+qui est ultra puissant,
+
+**[02:08:06 - 02:08:06] speaker**
+mais ils ont,
+
+**[02:08:07 - 02:08:07] speaker**
+ils sont à part,
+
+**[02:08:09 - 02:08:09] speaker**
+pas à porte,
+
+**[02:08:10 - 02:08:10] speaker**
+tout d'autres entreprise,
+
+**[02:08:11 - 02:08:11] speaker**
+chinoise,
+
+**[02:08:14 - 02:08:14] speaker**
+voilà,
+
+**[02:08:15 - 02:08:15] speaker**
+je ne veux pas aller plus loin,
+
+**[02:08:16 - 02:08:16] speaker**
+mais c'est pas comme les autres,
+
+**[02:08:18 - 02:08:18] speaker**
+quoi,
+
+**[02:08:18 - 02:08:18] speaker**
+oui,
+
+**[02:08:18 - 02:08:18] speaker**
+oui,
+
+**[02:08:19 - 02:08:19] speaker**
+oui, c'est vraiment spécial.
+
+**[02:08:21 - 02:08:21] speaker**
+Il y a une part de réussir,
+
+**[02:08:22 - 02:08:22] speaker**
+à faire tourner,
+
+**[02:08:24 - 02:08:24] speaker**
+des modèles,
+
+**[02:08:25 - 02:08:25] speaker**
+sur des puces Huawei,
+
+**[02:08:27 - 02:08:27] speaker**
+ça m'enregistre,
+
+**[02:08:28 - 02:08:28] speaker**
+c'est,
+
+**[02:08:28 - 02:08:28] speaker**
+c'est,
+
+**[02:08:28 - 02:08:28] speaker**
+c'est,
+
+**[02:08:29 - 02:08:29] speaker**
+c'est parce que,
+
+**[02:08:29 - 02:08:29] speaker**
+là,
+
+**[02:08:30 - 02:08:30] speaker**
+non,
+
+**[02:08:30 - 02:08:30] speaker**
+on a fait une compétition
+
+**[02:08:31 - 02:08:31] speaker**
+avec,
+
+**[02:08:32 - 02:08:32] speaker**
+avec,
+
+**[02:08:32 - 02:08:32] speaker**
+justement,
+
+**[02:08:32 - 02:08:32] speaker**
+les assens,
+
+**[02:08:33 - 02:08:33] speaker**
+ou les assens,
+
+**[02:08:34 - 02:08:34] speaker**
+ou les assens,
+
+**[02:08:35 - 02:08:35] speaker**
+ou les aches,
+
+**[02:08:36 - 02:08:36] speaker**
+puis,
+
+**[02:08:37 - 02:08:37] speaker**
+il y a des bênes du marcle dessus,
+
+**[02:08:38 - 02:08:38] speaker**
+donc ils y arrivent.
+
+**[02:08:39 - 02:08:39] speaker**
+J'ai un vrai objectif,
+
+**[02:08:40 - 02:08:40] speaker**
+justement,
+
+**[02:08:41 - 02:08:41] speaker**
+le patron d'énVIDIA
+
+**[02:08:42 - 02:08:42] speaker**
+avait fait une
+
+**[02:08:43 - 02:08:43] speaker**
+répondeuse,
+
+**[02:08:43 - 02:08:43] speaker**
+une question
+
+**[02:08:45 - 02:08:45] speaker**
+par rapport à ça
+
+**[02:08:45 - 02:08:45] speaker**
+et que,
+
+**[02:08:47 - 02:08:47] speaker**
+justement,
+
+**[02:08:47 - 02:08:47] speaker**
+la Chine avait,
+
+**[02:08:49 - 02:08:49] speaker**
+plus tellement de retard,
+
+**[02:08:50 - 02:08:50] speaker**
+malgré les américains,
+
+**[02:08:52 - 02:08:52] speaker**
+le mété,
+
+**[02:08:52 - 02:08:52] speaker**
+encore des embarquaux,
+
+**[02:08:53 - 02:08:53] speaker**
+sur les puces puces sortes,
+
+**[02:08:55 - 02:08:55] speaker**
+que une vidéo fabrique,
+
+**[02:08:56 - 02:08:56] speaker**
+pour ne pas les envoyer en Chine,
+
+**[02:08:58 - 02:08:58] speaker**
+à cause,
+
+**[02:08:58 - 02:08:58] speaker**
+justement,
+
+**[02:08:59 - 02:08:59] speaker**
+de,
+
+**[02:09:00 - 02:09:00] speaker**
+pour préserver la vente technologique,
+
+**[02:09:02 - 02:09:02] speaker**
+puis que,
+
+**[02:09:02 - 02:09:02] speaker**
+maintenant,
+
+**[02:09:03 - 02:09:03] speaker**
+le retard était très pée.
+
+**[02:09:07 - 02:09:07] speaker**
+Et,
+
+**[02:09:07 - 02:09:07] speaker**
+donc,
+
+**[02:09:08 - 02:09:08] speaker**
+en tout cas,
+
+**[02:09:08 - 02:09:08] speaker**
+c'est dans le domaine de
+
+**[02:09:08 - 02:09:08] speaker**
+public,
+
+**[02:09:09 - 02:09:09] speaker**
+justement,
+
+**[02:09:09 - 02:09:09] speaker**
+c'est de,
+
+**[02:09:10 - 02:09:10] speaker**
+des bênes du parc
+
+**[02:09:11 - 02:09:11] speaker**
+les assens,
+
+**[02:09:12 - 02:09:12] speaker**
+les aches,
+
+**[02:09:12 - 02:09:12] speaker**
+avec les plus
+
+**[02:09:13 - 02:09:13] speaker**
+soirées.
+
+**[02:09:15 - 02:09:15] speaker**
+Puis,
+
+**[02:09:15 - 02:09:15] speaker**
+nous,
+
+**[02:09:15 - 02:09:15] speaker**
+enfin,
+
+**[02:09:16 - 02:09:16] speaker**
+notre cite euro,
+
+**[02:09:17 - 02:09:17] speaker**
+avec des cites,
+
+**[02:09:18 - 02:09:18] speaker**
+puis,
+
+**[02:09:19 - 02:09:19] speaker**
+pour l'utilisation,
+
+**[02:09:20 - 02:09:20] speaker**
+qu'on en fait,
+
+**[02:09:22 - 02:09:22] speaker**
+ça suffit,
+
+**[02:09:23 - 02:09:23] speaker**
+entrement.
+
+**[02:09:30 - 02:09:30] speaker**
+Oui,
+
+**[02:09:30 - 02:09:30] speaker**
+alors,
+
+**[02:09:30 - 02:09:30] speaker**
+tout ça fait,
+
+**[02:09:31 - 02:09:31] speaker**
+il y a les plus
+
+**[02:09:31 - 02:09:31] speaker**
+soirées qui
+
+**[02:09:32 - 02:09:32] speaker**
+vont arriver,
+
+**[02:09:32 - 02:09:32] speaker**
+donc ça,
+
+**[02:09:32 - 02:09:32] speaker**
+ça,
+
+**[02:09:33 - 02:09:33] speaker**
+est un gros sujet,
+
+**[02:09:34 - 02:09:34] speaker**
+moi,
+
+**[02:09:34 - 02:09:34] speaker**
+mais moi,
+
+**[02:09:34 - 02:09:34] speaker**
+je pense surtout,
+
+**[02:09:35 - 02:09:35] speaker**
+qui va se passer
+
+**[02:09:36 - 02:09:36] speaker**
+entre que,
+
+**[02:09:37 - 02:09:37] speaker**
+c'est très spécifique.
+
+**[02:09:39 - 02:09:39] speaker**
+C'est que là,
+
+**[02:09:40 - 02:09:40] speaker**
+les modèles
+
+**[02:09:41 - 02:09:41] speaker**
+vont réduire
+
+**[02:09:42 - 02:09:42] speaker**
+leur consommation
+
+**[02:09:43 - 02:09:43] speaker**
+de ce que ça peut la fenêtre de contexte,
+
+**[02:09:45 - 02:09:45] speaker**
+c'est grâce au cas
+
+**[02:09:46 - 02:09:46] speaker**
+avec hâche,
+
+**[02:09:47 - 02:09:47] speaker**
+c'est un peu compliqué,
+
+**[02:09:48 - 02:09:48] speaker**
+mais c'est super crucial.
+
+**[02:09:50 - 02:09:50] speaker**
+Et ce que je vous ai partagé,
+
+**[02:09:51 - 02:09:51] speaker**
+c'est le papier de recherche
+
+**[02:09:52 - 02:09:52] speaker**
+de Google,
+
+**[02:09:53 - 02:09:53] speaker**
+c'est belles turbo-crentes,
+
+**[02:09:55 - 02:09:55] speaker**
+qui permettent de
+
+**[02:09:56 - 02:09:56] speaker**
+compresser en fait le hâche,
+
+**[02:09:58 - 02:09:58] speaker**
+et donc,
+
+**[02:09:58 - 02:09:58] speaker**
+disons,
+
+**[02:09:59 - 02:09:59] speaker**
+beaucoup moins,
+
+**[02:10:00 - 02:10:00] speaker**
+de type de contexte,
+
+**[02:10:02 - 02:10:02] speaker**
+et c'est la clé
+
+**[02:10:02 - 02:10:02] speaker**
+pour faire des modèles,
+
+**[02:10:03 - 02:10:03] speaker**
+justement,
+
+**[02:10:04 - 02:10:04] speaker**
+de l'ocôme,
+
+**[02:10:05 - 02:10:05] speaker**
+et c'est un game changer.
+
+**[02:10:09 - 02:10:09] speaker**
+Il faut le comment prendre?
+
+**[02:10:10 - 02:10:10] speaker**
+Ah,
+
+**[02:10:11 - 02:10:11] speaker**
+et exact,
+
+**[02:10:12 - 02:10:12] speaker**
+en fait,
+
+**[02:10:12 - 02:10:12] speaker**
+pour rebondir
+
+**[02:10:13 - 02:10:13] speaker**
+ce que c'est bien dire,
+
+**[02:10:14 - 02:10:14] speaker**
+eux,
+
+**[02:10:14 - 02:10:14] speaker**
+ils ont en haut,
+
+**[02:10:15 - 02:10:15] speaker**
+oui,
+
+**[02:10:16 - 02:10:16] speaker**
+en développer
+
+**[02:10:16 - 02:10:16] speaker**
+pas mal de solutions,
+
+**[02:10:17 - 02:10:17] speaker**
+en Venezuela,
+
+**[02:10:18 - 02:10:18] speaker**
+pour les LLM,
+
+**[02:10:19 - 02:10:19] speaker**
+justement,
+
+**[02:10:20 - 02:10:20] speaker**
+pour la gestion
+
+**[02:10:21 - 02:10:21] speaker**
+des cavés caches.
+
+**[02:10:23 - 02:10:23] speaker**
+Je sais que,
+
+**[02:10:25 - 02:10:25] speaker**
+par exemple,
+
+**[02:10:26 - 02:10:26] speaker**
+d'y psique,
+
+**[02:10:26 - 02:10:26] speaker**
+dans son dernier modèle,
+
+**[02:10:27 - 02:10:27] speaker**
+a fait un truc très spécifique
+
+**[02:10:29 - 02:10:29] speaker**
+là-dessus sur le cavé cas,
+
+**[02:10:30 - 02:10:30] speaker**
+c'est pas des noms,
+
+**[02:10:31 - 02:10:31] speaker**
+et toujours des noms,
+
+**[02:10:32 - 02:10:32] speaker**
+j'ai plus l'un tellement,
+
+**[02:10:34 - 02:10:34] speaker**
+mais en gros,
+
+**[02:10:35 - 02:10:35] speaker**
+c'est toujours la même idée,
+
+**[02:10:36 - 02:10:36] speaker**
+quoi,
+
+**[02:10:36 - 02:10:36] speaker**
+c'est de rétenture,
+
+**[02:10:38 - 02:10:38] speaker**
+de...
+
+**[02:10:38 - 02:10:38] speaker**
+est-ce qu'il va se passer?
+
+**[02:10:39 - 02:10:39] speaker**
+Bon,
+
+**[02:10:39 - 02:10:39] speaker**
+après,
+
+**[02:10:40 - 02:10:40] speaker**
+c'est ma thé,
+
+**[02:10:40 - 02:10:40] speaker**
+et qu'à un peu,
+
+**[02:10:41 - 02:10:41] speaker**
+peut-être que je me gorge,
+
+**[02:10:41 - 02:10:41] speaker**
+mais en gros,
+
+**[02:10:42 - 02:10:42] speaker**
+je suis sûr,
+
+**[02:10:43 - 02:10:43] speaker**
+qu'on va arriver dans un monde,
+
+**[02:10:44 - 02:10:44] speaker**
+où tu vas faire tourner ton repuis,
+
+**[02:10:46 - 02:10:46] speaker**
+sur ton,
+
+**[02:10:46 - 02:10:46] speaker**
+sur ta bacon,
+
+**[02:10:47 - 02:10:47] speaker**
+à la maison,
+
+**[02:10:47 - 02:10:47] speaker**
+quoi.
+
+**[02:10:50 - 02:10:50] speaker**
+Et à partir de jour là,
+
+**[02:10:52 - 02:10:52] speaker**
+il y a tout qui change.
+
+**[02:10:55 - 02:10:55] speaker**
+C'est à plus besoin
+
+**[02:10:55 - 02:10:55] speaker**
+des mecs,
+
+**[02:10:56 - 02:10:56] speaker**
+qui vont de leur
+
+**[02:10:57 - 02:10:57] speaker**
+à truc,
+
+**[02:10:58 - 02:10:58] speaker**
+une blinde,
+
+**[02:10:58 - 02:10:58] speaker**
+et puis,
+
+**[02:10:59 - 02:10:59] speaker**
+c'était plus dépend de personne,
+
+**[02:11:00 - 02:11:00] speaker**
+de leur...
+
+**[02:11:04 - 02:11:04] speaker**
+Tout le monde,
+
+**[02:11:05 - 02:11:05] speaker**
+tu peux vraiment
+
+**[02:11:06 - 02:11:06] speaker**
+de cet avila,
+
+**[02:11:07 - 02:11:07] speaker**
+mais,
+
+**[02:11:08 - 02:11:08] speaker**
+mais,
+
+**[02:11:09 - 02:11:09] speaker**
+ça te s'intéressant,
+
+**[02:11:10 - 02:11:10] speaker**
+c'est intéressant.
+
+**[02:11:13 - 02:11:13] speaker**
+Ouais,
+
+**[02:11:13 - 02:11:13] speaker**
+parce que,
+
+**[02:11:13 - 02:11:13] speaker**
+bisès parlant,
+
+**[02:11:15 - 02:11:15] speaker**
+bah,
+
+**[02:11:15 - 02:11:15] speaker**
+si tout le monde
+
+**[02:11:16 - 02:11:16] speaker**
+fait tourner
+
+**[02:11:18 - 02:11:18] speaker**
+leur modèle,
+
+**[02:11:18 - 02:11:18] speaker**
+localement,
+
+**[02:11:20 - 02:11:20] speaker**
+sans payer un rond
+
+**[02:11:22 - 02:11:22] speaker**
+pour les toquelles?
+
+**[02:11:25 - 02:11:25] speaker**
+Comment ils arrivent
+
+**[02:11:26 - 02:11:26] speaker**
+en d'abiliser
+
+**[02:11:26 - 02:11:26] speaker**
+voir faire du profit
+
+**[02:11:28 - 02:11:28] speaker**
+sur leur aimé,
+
+**[02:11:29 - 02:11:29] speaker**
+si c'est pas?
+
+**[02:11:30 - 02:11:30] speaker**
+J'y quant à ce que
+
+**[02:11:31 - 02:11:31] speaker**
+les aimé,
+
+**[02:11:31 - 02:11:31] speaker**
+si c'est pas dans
+
+**[02:11:32 - 02:11:32] speaker**
+et à aider ta sainteur,
+
+**[02:11:34 - 02:11:34] speaker**
+les cartes graphiques,
+
+**[02:11:37 - 02:11:37] speaker**
+les agénieurs,
+
+**[02:11:38 - 02:11:38] speaker**
+c'est...
+
+**[02:11:41 - 02:11:41] speaker**
+Ah, mais parce que,
+
+**[02:11:42 - 02:11:42] speaker**
+les chinois,
+
+**[02:11:43 - 02:11:43] speaker**
+il distit l'enfaite
+
+**[02:11:46 - 02:11:46] speaker**
+et de moi,
+
+**[02:11:46 - 02:11:46] speaker**
+c'est la mort,
+
+**[02:11:46 - 02:11:46] speaker**
+les môdes,
+
+**[02:11:47 - 02:11:47] speaker**
+et c'est très...
+
+**[02:11:48 - 02:11:48] speaker**
+Ouais, c'est pour concérir le terrain,
+
+**[02:11:50 - 02:11:50] speaker**
+c'est pour concérir le terrain.
+
+**[02:11:51 - 02:11:51] speaker**
+Il y a une fois
+
+**[02:11:52 - 02:11:52] speaker**
+que tout le monde
+
+**[02:11:53 - 02:11:53] speaker**
+commence à utiliser,
+
+**[02:11:53 - 02:11:53] speaker**
+ils ont l'enormir
+
+**[02:11:54 - 02:11:54] speaker**
+d'un de monétiser,
+
+**[02:11:56 - 02:11:56] speaker**
+c'est du bisès,
+
+**[02:11:58 - 02:11:58] speaker**
+ça,
+
+**[02:11:58 - 02:11:58] speaker**
+c'est pas un truc
+
+**[02:11:59 - 02:11:59] speaker**
+charitable.
+
+**[02:12:00 - 02:12:00] speaker**
+Ouais,
+
+**[02:12:02 - 02:12:02] speaker**
+je ne suis pas bien compris
+
+**[02:12:03 - 02:12:03] speaker**
+comment ça va se vous boupier,
+
+**[02:12:04 - 02:12:04] speaker**
+mais en tout cas,
+
+**[02:12:05 - 02:12:05] speaker**
+ce que je vois,
+
+**[02:12:06 - 02:12:06] speaker**
+c'est que même
+
+**[02:12:07 - 02:12:07] speaker**
+qu'auène 27 b,
+
+**[02:12:08 - 02:12:08] speaker**
+aujourd'hui,
+
+**[02:12:09 - 02:12:09] speaker**
+il y a 90% des usages
+
+**[02:12:11 - 02:12:11] speaker**
+à jeune avres,
+
+**[02:12:11 - 02:12:11] speaker**
+je pense qu'il peut être
+
+**[02:12:12 - 02:12:12] speaker**
+conbée par ça,
+
+**[02:12:13 - 02:12:13] speaker**
+par ça,
+
+**[02:12:13 - 02:12:13] speaker**
+de l'un.
+
+**[02:12:16 - 02:12:16] speaker**
+C'est effectivement,
+
+**[02:12:16 - 02:12:16] speaker**
+juste pour donner
+
+**[02:12:17 - 02:12:17] speaker**
+une idée
+
+**[02:12:19 - 02:12:19] speaker**
+et à assistant,
+
+**[02:12:21 - 02:12:21] speaker**
+qui s'appelle D'Ombau,
+
+**[02:12:22 - 02:12:22] speaker**
+qui est utilisé par
+
+**[02:12:23 - 02:12:23] speaker**
+un milliard de chinois,
+
+**[02:12:24 - 02:12:24] speaker**
+quotidiennement,
+
+**[02:12:27 - 02:12:27] speaker**
+depuis deux ans,
+
+**[02:12:28 - 02:12:28] speaker**
+il est gratuit,
+
+**[02:12:30 - 02:12:30] speaker**
+et il y a,
+
+**[02:12:31 - 02:12:31] speaker**
+ils ont lancé,
+
+**[02:12:32 - 02:12:32] speaker**
+il y a,
+
+**[02:12:33 - 02:12:33] speaker**
+ils ont publié les abonnements
+
+**[02:12:35 - 02:12:35] speaker**
+payants.
+
+**[02:12:37 - 02:12:37] speaker**
+Donc voilà,
+
+**[02:12:37 - 02:12:37] speaker**
+c'est ça,
+
+**[02:12:38 - 02:12:38] speaker**
+d'Ombau,
+
+**[02:12:38 - 02:12:38] speaker**
+c'est aussi,
+
+**[02:12:39 - 02:12:39] speaker**
+c'est aussi,
+
+**[02:12:40 - 02:12:40] speaker**
+c'est aussi,
+
+**[02:12:41 - 02:12:41] speaker**
+d'un autre,
+
+**[02:12:42 - 02:12:42] speaker**
+pour la ennemi-faut,
+
+**[02:12:43 - 02:12:43] speaker**
+c'est à notre
+
+**[02:12:45 - 02:12:45] speaker**
+produit
+
+**[02:12:46 - 02:12:46] speaker**
+du même groupe
+
+**[02:12:47 - 02:12:47] speaker**
+petite-doc,
+
+**[02:12:47 - 02:12:47] speaker**
+c'est à des,
+
+**[02:12:49 - 02:12:49] speaker**
+comment ça va
+
+**[02:12:50 - 02:12:50] speaker**
+Biden.
+
+**[02:12:51 - 02:12:51] speaker**
+Biden.
+
+**[02:12:51 - 02:12:51] speaker**
+Ah,
+
+**[02:12:52 - 02:12:52] speaker**
+Biden.
+
+**[02:12:52 - 02:12:52] speaker**
+C'est encore
+
+**[02:12:53 - 02:12:53] speaker**
+Biden,
+
+**[02:12:54 - 02:12:54] speaker**
+ils ont fait un large,
+
+**[02:12:55 - 02:12:55] speaker**
+c'est,
+
+**[02:12:56 - 02:12:56] speaker**
+ça fait que
+
+**[02:12:56 - 02:12:56] speaker**
+ça vous en fait.
+
+**[02:12:57 - 02:12:57] speaker**
+C'est ça.
+
+**[02:12:58 - 02:12:58] speaker**
+Qui sont,
+
+**[02:12:59 - 02:12:59] speaker**
+qui sont,
+
+**[02:12:59 - 02:12:59] speaker**
+qui sont un unu près
+
+**[02:13:00 - 02:13:00] speaker**
+qui sont unu près,
+
+**[02:13:00 - 02:13:00] speaker**
+qui sont unu près,
+
+**[02:13:00 - 02:13:00] speaker**
+qui sont unu près.
+
+**[02:13:01 - 02:13:01] speaker**
+Je sais.
+
+**[02:13:02 - 02:13:02] speaker**
+Et,
+
+**[02:13:02 - 02:13:02] speaker**
+et sur ton,
+
+**[02:13:04 - 02:13:04] speaker**
+pour le traitement de texte,
+
+**[02:13:06 - 02:13:06] speaker**
+en Chinois,
+
+**[02:13:08 - 02:13:08] speaker**
+là,
+
+**[02:13:08 - 02:13:08] speaker**
+c'est sur le numéro,
+
+**[02:13:10 - 02:13:10] speaker**
+c'est le numéro,
+
+**[02:13:11 - 02:13:11] speaker**
+la base en advantage
+
+**[02:13:12 - 02:13:12] speaker**
+de voir la mascritique.
+
+**[02:13:13 - 02:13:13] speaker**
+Donc,
+
+**[02:13:16 - 02:13:16] speaker**
+tout boire,
+
+**[02:13:16 - 02:13:16] speaker**
+c'est ça agréable,
+
+**[02:13:18 - 02:13:18] speaker**
+ça,
+
+**[02:13:18 - 02:13:18] speaker**
+personne entendent du
+
+**[02:13:19 - 02:13:19] speaker**
+parler de ça,
+
+**[02:13:19 - 02:13:19] speaker**
+ici,
+
+**[02:13:20 - 02:13:20] speaker**
+quoi.
+
+**[02:13:20 - 02:13:20] speaker**
+Ouais,
+
+**[02:13:20 - 02:13:20] speaker**
+parce que,
+
+**[02:13:21 - 02:13:21] speaker**
+il n'y a,
+
+**[02:13:21 - 02:13:21] speaker**
+ils ont pas,
+
+**[02:13:22 - 02:13:22] speaker**
+ils ont pas,
+
+**[02:13:23 - 02:13:23] speaker**
+ils ont pas,
+
+**[02:13:24 - 02:13:24] speaker**
+poussé ça,
+
+**[02:13:24 - 02:13:24] speaker**
+à l'internaçonnal,
+
+**[02:13:25 - 02:13:25] speaker**
+c'est que,
+
+**[02:13:26 - 02:13:26] speaker**
+ils ont utilisé en Chine
+
+**[02:13:27 - 02:13:27] speaker**
+Contient Mental,
+
+**[02:13:28 - 02:13:28] speaker**
+d'Orbore.
+
+**[02:13:29 - 02:13:29] speaker**
+Ah mais c'est un peu de clodare,
+
+**[02:13:30 - 02:13:30] speaker**
+je comprends,
+
+**[02:13:31 - 02:13:31] speaker**
+non non non non,
+
+**[02:13:32 - 02:13:32] speaker**
+c'est,
+
+**[02:13:33 - 02:13:33] speaker**
+tu peux,
+
+**[02:13:34 - 02:13:34] speaker**
+tu peux le relier,
+
+**[02:13:35 - 02:13:35] speaker**
+il y a un pays,
+
+**[02:13:36 - 02:13:36] speaker**
+non,
+
+**[02:13:37 - 02:13:37] speaker**
+c'est,
+
+**[02:13:38 - 02:13:38] speaker**
+c'est vraiment,
+
+**[02:13:39 - 02:13:39] speaker**
+un,
+
+**[02:13:40 - 02:13:40] speaker**
+une stratégie d'investissement
+
+**[02:13:41 - 02:13:41] speaker**
+à très long terme,
+
+**[02:13:42 - 02:13:42] speaker**
+mais sur moi,
+
+**[02:13:44 - 02:13:44] speaker**
+un jour,
+
+**[02:13:45 - 02:13:45] speaker**
+ils vont,
+
+**[02:13:46 - 02:13:46] speaker**
+ils vont sérer les filaires,
+
+**[02:13:47 - 02:13:47] speaker**
+on va tous,
+
+**[02:13:48 - 02:13:48] speaker**
+pas,
+
+**[02:13:49 - 02:13:49] speaker**
+pas,
+
+**[02:13:50 - 02:13:50] speaker**
+par payer quelque chose,
+
+**[02:13:51 - 02:13:51] speaker**
+sinon,
+
+**[02:13:52 - 02:13:52] speaker**
+tous ces investissements,
+
+**[02:13:53 - 02:13:53] speaker**
+ce sera pas,
+
+**[02:13:54 - 02:13:54] speaker**
+je t'ai fait.
+
+**[02:13:55 - 02:13:55] speaker**
+Oh mais là,
+
+**[02:13:56 - 02:13:56] speaker**
+la boîte de pandeur est déjà horent,
+
+**[02:13:57 - 02:13:57] speaker**
+les modèles,
+
+**[02:13:58 - 02:13:58] speaker**
+ils ont,
+
+**[02:13:59 - 02:13:59] speaker**
+ils ont déjà là,
+
+**[02:14:00 - 02:14:00] speaker**
+donc en fait,
+
+**[02:14:01 - 02:14:01] speaker**
+puis,
+
+**[02:14:02 - 02:14:02] speaker**
+des améliorés,
+
+**[02:14:03 - 02:14:03] speaker**
+maintenant,
+
+**[02:14:04 - 02:14:04] speaker**
+ils ont,
+
+**[02:14:05 - 02:14:05] speaker**
+pas de la nouveautique d'un régime,
+
+**[02:14:06 - 02:14:06] speaker**
+mais de la nouvelle façon,
+
+**[02:14:07 - 02:14:07] speaker**
+de structurer les élèles,
+
+**[02:14:09 - 02:14:09] speaker**
+en,
+
+**[02:14:10 - 02:14:10] speaker**
+on essaye en d'être plus malin,
+
+**[02:14:11 - 02:14:11] speaker**
+on fait,
+
+**[02:14:12 - 02:14:12] speaker**
+d'optimisant,
+
+**[02:14:13 - 02:14:13] speaker**
+le cavé cache,
+
+**[02:14:14 - 02:14:14] speaker**
+qu'il a clé,
+
+**[02:14:15 - 02:14:15] speaker**
+tout c'est,
+
+**[02:14:16 - 02:14:16] speaker**
+et en fait,
+
+**[02:14:17 - 02:14:17] speaker**
+moi, je vois pas ce qui va,
+
+**[02:14:18 - 02:14:18] speaker**
+on peut chez,
+
+**[02:14:19 - 02:14:19] speaker**
+bientôt,
+
+**[02:14:20 - 02:14:20] speaker**
+des modèles de sortir,
+
+**[02:14:21 - 02:14:21] speaker**
+enfin,
+
+**[02:14:22 - 02:14:22] speaker**
+tu prends une base,
+
+**[02:14:23 - 02:14:23] speaker**
+qu'on a,
+
+**[02:14:25 - 02:14:25] speaker**
+tout ce que vous curriculum,
+
+**[02:14:26 - 02:14:26] speaker**
+tous,
+
+**[02:14:29 - 02:14:29] speaker**
+les societal luckily,
+
+**[02:14:30 - 02:14:30] speaker**
+vous metvez,
+
+**[02:14:36 - 02:14:36] speaker**
+lins,
+
+**[02:14:42 - 02:14:42] speaker**
+ça va.
+
+**[02:14:43 - 02:14:43] speaker**
+Peut-être,
+
+**[02:14:44 - 02:14:44] speaker**
+tu vas aussiiander,
+
+**[02:14:46 - 02:14:46] speaker**
+ça va,
+
+**[02:14:49 - 02:14:49] speaker**
+ça va,
+
+**[02:14:50 - 02:14:50] speaker**
+genre,
+
+**[02:14:52 - 02:14:52] speaker**
+le mois en présentative sur terre.
+
+**[02:14:57 - 02:14:57] speaker**
+Je vois que j'ai des gros entreprises.
+
+**[02:15:00 - 02:15:00] speaker**
+Je sais qu'il y a des gros entreprises.
+
+**[02:15:05 - 02:15:05] speaker**
+J'ai pas de jardin, mais je sais qu'il y a des gros entreprises.
+
+**[02:15:09 - 02:15:09] speaker**
+Il y a des bétés qu'à trop.
+
+**[02:15:11 - 02:15:11] speaker**
+Bah justement, c'est qu'est ce qu'ils ont fait?
+
+**[02:15:15 - 02:15:15] speaker**
+C'est pas de l'emplage.
+
+**[02:15:18 - 02:15:18] speaker**
+Pas de commentaire, mais t'as dit que c'est des plus...
+
+**[02:15:22 - 02:15:22] speaker**
+Tu sais qu'il y a de quoi qu'il y a des bétés d'une fois quoi?
+
+**[02:15:26 - 02:15:26] speaker**
+Le début, en fait, c'est un bon modèle de bonne source.
+
+**[02:15:31 - 02:15:31] speaker**
+Mais voilà donc...
+
+**[02:15:35 - 02:15:35] speaker**
+Et puis on plus...
+
+**[02:15:37 - 02:15:37] speaker**
+J'as fait de l'obbing, donc c'est pas qui...
+
+**[02:15:39 - 02:15:39] speaker**
+Ouais mais moi, je suis en un paix.
+
+**[02:15:42 - 02:15:42] speaker**
 Je ne suis pas du tout étonné que le nouveau patron de Apple soit un spécialiste de hardware.
 
-**[02:15:49 - 02:15:53] _redsun**  
-Parce qu'ils ont pas des onpa-diaires, on a mis des arrières,
+**[02:15:48 - 02:15:48] speaker**
+Parce qu'ils ont pas des ont pas d'hier, et à mon avis, on n'y a des rares.
 
-**[02:15:53 - 02:15:57] _redsun**  
-je ne sais pas ce qu'ils ont au point, mais il y a un truc qui va sortir de chez eux,
+**[02:15:53 - 02:15:53] speaker**
+Je sais pas ce qu'ils vont nous prendre, mais il y a un truc qui va sortir de chez eux.
 
-**[02:15:57 - 02:16:05] _redsun**  
-je pense qu'il pourrait escouiser beaucoup de faire vendre énormément de marque mini au max de dieu au haut.
+**[02:15:57 - 02:15:57] speaker**
+Je pense qu'il va...
 
-**[02:16:05 - 02:16:11] _redsun**  
-En étant la numéro à fond du serve, il y a le calco.
+**[02:15:59 - 02:15:59] speaker**
+Il pourrait escouiser beaucoup de femmes vendres énormément de marque mini ou maxidio ou autres.
 
-**[02:16:11 - 02:16:17] _redsun**  
-Je ne sais pas, mais je ne peux pas.
+**[02:16:05 - 02:16:05] speaker**
+En étant la numéroie, il faut enlisseur, des dialogues à l'autre.
 
-**[02:16:16 - 02:16:22] pollux8888**  
-Et vous posez la question du tout à l'heure à propos de Huawei, justement, c'est les plus...
+**[02:16:11 - 02:16:11] speaker**
+Il y a le cas de quoi?
 
-**[02:16:23 - 02:16:28] pollux8888**  
-Ah, comment ils appellent la ASEAN et Aie, la nouvelle nouvelle Thégoire,
+**[02:16:13 - 02:16:13] speaker**
+Il y a un...
 
-**[02:16:28 - 02:16:31] pollux8888**  
-des plus Huawei qui supportent des psychères sur 4,
+**[02:16:16 - 02:16:16] speaker**
+Je vais vous aller.
 
-**[02:16:31 - 02:16:34] pollux8888**  
-et avec votre moto les véhicules flash,
+**[02:16:17 - 02:16:17] speaker**
+Je pense que la question de tout à l'heure, à propos de Huawei,
 
-**[02:16:34 - 02:16:38] pollux8888**  
-qui coûte à peu près, il me semble peut-être à peu près 0,10,
+**[02:16:20 - 02:16:20] speaker**
+je pense que c'est les plus...
 
-**[02:16:38 - 02:16:43] pollux8888**  
-ou 0,10, c'est 0,15 de l'art par millions de tokens.
+**[02:16:23 - 02:16:23] speaker**
+Ah, comment ils appellent le ASEAN et ASEAN,
 
-**[02:16:46 - 02:16:54] pollux8888**  
-C'est beaucoup moins cher que j'ai été au plus de plus 4-7.
+**[02:16:26 - 02:16:26] speaker**
+un nouvel...
 
-**[02:16:54 - 02:17:04] pollux8888**  
-3 de têtes, il y a un objectif actuel libri, avec 10% de qu'avecage,
+**[02:16:27 - 02:16:27] speaker**
+Un nouvel tétégories, des plus Huawei qui supportent des psych�grés sur le cadre.
 
-**[02:17:04 - 02:17:12] pollux8888**  
-et puis quelque chose avec 3 de cs du Compress4,
+**[02:16:31 - 02:16:31] speaker**
+Et avec votre motore, les véhicules flash,
 
-**[02:17:12 - 02:17:15] pollux8888**  
-attention, ça c'est les nouvelles générations des plus revoir.
+**[02:16:34 - 02:16:34] speaker**
+que tout peut appeler,
 
-**[02:17:27 - 02:17:32] _redsun**  
-Alors là je pense que ça va être... est-ce que tu peux entraîner les modèles?
+**[02:16:36 - 02:16:36] speaker**
+ou sans de tête, à peu près 010 ou 010 euros.
 
-**[02:17:32 - 02:17:37] _redsun**  
-J'ai pété et au plus sur cette plus-là, ou c'est que pour le marcher sinon.
+**[02:16:39 - 02:16:39] speaker**
+On a le 010, c'est 015 de l'art par millions de tokens.
 
-**[02:17:37 - 02:17:40] _redsun**  
-Est-ce que l'inverse est compatique de ta se que vous êtes?
+**[02:16:45 - 02:16:45] speaker**
+C'est beaucoup moins cher que j'ai été au plus de plus qu'à de 7.
 
-**[02:17:39 - 02:17:43] pollux8888**  
-Je crois que, oui, parce qu'ils ont deux instances, non, non,
+**[02:16:54 - 02:16:54] speaker**
+On voit de tête, car il y a un objectécteur hybride avec 10% de café.
 
-**[02:17:43 - 02:17:48] pollux8888**  
-justement, les utilisent, il y a une instance pour le marché international et une
+**[02:17:04 - 02:17:04] speaker**
+Et puis, quelque chose avec...
 
-**[02:17:48 - 02:17:52] pollux8888**  
-pour le marché chinois. Et puis l'accès.
+**[02:17:08 - 02:17:08] speaker**
+Je crois que...
 
-**[02:17:54 - 02:17:59] pollux8888**  
-Oui, en fait, ma boîte, moi, à boite, qui a rien à voir avec tout ce qui est création
+**[02:17:10 - 02:17:10] speaker**
+C'est ça de comprendre ce que c'est attention.
 
-**[02:17:59 - 02:18:03] pollux8888**  
-de contenu, mais nous, on fait la mamanise des sentiments en émarché pour s'y é.
+**[02:17:13 - 02:17:13] speaker**
+Ça, c'est l'innovation de plus Huawei.
 
-**[02:18:03 - 02:18:07] pollux8888**  
-Et on a une partie qui est bergée chez Google.
+**[02:17:18 - 02:17:18] speaker**
+Alors...
 
-**[02:18:07 - 02:18:10] pollux8888**  
-On a été avant en été chez AdobeVS, en tant que startup.
+**[02:17:19 - 02:17:19] speaker**
+ASEAN et ASEAN.
 
-**[02:18:09 - 02:18:24] _redsun**  
-Ok, donc ils en vend l'avant, on y a du stock.
+**[02:17:25 - 02:17:25] speaker**
+C'est dans ce vieux.
 
-**[02:18:11 - 02:18:16] pollux8888**  
-On a eu reçu un peu des crédits et puis arriver un peu à cours de crédit.
+**[02:17:27 - 02:17:27] speaker**
+Alors là, moi je pense que ça, ça va être...
 
-**[02:18:16 - 02:18:19] pollux8888**  
-on se voit en travers d'autres droits d'un Huawei.
+**[02:17:30 - 02:17:30] speaker**
+Est-ce que tu peux entrer les modèles...
 
-**[02:18:33 - 02:18:36] pollux8888**  
-qui est quasi-invanche à Hong Kong.
+**[02:17:33 - 02:17:33] speaker**
+J'ai pété et a plus sur cette plus-là,
 
-**[02:18:38 - 02:18:43] _redsun**  
-On va avec, c'est un cité en choper, je suis en maximum, mais on a vu ça un peu
+**[02:17:35 - 02:17:35] speaker**
+ou c'est que pour le marcher sinon.
 
-**[02:18:46 - 02:18:53] _redsun**  
-On va après, ils font entrener les modèles, enfin, c'est un peu le bouchre.
+**[02:17:37 - 02:17:37] speaker**
+Est-ce que l'inverse est compatible?
 
-**[02:18:53 - 02:18:56] _redsun**  
-ça va jouer là-dessus quoi celui-qu'auro les meilleures plus
+**[02:17:39 - 02:17:39] speaker**
+Je crois que...
 
-**[02:18:57 - 02:19:01] _redsun**  
-mais est-ce que ça va être la puissance bruit de moi je pense que l'an
+**[02:17:41 - 02:17:41] speaker**
+Oui, parce qu'ils ont deux instances,
 
-**[02:19:01 - 02:19:05] _redsun**  
-j'ai pété sans prendre ce planter sur la stratégie
+**[02:17:43 - 02:17:43] speaker**
+non, non, justement.
 
-**[02:19:05 - 02:19:09] _redsun**  
-de toujours plus de data center c'est pas forcément la solution
+**[02:17:45 - 02:17:45] speaker**
+Les utilisent-ils.
 
-**[02:19:09 - 02:19:13] _redsun**  
-je pense qu'on peut beaucoup optimiser encore les modèles
+**[02:17:46 - 02:17:46] speaker**
+Il y a une instance pour le marcher international et une instance pour le marcher sinon.
 
-**[02:19:19 - 02:19:27] _redsun**  
-je ne trouve pas d'artiques sur le groupe de patients.
+**[02:17:50 - 02:17:50] speaker**
+Oui, comme ça.
 
-**[02:19:31 - 02:19:42] _redsun**  
-Ok, bon les 22 heures, je propose qu'on arrête à avoir de faire de voir la moitié de notre question.
+**[02:17:52 - 02:17:52] speaker**
+Tu as tout le monde.
 
-**[02:19:42 - 02:19:49] _redsun**  
-Et merci à tous d'être revenu et puis de façon en source, voilà ce monde prochain.
+**[02:17:54 - 02:17:54] speaker**
+Oui, en fait, ma boîte...
 
-**[02:19:49 - 02:19:59] _redsun**  
-On se voit la semaine prochaine et puis voilà on se refait un petit week-liclore, on fait un point sur ce qu'à rancer.
+**[02:17:56 - 02:17:56] speaker**
+Moi, à boite, car rien à voir avec...
 
-**[02:19:59 - 02:20:05] _redsun**  
-Et puis on se sert au courant, si vous avez des questions, on est comme ça. Et si on a aussi qui veut faire une démo,
+**[02:17:58 - 02:17:58] speaker**
+Tout ce qui est création de contenus,
 
-**[02:20:05 - 02:20:10] _redsun**  
-il faut qu'il me demande, il me dit voilà, je me suis juste montré un truc, en voyant à mesage privés,
+**[02:18:00 - 02:18:00] speaker**
+mais nous, on fait la manise des sentiments d'émarché Boursier.
 
-**[02:20:10 - 02:20:14] _redsun**  
-comme ça, la prochaine fois je voulais ça montrer, soit vous, comment vous disiez
+**[02:18:03 - 02:18:03] speaker**
+Oui, oui.
 
-**[02:20:14 - 02:20:19] _redsun**  
-au pain, c'est soit toujours moi qui montre aussi un peu, si vous avez tout
+**[02:18:05 - 02:18:05] speaker**
+J'ai parti qui est belgée chez Google.
 
-**[02:20:16 - 02:20:34] pollux8888**  
-C'est un peu comme, c'est un monde, c'est céréel, c'est un truc.
+**[02:18:08 - 02:18:08] speaker**
+Avant on était chez AdobeVS,
 
-**[02:20:19 - 02:20:22] _redsun**  
-qui a montré vous, ça peut être sympa de voir que vous faites avec quoi.
+**[02:18:10 - 02:18:10] speaker**
+on a eu reçu un peu des crédits et puis...
 
-**[02:20:24 - 02:20:29] gilles_35307**  
-Je me suis dit que je ne suis pas mal.
+**[02:18:14 - 02:18:14] speaker**
+Arrivé un peu à court de crédit.
 
-**[02:20:25 - 02:20:29] _redsun**  
-Voilà, voilà, mais sur une bonne soirée à tous et puis on.
+**[02:18:16 - 02:18:16] speaker**
+On sert à rien à tes vers d'autres travailleurs.
 
-**[02:20:29 - 02:20:33] gilles_35307**  
-Je me suis dit que je ne suis pas mal.
+**[02:18:18 - 02:18:18] speaker**
+D'en roi.
 
-**[02:20:29 - 02:20:34] _redsun**  
-Je vais vous donner un peu de temps.
+**[02:18:19 - 02:18:19] speaker**
+Ok.
+
+**[02:18:21 - 02:18:21] speaker**
+Ok, donc ils ont bon là-bas.
+
+**[02:18:23 - 02:18:23] speaker**
+J'ai dû se t'en croire.
+
+**[02:18:24 - 02:18:24] speaker**
+Oui, ils ont là.
+
+**[02:18:26 - 02:18:26] speaker**
+Oui.
+
+**[02:18:27 - 02:18:27] speaker**
+Oui.
+
+**[02:18:28 - 02:18:28] speaker**
+Et donc il y a roi international et puis roi China.
+
+**[02:18:32 - 02:18:32] speaker**
+Ok, qui passe via une branche à rencontre.
+
+**[02:18:38 - 02:18:38] speaker**
+Ok.
+
+**[02:18:39 - 02:18:39] speaker**
+On va avec toutes ces tires en choper.
+
+**[02:18:41 - 02:18:41] speaker**
+Je suis absorbent maximum, mais on avait un peu la clé tout quoi un cistor là.
+
+**[02:18:46 - 02:18:46] speaker**
+Tu rentres bon après.
+
+**[02:18:48 - 02:18:48] speaker**
+Ils font entrer des modèles.
+
+**[02:18:49 - 02:18:49] speaker**
+Ça me veut l'ambut.
+
+**[02:18:53 - 02:18:53] speaker**
+Ça va jouer là-dessus.
+
+**[02:18:55 - 02:18:55] speaker**
+Quoi celui-là, elle est meilleur plus.
+
+**[02:18:57 - 02:18:57] speaker**
+Mais est-ce que ça va être la puissance brute?
+
+**[02:18:59 - 02:18:59] speaker**
+Je ne suis pas certain de ça.
+
+**[02:19:01 - 02:19:01] speaker**
+Moi, je pense que là, je vais te traiter.
+
+**[02:19:03 - 02:19:03] speaker**
+Ils sont en train de se planter sur la stratégie.
+
+**[02:19:06 - 02:19:06] speaker**
+De toujours plus de date à s'inter, c'est pas forcément la solution.
+
+**[02:19:09 - 02:19:09] speaker**
+Je pense qu'on peut beaucoup optimiser encore les modèles.
+
+**[02:19:13 - 02:19:13] speaker**
+Non.
+
+**[02:19:14 - 02:19:14] speaker**
+Non.
+
+**[02:19:15 - 02:19:15] speaker**
+Ça, on va voir avec peut-être tant.
+
+**[02:19:20 - 02:19:20] speaker**
+Je m'en...
+
+**[02:19:21 - 02:19:21] speaker**
+Non.
+
+**[02:19:23 - 02:19:23] speaker**
+Ok.
+
+**[02:19:24 - 02:19:24] speaker**
+Je ne vous ferai pas d'articles sur notre propre pâté.
+
+**[02:19:27 - 02:19:27] speaker**
+Je ne veux pas.
+
+**[02:19:29 - 02:19:29] speaker**
+Ok.
+
+**[02:19:30 - 02:19:30] speaker**
+Bon, les 22 heures.
+
+**[02:19:31 - 02:19:31] speaker**
+Je propose qu'on arrête à la présence de la pâté.
+
+**[02:19:36 - 02:19:36] speaker**
+Moi, il y a encore deux trois questions.
+
+**[02:19:42 - 02:19:42] speaker**
+Merci à tous d'être revenu.
+
+**[02:19:46 - 02:19:46] speaker**
+Puis de toute façon, on se voit la semaine prochaine.
+
+**[02:19:50 - 02:19:50] speaker**
+On se voit la semaine prochaine.
+
+**[02:19:53 - 02:19:53] speaker**
+Et puis, on se retrouve un petit week-l'iclo.
+
+**[02:19:57 - 02:19:57] speaker**
+On fait un point sur ce caron s'est.
+
+**[02:19:59 - 02:19:59] speaker**
+On se voit les questions.
+
+**[02:20:02 - 02:20:02] speaker**
+Et si on a aussi qui veut faire une demo, il faut qu'il me demande.
+
+**[02:20:06 - 02:20:06] speaker**
+Je ne le dis, je ne le dis, on se montrait un truc.
+
+**[02:20:08 - 02:20:08] speaker**
+En vrai, moi, ça se prévait.
+
+**[02:20:10 - 02:20:10] speaker**
+Comme ça, la prochaine fois, je vous laisse à montrer.
+
+**[02:20:13 - 02:20:13] speaker**
+Je crois que vous vous utilisez au pain.
+
+**[02:20:15 - 02:20:15] speaker**
+C'est toujours moi qui montre aussi.
+
+**[02:20:18 - 02:20:18] speaker**
+Si vous avez tout de cas, vous ne savez pas de voir.
+
+**[02:20:21 - 02:20:21] speaker**
+Vous faites avec quoi.
+
+**[02:20:25 - 02:20:25] speaker**
+Voilà, voilà.
+
+**[02:20:26 - 02:20:26] speaker**
+Merci beaucoup.
+
+**[02:20:29 - 02:20:29] speaker**
+Merci.
+
+**[02:20:31 - 02:20:31] speaker**
+Merci.
+
+**[02:20:32 - 02:20:32] speaker**
+Merci.
+
+**[02:20:33 - 02:20:33] speaker**
+Merci.
+
+**[02:20:35 - 02:20:35] speaker**
+Merci.
+
+**[02:20:36 - 02:20:36] speaker**
+Merci.
+
+**[02:20:51 - 02:20:51] speaker**
+Merci.
