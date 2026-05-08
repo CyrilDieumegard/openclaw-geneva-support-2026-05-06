@@ -16,7 +16,7 @@ Donc c'est pour le timestamp, comme ça tu seras qu'on a pas besoin de garder ce
 Voilà, dit 9h47, Timestown. Il est 5h22, officiellement au commence d'en 8 minutes.
 
 **[00:04:41 - 00:04:46] _redsun**
-Donc, ce récording des débuts, là on va pas regarder, on verra plus tard comment on fait.
+Donc, ce recording des débuts, là on va pas regarder, on verra plus tard comment on fait.
 
 **[00:04:46 - 00:04:55] _redsun**
 On va pas regarder au quête, normalement. Tu gardes pas ça, mais voilà, je vais juste partager mon écran.
@@ -43,7 +43,7 @@ par la crainte.
 Je passe si on trouver.
 
 **[00:08:46 - 00:08:51] _redsun**
-C'est toujours un peu le même problème, j'ai en impression qui ne trouve pas la mitapromo.
+C'est toujours un peu le même problème, j'ai en impression qui ne trouve pas la meetupromo.
 
 **[00:08:51 - 00:10:24] _redsun**
 Et là, elle fie.
@@ -52,7 +52,7 @@ Et là, elle fie.
 Alors, on va attendre les autres, parce que beaucoup de gens qui n'arrient pas comment
 
 **[00:10:30 - 00:10:33] _redsun**
-faire, j'ai en impression pour vendre le canal mitapre.
+faire, j'ai en impression pour vendre le canal meetupre.
 
 **[00:10:33 - 00:10:41] _redsun**
 Donc je ne suis pas soin, un peu là, il ne se parait, il ne se sont pas trop habitifés, discours, on ne se va.
@@ -92,9 +92,6 @@ la vie vient directement du canal, non?
 
 **[00:11:55 - 00:12:02] _redsun**
 Alors, j'ai mis le lien du Discord, donc tu troules le Discord, hein, pas du click sur le cas,
-
-**[00:11:57 - 00:11:58] nano1992_**
-Bon bien.
 
 **[00:11:58 - 00:12:21] nano1992_**
 C'est vrai que c'est plus du discours, c'est vrai que c'est...
@@ -156,9 +153,6 @@ mais bon, ça c'est ce qu'il s'intéresse à ces sujets-là.
 **[00:12:54 - 00:12:57] _redsun**
 T'as quand même des mecs qui sont assez poussés,
 
-**[00:12:57 - 00:12:58] _redsun**
-n'arrêtent pas.
-
 **[00:12:59 - 00:13:01] _redsun**
 C'est pas, mais j'en ai plein, hein?
 
@@ -200,9 +194,6 @@ Mais on se questionne pas.
 
 **[00:13:38 - 00:13:40] _redsun**
 On ne peut pas le faire.
-
-**[00:13:38 - 00:13:56] nano1992_**
-Ouais.
 
 **[00:13:40 - 00:13:43] _redsun**
 Je ne vais pas.
@@ -251,9 +242,6 @@ Ok cool, on va attendre un petit peu, ce que je sais que suscripto, ça a un peu
 
 **[00:14:21 - 00:14:26] _redsun**
 chaud parce qu'il a des enfants aussi, donc je sais que là ça a un peu l'heure de coucher
-
-**[00:14:26 - 00:14:27] _redsun**
-des enfants.
 
 **[00:14:27 - 00:14:33] _redsun**
 Ah, attendre encore 5 minutes, il n'y a pas mal, il n'y a pas mal de petits sujets assez
@@ -333,9 +321,6 @@ Il y a Jile.
 **[00:15:44 - 00:15:46] _redsun**
 C'est toujours infine et kick.
 
-**[00:15:46 - 00:19:51] gilles_35307**
-J'ai pensé.
-
 **[00:15:48 - 00:15:50] pollux8888**
 Merci beaucoup, c'est Réil, pour l'invitation.
 
@@ -374,9 +359,6 @@ Mais je me suis dit ça fait que plusieurs semaines, vous a plusieurs mois que j
 
 **[00:16:30 - 00:16:39] pollux8888**
 J'ai pas encore trouvé le meilleur environnement pour le faire de tellement hier à ne pas se faire plombir des données,
-
-**[00:16:39 - 00:16:40] pollux8888**
-perçaux.
 
 **[00:16:40 - 00:16:52] pollux8888**
 C'est juste ça.
@@ -434,9 +416,6 @@ s'entant que développeur.
 
 **[00:17:16 - 00:17:20] pollux8888**
 C'est remontant dans les années n'en entes.
-
-**[00:17:20 - 00:18:53] _redsun**
-Eh ?
 
 **[00:17:20 - 00:17:23] pollux8888**
 J'ai fait une vingtaine d'années dans les biques fort.
@@ -540,9 +519,6 @@ En tout cas, il y a une heure où vous fais, un peu une peau qui fait de transcr
 **[00:19:26 - 00:19:28] _redsun**
 Après, je sais qui est qui fait quoi.
 
-**[00:19:29 - 00:19:39] pollux8888**
-Ok, t'accord.
-
 **[00:19:30 - 00:19:34] _redsun**
 Parfait ce qu'on a fait faire, mais j'apprends un petit peu que les gens ils arrivent, mais
 
@@ -591,9 +567,6 @@ Donc, ça a l'icenteresse.
 **[00:20:06 - 00:20:08] gilles_35307**
 Bon, j'ai parti.
 
-**[00:20:08 - 00:20:10] gilles_35307**
-C'est marx.
-
 **[00:20:10 - 00:20:19] gilles_35307**
 Je me note maintenant avec un postit en papier, un style où est-il là?
 
@@ -612,14 +585,8 @@ qu'on a beau édigitant en rescamé dans les sensiels.
 **[00:20:30 - 00:20:33] nano1992_**
 Ça ne marche, merci.
 
-**[00:20:30 - 00:20:31] _redsun**
-La maison.
-
 **[00:20:31 - 00:20:36] _redsun**
 Bah, ça t'es génial parce que pour ceux qui débarquent, là, en fait, Arnogis,
-
-**[00:20:32 - 00:20:41] gilles_35307**
-Ouais.
 
 **[00:20:33 - 00:29:45] nano1992_**
 Oria, c'est un autre que d'année en ouve, c'est que c'est un mélange en plus de plusieurs modèles.
@@ -629,9 +596,6 @@ on parlez, on trouve des atomes cochus et puis du coup, c'est génial.
 
 **[00:20:41 - 00:20:58] _redsun**
 C'est exactement pour ça qu'on a, c'est un peu plus de la.
-
-**[00:20:41 - 00:20:44] gilles_35307**
-Ouais.
 
 **[00:20:44 - 00:20:47] gilles_35307**
 Ouais, le but de tout ça, c'est pas le monde-dire.
@@ -731,9 +695,6 @@ Moi, ce soir, je voulais vous montrer un truc qui est intéressé, je ne suis pa
 
 **[00:22:32 - 00:22:35] _redsun**
 ça intéresse tout le monde, mais ça a réussi à ce que j'ai trouvé moi, c'était assez
-
-**[00:22:35 - 00:22:36] _redsun**
-sympa.
 
 **[00:22:36 - 00:22:43] _redsun**
 C'est que j'ai pleuillé une impécie qui permet de faire de la génération 3D.
@@ -858,9 +819,6 @@ Si peut-être présenté, juste d'urquit, tu es questionfais,
 **[00:25:09 - 00:25:11] _redsun**
 pour être là, que c'est ce que t'as tant.
 
-**[00:25:11 - 00:25:54] _redsun**
-Ouais, ouais.
-
 **[00:25:15 - 00:25:21] _faly**
 Et dans le domaine associatif, je m'occupe des associations dans le domaine du rail.
 
@@ -882,9 +840,6 @@ sont les tîtes qui viennent de repire de Snog.
 **[00:25:55 - 00:25:59] _redsun**
 Alors, ça, j'ai des enfants, Fali, si jamais, ça t'intéresse.
 
-**[00:25:56 - 00:26:07] _faly**
-Ouais, ouais, ouais, ouais, ouais.
-
 **[00:25:59 - 00:26:02] _redsun**
 Les M&M et après, ils sont en rupture et il y a les M5 carrives.
 
@@ -897,14 +852,8 @@ Paiserait, j'ai fait qu'il y a qu'un cours de... Ça portait de la diminuuse, ma
 **[00:26:07 - 00:26:14] _faly**
 Vous avez un peu de temps.
 
-**[00:26:12 - 00:26:14] _redsun**
-Voilà, car...
-
 **[00:26:14 - 00:26:16] _faly**
 Vous avez un peu de temps de temps.
-
-**[00:26:14 - 00:26:28] _redsun**
-Ok...
 
 **[00:26:16 - 00:26:18] _faly**
 On attend d'en bas, je me documente.
@@ -920,15 +869,6 @@ Je veux le j'appupe de l'autre, on aura un truc dédié, mais bon.
 
 **[00:26:27 - 00:28:04] pollux8888**
 Ah ! Après avoir changé le disc, ça va j'ai vu le pied.
-
-**[00:26:28 - 00:26:30] _redsun**
-Ah, bon...
-
-**[00:26:30 - 00:26:36] _redsun**
-Ok, donc...
-
-**[00:26:31 - 00:26:33] _faly**
-Voilà, j'apprends.
 
 **[00:26:33 - 00:40:07] _faly**
 J'ai passé comment de chez Fuste et c'est toujours pas arrivé.
@@ -984,14 +924,8 @@ d'écouvrir tout ce qu'elle a très à l'hier.
 **[00:27:44 - 00:27:51] _redsun**
 Et donc tu as priori ce qu'il a fait.
 
-**[00:27:51 - 00:27:56] _redsun**
-Non, non, non.
-
 **[00:27:55 - 00:27:59] gilles_35307**
 rassurer pas le mot qui on n'en a rien à s'arrêter qu'ils ont
-
-**[00:27:56 - 00:28:02] _redsun**
-Ah ok.
 
 **[00:27:59 - 00:33:21] gilles_35307**
 déjà sortes, je l'ai lu que des représentants négouvant de mon
@@ -1067,9 +1001,6 @@ Tu sais, quand on a fait la mesure des aides avec Ardon, on avait testé un peti
 
 **[00:29:27 - 00:29:31] _redsun**
 Et avec quelqu'un d'autre qui dit, on a rien ici devant FOMENAC.
-
-**[00:29:31 - 00:29:34] _redsun**
-Au personne.
 
 **[00:29:34 - 00:29:46] _redsun**
 Oui, c'est ça.
@@ -1227,9 +1158,6 @@ pour prouver des enfades du taquane.
 **[00:33:13 - 00:33:18] _redsun**
 mais c'était pas encore confirmé mais il y a quand même beaucoup de humeur va-t-il
 
-**[00:33:18 - 00:33:25] _redsun**
-comme ?
-
 **[00:33:21 - 00:33:26] gilles_35307**
 européen, c'était épingché sur le sujet de mitos et que par
 
@@ -1278,9 +1206,6 @@ Je sais, c'est des soufferts.
 **[00:34:17 - 00:38:27] pollux8888**
 Il va l'iter acheter en état châme.
 
-**[00:34:21 - 00:34:22] _redsun**
-Voilà.
-
 **[00:34:22 - 00:34:25] _redsun**
 Ok, donc voilà, ça c'était pour la petite introduction.
 
@@ -1314,9 +1239,6 @@ Je suis un peu lâché à ces dernières temps.
 **[00:35:00 - 00:35:02] bensmart**
 Parce que je me suis concentré sur...
 
-**[00:35:02 - 00:35:05] bensmart**
-A 6 d'henses 2.0.
-
 **[00:35:05 - 00:35:07] bensmart**
 J'espère. J'espère très prochainement.
 
@@ -1328,9 +1250,6 @@ d'abonnements, en fait, moins cher pour ceux qui s'intéressent à la création 
 
 **[00:35:19 - 00:35:21] bensmart**
 vidéos avec aussi d'un...
-
-**[00:35:21 - 00:35:24] bensmart**
-Ah, du...
 
 **[00:35:24 - 00:35:27] bensmart**
 C'est comme, non, mais c'est comme, comme j'ai dit,
@@ -1382,12 +1301,6 @@ Parce que les petites documents sont produites depuis l'ordée de ta sainteur
 
 **[00:36:49 - 00:36:54] bensmart**
 à Malesi, de l'Étocaine de Cidance.
-
-**[00:36:54 - 00:36:56] bensmart**
-Donc...
-
-**[00:36:56 - 00:36:58] bensmart**
-Voilà, voilà.
 
 **[00:36:56 - 00:37:01] _redsun**
 Ok, ok, ok, bah ça va être très intéressant, évidemment,
@@ -1467,29 +1380,14 @@ Ah, elle a...
 **[00:38:13 - 00:38:15] bensmart**
 A quel point de dévaliser?
 
-**[00:38:15 - 00:38:17] bensmart**
-Fracasser ou...
-
-**[00:38:17 - 00:38:17] _redsun**
-Lâche.
-
 **[00:38:17 - 00:38:20] bensmart**
 Juste voler comme ça.
-
-**[00:38:17 - 00:38:18] _redsun**
-Parfait.
 
 **[00:38:20 - 00:38:22] _redsun**
 Pas, non, pas, elle devait les deux.
 
-**[00:38:20 - 00:38:22] bensmart**
-Ah, dévaliser.
-
 **[00:38:22 - 00:38:23] bensmart**
 Il est de rupture de ce...
-
-**[00:38:23 - 00:38:25] bensmart**
-Ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok.
 
 **[00:38:25 - 00:38:51] bensmart**
 J'ai quand même l'impression sérieux là...
@@ -1557,17 +1455,8 @@ Le serveur en Europe, c'est à Frankfort, en fait.
 **[00:39:29 - 00:39:33] _redsun**
 le moins cher et en fait ça suffit de l'arsement un micro
 
-**[00:39:29 - 00:39:32] pollux8888**
-Oui.
-
-**[00:39:32 - 00:39:34] pollux8888**
-1,4, 1,4,
-
 **[00:39:33 - 00:39:38] _redsun**
 on aime quatre, le malheureusement la mauvaise nouvelle
-
-**[00:39:34 - 00:39:47] pollux8888**
-Ouais,
 
 **[00:39:38 - 00:39:40] _redsun**
 avec tous les stock même aux US ce sont
@@ -1596,9 +1485,6 @@ bah y'en a.
 **[00:39:55 - 00:40:02] pollux8888**
 Je t'ai pas le célédi, c'est pas célédi.
 
-**[00:40:00 - 00:40:13] _redsun**
-Voilà, voilà, voilà, voilà, voilà, voilà, voilà, voilà, voilà, voilà,
-
 **[00:40:02 - 00:40:04] pollux8888**
 Bon, je sais pas, ok.
 
@@ -1619,9 +1505,6 @@ j'ai déjà eu que là, c'est
 
 **[00:40:17 - 00:40:19] pollux8888**
 livrésement la semaine prochaine,
-
-**[00:40:19 - 00:40:20] pollux8888**
-non,
 
 **[00:40:20 - 00:40:21] pollux8888**
 pas c'est marqué.
@@ -1662,9 +1545,6 @@ Donc, est-ce que ça va la peine d'acheter 24, là, c'est pas sûr.
 **[00:41:07 - 00:41:14] pollux8888**
 Moi je suis sur PC mais je me pose la question. Est-ce qu'ici un M-4 ?
 
-**[00:41:10 - 00:41:12] _redsun**
-Voilà.
-
 **[00:41:12 - 00:41:15] _redsun**
 Alors, je veux dire pourquoi?
 
@@ -1692,9 +1572,6 @@ c'est à chance pour...
 **[00:41:31 - 00:41:34] _redsun**
 parce que du coup, au tout ce qui me délangue,
 
-**[00:41:32 - 00:41:47] pollux8888**
-OK. OK.
-
 **[00:41:34 - 00:41:37] _redsun**
 est justement, ça me permet de faire la transition
 
@@ -1710,9 +1587,6 @@ au peu de course, fabriquer par Google,
 **[00:41:46 - 00:41:49] _redsun**
 que c'est pas un titrex, c'est un très peu bon modèle.
 
-**[00:41:47 - 00:42:01] pollux8888**
-OK. OK.
-
 **[00:41:50 - 00:41:53] _redsun**
 Il existe en 2 versions pour résumner des histoires,
 
@@ -1727,12 +1601,6 @@ Et les 2 versions tournent sur ma qu'ils vont tu peux les faire tourner en
 
 **[00:42:02 - 00:42:05] _redsun**
 lequel il a ce, pas chance complètement à d'un.
-
-**[00:42:03 - 00:42:05] pollux8888**
-OK. OK. OK.
-
-**[00:42:05 - 00:42:27] pollux8888**
-OK. OK.
 
 **[00:42:06 - 00:42:08] _redsun**
 Parce que, moi, c'est pas qu'il m'intéresse.
@@ -1766,9 +1634,6 @@ on a parlé plus des exécités.
 
 **[00:42:44 - 00:42:47] _redsun**
 Et du coup ça donne un extraitement intéressant,
-
-**[00:42:47 - 00:42:49] _redsun**
-complètement différent.
 
 **[00:42:49 - 00:42:51] _redsun**
 Alors d'ailleurs, Rien, Cui, Tii,
@@ -1827,9 +1692,6 @@ Je sais pas si vous voulez jouer mon trampe
 **[00:43:54 - 00:44:05] pollux8888**
 Alors, juste pour terminer, donc c'est un mec mini de 150 cc avec sa giga m4 à 150 9 cc qui est livrable après demain.
 
-**[00:43:56 - 00:44:08] _redsun**
-Ouais
-
 **[00:44:05 - 00:44:26] pollux8888**
 le moment. Ok. Voilà, c'est marqué.
 
@@ -1838,12 +1700,6 @@ Oui, mais ça a pas les vraies troutus, et tout le monde.
 
 **[00:44:08 - 00:44:09] _redsun**
 Je peux des part-ci
-
-**[00:44:09 - 00:44:10] _redsun**
-Moi
-
-**[00:44:10 - 00:44:11] _redsun**
-Non non non
 
 **[00:44:11 - 00:44:12] _redsun**
 Voilà on va
@@ -1857,26 +1713,17 @@ En fait va être un processeur qui va vraiment très intéressant
 **[00:44:17 - 00:44:19] _redsun**
 Et beaucoup plus performent
 
-**[00:44:19 - 00:44:20] _redsun**
-Et donc
-
 **[00:44:21 - 00:44:23] gilles_35307**
 Il y aura des dirais, des livraisons, etc.
 
 **[00:44:23 - 00:44:27] gilles_35307**
 En jouant, il y a une annonce pour joints, c'est un pancore.
 
-**[00:44:25 - 00:44:25] _redsun**
-Alors
-
 **[00:44:26 - 00:44:32] pollux8888**
 C'est là en plus, c'est marqué, il y en a plus de 10 pièces en stock. Donc, c'est
 
 **[00:44:27 - 00:46:04] gilles_35307**
 Comme d'abord, c'est une vraie question belle, qu'est-ce qui en pêche de faire,
-
-**[00:44:27 - 00:44:29] _redsun**
-Un joint
 
 **[00:44:29 - 00:44:35] _redsun**
 de très bien en train, c'est pas comme ils ont dû garrouiller pour avoir
@@ -1899,35 +1746,17 @@ Réfléchissez toujours, parce que c'est un gigadrame, c'est pour tout le monde,
 **[00:44:51 - 00:44:57] _redsun**
 gigadrame pour écartourner les motrons, de la Lidia, G-Macat, Google,
 
-**[00:44:55 - 00:44:56] pollux8888**
-Oui.
-
-**[00:44:56 - 00:44:57] pollux8888**
-Oui.
-
-**[00:44:57 - 00:45:12] pollux8888**
-OK.
-
 **[00:44:57 - 00:45:07] _redsun**
 On peut être une douche de France vers son cadre d'un petit peu de diversions de quoi ils sont excellent aussi.
 
 **[00:45:07 - 00:45:14] _redsun**
 On s'arrête dans les petits modèles. Parfait pour un ordre de chat, pas du tout pour faire du code.
 
-**[00:45:12 - 00:45:21] pollux8888**
-OK.
-
 **[00:45:14 - 00:45:20] _redsun**
 J'ai fait des tests, j'ai testé de code Snake, j'ai juste Snake.
 
 **[00:45:20 - 00:45:26] _redsun**
 On va être une des erreurs dans tout le code piton quoi.
-
-**[00:45:21 - 00:45:25] pollux8888**
-OK.
-
-**[00:45:25 - 00:45:43] pollux8888**
-OK.
 
 **[00:45:26 - 00:45:34] _redsun**
 Voilà, mais voilà, ce qui veut commencer à faire du local, moi je conseille fortement
@@ -1937,9 +1766,6 @@ Voilà, mais voilà, ce qui veut commencer à faire du local, moi je conseille f
 
 **[00:45:40 - 00:45:48] _redsun**
 27 b et à monstre, pareil il faut s'en introduire vraiment, et si tu vas aller sur
-
-**[00:45:45 - 00:45:46] pollux8888**
-OK.
 
 **[00:45:46 - 00:46:01] pollux8888**
 On parle d'autres choses.
@@ -1952,9 +1778,6 @@ qui me l'a tu veux pleure, qui me depe en 5, parce que là ta besoin de 2, pour 
 
 **[00:45:57 - 00:46:18] _redsun**
 C'était à peu près une trop bonne idée.
-
-**[00:46:01 - 00:47:30] pollux8888**
-OK.
 
 **[00:46:04 - 00:46:06] gilles_35307**
 qui choisera le cas avec un GM4,
@@ -2013,9 +1836,6 @@ je vais c'est quoi je vais le montrer comme ça tout le monde
 **[00:47:06 - 00:47:07] _redsun**
 parce que là les gens ils vont y voir les pas de courant
 
-**[00:47:07 - 00:47:08] _redsun**
-par là
-
 **[00:47:08 - 00:56:50] gilles_35307**
 Non ça m'a de bien en profond. Je recommande.
 
@@ -2028,23 +1848,8 @@ de partager grand à arrêter de se trimer mais je vais
 **[00:47:16 - 00:47:18] _redsun**
 streamer autre chose hein ça juste
 
-**[00:47:19 - 00:47:20] _redsun**
-ok
-
-**[00:47:21 - 00:47:22] _redsun**
-donc c'est
-
 **[00:47:24 - 00:47:26] _redsun**
 est grand si est-ce que vous voyez tout la mon écran
-
-**[00:47:29 - 00:47:29] _redsun**
-ouais
-
-**[00:47:30 - 00:48:18] pollux8888**
-OK.
-
-**[00:47:30 - 00:47:31] _redsun**
-ok
 
 **[00:47:31 - 00:47:34] _redsun**
 alors juste avant de passer à ça pour que tout le monde comprend bien
@@ -2069,9 +1874,6 @@ Donc j'ai un p'tit sur une chat, je me test, puis allez voir la vitesse de la r�
 
 **[00:48:08 - 00:48:12] _redsun**
 C'est la version 4B sur une machine qui a 32 giga d'ralement.
-
-**[00:48:12 - 00:48:13] _redsun**
-Voilà.
 
 **[00:48:13 - 00:48:16] _redsun**
 4,4 secondes, c'est bien.
@@ -2109,9 +1911,6 @@ Nix personnes, je fais mon petit business, donc, un personne le sait, tout est p
 **[00:48:58 - 00:49:03] _redsun**
 des contentes de connecté.
 
-**[00:49:01 - 00:49:16] pollux8888**
-OK.
-
 **[00:49:03 - 00:49:06] _redsun**
 Elle est donc...
 
@@ -2129,12 +1928,6 @@ Alors par contre, on va pas se cacher des choses.
 
 **[00:49:12 - 00:49:15] _redsun**
 C'est assez hardcore, pendant un moment, c'est un tout si vous déboutez.
-
-**[00:49:15 - 00:49:16] _redsun**
-Donc, c'est...
-
-**[00:49:16 - 00:49:49] pollux8888**
-OK.
 
 **[00:49:16 - 00:49:21] _redsun**
 Bah, si tu connais pas trop et tu ne sais pas où tu vas te vite perdre quoi.
@@ -2165,12 +1958,6 @@ Je peux te trouver les quantes.
 
 **[00:49:49 - 00:49:53] _redsun**
 Donc ça, bon, faut déjà un petit peu s'accrocher.
-
-**[00:49:49 - 00:49:50] pollux8888**
-Oui.
-
-**[00:49:50 - 00:50:14] pollux8888**
-Oui.
 
 **[00:49:53 - 00:49:58] _redsun**
 tu sais ce que tu fais, bon tu peux demander tout à fait à clôt,
@@ -2214,20 +2001,11 @@ j'ai les partagé dans le groupe, d'ailleurs, sur general.
 **[00:50:34 - 00:50:35] _redsun**
 C'est un modèle que...
 
-**[00:50:35 - 00:50:39] _redsun**
-Je trouve que je trouve que je trouve que je trouve que je trouve que je trouve que je trouve que j'ai pas tellement de marbe de perpa...
-
 **[00:50:39 - 00:50:42] _redsun**
 à tant que que que j'ai nulé là, voilà.
 
 **[00:50:42 - 00:50:46] _redsun**
 Dès tard, vous voyez tous les moments d'écran, je ne sais pas si je suis deux fois.
-
-**[00:50:46 - 00:50:46] _redsun**
-C'est bon !
-
-**[00:50:47 - 01:03:43] pollux8888**
-Oui.
 
 **[00:50:47 - 00:50:48] _redsun**
 Donc, est-ce que ce que c'est que ce truc-là ?
@@ -2270,9 +2048,6 @@ qui est plus sympa à cause, que franchement c'est une telle galère.
 
 **[00:51:58 - 00:52:06] _redsun**
 Et puis là du coup j'ai que de ce logiciel, il est que des 100% avec un peu
-
-**[00:52:06 - 00:52:07] _redsun**
-ne clôt.
 
 **[00:52:07 - 00:52:12] _redsun**
 Donc je le mets à jour, donc ça permet de mettre à jour au home-ro-neau d'LM Studio.
@@ -2346,9 +2121,6 @@ et décrire mon enfote.
 **[00:53:36 - 00:53:40] _redsun**
 et là il balanç a repense dans le monde et la balanç a la repense.
 
-**[00:53:40 - 00:53:42] _redsun**
-Voilà, ok?
-
 **[00:53:42 - 00:53:47] _redsun**
 Mais ce que le roulet était,
 
@@ -2366,9 +2138,6 @@ et tout, tu peux estimer ces tâques,
 
 **[00:53:58 - 00:54:01] _redsun**
 j'ai essayé de faire un système où tu peux connecter WhatsApp en un clic,
-
-**[00:54:01 - 00:54:03] _redsun**
-Discord, etc.
 
 **[00:54:03 - 00:54:06] _redsun**
 J'ai fait les temps de plait pour ceux qui soient de faire du dévo modo,
@@ -2487,9 +2256,6 @@ on peut utiliser que dans l'envier en m'en pleut.
 **[00:56:31 - 00:56:35] _redsun**
 Voilà donc, pour moi ça, on va vraiment vraiment au temps, je trouve que l'autre
 
-**[00:56:31 - 00:57:33] nano1992_**
-Ah, y'a.
-
 **[00:56:35 - 00:56:39] _redsun**
 qu'à de six mon стрoudaires, je ne parle qu'à de 7, pourquoi je ne le me pas.
 
@@ -2513,9 +2279,6 @@ C'est à des bonnes bonnes bonnes bonnes que tu fais et surtout si tu fais du co
 
 **[00:56:54 - 00:57:01] gilles_35307**
 Moi, par exemple, je parle pour moi, je ne vais pas faire vraiment le disentagot entre les deux.
-
-**[00:57:01 - 01:01:37] gilles_35307**
-je ne sais pas, je ne sais pas, je ne sais pas, je ne sais pas, mais je ne sais pas, mais je ne sais pas
 
 **[00:57:10 - 00:57:15] _redsun**
 C'est là où tu vois vraiment que ça château il quoi c'est là où ça pique quoi
@@ -2592,9 +2355,6 @@ le cas gauche j'ai pété 4-5 puis je peux changer en fait
 **[00:58:32 - 00:58:35] _redsun**
 voilà je peux passer sur Kimi et Kimi ça me date que je dis
 
-**[00:58:35 - 00:58:38] _redsun**
-via OpenRouter
-
 **[00:58:38 - 00:58:42] _redsun**
 voilà il est heureuse suite à cette région de truc ça me n'est heure pour quoi
 
@@ -2630,9 +2390,6 @@ Moi, j'ai jamais utilisé ça pour connecter WhatsApp.
 
 **[00:59:15 - 00:59:20] _redsun**
 Pourquoi, en fait, pas comme ça, vous demandez à l'opèlité de le faire.
-
-**[00:59:20 - 00:59:21] _redsun**
-Tout simplement.
 
 **[00:59:21 - 00:59:25] _redsun**
 Voilà, le cascolo soit le cascolo, ça ne m'est pas vraiment croit.
@@ -2802,9 +2559,6 @@ t'as qu'il y a lui, il va aller créer, on va y comprendre ce que tu veux, on va
 **[01:02:16 - 01:02:18] _redsun**
 Après ça fait, je suis là, on va c'est juste.
 
-**[01:02:17 - 01:02:19] nano1992_**
-Oui.
-
 **[01:02:18 - 01:02:21] _redsun**
 Mais c'est juste que l'interfassage, c'est...
 
@@ -2846,9 +2600,6 @@ mais à un par... vous pouvez aussi dire utiliser obsidian, enfin ça change l'o
 
 **[01:02:59 - 01:03:01] _redsun**
 et créer un skid spécial pour obsidian
-
-**[01:03:02 - 01:03:03] _redsun**
-pourquoi pas
 
 **[01:03:03 - 01:03:12] _redsun**
 Il n'y a pas besoin de passer 20 à moi je passe tout par le chat mais après on les deux sont juste, on peut faire là, puis je pense qu'on peut...
@@ -2915,9 +2666,6 @@ Est-ce que t'as un autre pote, ce qui est avec Jimmy, qui est de permettre de ob
 
 **[01:04:26 - 01:04:31] _redsun**
 Voilà, bien sûr.
-
-**[01:04:30 - 01:04:31] pollux8888**
-Ok.
 
 **[01:04:31 - 01:04:38] _redsun**
 On rose à dire, tous les quand je vais me coucher, tu vas faire tes actions, tu vas faire ça.
@@ -3066,9 +2814,6 @@ tu parles pas de plus d'ailleurs.
 **[01:07:58 - 01:08:03] _redsun**
 mais j'ai un moment où les réponses c'était meilleur sur le contrôle.
 
-**[01:08:03 - 01:08:04] _redsun**
-C'est ici.
-
 **[01:08:04 - 01:08:08] _redsun**
 Alors pour que d'échudes, je ne sais pas pourquoi vraiment j'ai fait des tests et je trouvais
 
@@ -3083,9 +2828,6 @@ et je crois que c'est un peu plus.
 
 **[01:08:16 - 01:08:17] nano1992_**
 Et puis, tu...
-
-**[01:08:17 - 01:08:19] nano1992_**
-Ouais.
 
 **[01:08:18 - 01:08:22] _redsun**
 C'est fidène, en fait, ça marche maintenant.
@@ -3104,9 +2846,6 @@ C'est la plusieurs choses à faire en même temps.
 
 **[01:08:30 - 01:08:34] nano1992_**
 Ah ouais là t'as tout pris.
-
-**[01:08:34 - 01:11:34] nano1992_**
-D'accord.
 
 **[01:08:38 - 01:08:44] _redsun**
 qui peut faire plusieurs agents, c'est pour faire plusieurs tâches séparées, mais
@@ -3146,9 +2885,6 @@ un peu un peu un peu le clou, je ne sais pas, je ne sais pas, je ne sais pas, je
 
 **[01:09:35 - 01:09:54] _redsun**
 jamais ouverte, non, mais n'est pas tant peur que ça, parce que tu vois, je
-
-**[01:09:42 - 01:09:43] pollux8888**
-Ok.
 
 **[01:09:43 - 01:09:51] pollux8888**
 J'attends une nouvelle install, un lieu de l'invier en devier et ordinateur.
@@ -3225,9 +2961,6 @@ Voilà, y a ça, c'est voulover un meser.
 **[01:11:19 - 01:11:25] _redsun**
 Mais... Donc là on est sur du loin.
 
-**[01:11:20 - 01:14:58] pollux8888**
-Tentin?
-
 **[01:11:25 - 01:11:31] _redsun**
 Mais... Par contre là on peut faire tourner des LM puissants.
 
@@ -3291,12 +3024,6 @@ Alors moi j'en ai fait plusieurs.
 **[01:12:44 - 01:12:49] _redsun**
 Ouais, moi je ne me suis pas.
 
-**[01:12:44 - 01:12:45] pchartois**
-Je me...
-
-**[01:12:45 - 01:12:46] pchartois**
-Je me...
-
 **[01:12:46 - 01:12:47] pchartois**
 Je me suis sur au stingor, ton affaire.
 
@@ -3308,9 +3035,6 @@ Et c'est plutôt...
 
 **[01:12:49 - 01:12:56] _redsun**
 Moi j'aime pas du tout.
-
-**[01:12:51 - 01:12:52] pchartois**
-C'est...
 
 **[01:12:52 - 01:12:54] pchartois**
 Qu'est-ce que ton pensent, plutôt bien...
@@ -3416,9 +3140,6 @@ de notre amie, de l'hôme qui proposait leur des dernières annulement,
 
 **[01:14:56 - 01:14:58] _redsun**
 Un peu ne plus.
-
-**[01:14:58 - 01:14:59] _redsun**
-Parce que...
 
 **[01:14:58 - 01:14:59] pollux8888**
 Je me pergis où.
@@ -3543,9 +3264,6 @@ Je pense que la plupart des gens qui arrivent quand même par payez 5 dollars, d
 **[01:17:59 - 01:18:05] bensmart**
 Et énormément, la plupart des gens après, ils trouvent qu'ils ont pas besoin en fait.
 
-**[01:18:05 - 01:18:07] bensmart**
-C'est juste...
-
 **[01:18:07 - 01:18:13] bensmart**
 Je me prends toujours la anecdote, ce qui s'est passé en Chine avec au point de
 
@@ -3554,9 +3272,6 @@ clore, les gens ont été ratholes.
 
 **[01:18:16 - 01:18:19] bensmart**
 Ah ouais, il y a une nouvelle technologie, apparemment, avec ça, on peut devenir
-
-**[01:18:19 - 01:18:20] bensmart**
-riz.
 
 **[01:18:20 - 01:18:25] bensmart**
 Et nous, les gens, il payaient presque les qui valent de s'endre la François,
@@ -3681,9 +3396,6 @@ Je espère que je dis, je suis pas un train de porter là.
 **[01:21:17 - 01:21:18] pollux8888**
 Ouais, c'est ça.
 
-**[01:21:17 - 01:21:19] _redsun**
-Ouais, ouais, ouais, ouais.
-
 **[01:21:18 - 01:25:20] pollux8888**
 Non, mais je dis, tu peux imprimer après.
 
@@ -3744,17 +3456,11 @@ genre de trucs et puis ensuite de tester au PENCLO d'air, sont-à-papenCLO sur u
 **[01:22:39 - 01:22:51] _redsun**
 un clot, il semble là, il y a un concurant qui est très très en vrai, en ce moment
 
-**[01:22:51 - 01:22:53] _redsun**
-C'est d'ailleurs.
-
 **[01:22:53 - 01:22:58] _redsun**
 Je suis spécadre, je suis trop bé.
 
 **[01:22:58 - 01:23:03] _redsun**
 Ce qui avait un truc, on voyait les modèles plus utilisés en fonction.
-
-**[01:23:03 - 01:23:05] _redsun**
-C'est ça.
 
 **[01:23:05 - 01:23:12] _redsun**
 Donc les deux, la AirMassaland, ils prend, ils commencent à prendre de la truc qui est très bien aussi.
@@ -3861,9 +3567,6 @@ Ouais tu faisais un petit peu en 3D. Il y a tout le process de création, tu peu
 **[01:25:27 - 01:25:31] _redsun**
 même les animés. Voilà j'ai fait récemment un cours là dessus, on fait au montrait.
 
-**[01:25:31 - 01:25:32] _redsun**
-J'en laisse.
-
 **[01:25:33 - 01:25:35] _redsun**
 Alors attend, c'est là où c'est intéressant.
 
@@ -3896,9 +3599,6 @@ au-date, une t-ion real Maya au 3DS, au robloque, ceci.
 
 **[01:26:05 - 01:26:11] _redsun**
 Donc, tu peux créer en un prontain avec des images, là, j'ai fait ça, aussi avec une
-
-**[01:26:11 - 01:26:12] _redsun**
-image d'hépété 2.
 
 **[01:26:12 - 01:26:16] _redsun**
 Là, je vais monter image, ça, c'est ce que j'ai fait comme une image sur j'épété 2.
@@ -3972,9 +3672,6 @@ tu vas le mettre en scène
 **[01:27:34 - 01:27:38] _redsun**
 tu peux utiliser un oubana-na où j'ai pété image
 
-**[01:27:38 - 01:27:39] _redsun**
-Ok
-
 **[01:27:39 - 01:27:43] _redsun**
 Et en fait donc là tu me en sens, tu t'appelais prendre ce que tu veux comme background
 
@@ -3983,9 +3680,6 @@ Je voulais faire vite pour pas prendre trop de temps
 
 **[01:27:46 - 01:27:48] _redsun**
 Tu génères, t'as...
-
-**[01:27:48 - 01:27:49] _redsun**
-Voilà
 
 **[01:27:49 - 01:27:56] _redsun**
 et ensuite là où c'est trop incroyable c'est qu'eux ils ont été récidents de donc donc
@@ -4053,17 +3747,11 @@ C'est une plus dynamique.
 **[01:28:52 - 01:30:41] pollux8888**
 On m'en va pas y plein pour les tests.
 
-**[01:28:52 - 01:29:00] _redsun**
-Voilà, tu...
-
 **[01:28:59 - 01:29:00] pchartois**
 T'as vidéo là.
 
 **[01:29:00 - 01:29:03] _redsun**
 Alors, la vidéo là, le coute, on visera,
-
-**[01:29:00 - 01:29:10] pchartois**
-Ouais, quoi.
 
 **[01:29:03 - 01:29:05] _redsun**
 on ne reste pas quand ils se disent,
@@ -4113,9 +3801,6 @@ Ah, ça, ça coûte cher, hein.
 **[01:29:50 - 01:30:38] gilles_35307**
 Il vient avec OpenCleurland, appréciement.
 
-**[01:29:58 - 01:30:03] _redsun**
-Ouais, ça.
-
 **[01:29:58 - 01:30:04] bensmart**
 En fait, tu peux appartir au plus près à modèle de 3D, et en plus, à partir de ce modèle 3D,
 
@@ -4128,23 +3813,11 @@ L'injecté est dans 6-2.0, et là, ça de créer carrément une vidéo.
 **[01:30:10 - 01:30:12] bensmart**
 Comme ça, la boucle est boucle.
 
-**[01:30:12 - 01:30:13] bensmart**
-C'est ça ?
-
-**[01:30:12 - 01:30:13] _redsun**
-Exactement.
-
 **[01:30:13 - 01:30:19] bensmart**
 En plus, il est fichier, il est prêt à être imprimé par les machines, les appréhéans de 3D.
 
 **[01:30:14 - 01:30:20] _redsun**
 Va-t'a tout gonu.
-
-**[01:30:19 - 01:30:20] bensmart**
-C'est ça?
-
-**[01:30:20 - 01:30:21] _redsun**
-Exactement.
 
 **[01:30:20 - 01:38:28] bensmart**
 Un travail, c'est un croyable, ce que c'est de ce que tu dis.
@@ -4173,9 +3846,6 @@ Alors, attend, j'ai un gig bon jus, c'est là, j'étais marrant.
 **[01:30:39 - 01:30:48] _redsun**
 Donc là, je vais s'immer à faire ça, et après je te explique pourquoi ça indérent qu'un peu le temps.
 
-**[01:30:41 - 01:30:43] pollux8888**
-C'est génial.
-
 **[01:30:43 - 01:31:17] pollux8888**
 Tout le fait à faire face avec...
 
@@ -4194,17 +3864,8 @@ C'est quoi le beaucoup ?
 **[01:31:16 - 01:31:22] _redsun**
 Alors, justement, je fais une réinti à payer.
 
-**[01:31:16 - 01:31:33] gilles_35307**
-Ouais.
-
-**[01:31:17 - 01:31:32] pollux8888**
-Ah...
-
 **[01:31:22 - 01:31:27] _redsun**
 Je les balance sur OpenPlo, et du coup, cette vidéo que vous avez vu là, elle est 100% créée
-
-**[01:31:27 - 01:31:28] _redsun**
-par OpenPlo.
 
 **[01:31:28 - 01:31:34] _redsun**
 Là, vous ne suivez-la, vous?
@@ -4224,17 +3885,8 @@ Je vous ai dit.
 **[01:31:35 - 01:31:41] _redsun**
 Donc, du coup, tu peux créer de la vidéo à la demande, et du coup, tu peux créer des
 
-**[01:31:35 - 01:31:36] pollux8888**
-C'est vrai.
-
-**[01:31:36 - 01:31:46] pollux8888**
-En fait.
-
 **[01:31:41 - 01:31:48] _redsun**
 moi, j'utilise ça pour faire un truc sur mon LinkedIn, pour faire de, voilà, tu peux
-
-**[01:31:46 - 01:31:47] pollux8888**
-Ouais.
 
 **[01:31:47 - 01:32:05] pollux8888**
 Oh, j'ai eu une question.
@@ -4245,26 +3897,14 @@ faire de mon, tu peux faire des trucs, faire des trucs, faire des trucs, faire d
 **[01:31:51 - 01:31:52] _redsun**
 Moi je fais ça pour tester mais en fait,
 
-**[01:31:52 - 01:31:54] _redsun**
-pas 1000 000 possibilités.
-
 **[01:31:54 - 01:31:56] _redsun**
 Si tu fais de la vende de produits, tu peux te faire des trucs,
-
-**[01:31:56 - 01:31:57] _redsun**
-super intéressant.
-
-**[01:31:58 - 01:31:59] gilles_35307**
-Bien sûr.
 
 **[01:31:59 - 01:32:02] gilles_35307**
 Un peu à ce moment.
 
 **[01:32:00 - 01:32:02] _redsun**
 Donc voilà, un juste qu'est-ce.
-
-**[01:32:02 - 01:33:44] gilles_35307**
-C'est vrai.
 
 **[01:32:03 - 01:32:21] _redsun**
 Donc là, tu t'as envie de faire.
@@ -4368,12 +4008,6 @@ pour vous appeler.
 **[01:34:10 - 01:34:13] gilles_35307**
 Ça va être courté.
 
-**[01:34:11 - 01:34:13] pollux8888**
-Je vais...
-
-**[01:34:13 - 01:34:29] pollux8888**
-Je vais...
-
 **[01:34:13 - 01:34:15] gilles_35307**
 Ça compte de l'art d'appeler.
 
@@ -4388,9 +4022,6 @@ Si vous voulez tester, pour vous m'arrêner, ce n'est pas du tout une habulation
 
 **[01:34:26 - 01:34:52] gilles_35307**
 Mais du coup, c'est fluide pour faire de l'apparition sur l'incudin et le fêteur.
-
-**[01:34:29 - 01:34:54] pollux8888**
-...c'est pas...
 
 **[01:34:30 - 01:34:33] _redsun**
 Je fais vous le partager comme ça.
@@ -4422,17 +4053,11 @@ C'est facile, ça prend.
 **[01:34:58 - 01:35:05] gilles_35307**
 C'est pas le mot, leur vidéo, c'est pas ça.
 
-**[01:35:07 - 01:35:09] gilles_35307**
-OK.
-
 **[01:35:09 - 01:35:12] _redsun**
 Tu vas l'immancer du monde des écoutées, les écoutes terminures.
 
 **[01:35:13 - 01:35:18] _redsun**
 C'est juste que je trouve ça cool de pouvoir en retécommer un jouté une corde à l'art qui est de peine clôt,
-
-**[01:35:13 - 01:35:20] gilles_35307**
-D'accord.
 
 **[01:35:18 - 01:35:23] _redsun**
 à qui peut faire des sites clubs, ça y peut le faire, ça fait des documents, ça y peut le faire.
@@ -4515,9 +4140,6 @@ je peux le rentrer sur la brûte, c'est ça, c'est ça, c'est ça, c'est...
 **[01:36:47 - 01:36:54] _redsun**
 Pideur, on a la résumé de ce qu'on a dit dans un fois aussi, donc comme ça,
 
-**[01:36:48 - 01:37:07] pollux8888**
-On prend...
-
 **[01:36:54 - 01:37:03] _redsun**
 ça permet de garder une trace, mais je sais vrai que la privacy, si tu ne pas que je te cite tout, quoi,
 
@@ -4529,12 +4151,6 @@ On prend ici, en fait, on peut en faire une compte d'élement.
 
 **[01:37:09 - 01:37:11] pollux8888**
 On part ici pour faire...
-
-**[01:37:10 - 01:37:12] _redsun**
-Voilà, voilà.
-
-**[01:37:11 - 01:37:13] pollux8888**
-...c'est déjà...
 
 **[01:37:12 - 01:37:15] _redsun**
 C'est ça, c'est ce que je me suis dit, quoi.
@@ -4560,20 +4176,11 @@ Juste pour revenir à...
 **[01:37:27 - 01:37:29] _redsun**
 Bah alors, en fait, j'ai fait une texture.
 
-**[01:37:28 - 01:37:30] pollux8888**
-Oui.
-
 **[01:37:29 - 01:37:31] _redsun**
 Ah, tu vas plorer, hein, on a fait.
 
-**[01:37:30 - 01:37:31] pollux8888**
-Oui.
-
 **[01:37:31 - 01:37:37] _redsun**
 Donc, il manque, je veux pas pourquoi, il manque une partie de bras.
-
-**[01:37:31 - 01:37:32] pollux8888**
-Ok.
 
 **[01:37:32 - 01:37:38] pollux8888**
 Et moi, juste un petit moment, depuis le métal,
@@ -4595,9 +4202,6 @@ Ah oui, on voit là, ok.
 
 **[01:37:50 - 01:37:56] _redsun**
 Ah alors, attends, j'en veux la texture, ça te... voilà.
-
-**[01:37:50 - 01:38:01] pollux8888**
-Oui.
 
 **[01:37:56 - 01:38:01] _redsun**
 ça c'est rigolo mais tu peux pas travailler avec eux.
@@ -4652,9 +4256,6 @@ Parce que la part de travail c'est durée.
 
 **[01:38:54 - 01:39:00] bensmart**
 Les derniers de formation à faire pournée ces normes de logiciels.
-
-**[01:38:57 - 01:39:21] _redsun**
-Exactement.
 
 **[01:39:00 - 01:40:38] bensmart**
 Elle a éclaté un éclatement de mouvement, on a eu un de mouvement de mouvement,
@@ -4752,9 +4353,6 @@ Alors, aucune avée, parce que...
 **[01:40:49 - 01:40:52] _redsun**
 ...t'un peu con, il faut faire...
 
-**[01:40:52 - 01:40:53] _redsun**
-...a... non.
-
 **[01:40:53 - 01:41:22] _redsun**
 ...c'est-ce que tu peux faire là aussi,
 
@@ -4793,9 +4391,6 @@ et du coup il pourra comprendre la structure de la montre complètement.
 
 **[01:41:39 - 01:41:48] _redsun**
 Mais bon, on va voir là, à sa tour, on live là, je vous prends là, donc ça peut donner un truc
-
-**[01:41:43 - 01:41:45] bensmart**
-Ok.
 
 **[01:41:45 - 01:42:26] bensmart**
 Parce que avant, tu as été 1300 avec l'amannante de 1900, 200, 200, 200 cladiers.
@@ -4872,12 +4467,6 @@ Bah, dans la sainte beaucoup.
 **[01:42:48 - 01:48:33] bensmart**
 J'ai pas encore le prasin final mais sûrement au moins cher que les onont dans la.
 
-**[01:42:48 - 01:42:49] gilles_35307**
-C'est clair.
-
-**[01:42:49 - 01:43:08] gilles_35307**
-Excusez-moi.
-
 **[01:42:53 - 01:43:06] _redsun**
 Ma prédéalement, ce qui aurait été maintenant justement, c'est que tu me donne la photo de la montre et la chancée.
 
@@ -4899,9 +4488,6 @@ Voilà, je ne vois ma trisson.
 **[01:43:16 - 01:43:17] _redsun**
 Ce que je...
 
-**[01:43:17 - 01:43:32] gilles_35307**
-Non.
-
 **[01:43:17 - 01:43:19] _redsun**
 Je te bouge, mais...
 
@@ -4910,9 +4496,6 @@ Est-ce que je regarde direct ?
 
 **[01:43:21 - 01:43:27] _redsun**
 Non, je ne vois pas.
-
-**[01:43:27 - 01:43:27] pollux8888**
-t'es
 
 **[01:43:27 - 01:43:47] pollux8888**
 Ok, vas-y. Oui. Oui.
@@ -4937,9 +4520,6 @@ Ah fit. Ah fit.
 
 **[01:43:47 - 01:44:14] pollux8888**
 Je suis vraiment en chouette motré.
-
-**[01:43:50 - 01:43:52] _redsun**
-Ah fit.
 
 **[01:43:52 - 01:43:55] _redsun**
 Ah bah le coeur.
@@ -5025,9 +4605,6 @@ vous l'en détruire. L'un va de se tuer au faire ça, t'as exfile.
 **[01:45:34 - 01:45:42] _redsun**
 qui est en fait une plateforme spéciale pour faire de la vidéo et là, il a des
 
-**[01:45:38 - 01:48:01] pollux8888**
-Vosons deux.
-
 **[01:45:42 - 01:45:47] _redsun**
 templé tiktok, ça c'est la bombe, la dingue, des géniales pour faire la
 
@@ -5039,9 +4616,6 @@ blanc, mais c'est un truc de fou quoi, c'est c'est beaucoup, bah j'ai d'impréh�
 
 **[01:45:54 - 01:45:56] gilles_35307**
 C'est ce que t'as pas une blane.
-
-**[01:45:56 - 01:46:04] gilles_35307**
-Ça dépend.
 
 **[01:46:00 - 01:46:03] _redsun**
 bon multiple part de je veux
@@ -5067,12 +4641,6 @@ ce jeu de test allez j'aime bien regardez ce que ça donne
 **[01:46:23 - 01:46:28] _redsun**
 et puis d'ailleurs je pense qu'il est long de la pille aussi je pense qu'ils ont
 
-**[01:46:28 - 01:46:30] _redsun**
-un appel
-
-**[01:46:30 - 01:46:32] _redsun**
-Aversé.
-
 **[01:46:32 - 01:46:37] _redsun**
 Et là, je suis allé dans le vidéo, on monte déjà à l'interface.
 
@@ -5093,9 +4661,6 @@ Mais là aussi, effectivement, dans torçons mes chilles,
 
 **[01:46:50 - 01:46:54] gilles_35307**
 Donc dans mes chilles, tu peux enfin jouer sur ça, dans mes chilles, tu peux utiliser
-
-**[01:46:54 - 01:46:56] gilles_35307**
-cidence de 0.0.
 
 **[01:46:56 - 01:46:57] gilles_35307**
 On fait à la vidéo.
@@ -5130,9 +4695,6 @@ Et tu vas y y'a une CP, y'a une CP pour...
 **[01:47:31 - 01:47:36] _redsun**
 Voilà, y'a un CD. Abonne, elle a, elle a, elle a, elle a un peu une clove, elle a, elle a, elle a une
 
-**[01:47:36 - 01:47:37] _redsun**
-pas...
-
 **[01:47:37 - 01:47:38] _redsun**
 N'aime au clove, parce que...
 
@@ -5153,9 +4715,6 @@ la vidéo pro, il travaille pour moi, je crois, c'est japonne, japonne t'abocour
 
 **[01:47:59 - 01:48:05] _redsun**
 comme ça, au zboit, lui, j'ai dit ça, parce qu'il y a vachement, je m'en
-
-**[01:48:01 - 01:48:34] pollux8888**
-Pitié.
 
 **[01:48:05 - 01:48:11] _redsun**
 Par contre, pour les prix pour se marrer, c'est trop cher pour rigoler quoi.
@@ -5178,9 +4737,6 @@ Je suis sûrement en moins cher que les prix de X-field et compagnie.
 **[01:48:33 - 01:52:00] gilles_35307**
 Mais t'exyse, c'est bien.
 
-**[01:48:33 - 01:48:34] _redsun**
-Oui, oui.
-
 **[01:48:34 - 01:49:47] pollux8888**
 Oui, en tantant.
 
@@ -5198,9 +4754,6 @@ Par rapport à...
 
 **[01:48:50 - 01:48:52] _redsun**
 ...par j'ai des vidéos là, je peux le montrer peut-être.
-
-**[01:48:52 - 01:49:00] _redsun**
-à vrai ?
 
 **[01:49:00 - 01:49:37] _redsun**
 et mitos, je peux montrer à pire, c'est notre, il y a, d'ailleurs, je pense, déçu de pire,
@@ -5249,9 +4802,6 @@ C'est simple, c'est fun.
 
 **[01:49:53 - 01:49:57] _redsun**
 C'est pas mal, mais cidance est largement, c'est moi, je crois.
-
-**[01:49:57 - 01:50:49] _redsun**
-je pense.
 
 **[01:49:59 - 01:50:01] bensmart**
 c'est-à-dire c'est Biden,
@@ -5310,9 +4860,6 @@ mais pour mieux travailler un peu tout ce qui est je pense compléent, c'est-à-
 **[01:51:13 - 01:51:18] bensmart**
 mais techniquement, ils sont abattables aujourd'hui.
 
-**[01:51:18 - 02:07:56] bensmart**
-Ouais.
-
 **[01:51:26 - 01:51:28] _redsun**
 ex-fierre de l'épisode.
 
@@ -5334,12 +4881,6 @@ et tout ça, c'est-à-dire, franchement on va pas tellement...
 **[01:51:48 - 01:51:59] _redsun**
 c'est du sidène, c'est parce qu'il a pas, on dirait que je crie, je sais pas, c'est bizarre,
 
-**[01:51:53 - 01:52:35] pollux8888**
-ok
-
-**[01:51:59 - 01:52:05] _redsun**
-mais donc...
-
 **[01:52:00 - 01:52:03] gilles_35307**
 Non, tu ne l'es de faire la vidéo de l'astron en nature.
 
@@ -5354,9 +4895,6 @@ Et ça tu la juste de l'une photo ? C'est quoi mon ?
 
 **[01:52:12 - 01:52:18] _redsun**
 storyboard, c'est ça les 4 photos, je peux...
-
-**[01:52:13 - 01:53:01] gilles_35307**
-C'est bien ?
 
 **[01:52:18 - 01:52:24] _redsun**
 Moi je vais m'us un peu, je découvre, je fais des trucs comme ça pour tester un peu,
@@ -5409,9 +4947,6 @@ c'est l'équipe pour un peu de clôt, mais heurement, associ.
 **[01:52:58 - 01:53:04] _redsun**
 Et comme ça, vous avez un peu de clôt, et comme ça, vous pouvez faire des vidéos à la volée.
 
-**[01:53:01 - 01:54:49] gilles_35307**
-J'ai un...
-
 **[01:53:04 - 01:53:14] _redsun**
 Donc ça fait que ça en plus, parce que là, on peut faire des sites, on peut faire des applications, on peut faire des vidéos, on peut faire de la 3D.
 
@@ -5420,9 +4955,6 @@ Après, on est venu chez plus qu'il manque.
 
 **[01:53:17 - 01:53:20] _redsun**
 Pas grand-frousant.
-
-**[01:53:19 - 01:53:43] pollux8888**
-oui
 
 **[01:53:20 - 01:53:25] _redsun**
 On va avoir un peu de temps à l'aider.
@@ -5435,9 +4967,6 @@ Il manque de budget.
 
 **[01:53:27 - 01:53:34] _redsun**
 Quand je fais vraiment la râche, j'étais essayé avec les images qui nous a affronté
-
-**[01:53:34 - 01:53:37] _redsun**
-pas là.
 
 **[01:53:37 - 01:53:41] _redsun**
 Pour lui, à l'arture, ça, c'est ça qu'il faudrait faire avec la montre.
@@ -5466,9 +4995,6 @@ Il comprend tout sur les magiques, on prend la structure et on prend tout.
 **[01:54:06 - 01:54:09] _redsun**
 Je suis en avoir.
 
-**[01:54:09 - 01:54:56] pollux8888**
-j'acobbe
-
 **[01:54:09 - 01:54:18] _redsun**
 Mais voilà, donc c'est parce que Arnau, on va parler d'adard Arford et Arnau, on disait,
 
@@ -5496,26 +5022,14 @@ Ah ouais, la tate des vidéos car amont.
 **[01:54:48 - 01:54:51] _redsun**
 Alors des vidéos ça marche pas encore et au tout 3D.
 
-**[01:54:49 - 01:55:09] gilles_35307**
-J'ai un...
-
 **[01:54:51 - 01:54:57] _redsun**
 Ça me semble là, c'est chinois ça, mais rien va.
 
 **[01:54:56 - 01:55:00] pollux8888**
 c'est trop vaginé
 
-**[01:54:57 - 01:55:01] _redsun**
-Ah, ok.
-
-**[01:55:00 - 01:55:06] pollux8888**
-non non
-
 **[01:55:01 - 01:55:05] _redsun**
 Mais c'est pour le marché chinois, vous, non, c'est pour tout le monde.
-
-**[01:55:06 - 01:55:08] pollux8888**
-non ben
 
 **[01:55:06 - 01:55:28] _redsun**
 Non, mais il est petit comme des dragons chinois, comme vous l'aurez, ok.
@@ -5559,9 +5073,6 @@ Moi, moi, pas comme ça, mais voilà, avec tout plein diamant, je crois, je sais
 **[01:55:48 - 01:55:53] pollux8888**
 mais beaucoup. Et voilà, il est uniquement en arrière.
 
-**[01:55:53 - 01:56:02] pollux8888**
-Ça, ouais.
-
 **[01:55:59 - 01:56:20] _redsun**
 être imaginer le monde qui existe pas. Et je vois, mais tu peux créer un design intéressant,
 
@@ -5598,14 +5109,8 @@ Puis ensuite la rédité quoi.
 **[01:56:36 - 01:56:39] _redsun**
 Mais ça ne sera pas fabriqué là on a d'accord.
 
-**[01:56:38 - 01:56:42] pollux8888**
-Ouais, oui.
-
 **[01:56:39 - 01:56:44] _redsun**
 Alors regarde donc là.
-
-**[01:56:44 - 01:56:45] _redsun**
-Ok.
 
 **[01:56:44 - 01:56:47] pollux8888**
 Et à bien, avec un tourbillon.
@@ -5664,9 +5169,6 @@ Oui, c'est ça.
 **[01:57:37 - 01:58:04] pollux8888**
 On voit la OK.
 
-**[01:57:37 - 02:04:00] pchartois**
-D'accord.
-
 **[01:57:39 - 01:57:44] _redsun**
 Juste, moi, j'ai découvert mes chies, à la première version, j'ai en beta-test,
 
@@ -5687,9 +5189,6 @@ C'est la version là, la 6 mois.
 
 **[01:57:58 - 01:58:01] _redsun**
 Donc en 6 mois, on ne va s'édez ça.
-
-**[01:58:01 - 01:58:02] _redsun**
-A ça.
 
 **[01:58:02 - 01:58:08] _redsun**
 Donc dans 6 mois, on est ou quoi.
@@ -5723,9 +5222,6 @@ Puis en plus, tu peux l'envoyer directement à forme, forme-nau, qui est dans ma
 
 **[01:58:39 - 01:58:42] _redsun**
 d'emprimer, ou le site, c'est toi même quoi, c'est tout le faire à la maison, c'est
-
-**[01:58:42 - 01:58:43] _redsun**
-le machine.
 
 **[01:58:43 - 01:58:47] _redsun**
 Si on sait que c'est cool, franchement, t'as un peu un petit tour, non, c'est un part.
@@ -5772,20 +5268,11 @@ Eh, il va pas travailler, qu'est ce qui fait lui.
 **[01:59:43 - 01:59:50] _redsun**
 Et là, on se t'es marrant.
 
-**[01:59:46 - 01:59:48] pollux8888**
-Ah ouais.
-
 **[01:59:48 - 01:59:50] pollux8888**
 Ah mais c'est...
 
 **[01:59:50 - 01:59:58] _redsun**
 C'est la type d'attends, je me regarde juste parce que là, tu as des types d'éclairages
-
-**[01:59:50 - 01:59:52] pollux8888**
-C'est balais.
-
-**[01:59:52 - 01:59:54] pollux8888**
-C'est super.
 
 **[01:59:54 - 02:00:10] pollux8888**
 C'est plus qu'en croiable.
@@ -5805,14 +5292,8 @@ Je ne vais jamais vous dire ça.
 **[02:00:09 - 02:08:26] nano1992_**
 Il n'y a pas de réussir à faire tourner des modèles sur des puces Huawei.
 
-**[02:00:10 - 02:00:11] pollux8888**
-Parce que...
-
 **[02:00:11 - 02:00:13] pollux8888**
 Un moment bon, moi je...
-
-**[02:00:13 - 02:00:15] pollux8888**
-Oui, j'ai...
 
 **[02:00:15 - 02:00:20] pollux8888**
 Il y a une marque de mon tratisanalique que j'aime beaucoup.
@@ -5856,29 +5337,8 @@ On ne sait pas les...
 **[02:00:55 - 02:00:57] pollux8888**
 Il ne fera que c'est le moyen...
 
-**[02:00:57 - 02:00:58] pollux8888**
-C'est vraiment...
-
-**[02:00:58 - 02:00:59] pollux8888**
-Mais...
-
-**[02:00:59 - 02:01:00] pollux8888**
-Et...
-
-**[02:01:00 - 02:01:01] pollux8888**
-Isineau...
-
 **[02:01:01 - 02:01:04] pollux8888**
 Voges, connaît le patron...
-
-**[02:01:04 - 02:01:06] pollux8888**
-Isineau...
-
-**[02:01:06 - 02:01:07] pollux8888**
-Ah...
-
-**[02:01:07 - 02:01:08] pollux8888**
-Ça...
 
 **[02:01:08 - 02:01:10] pollux8888**
 Après, je sais de trouver des...
@@ -5886,17 +5346,11 @@ Après, je sais de trouver des...
 **[02:01:10 - 02:01:12] pollux8888**
 Voilà des idées pour y nover un peu...
 
-**[02:01:12 - 02:01:13] pollux8888**
-La fabrication...
-
 **[02:01:13 - 02:01:15] pollux8888**
 Oh, mais c'est bien.
 
 **[02:01:14 - 02:01:18] _redsun**
 En compte, le poste que tu peux faire là en disant,
-
-**[02:01:15 - 02:01:37] pollux8888**
-Ouais...
 
 **[02:01:18 - 02:01:20] _redsun**
 j'ai un style après une chose au mec mini.
@@ -5931,20 +5385,11 @@ Que ça soit...
 **[02:01:37 - 02:01:39] pollux8888**
 Mais je sais pas si j'accobles l'aimer.
 
-**[02:01:38 - 02:01:39] _redsun**
-...a...
-
-**[02:01:39 - 02:01:42] pollux8888**
-Ça...
-
 **[02:01:40 - 02:01:41] _redsun**
 Ah, c'est parce que...
 
 **[02:01:41 - 02:01:42] _redsun**
 Ah, ou tu peux les tâcher, hein?
-
-**[02:01:42 - 02:01:44] pollux8888**
-Non, mais...
 
 **[02:01:42 - 02:01:45] _redsun**
 Je veux dire, tu peux les tâcher?
@@ -5985,41 +5430,20 @@ Non, non, il va pas du tout à quoi c'est.
 **[02:02:05 - 02:02:07] pollux8888**
 Je ne même pas s'il va y apprécier.
 
-**[02:02:07 - 02:02:10] pollux8888**
-Non, ça.
-
 **[02:02:10 - 02:02:16] _redsun**
 C'est pas du tout pour lui, ça ne se passe pas ça, mais c'est pour faire de la comse sur les réseaux.
-
-**[02:02:10 - 02:02:16] pollux8888**
-Ouais.
 
 **[02:02:16 - 02:02:19] _redsun**
 C'est la tu vois.
 
-**[02:02:16 - 02:02:17] pollux8888**
-Ouais.
-
-**[02:02:17 - 02:02:20] pollux8888**
-Même.
-
 **[02:02:19 - 02:02:23] _redsun**
 Pour ça, mais c'est vrai que les montes s'est tellement précis.
-
-**[02:02:20 - 02:02:23] pollux8888**
-Ouais.
-
-**[02:02:23 - 02:02:26] pollux8888**
-Oui.
 
 **[02:02:23 - 02:02:26] _redsun**
 Par contre, il y a quelqu'un, ça va faire son visage en 3D pour un cours.
 
 **[02:02:26 - 02:02:29] _redsun**
 Et franchement, ça va super, super bien.
-
-**[02:02:26 - 02:02:39] pollux8888**
-Ouais.
 
 **[02:02:29 - 02:02:34] _redsun**
 C'est une personne, ça va se soit toi-même, ça va une personne connu.
@@ -6029,9 +5453,6 @@ Tu fais tourner en 3D, tu fais un truc sympa.
 
 **[02:02:37 - 02:02:40] _redsun**
 Je ne suis pas en 1000 façons de t'y,
-
-**[02:02:39 - 02:02:40] pollux8888**
-Ouais.
 
 **[02:02:40 - 02:02:43] pollux8888**
 Enchant ce, c'est bien.
@@ -6060,9 +5481,6 @@ tout à l'heure, on te voit avec les clattés pour voir les mouvements.
 **[02:03:05 - 02:03:07] _redsun**
 Il n'a plus tôt tourner, en fait.
 
-**[02:03:05 - 02:03:23] pollux8888**
-Non.
-
 **[02:03:07 - 02:03:09] _redsun**
 Ça va y en dire ça.
 
@@ -6077,9 +5495,6 @@ prendre un petit moment pour le faire et tester encore.
 
 **[02:03:21 - 02:03:22] _redsun**
 Plus en profondeur.
-
-**[02:03:22 - 02:03:33] _redsun**
-Ah, ouais, ouais, ouais, ouais, ouais, ouais, ouais.
 
 **[02:03:23 - 02:03:25] pollux8888**
 En tout, je suis en ça, c'est...
@@ -6117,23 +5532,8 @@ et puis qui s'arrête, pas qui s'arrête, mais...
 **[02:03:53 - 02:03:55] pollux8888**
 Oh, c'est ça.
 
-**[02:03:53 - 02:03:59] _redsun**
-ok ok
-
-**[02:03:55 - 02:04:03] pollux8888**
-Et bon.
-
-**[02:03:59 - 02:04:01] _redsun**
-c'est dé
-
 **[02:04:00 - 02:04:02] pchartois**
 D'aller à la seule de sport, c'est bien.
-
-**[02:04:01 - 02:04:04] _redsun**
-ça se
-
-**[02:04:02 - 02:11:35] pchartois**
-C'est ça.
 
 **[02:04:03 - 02:07:55] pollux8888**
 Enfin, et puis, roi, ce qui font beaucoup de dévergements, puis on se peut pas mal d'outils.
@@ -6158,9 +5558,6 @@ Juste une dernière question...
 
 **[02:04:17 - 02:04:18] _redsun**
 on se remonte
-
-**[02:04:18 - 02:04:21] _redsun**
-voilà
 
 **[02:04:18 - 02:04:20] gilles_35307**
 C'est-à-dire...
@@ -6207,9 +5604,6 @@ Je vais péter 54,
 **[02:04:55 - 02:04:58] _redsun**
 via HOT, connecter,
 
-**[02:04:58 - 02:05:05] gilles_35307**
-Ouais.
-
 **[02:04:58 - 02:05:01] _redsun**
 et tâches, je vais le mettre 4 points.
 
@@ -6227,9 +5621,6 @@ La même place.
 
 **[02:05:09 - 02:05:12] _redsun**
 Si c'est ici, justement, je le fais.
-
-**[02:05:10 - 02:05:23] gilles_35307**
-Oui?
 
 **[02:05:12 - 02:05:15] _redsun**
 J'ai ma 4 O2B et la version 2,
@@ -6251,12 +5642,6 @@ mais sur un mec mini comme le bien qui est dans en train de gaman, ça tourne.
 
 **[02:05:29 - 02:05:37] _redsun**
 En haut, plus les lourdes, plus les balesses, on va dire ça comme ça.
-
-**[02:05:37 - 02:05:38] _redsun**
-Voilà.
-
-**[02:05:38 - 02:05:40] _redsun**
-N'est qu'elle ?
 
 **[02:05:39 - 02:14:51] gilles_35307**
 Ok, on va être simple.
@@ -6312,12 +5697,6 @@ faut me dire, c'est trop compliqué.
 **[02:06:36 - 02:06:38] _redsun**
 J'ai partagé un papier de recherche
 
-**[02:06:38 - 02:06:40] _redsun**
-sur...
-
-**[02:06:40 - 02:06:42] _redsun**
-de chez...
-
 **[02:06:42 - 02:06:53] _redsun**
 Google, vous savez, vous parle de l'innovation technologique et derrière, comment ils appelerent ça, les multitocaine
 
@@ -6350,9 +5729,6 @@ les moyens de faire la compétition contre
 
 **[02:07:23 - 02:07:25] _redsun**
 c'est avec la quoi.
-
-**[02:07:25 - 02:07:26] _redsun**
-Simplement.
 
 **[02:07:26 - 02:07:29] _redsun**
 Alors, moi, oui, qu'est-ce qu'il faut?
@@ -6414,9 +5790,6 @@ J'ai un vrai que j'attends justement le patron d'énVIDIA avec fait une réponde
 **[02:08:29 - 02:08:31] bensmart**
 Si, il y a eu fort, oui.
 
-**[02:08:31 - 02:08:32] bensmart**
-Non.
-
 **[02:08:32 - 02:08:39] pollux8888**
 justement, les assants ou les attaussants ou les aches, puis il y a des bênes-j'embrouilles, donc ils y arrivent.
 
@@ -6437,9 +5810,6 @@ préserver la lancé tecnologique puis que maintenant le retard était très
 
 **[02:09:04 - 02:20:37] nano1992_**
 ça, c'est bon, ça va me dire bien, on va bien, c'est bon, c'est bon, c'est bon, c'est bon !
-
-**[02:09:08 - 02:09:29] _redsun**
-Ah...
 
 **[02:09:11 - 02:09:14] pollux8888**
 les assants, les achessants avec les plus suites oui.
@@ -6476,9 +5846,6 @@ moins de type de contexte et c'est la clé pour faire des modèles justement de 
 
 **[02:10:05 - 02:10:11] _redsun**
 et un game changer. Il faut le comprendre.
-
-**[02:10:11 - 02:10:12] pollux8888**
-Exact.
 
 **[02:10:11 - 02:10:27] _redsun**
 Je sais que par exemple, le d'y psique dans son dernier modèle,
@@ -6524,9 +5891,6 @@ Et à partir de jour là, il y a tout qui change.
 
 **[02:10:53 - 02:11:00] _redsun**
 C'est à plus besoin des mecs qui vont de leur truc, une blinde, et puis des demandes
-
-**[02:11:00 - 02:11:01] _redsun**
-personne.
 
 **[02:11:01 - 02:11:41] _redsun**
 T'es-tu que je me gourme ?
@@ -6603,14 +5967,8 @@ je ne connais même pas, c'est un badein, c'est un badein, mais ils sont fou,
 **[02:12:40 - 02:12:48] bensmart**
 à la haine note pour la haine fois, c'est à notre produit du même groupe TikTok, c'est à
 
-**[02:12:43 - 02:12:51] pollux8888**
-Identet, Identet.
-
 **[02:12:48 - 02:12:54] bensmart**
 des ... comment ça va Biden ? Biden, c'est Biden, c'est encore Biden, c'est un
-
-**[02:12:52 - 02:13:11] pollux8888**
-Oui.
 
 **[02:12:54 - 02:12:57] bensmart**
 grand Biden, ils ont créé un large, c'est ça fait que de 10 ans, c'est dans le
@@ -6629,9 +5987,6 @@ La base en advantage d'avoir la masse critique.
 
 **[02:13:11 - 02:13:20] bensmart**
 Oui, c'est ça.
-
-**[02:13:13 - 02:14:48] pollux8888**
-Donc, non.
 
 **[02:13:18 - 02:13:31] _redsun**
 personne en temps du pain de sa ici, c'est un badein, c'est un badein,
@@ -6665,9 +6020,6 @@ On va tous passer par payer quelque chose.
 
 **[02:13:50 - 02:13:54] bensmart**
 Sinon, tous ces investissements ne se repas.
-
-**[02:13:54 - 02:14:49] bensmart**
-Je t'ai...
 
 **[02:13:57 - 02:13:59] _redsun**
 Les modèles ont déjà là.
@@ -6729,14 +6081,8 @@ Merci, merci Grian.
 **[02:15:05 - 02:15:12] _redsun**
 c'est-à-dire que j'ai des bétés quatre ans, c'est vraiment...
 
-**[02:15:12 - 02:15:13] _redsun**
-C'est vraiment.
-
 **[02:15:13 - 02:15:14] _redsun**
 Qu'est-ce qu'est-ce qu'ils ont fonds ?
-
-**[02:15:14 - 02:15:15] _redsun**
-Alors justement.
 
 **[02:15:15 - 02:15:21] _redsun**
 Parce que commentaire va-être tu sais des plèques ?
@@ -6756,20 +6102,11 @@ Il y a de quoi ?
 **[02:15:27 - 02:15:31] _redsun**
 Le David, en fait, c'est vraiment bon modèle de l'obvence, c'est peut-être
 
-**[02:15:31 - 02:15:33] _redsun**
-pas ça.
-
 **[02:15:33 - 02:15:42] _redsun**
 Mais voilà donc, et puis on plus, ouais mais moi je... je... je... tu sais pas,
 
 **[02:15:37 - 02:15:38] pollux8888**
 Donc, ça que...
-
-**[02:15:38 - 02:15:40] pollux8888**
-Orpash.
-
-**[02:15:40 - 02:15:41] pollux8888**
-Orpash.
 
 **[02:15:41 - 02:16:18] pollux8888**
 Il y a une question de taura pour pour le Huawei.
@@ -6795,14 +6132,8 @@ Je ne sais pas, c'est dans ce vieux.
 **[02:16:13 - 02:16:14] pchartois**
 C'est une bonne chose.
 
-**[02:16:14 - 02:20:31] pchartois**
-D'accord.
-
 **[02:16:18 - 02:16:20] pollux8888**
 Justement, c'est l'idée.
-
-**[02:16:20 - 02:16:21] pollux8888**
-Plus,
 
 **[02:16:22 - 02:16:24] pollux8888**
 comment il s'appelle Ascent AI.
@@ -6831,9 +6162,6 @@ il me semble peut-être
 **[02:16:37 - 02:16:39] pollux8888**
 à peu préser au 10 sous 0,
 
-**[02:16:39 - 02:16:42] pollux8888**
-au 10 sous 0,15 $
-
 **[02:16:42 - 02:16:43] pollux8888**
 par millions de tokens.
 
@@ -6855,20 +6183,11 @@ Tu compresse pour un certain tension.
 **[02:17:03 - 02:17:06] pollux8888**
 A certain et...
 
-**[02:17:06 - 02:17:07] pollux8888**
-Non.
-
 **[02:17:07 - 02:17:09] pollux8888**
 Alors, je crois que...
 
 **[02:17:09 - 02:17:11] pollux8888**
 Oui, parce que ils ont deux instants.
-
-**[02:17:11 - 02:17:12] pollux8888**
-Non.
-
-**[02:17:12 - 02:17:13] pollux8888**
-Non.
 
 **[02:17:13 - 02:17:14] pollux8888**
 On a eu un certain, on a eu un certain.
@@ -6918,14 +6237,8 @@ et une instance pour le marché chinois.
 **[02:17:51 - 02:17:52] pollux8888**
 Et puis l'accès.
 
-**[02:17:51 - 02:17:52] _redsun**
-On l'utilise.
-
 **[02:17:52 - 02:17:53] _redsun**
 Tu as utilisé ça?
-
-**[02:17:53 - 02:18:03] _redsun**
-Ah, ok.
 
 **[02:17:54 - 02:17:56] pollux8888**
 Oui, en fait, ma boîte, moi, à boite,
@@ -6938,9 +6251,6 @@ mais nous on fait la manalise des sentiments en émergées pour s'y ait.
 
 **[02:18:03 - 02:18:07] pollux8888**
 Et on a une partie qui est bergée chez Google.
-
-**[02:18:03 - 02:18:20] _redsun**
-Ok.
 
 **[02:18:07 - 02:18:09] pollux8888**
 On a été avant en été chez AdobeVS,
@@ -6960,12 +6270,6 @@ Ok, donc ils ont bon là-bas.
 **[02:18:22 - 02:18:23] _redsun**
 On y a du stock.
 
-**[02:18:23 - 02:18:24] _redsun**
-Ok.
-
-**[02:18:24 - 02:18:27] _redsun**
-Ok.
-
 **[02:18:27 - 02:18:43] _redsun**
 On va avec, c'est très renchaupé, je suis absorbent maximum, mais on a vu ça un peu
 
@@ -6981,9 +6285,6 @@ la clé tout à un cesteur là.
 **[02:18:46 - 02:18:50] _redsun**
 On va après, il faut entraîner des modèles, enfin, ça me peut le mouquer.
 
-**[02:18:50 - 02:19:14] pollux8888**
-Oui.
-
 **[02:18:50 - 02:18:57] _redsun**
 Mais ça va jouer là-dessus, quoi, celui qui aura les meilleures plus.
 
@@ -6992,9 +6293,6 @@ Mais est-ce que ça met la puissance bruit ? Je ne pense pas ça, ça, moi je pe
 
 **[02:19:09 - 02:19:31] _redsun**
 je pense qu'on peut beaucoup optimiser encore les modèles, là, ça, on va voir avec peut-être tant, franchement, je ne trouve pas d'article, trop de patie, ça peut-être, là, ça ne peut pas.
-
-**[02:19:14 - 02:20:28] pollux8888**
-Ça m'a.
 
 **[02:19:31 - 02:19:38] _redsun**
 Ok, bon les 22 heures, je propose pour en arrêter.
@@ -7041,29 +6339,14 @@ bonsoir et à tous et bien.
 **[02:20:27 - 02:20:28] gilles_35307**
 C'est un mec.
 
-**[02:20:28 - 02:20:29] pollux8888**
-Merci beaucoup.
-
 **[02:20:28 - 02:20:33] gilles_35307**
 Merci beaucoup à un remboursalé.
 
 **[02:20:29 - 02:20:31] pollux8888**
 Merci tout le monde.
 
-**[02:20:31 - 02:20:33] pollux8888**
-Merci, Cyril.
-
-**[02:20:33 - 02:20:34] pollux8888**
-Bonsoir.
-
 **[02:20:33 - 02:20:39] gilles_35307**
 C'est un réuble.
 
-**[02:20:33 - 02:20:34] bensmart**
-Bon t'arrêt.
-
 **[02:20:34 - 02:20:38] _redsun**
 Ciao, ciao, ciao, ciao à tous.
-
-**[02:20:34 - 02:20:35] bensmart**
-Toujours.
