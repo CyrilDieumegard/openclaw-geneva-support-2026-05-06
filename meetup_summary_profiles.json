@@ -1,8 +1,8 @@
 {
   "participants": [
     {
-      "speaker": "_redsun",
-      "displayName": "Cyril Dieumegard",
+      "speaker": "Cyril",
+      "displayName": "Cyril",
       "profileSummary": "Organisateur d’OpenClaw Geneva. Développe LocalClaw avec OpenClaw et anime la communauté autour des usages IA, agents et modèles.",
       "activities": [
         "Organisation du meetup OpenClaw Geneva",
@@ -21,7 +21,7 @@
       "firstSessionAttendee": true
     },
     {
-      "speaker": "nano1992_",
+      "speaker": "Arnaud",
       "displayName": "Arnaud",
       "profileSummary": "Ancien chef de projet industriel, indépendant depuis le début de l’année. Aide les PME à optimiser leurs processus avec automatisations et développements sur mesure.",
       "activities": [
@@ -249,41 +249,29 @@
     }
   ],
   "meetupSummary": {
-    "title": "OpenClaw Geneva Meetup — modèles, agents, IA locale et automatisations business",
+    "title": "OpenClaw Geneva Meetup Session 2 (6 mai)",
     "bullets": [
-      "Tour de table des participants, leurs activités, outils IA et attentes.",
-      "Discussion sur OpenClaw, Claude Code, OpenCode, Hermès, agents, skills, mémoire et crons.",
-      "Comparaison des modèles et coûts: GPT-5.5, Claude/Opus, Gemini, Qwen, Minimax, Kimi, DeepSeek, OpenRouter.",
-      "Focus sur l’IA locale: Mac mini/Mac Studio, RAM, LM Studio, confidentialité et usages PME sensibles.",
-      "Démo d’Arnaud: workflow prospect LinkedIn → PDF profil → scraping site → script d’appel → CRM NoCoDB → calendrier/e-mail → résumé post-call.",
-      "Débat sur l’adoption IA dans les PME suisses: fort potentiel, manque de process, frein humain et besoin d’éducation du marché."
+      "Format discussion ouverte sur use cases, blocages et idées actionnables.",
+      "Focus Gemma 4 sur Mac mini: ratio qualité/vitesse pour usage local quotidien.",
+      "Débat coûts IA: input/output tokens, coût réel des agents multi-appels.",
+      "Local vs cloud: confidentialité, autonomie, limites hardware et UX.",
+      "Replay transcript session 2 avec profils participants consolidés."
     ],
     "keyTopics": [
+      "Gemma 4",
+      "Mac mini",
       "OpenClaw",
+      "coût tokens",
       "agents IA",
-      "Claude Code",
-      "skills",
-      "crons",
-      "mémoire",
-      "LLM locaux",
-      "coût des tokens",
-      "OpenRouter",
-      "Minimax",
-      "Kimi",
-      "DeepSeek",
-      "NoCoDB",
-      "Obsidian",
-      "prospection",
-      "PME suisses",
-      "confidentialité",
-      "automatisation réseaux sociaux"
+      "local vs cloud",
+      "privacy",
+      "vitesse",
+      "use cases PME"
     ],
     "followUps": [
-      "Tester Minimax/DeepSeek/Kimi pour des tâches simples à meilleur coût.",
-      "Explorer l’installation locale d’outils comme Obsidian, NoCoDB et n8n avec OpenClaw.",
-      "Mettre à jour OpenClaw pour tester la nouvelle fonction d’appel évoquée.",
-      "Organiser la suite du meetup la semaine prochaine.",
-      "Documenter les profils participants pour faciliter les mises en relation."
+      "Uniformiser les noms participants sur les prochains replays.",
+      "Ajouter les nouveaux profils manquants dès fin de session.",
+      "Préparer la prochaine démo live orientée cas concret."
     ]
   }
 }
