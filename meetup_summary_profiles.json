@@ -113,15 +113,24 @@
     {
       "speaker": "pollux",
       "displayName": "Paul Wang",
-      "profileSummary": "Nouveau participant du meetup #2. Profil cybersécurité, data privacy, forensic/investigation et forte culture tech. Intéressé par OpenClaw mais attentif aux risques sécurité et données personnelles.",
+      "profileSummary": "Ingénieur EPFL en informatique, ancien développeur chez Silicon Graphics, puis plus de vingt ans dans le conseil/Big Four. Ancien associé EY responsable fraude & investigation: malversation, blanchiment, faux et usage de faux. Intervient encore comme expert mandaté par le ministère public, des études d’avocats et des tribunaux. A aussi créé une société d’analyse du sentiment des marchés boursiers via AI/ML et données alternatives. Très orienté cybersécurité, data privacy, forensic, darknet et outils adversariaux.",
       "activities": [
-        "Cybersécurité / data privacy",
-        "Forensic / investigation",
-        "AI / ML appliqué à des données alternatives",
+        "Ingénierie informatique EPFL",
+        "Développement chez Silicon Graphics",
+        "Conseil Big Four / EY",
+        "Fraude & investigation",
+        "Expertises judiciaires / forensic",
+        "Cybersécurité, data privacy, darknet",
+        "AI/ML sur données alternatives et sentiment de marché",
         "Présent à la session du 6 mai"
       ],
-      "lookingFor": "Tester OpenClaw dans un environnement propre sans exposer de données personnelles.",
-      "firstSessionAttendee": false
+      "lookingFor": "Tester OpenClaw dans un environnement propre, sans exposer de données personnelles, et comprendre les risques sécurité/privacy avant une installation réelle.",
+      "firstSessionAttendee": false,
+      "aiTools": [
+        "OpenClaw",
+        "AI/ML",
+        "outils forensic/investigation"
+      ]
     },
     {
       "speaker": "suisse_crypto",
