@@ -3,7 +3,7 @@
     {
       "speaker": "Cyril",
       "displayName": "Cyril",
-      "profileSummary": "Organisateur d’OpenClaw Geneva. Développe LocalClaw avec OpenClaw et anime la communauté autour des usages IA, agents et modèles.",
+      "profileSummary": "Organisateur d’OpenClaw Geneva. Anime la communauté autour des usages IA, agents, modèles locaux et automatisations concrètes.",
       "activities": [
         "Organisation du meetup OpenClaw Geneva",
         "Développement de LocalClaw",
@@ -249,29 +249,31 @@
     }
   ],
   "meetupSummary": {
-    "title": "OpenClaw Geneva Meetup Session 2 (6 mai)",
+    "title": "OpenClaw Geneva Meetup #2 — Gemma 4, IA locale et usages concrets",
     "bullets": [
-      "Format discussion ouverte sur use cases, blocages et idées actionnables.",
-      "Focus Gemma 4 sur Mac mini: ratio qualité/vitesse pour usage local quotidien.",
-      "Débat coûts IA: input/output tokens, coût réel des agents multi-appels.",
-      "Local vs cloud: confidentialité, autonomie, limites hardware et UX.",
-      "Replay transcript session 2 avec profils participants consolidés."
+      "Session 2 centrée sur une discussion ouverte: use cases récents, blocages et idées actionnables.",
+      "Focus Gemma 4 sur Mac mini pour tester un modèle local utile au quotidien.",
+      "Discussion sur les coûts réels des agents IA: input tokens, output tokens et appels multiples.",
+      "Échange local vs cloud: confidentialité, vitesse, coûts, autonomie et limites hardware/UX.",
+      "Transcript session 2 disponible avec profils participants consolidés des meetups 1 et 2."
     ],
     "keyTopics": [
       "Gemma 4",
       "Mac mini",
       "OpenClaw",
-      "coût tokens",
+      "IA locale",
       "agents IA",
-      "local vs cloud",
+      "coût des tokens",
       "privacy",
       "vitesse",
-      "use cases PME"
+      "cloud vs local",
+      "PME",
+      "automatisation"
     ],
     "followUps": [
-      "Uniformiser les noms participants sur les prochains replays.",
-      "Ajouter les nouveaux profils manquants dès fin de session.",
-      "Préparer la prochaine démo live orientée cas concret."
+      "Compléter les profils des nouveaux participants du meetup #2.",
+      "Préparer une démo courte orientée cas concret pour le prochain meetup.",
+      "Continuer à documenter les participants sans doublons ni alias visibles."
     ]
   }
 }
