@@ -111,13 +111,16 @@
       "firstSessionAttendee": true
     },
     {
-      "speaker": "Paul Wang",
+      "speaker": "pollux",
       "displayName": "Paul Wang",
-      "profileSummary": "Nouveau participant session 2 (profil à compléter).",
+      "profileSummary": "Nouveau participant du meetup #2. Profil cybersécurité, data privacy, forensic/investigation et forte culture tech. Intéressé par OpenClaw mais attentif aux risques sécurité et données personnelles.",
       "activities": [
+        "Cybersécurité / data privacy",
+        "Forensic / investigation",
+        "AI / ML appliqué à des données alternatives",
         "Présent à la session du 6 mai"
       ],
-      "lookingFor": "À compléter",
+      "lookingFor": "Tester OpenClaw dans un environnement propre sans exposer de données personnelles.",
       "firstSessionAttendee": false
     },
     {
