@@ -7,7 +7,8 @@
       "activities": [
         "Organisation du meetup OpenClaw Geneva",
         "Développement de LocalClaw",
-        "Création d’un support/site de présentation avec OpenClaw"
+        "Création d’un support/site de présentation avec OpenClaw",
+        "Présent à la session du 6 mai"
       ],
       "aiTools": [
         "OpenClaw",
@@ -20,8 +21,37 @@
       "firstSessionAttendee": true
     },
     {
+      "speaker": "nano1992_",
+      "displayName": "Arnaud",
+      "profileSummary": "Ancien chef de projet industriel, indépendant depuis le début de l’année. Aide les PME à optimiser leurs processus avec automatisations et développements sur mesure.",
+      "activities": [
+        "Automatisation de process PME",
+        "Développement sur mesure",
+        "Prospection LinkedIn",
+        "CRM",
+        "Préparation d’appels découverte",
+        "Présent à la session du 6 mai"
+      ],
+      "aiTools": [
+        "Claude Code",
+        "Obsidian",
+        "OpenClaw",
+        "OpenCode",
+        "NoCoDB",
+        "Firecrawl",
+        "Granola",
+        "Google Contacts",
+        "Google Agenda",
+        "Docker",
+        "VPS",
+        "GitHub"
+      ],
+      "lookingFor": "Réseauter, explorer des cas d’usage et rencontrer des personnes autour des agents IA.",
+      "firstSessionAttendee": true
+    },
+    {
       "speaker": "bensmart",
-      "displayName": "Ben",
+      "displayName": "Ben Smart",
       "profileSummary": "Utilise OpenClaw pour automatiser la création et la gestion de contenu sur les réseaux sociaux. Intéressé par les modèles efficaces en coût/performance.",
       "activities": [
         "Automatisation de contenus Twitter/YouTube/réseaux sociaux",
@@ -41,6 +71,76 @@
       "firstSessionAttendee": true
     },
     {
+      "speaker": "gilles_35307",
+      "displayName": "Gilles",
+      "profileSummary": "Consultant en gouvernance auprès de PME suisses. Non développeur mais très curieux, il voit les agents IA comme un levier majeur pour les entreprises.",
+      "activities": [
+        "Conseil en gouvernance",
+        "Accompagnement de PME",
+        "Réorganisation",
+        "Recherche juridique et business avec IA",
+        "Présent à la session du 6 mai"
+      ],
+      "aiTools": [
+        "OpenClaw",
+        "Claude Opus 4.7",
+        "Perplexity",
+        "Gemini",
+        "OpenRouter"
+      ],
+      "lookingFor": "Mieux comprendre les usages concrets d’OpenClaw, les automatisations, les crons, les agents et les cas business PME.",
+      "firstSessionAttendee": true
+    },
+    {
+      "speaker": "pchartois",
+      "displayName": "Philippe",
+      "profileSummary": "Profil produit, basé entre Genève et la France. Organise Generative AI Genève et fait beaucoup d’idéation/prototypage en vibe coding.",
+      "activities": [
+        "Organisation de Generative AI Genève",
+        "Idéation produit",
+        "Prototypage",
+        "Vibe coding"
+      ],
+      "aiTools": [
+        "Bolt",
+        "Claude",
+        "OpenAI",
+        "OpenClaw"
+      ],
+      "lookingFor": "Se connecter à une équipe, échanger avec des cerveaux, comprendre OpenClaw et Agent/Hermès.",
+      "firstSessionAttendee": true
+    },
+    {
+      "speaker": "pollux8888",
+      "displayName": "Paul Wang",
+      "profileSummary": "Nouveau participant session 2 (profil à compléter).",
+      "activities": [
+        "Présent à la session du 6 mai"
+      ],
+      "lookingFor": "À compléter",
+      "firstSessionAttendee": false
+    },
+    {
+      "speaker": "suisse_crypto",
+      "displayName": "Suisse Crypto",
+      "profileSummary": "Participant session 2.",
+      "activities": [
+        "Présent à la session du 6 mai"
+      ],
+      "lookingFor": "À compléter",
+      "firstSessionAttendee": false
+    },
+    {
+      "speaker": "faly",
+      "displayName": "Faly",
+      "profileSummary": "Nouveau participant session 2 (profil à compléter).",
+      "activities": [
+        "Présent à la session du 6 mai"
+      ],
+      "lookingFor": "À compléter",
+      "firstSessionAttendee": false
+    },
+    {
       "speaker": "bourrat",
       "displayName": "",
       "profileSummary": "Ancien petit entrepreneur dans la sécurité, alarmes et caméras. Découvre l’IA pour ne pas manquer le virage technologique.",
@@ -55,43 +155,21 @@
       "firstSessionAttendee": true
     },
     {
-      "speaker": "gilles_35307",
-      "displayName": "Gilles",
-      "profileSummary": "Consultant en gouvernance auprès de PME suisses. Non développeur mais très curieux, il voit les agents IA comme un levier majeur pour les entreprises.",
+      "speaker": "hebrius",
+      "displayName": "",
+      "profileSummary": "Développe un nouveau studio nommé Vidya, orienté vidéos et images générées par IA, avec possibilité de vidéo traditionnelle.",
       "activities": [
-        "Conseil en gouvernance",
-        "Accompagnement de PME",
-        "Réorganisation",
-        "Recherche juridique et business avec IA"
+        "Développement du studio Vidya",
+        "Création de vidéos",
+        "Création d’images IA",
+        "Étude de marché sur la vidéo IA"
       ],
       "aiTools": [
-        "OpenClaw",
-        "Claude Opus 4.7",
-        "Perplexity",
-        "Gemini",
-        "OpenRouter"
+        "Mac mini",
+        "MacBook Pro",
+        "Claude"
       ],
-      "lookingFor": "Mieux comprendre les usages concrets d’OpenClaw, les automatisations, les crons, les agents et les cas business PME.",
-      "firstSessionAttendee": true
-    },
-    {
-      "speaker": "mysterious_moose_86844",
-      "displayName": "Jean-David",
-      "profileSummary": "Profil senior, junior sur la technologie. A installé OpenClaw sur VPS Hostinger et teste des agents simples, mais rencontre une forte consommation de tokens.",
-      "activities": [
-        "Tests d’agents",
-        "Envoi d’e-mails via agent",
-        "Modélisation de teams d’agents"
-      ],
-      "aiTools": [
-        "OpenClaw",
-        "Hostinger VPS",
-        "OpenAI",
-        "ChatGPT-5.5",
-        "ChatGPT-5.4 mini",
-        "Mission Control"
-      ],
-      "lookingFor": "Comprendre la technologie, optimiser la consommation de tokens et voir des cas d’usage réels.",
+      "lookingFor": "Explorer la vidéo/image IA, le matériel local et la possibilité de faire tourner des modèles localement.",
       "firstSessionAttendee": true
     },
     {
@@ -115,50 +193,40 @@
       "firstSessionAttendee": true
     },
     {
-      "speaker": "nano1992_",
-      "displayName": "Arnaud",
-      "profileSummary": "Ancien chef de projet industriel, indépendant depuis le début de l’année. Aide les PME à optimiser leurs processus avec automatisations et développements sur mesure.",
+      "speaker": "lelio1213",
+      "displayName": "Damien",
+      "profileSummary": "Principalement actif dans la crypto et plusieurs projets en parallèle. Utilise un Mac mini pour du vibe coding.",
       "activities": [
-        "Automatisation de process PME",
-        "Développement sur mesure",
-        "Prospection LinkedIn",
-        "CRM",
-        "Préparation d’appels découverte"
+        "Crypto",
+        "Vibe coding",
+        "Projets multiples"
       ],
       "aiTools": [
-        "Claude Code",
-        "Obsidian",
-        "OpenClaw",
-        "OpenCode",
-        "NoCoDB",
-        "Firecrawl",
-        "Granola",
-        "Google Contacts",
-        "Google Agenda",
-        "Docker",
-        "VPS",
-        "GitHub"
+        "Mac mini",
+        "GPT",
+        "GPT-5.5 en Codex"
       ],
-      "lookingFor": "Réseauter, explorer des cas d’usage et rencontrer des personnes autour des agents IA.",
+      "lookingFor": "Partager avec la communauté.",
       "firstSessionAttendee": true
     },
     {
-      "speaker": "pchartois",
-      "displayName": "Philippe",
-      "profileSummary": "Profil produit, basé entre Genève et la France. Organise Generative AI Genève et fait beaucoup d’idéation/prototypage en vibe coding.",
+      "speaker": "mysterious_moose_86844",
+      "displayName": "Jean-David",
+      "profileSummary": "Profil senior, junior sur la technologie. A installé OpenClaw sur VPS Hostinger et teste des agents simples, mais rencontre une forte consommation de tokens.",
       "activities": [
-        "Organisation de Generative AI Genève",
-        "Idéation produit",
-        "Prototypage",
-        "Vibe coding"
+        "Tests d’agents",
+        "Envoi d’e-mails via agent",
+        "Modélisation de teams d’agents"
       ],
       "aiTools": [
-        "Bolt",
-        "Claude",
+        "OpenClaw",
+        "Hostinger VPS",
         "OpenAI",
-        "OpenClaw"
+        "ChatGPT-5.5",
+        "ChatGPT-5.4 mini",
+        "Mission Control"
       ],
-      "lookingFor": "Se connecter à une équipe, échanger avec des cerveaux, comprendre OpenClaw et Agent/Hermès.",
+      "lookingFor": "Comprendre la technologie, optimiser la consommation de tokens et voir des cas d’usage réels.",
       "firstSessionAttendee": true
     },
     {
@@ -178,91 +246,6 @@
       ],
       "lookingFor": "Apprendre, discuter technologies, sécurité et modèles locaux.",
       "firstSessionAttendee": true
-    },
-    {
-      "speaker": "lelio1213",
-      "displayName": "Damien",
-      "profileSummary": "Principalement actif dans la crypto et plusieurs projets en parallèle. Utilise un Mac mini pour du vibe coding.",
-      "activities": [
-        "Crypto",
-        "Vibe coding",
-        "Projets multiples"
-      ],
-      "aiTools": [
-        "Mac mini",
-        "GPT",
-        "GPT-5.5 en Codex"
-      ],
-      "lookingFor": "Partager avec la communauté.",
-      "firstSessionAttendee": true
-    },
-    {
-      "speaker": "hebrius",
-      "displayName": "",
-      "profileSummary": "Développe un nouveau studio nommé Vidya, orienté vidéos et images générées par IA, avec possibilité de vidéo traditionnelle.",
-      "activities": [
-        "Développement du studio Vidya",
-        "Création de vidéos",
-        "Création d’images IA",
-        "Étude de marché sur la vidéo IA"
-      ],
-      "aiTools": [
-        "Mac mini",
-        "MacBook Pro",
-        "Claude"
-      ],
-      "lookingFor": "Explorer la vidéo/image IA, le matériel local et la possibilité de faire tourner des modèles localement.",
-      "firstSessionAttendee": true
-    },
-    {
-      "speaker": "redsun",
-      "displayName": "redsun",
-      "profileSummary": "Nouveau participant session 2 (profil à compléter).",
-      "activities": [
-        "Présent à la session du 6 mai"
-      ],
-      "lookingFor": "À compléter",
-      "firstSessionAttendee": false
-    },
-    {
-      "speaker": "nano1992",
-      "displayName": "nano1992",
-      "profileSummary": "Nouveau participant session 2 (profil à compléter).",
-      "activities": [
-        "Présent à la session du 6 mai"
-      ],
-      "lookingFor": "À compléter",
-      "firstSessionAttendee": false
-    },
-    {
-      "speaker": "pollux8888",
-      "displayName": "pollux8888",
-      "profileSummary": "Nouveau participant session 2 (profil à compléter).",
-      "activities": [
-        "Présent à la session du 6 mai"
-      ],
-      "lookingFor": "À compléter",
-      "firstSessionAttendee": false
-    },
-    {
-      "speaker": "gilles 35307",
-      "displayName": "gilles 35307",
-      "profileSummary": "Nouveau participant session 2 (profil à compléter).",
-      "activities": [
-        "Présent à la session du 6 mai"
-      ],
-      "lookingFor": "À compléter",
-      "firstSessionAttendee": false
-    },
-    {
-      "speaker": "faly",
-      "displayName": "faly",
-      "profileSummary": "Nouveau participant session 2 (profil à compléter).",
-      "activities": [
-        "Présent à la session du 6 mai"
-      ],
-      "lookingFor": "À compléter",
-      "firstSessionAttendee": false
     }
   ],
   "meetupSummary": {
