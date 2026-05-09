@@ -133,14 +133,25 @@
       ]
     },
     {
-      "speaker": "suisse_crypto",
-      "displayName": "Suisse Crypto",
-      "profileSummary": "Participant session 2.",
+      "speaker": "lelio1213",
+      "displayName": "Suisse Crypto / Damien",
+      "profileSummary": "Principalement actif dans la crypto, avec plusieurs projets en parallèle. Utilise un Mac mini pour du vibe coding et travaille avec GPT/Codex, notamment GPT-5.5. Très attentif aux coûts d’abonnement et à l’usage intensif des modèles pour builder.",
       "activities": [
-        "Présent à la session du 6 mai"
+        "Crypto",
+        "Vibe coding",
+        "Projets multiples",
+        "Build avec Mac mini",
+        "Tests GPT/Codex",
+        "Présent aux meetups OpenClaw Geneva"
       ],
-      "lookingFor": "À compléter",
-      "firstSessionAttendee": false
+      "aiTools": [
+        "Mac mini",
+        "GPT",
+        "GPT-5.5 en Codex",
+        "OpenClaw"
+      ],
+      "lookingFor": "Partager avec la communauté, tester des usages IA concrets et avancer sur ses projets crypto/vibe coding.",
+      "firstSessionAttendee": true
     },
     {
       "speaker": "faly",
@@ -202,23 +213,6 @@
         "Claude"
       ],
       "lookingFor": "Communauté, idées business, automatisation de contenus et de pages de vente.",
-      "firstSessionAttendee": true
-    },
-    {
-      "speaker": "lelio1213",
-      "displayName": "Damien",
-      "profileSummary": "Principalement actif dans la crypto et plusieurs projets en parallèle. Utilise un Mac mini pour du vibe coding.",
-      "activities": [
-        "Crypto",
-        "Vibe coding",
-        "Projets multiples"
-      ],
-      "aiTools": [
-        "Mac mini",
-        "GPT",
-        "GPT-5.5 en Codex"
-      ],
-      "lookingFor": "Partager avec la communauté.",
       "firstSessionAttendee": true
     },
     {
@@ -339,7 +333,7 @@
       "automatisation"
     ],
     "followUps": [
-      "Compléter les profils des nouveaux participants du meetup #2: Alphie, Riennes/Rien, Alfonso, Ariane, Faly, Paul Wang, Suisse Crypto.",
+      "Compléter les profils des nouveaux participants du meetup #2: Alphie, Riennes/Rien, Alfonso, Ariane, Faly, Paul Wang.",
       "Garder la distinction: participants confirmés par prise de parole vs participants mentionnés/présents dans le chat.",
       "Préparer une démo courte orientée cas concret pour le prochain meetup."
     ]
