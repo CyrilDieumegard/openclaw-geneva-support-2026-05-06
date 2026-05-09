@@ -290,7 +290,7 @@
       const box=document.getElementById('transcriptBox');
       if(!box) return;
       try{
-        const res=await fetch('speaker_transcript_session2.md');
+        const res=await fetch('speaker_transcript_session2.md?v=20260509-fix4');
         const text=await res.text();
         const lines=text.split(/\n/);
         const cues=[];
@@ -317,7 +317,7 @@
     let meetupData=null;
     async function loadMeetupData(){
       try{
-        const res=await fetch('meetup_summary_profiles.json?v=20260509-fix3');
+        const res=await fetch('meetup_summary_profiles.json?v=20260509-fix4');
         meetupData=await res.json();
         showReplayTab('people');
       }catch(e){const el=document.getElementById('replaySide'); if(el) el.innerHTML='<p>Impossible de charger les profils.</p>';}
