@@ -156,12 +156,22 @@
     {
       "speaker": "faly",
       "displayName": "Faly",
-      "profileSummary": "Nouveau participant session 2 (profil à compléter).",
+      "profileSummary": "Actif dans le domaine associatif et culturel. Utilise déjà plusieurs outils IA et s’intéresse à OpenClaw ainsi qu’aux setups locaux sur Mac mini.",
       "activities": [
+        "Association culturelle",
+        "Usage IA au quotidien",
+        "Découverte OpenClaw",
+        "Commande / test Mac mini",
         "Présent à la session du 6 mai"
       ],
-      "lookingFor": "À compléter",
-      "firstSessionAttendee": false
+      "lookingFor": "Comprendre les usages concrets d’OpenClaw et des modèles locaux pour ses projets associatifs/culturels.",
+      "firstSessionAttendee": false,
+      "aiTools": [
+        "NotebookLM",
+        "Perplexity",
+        "OpenClaw",
+        "Mac mini"
+      ]
     },
     {
       "speaker": "bourrat",
@@ -256,11 +266,11 @@
     {
       "speaker": "Alphie",
       "displayName": "Alphie",
-      "profileSummary": "Participant présent au début du meetup #2, salué dans le transcript. Profil à compléter.",
+      "profileSummary": "Participant présent au début du meetup #2, salué dans le transcript.",
       "activities": [
         "Présent à la session du 6 mai"
       ],
-      "lookingFor": "À compléter",
+      "lookingFor": "Participer aux échanges OpenClaw Geneva.",
       "firstSessionAttendee": false
     },
     {
@@ -292,13 +302,13 @@
       "aiTools": [
         "OpenClaw"
       ],
-      "lookingFor": "Comprendre OpenClaw et ses usages concrets.",
+      "lookingFor": "Découvrir OpenClaw et comprendre les usages possibles sur PC.",
       "firstSessionAttendee": false
     },
     {
       "speaker": "Ariane",
       "displayName": "Ariane",
-      "profileSummary": "Participant mentionné dans le meetup #2 comme ayant testé Gemma 4. Profil à compléter.",
+      "profileSummary": "Participant mentionné dans le meetup #2 comme ayant testé Gemma 4.",
       "activities": [
         "Test de Gemma 4",
         "Présent à la session du 6 mai"
@@ -306,7 +316,7 @@
       "aiTools": [
         "Gemma 4"
       ],
-      "lookingFor": "À compléter",
+      "lookingFor": "Explorer Gemma 4 et les usages locaux.",
       "firstSessionAttendee": false
     }
   ],
@@ -333,9 +343,9 @@
       "automatisation"
     ],
     "followUps": [
-      "Compléter les profils des nouveaux participants du meetup #2: Alphie, Riennes/Rien, Alfonso, Ariane, Faly, Paul Wang.",
-      "Garder la distinction: participants confirmés par prise de parole vs participants mentionnés/présents dans le chat.",
-      "Préparer une démo courte orientée cas concret pour le prochain meetup."
+      "Conserver cette base participants pour faciliter les mises en relation entre meetups.",
+      "Préparer une prochaine démo courte orientée cas concret.",
+      "Continuer à distinguer les participants confirmés par prise de parole et les participants présents/mentionnés dans le chat."
     ]
   }
 }
