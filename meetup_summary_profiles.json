@@ -142,7 +142,7 @@
     },
     {
       "speaker": "bourrat",
-      "displayName": "",
+      "displayName": "Bourrat",
       "profileSummary": "Ancien petit entrepreneur dans la sécurité, alarmes et caméras. Découvre l’IA pour ne pas manquer le virage technologique.",
       "activities": [
         "Entrepreneuriat",
@@ -156,8 +156,8 @@
     },
     {
       "speaker": "hebrius",
-      "displayName": "",
-      "profileSummary": "Développe un nouveau studio nommé Vidya, orienté vidéos et images générées par IA, avec possibilité de vidéo traditionnelle.",
+      "displayName": "Cébius / Hebrius",
+      "profileSummary": "Créateur orienté vidéo/images IA, mentionné comme profil pertinent pour la création vidéo avec OpenClaw.",
       "activities": [
         "Développement du studio Vidya",
         "Création de vidéos",
@@ -246,6 +246,62 @@
       ],
       "lookingFor": "Apprendre, discuter technologies, sécurité et modèles locaux.",
       "firstSessionAttendee": true
+    },
+    {
+      "speaker": "Alphie",
+      "displayName": "Alphie",
+      "profileSummary": "Participant présent au début du meetup #2, salué dans le transcript. Profil à compléter.",
+      "activities": [
+        "Présent à la session du 6 mai"
+      ],
+      "lookingFor": "À compléter",
+      "firstSessionAttendee": false
+    },
+    {
+      "speaker": "Riennes",
+      "displayName": "Riennes / Rien",
+      "profileSummary": "Nouveau participant du meetup #2. En reconversion vers le développement depuis plus de deux ans en autodidacte, récemment à l’école 42 de Lausanne.",
+      "activities": [
+        "Reconversion dev",
+        "École 42 Lausanne",
+        "Tests LLM / OpenCode / Gemini CLI"
+      ],
+      "aiTools": [
+        "OpenCode",
+        "Gemini CLI",
+        "OpenRouter",
+        "LLM locaux"
+      ],
+      "lookingFor": "Tester, apprendre et comprendre les usages IA/dev en respectant la vie privée.",
+      "firstSessionAttendee": false
+    },
+    {
+      "speaker": "Alfonso",
+      "displayName": "Alfonso",
+      "profileSummary": "Nouveau participant du meetup #2. Utilise OpenClaw sur PC et découvre l’outil.",
+      "activities": [
+        "Découverte OpenClaw",
+        "Usage PC"
+      ],
+      "aiTools": [
+        "OpenClaw"
+      ],
+      "lookingFor": "Comprendre OpenClaw et ses usages concrets.",
+      "firstSessionAttendee": false
+    },
+    {
+      "speaker": "Ariane",
+      "displayName": "Ariane",
+      "profileSummary": "Participant mentionné dans le meetup #2 comme ayant testé Gemma 4. Profil à compléter.",
+      "activities": [
+        "Test de Gemma 4",
+        "Présent à la session du 6 mai"
+      ],
+      "aiTools": [
+        "Gemma 4"
+      ],
+      "lookingFor": "À compléter",
+      "firstSessionAttendee": false
     }
   ],
   "meetupSummary": {
@@ -271,9 +327,9 @@
       "automatisation"
     ],
     "followUps": [
-      "Compléter les profils des nouveaux participants du meetup #2.",
-      "Préparer une démo courte orientée cas concret pour le prochain meetup.",
-      "Continuer à documenter les participants sans doublons ni alias visibles."
+      "Compléter les profils des nouveaux participants du meetup #2: Alphie, Riennes/Rien, Alfonso, Ariane, Faly, Paul Wang, Suisse Crypto.",
+      "Garder la distinction: participants confirmés par prise de parole vs participants mentionnés/présents dans le chat.",
+      "Préparer une démo courte orientée cas concret pour le prochain meetup."
     ]
   }
 }
